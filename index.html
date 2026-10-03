@@ -69,7 +69,7 @@ if(day==='recent')$('dsel').value='recent';
 $('stab').textContent='저장함 ('+Object.keys(saved).length+')';
 [].forEach.call(document.querySelectorAll('#tabs button'),function(b){b.setAttribute('aria-selected',b.dataset.c===cat)});
 $('chip').innerHTML=tag?'<span class="chip" data-clear="1">태그: '+esc(tag)+' ✕</span>':'';
-var list;if(cat==='brief'){$('list').innerHTML=briefHTML();return}
+var list;if(cat==='brief'){var bh;try{bh=briefHTML()}catch(e){bh='<div class="item">브리핑 표시 오류: '+esc(e.message)+'</div>'}$('list').innerHTML=bh;return}
 if(cat==='saved')list=Object.keys(saved).map(function(k){return saved[k]});
 else{list=items.filter(function(o){return cat==='all'||o.cats.indexOf(cat)>-1});
 if(tag)list=list.filter(function(o){return o.tags.indexOf(tag)>-1});
@@ -77,9 +77,9 @@ else if(day==='recent')list=list.filter(function(o){return dates.slice(0,3).inde
 else if(day!=='all')list=list.filter(function(o){return o.date===day})}
 if(!list.length){$('list').innerHTML='<div class="item">'+(items.length?'표시할 뉴스가 없습니다.':'아직 수집된 뉴스가 없습니다. GitHub의 Actions 탭에서 Daily news를 한 번 실행해 주세요.')+'</div>';return}
 var h='',last='';list.forEach(function(o){if(cat!=='saved'&&o.date!==last){last=o.date;h+='<h2>'+o.date+'</h2>'}h+=card(o)});$('list').innerHTML=h}
-var brief=[];
+var brief=[],briefErr='';
 function lk(a){return a.map(function(x){return '<a href="'+esc(x.url)+'" target="_blank" rel="noopener">'+esc(x.name)+'</a>'}).join(', ')}
-function briefHTML(){if(!brief.length)return '<div class="item">아직 브리핑이 없습니다. 자동 실행이 끝나면 생성됩니다.</div>';
+function briefHTML(){if(!brief.length)return '<div class="item">'+(briefErr?esc(briefErr):'아직 브리핑이 없습니다. 자동 실행이 끝나면 생성됩니다.')+'</div>';
 var b=brief.filter(function(x){return x.date===day})[0]||brief[0];
 var h='<h2>'+b.date+' 브리핑</h2><div class="lab" style="margin-bottom:10px">'+(b.mode==='ai'?'AI 자동 생성(기사 제목 기반) · 수치와 사실은 원문에서 꼭 확인하세요':'규칙 기반 자동 생성 · 일반적인 해석이며 기사별 분석은 아닙니다')+'</div>';
 b.issues.forEach(function(i){h+='<div class="item'+(i.cat==='sales'?'':' s')+'"><b>'+esc(i.title)+'</b><ul style="margin:6px 0;padding-left:18px"><li><b>무슨 일</b> '+esc(i.what)+'</li><li><b>왜</b> '+esc(i.why)+'</li><li><b>영향</b> '+esc(i.impact)+'</li></ul><div class="row"><span>'+(i.tags||[]).map(function(t){return '<button class="tag" data-tag="'+esc(t)+'">'+esc(t)+'</button>'}).join('')+'</span><span class="lab">출처: '+lk(i.sources||[])+'</span></div></div>'});
@@ -94,9 +94,13 @@ else if(t.dataset.clear){tag=null}
 else if(t.dataset.id){var id=t.dataset.id;if(saved[id])delete saved[id];else{items.concat(Object.keys(saved).map(function(k){return saved[k]})).forEach(function(o){if(o.id===id)saved[id]=o})};persist()}
 else return;render()});
 $('dsel').addEventListener('change',function(){if(cat==='brief'){bi=+this.value}else{day=this.value;tag=null}render()});
-fetch('data/news.json?'+Date.now()).then(function(r){return r.json()}).then(function(d){items=d.items||[];$('upd').textContent=d.updated?'마지막 업데이트: '+d.updated:'';render()}).catch(function(){$('list').innerHTML='<div class="item">데이터를 불러오지 못했습니다. 파일을 그냥 열지 말고 GitHub Pages 주소나 로컬 서버(python -m http.server)로 여세요.</div>'});
-fetch('data/briefing.json?'+Date.now()).then(function(r){return r.json()}).then(function(d){brief=d.days||[];render()}).catch(function(){render()});
-fetch('data/briefing.json?'+Date.now()).then(function(r){return r.json()}).then(function(d){brief=d.days||[];render()}).catch(function(){});
+function showErr(m){$('list').innerHTML='<div class="item">'+esc(m)+'</div>'}
+fetch('data/news.json?'+Date.now()).then(function(r){if(!r.ok)throw new Error('news.json 불러오기 실패 (HTTP '+r.status+'). 사이트 주소 뒤에 /data/news.json 을 붙여 열어 보세요.');return r.json()})
+.then(function(d){items=d.items||[];$('upd').textContent=d.updated?'마지막 업데이트: '+d.updated:'';try{render()}catch(e){showErr('화면 표시 오류: '+e.message)}})
+.catch(function(e){showErr(e instanceof SyntaxError?'news.json 형식 오류: '+e.message:(e.message==='Failed to fetch'?'데이터를 불러오지 못했습니다. 파일을 그냥 열지 말고 GitHub Pages 주소로 여세요.':e.message))});
+fetch('data/briefing.json?'+Date.now()).then(function(r){if(!r.ok)throw new Error('briefing.json 불러오기 실패 (HTTP '+r.status+'). 사이트 주소 뒤에 /data/briefing.json 을 붙여 열어 보세요.');return r.json()})
+.then(function(d){brief=d.days||[];render()})
+.catch(function(e){briefErr=e instanceof SyntaxError?'briefing.json 형식 오류: '+e.message:e.message;try{render()}catch(x){}});
 </script>
 </body>
 </html>
