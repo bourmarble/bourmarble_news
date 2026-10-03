@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03 16:25",
+ "updated": "2026-10-03 16:30",
  "items": [
   {
    "id": "0f485e654a",
@@ -536,6 +536,19 @@
    "tags": []
   },
   {
+   "id": "6cf0d1536f",
+   "date": "2026-10-02",
+   "title": "SCFI 2주 연속 하락..3600선은 유지",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE50aXdaX1ZTc2VlLUFfRUNPMXd4YmdqemRWeHhzZXpOanNoQTQ5NEs3WktpaFlHNzNqSFZuTF9sVHhkRGpPeHpXMWRGbFlVVjdwTkRTTTdSaVRUdUJrSm9zMUk3OGs?oc=5",
+   "source": "포쓰저널",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
    "id": "cdca21fac0",
    "date": "2026-10-01",
    "title": "HMM 수에즈운하 복귀로 중동발 고운임 효과 사라지나, 최원혁 '허브앤스포크' 수익성 전략에 방점",
@@ -767,6 +780,17 @@
     "자동차",
     "관세·통상"
    ]
+  },
+  {
+   "id": "9bdfc2d072",
+   "date": "2026-10-01",
+   "title": "2026년 찾아가는 수출 설명회 in 경주 안내",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yY1NNRlV1c2xoZ2tHSDVpNU1OY3ZleVo1MEZxZDllNm1sQjM1RUQ2RXZTZUJ5aG5wb0pQZ1I1dE5GZmsxVWNPZDVNUm8tdi16aWpYYVV2dUlMenhwQWd1SXktY2U0eGc?oc=5",
+   "source": "영남경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
   }
  ]
 }

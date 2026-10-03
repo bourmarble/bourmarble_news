@@ -1,19 +1,46 @@
 {
- "updated": "2026-10-03 16:25",
+ "updated": "2026-10-03 16:31",
  "days": [
   {
    "date": "2026-10-03",
    "mode": "ai",
    "issues": [
     {
-     "cat": "sales",
-     "title": "K-뷰티 수출 호조 및 판로 다변화",
-     "what": "화장품 수출이 3분기 누계 111억 달러 및 연간 15억 달러를 돌파하며 역대 최대 기록을 경신하고 글로벌 판로 다변화가 가속화되고 있음.",
-     "why": "글로벌 시장에서 K-뷰티의 브랜드 인지도 상승과 함께 신흥시장 등으로 수출 다각화 노력이 성과를 거두고 있기 때문.",
-     "impact": "해외영업 신입은 주력 수출 품목의 글로벌 트렌드를 파악하고, 신규 바이어 발굴 및 국가별 규제 대응 역량을 키워야 함.",
+     "cat": "log",
+     "title": "글로벌 해운 운임 2주 연속 하락세 속 항로별 혼조세",
+     "what": "상하이컨테이너운임지수(SCFI) 등 스팟 컨테이너 운임이 2주 연속 하락한 가운데, 북미 등 일부 항로는 반등하고 유럽·중동 등은 약세를 보였다.",
+     "why": "기록적인 신조선 발주로 선박 공급은 늘어난 반면, 중동 전쟁 등 지정학적 리스크와 항로별 계절적 수요 변동이 복합적으로 작용했기 때문이다.",
+     "impact": "해외영업 담당자는 항로별 운임 변동성에 따라 해상 운송 비용이 달라지므로, 물류비 예산 산정 및 바이어와의 인코텀즈(Incoterms) 조건 협상 시 운임 변동 리스크를 고려해야 한다.",
      "tags": [
-      "화장품",
-      "K-뷰티"
+      "SCFI",
+      "해운운임",
+      "컨테이너선"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YcFlXSHZNRFNEXzQtdlNxWEtZcEJmOHN1STRZSEVFU2tNWkJsaEVkTDhuSWh5RXRZM3JWZWdJRDVwcmNQeG1VekFQUVhFQ3QyemN3TVF1NHl4UnN3azQxQVZMNW9ueVNNSTdXdElTbS15U0E?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcXpsaVhYZDBROWVyOW0yckpzSEt4SndEY1Rmb3hpenBiUXYxbTMxU3pxT1JOS2UwR3pWZ3M1ekNVVG8xa09nT2o4Qm9NaFlWSmJwb0E0WmluRXpBY1JNQjhXZTc3eXpuNkHSAWpBVV95cUxOVHF6bGlYWGQwUTllcjltMnJKc0hLeEp3RGNUZm94aXpwYlF2MW0zMVN6cU9STktlMEd6VmdzNXpDVVRvMWtPZ09qOEJvTWhZVkpicG9BNFppbkV6QWNSTUI4V2U3N3l6bjZB?oc=5"
+      },
+      {
+       "name": "Vietnam.vn",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0tlZGJ6TzhGdmtGbklRbDRJWkFCVW44QW5IaHYwV1JxZGpIYTYxOURUOV81RGxJbXk0di0xOTVCWjk4MEs2SzBvZ1NsM3VXbGJrOURybHNPdUJHTWlwUE53N0JnZk5ZcVV0ZkVCQkI3SGZuOUl0RS1GcXQzVkNaeDJyVG1UbjBUZnJrUWEwVWxyVDR0UGdkLUo2Z0p4SnBUcG1qcTJwQWVlRFp1WmsyZzl3?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "역대 최대 기록하는 K-뷰티 수출과 판로 다변화",
+     "what": "3분기 누계 화장품 수출액이 111억 달러를 돌파하며 역대 최대 기록을 경신했고 글로벌 판로 다변화가 가속화되고 있다.",
+     "why": "글로벌 시장에서 K-뷰티의 브랜드 경쟁력이 높아지고, 전통적인 주력 시장 외에 신흥국 등으로 수출 다변화가 성공적으로 이뤄지고 있기 때문이다.",
+     "impact": "해외영업 직무 지원자는 유망 수출 품목의 글로벌 마케팅 전략과 국가별 규제 대응 역량을 키워야 하며, 바이어 발굴 시 다변화된 시장 트렌드를 파악해야 한다.",
+     "tags": [
+      "K-뷰티",
+      "화장품 수출",
+      "무역통계"
      ],
      "sources": [
       {
@@ -32,13 +59,14 @@
     },
     {
      "cat": "sales",
-     "title": "역대급 무역흑자와 수출업체 달러 매도로 인한 원·달러 환율 하락",
-     "what": "미 국채금리 상승 등 대외 악재에도 불구하고 수출업체의 달러 매도(네고)와 무역흑자 덕분에 원·달러 환율이 1366원에서 1340원대로 하락함.",
-     "why": "견조한 수출 실적으로 시장에 달러 공급이 풍부해지면서 원화 방어력이 높아졌기 때문.",
-     "impact": "환율 하락은 원화 환산 수출액 감소로 이어질 수 있어 해외영업 담당자는 환 헤지 전략과 가격 경쟁력 관리에 주의해야 함.",
+     "title": "환율 1,366원 터치 후 수출업체 매도에 1,340원대 하락",
+     "what": "원·달러 환율이 장중 1,366원까지 치솟았다가 수출업체들의 달러 매도 물량이 나오면서 1,340원대~1,350원대로 하락 마감했다.",
+     "why": "미국 금리 상승 등 강달러 압력이 있었으나, 국내 수출 기업들의 견조한 무역흑자에 따른 달러 공급(네고 물량)이 환율 하락 압력으로 작용했다.",
+     "impact": "해외영업 담당자는 환율 변동성이 클 때 수출 대금 정산 시점과 네고(Nego) 타이밍을 전략적으로 조율하여 환차손을 방지하고 수익성을 관리해야 한다.",
      "tags": [
       "환율",
-      "무역흑자"
+      "무역흑자",
+      "수출네고"
      ],
      "sources": [
       {
@@ -50,72 +78,21 @@
        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Pc1g0ek1fc3IyX1ZQQUpQQjJqMWVQSmFPRndNaUd4UjBYb2hhSHZlN3VRcXJfSVJJa3dDV2lPOF9tN29MRXZ4UHE3MTRNMXk3S09yalN3NEpPSVnSAWBBVV95cUxPMHotR3prZDQzTElvd2oxYkdnZGJNQnpZdEsxYTNsclh4bmVoblNGdlZ6RE4ySEJvaHE5TmJJS19wQmpBM2NxRGI0UnVjdV84enExdTlWb0tWMWFLejZJc1A?oc=5"
       },
       {
-       "name": "KB Think",
-       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oS2JCeC11Q0RISDc0Znp2M3dTRENydHJGdnpDYllxSEVSVF9RRVUxalVEazhYZFJRbVlfM2hSNG0xcFNyT3AwMHVOeFM5dGlIbzdBclZtT3BwNENDYUJPNg?oc=5"
-      }
-     ]
-    },
-    {
-     "cat": "sales",
-     "title": "미국 등 주요국 통상 규제 대응 및 관세 합의 준수 촉구",
-     "what": "정부 통상교섭본부장이 G20 등에서 미국 USTR 대표를 만나 '15% 관세 합의' 준수를 요청하고 보호무역주의 확산에 대응하고 있음.",
-     "why": "글로벌 보호관세와 통상 마찰이 심화되면서 수출 기업들의 대외 불확실성이 커지고 있기 때문.",
-     "impact": "해외영업 담당자는 북미 및 EU 등 주요 수출국의 통상 규제 변화와 원산지 규정(FTA 등)을 모니터링하고 바이어와 소통해야 함.",
-     "tags": [
-      "통상",
-      "FTA",
-      "미국"
-     ],
-     "sources": [
-      {
-       "name": "뉴스로드",
-       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MQmVVeHZheGg5RFNHa1h5WlVqNXptMmM4QzhTNUtWZ3pnMWJhZ3pCZzlRRzVkQV9zNF9LRXUyYUV3ZHFTUjJCdllyMTVUc2lyTzgyS1JveGNoTmRFcnpNdmoxZkNQSzk0THFURUlZdw?oc=5"
-      },
-      {
-       "name": "v.daum.net",
-       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jcEx3NTEySUgtTjkzc0tXR1oydVZDNEJHUUVqU1RBRGRHRGRmRjZvMnVQaV9iV3FDQUJVQmp1M2poLURISVE?oc=5"
-      },
-      {
-       "name": "코리아포스트 한글판",
-       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZenhSOE5FVGh4OUxvRVBqcW93bjk3WDYzcFBYNUJibE1FYWgzZlRycjhOOENueWFnY1pFU2FvTmYxcXFrQmgxLWs1Q2x6NUEyYjFKdHh1OTJJVF9qbllxenpPeVdxbDFZeDREckpR?oc=5"
-      }
-     ]
-    },
-    {
-     "cat": "log",
-     "title": "글로벌 해운 스팟 운임 2주 연속 하락세",
-     "what": "스팟 컨테이너 운임(SCFI)이 2주 연속 하락한 가운데, 미주 지역은 반등하거나 유지되는 반면 유럽·중동향은 약세를 보임.",
-     "why": "중동 전쟁 등 지정학적 리스크와 선박 공급 상황에 따라 항로별 수급 불균형이 발생했기 때문.",
-     "impact": "물류 담당자는 항로별 운임 변동성을 주시하여 최적의 선사 및 운송 경로를 선택하고 해상운임 예산을 관리해야 함.",
-     "tags": [
-      "해운운임",
-      "SCFI",
-      "컨테이너"
-     ],
-     "sources": [
-      {
-       "name": "쉬핑뉴스넷",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YcFlXSHZNRFNEXzQtdlNxWEtZcEJmOHN1STRZSEVFU2tNWkJsaEVkTDhuSWh5RXRZM3JWZWdJRDVwcmNQeG1VekFQUVhFQ3QyemN3TVF1NHl4UnN3azQxQVZMNW9ueVNNSTdXdElTbS15U0E?oc=5"
-      },
-      {
-       "name": "뉴스1",
-       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5UcXpsaVhYZDBROWVyOW0yckpzSEt4SndEY1Rmb3hpenBiUXYxbTMxU3pxT1JOS2UwR3pWZ3M1ekNVVG8xa09nT2o4Qm9NaFlWSmJwb0E0WmluRXpBY1JNQjhXZTc3eXpuNkHSAWpBVV95cUxOVHF6bGlYWGQwUTllcjltMnJKc0hLeEp3RGNUZm94aXpwYlF2MW0zMVN6cU9STktlMEd6VmdzNXpDVVRvMWtPZ09qOEJvTWhZVkpicG9BNFppbkV6QWNSTUI4V2U3N3l6bjZB?oc=5"
-      },
-      {
-       "name": "Vietnam.vn",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc0tlZGJ6TzhGdmtGbklRbDRJWkFCVW44QW5IaHYwV1JxZGpIYTYxOURUOV81RGxJbXk0di0xOTVCWjk4MEs2SzBvZ1NsM3VXbGJrOURybHNPdUJHTWlwUE53N0JnZk5ZcVV0ZkVCQkI3SGZuOUl0RS1GcXQzVkNaeDJyVG1UbjBUZnJrUWEwVWxyVDR0UGdkLUo2Z0p4SnBUcG1qcTJwQWVlRFp1WmsyZzl3?oc=5"
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LTHhqRTRMX1J6R2d3cmo3U0I5OFQ0RG1zWHoxcUJpVlNRM3M2ak4tN0dKVENOejZGZVNUMkwtd2J6X3BwTC1UeG82SUczeURJT3BCY2RhcmtkREN6NXk5YlVhUEp3OVR2Qmc?oc=5"
       }
      ]
     },
     {
      "cat": "log",
      "title": "국제물류주선업 등록업무 전문기관 위탁 추진",
-     "what": "포워더 난립 문제를 해소하기 위해 국제물류주선업 등록 업무를 전문기관에 위탁할 수 있는 법적 기반이 마련됨.",
-     "why": "물류 시장의 질서를 확립하고 전문성을 높여 부실 업체의 난립을 막기 위함.",
-     "impact": "물류 자회사나 포워딩 협력사를 관리하는 실무자는 협력 업체의 전문성과 신뢰도를 검증하는 기준을 높여야 함.",
+     "what": "국제물류주선업(포워더) 등록 업무를 전문기관에 위탁할 수 있는 법적 기반이 마련되며 업계 난립 해소 및 전문성 강화가 기대된다.",
+     "why": "기존 지자체 중심의 관리에서 전문 기관 위탁을 통해 포워더 난립 문제를 해결하고 물류 서비스의 질적 향상을 도모하기 위함이다.",
+     "impact": "물류 및 SCM 직무 지원자는 향후 포워더 업계의 구조조정 가능성과 전문성 인증 제도의 변화를 모니터링하여 우수 물류 파트너 선정 역량을 갖춰야 한다.",
      "tags": [
       "국제물류주선업",
-      "포워더"
+      "포워더",
+      "물류규제"
      ],
      "sources": [
       {
@@ -131,16 +108,42 @@
        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UcWRaZVRIeVhhTUF3ZWhTbkRKT2VxbHpOVXZZTU5fQ3RKN3A1bU5QV05najd1WVNLRnhTVTNCQlJoLURjcHhjdFVUcDdFM2FYT2lDa3RRNThpTE5FaHBqeExneEtockU?oc=5"
       }
      ]
+    },
+    {
+     "cat": "sales",
+     "title": "미국 통상 압박 속 '15% 관세 합의' 준수 촉구",
+     "what": "정부 통상교섭본부장이 G20 등 주요 회의에서 미국 USTR 대표 등을 만나 '15% 관세 합의' 준수를 요청하고 통상 현안을 논의했다.",
+     "why": "보호무역주의와 각국의 통상 규제가 강화되는 가운데, 한국 수출 기업들의 대미 수출 불확실성을 낮추기 위한 선제적 외교 및 통상 협력이 필요하기 때문이다.",
+     "impact": "대미 수출을 담당하는 해외영업 사원은 미국의 관세 정책 및 통상 규제 변화를 예의주시하고, 원산지 증명 등 규제 준수(Compliance) 역량을 철저히 준비해야 한다.",
+     "tags": [
+      "통상협상",
+      "관세",
+      "USTR"
+     ],
+     "sources": [
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9jcEx3NTEySUgtTjkzc0tXR1oydVZDNEJHUUVqU1RBRGRHRGRmRjZvMnVQaV9iV3FDQUJVQmp1M2poLURISVE?oc=5"
+      },
+      {
+       "name": "공감신문",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyYzY4SEFkX3JfYW9IREo2SG5ZVmRlN0lFaklld3h2SERkZ09lMHduZTBTRTd4ZlZDQWo4QjVjeV9WLXh5czI0MjFEa0MyMkRnak1GRHpaVXdUdTAxMjlnVVF0SE02c1RS?oc=5"
+      },
+      {
+       "name": "v.daum.net",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBrZFBhWFJNZzJSNk9INDFnRGZnbFpQaWhLYXlfc29rTHY1MktSazRRalI2clBCUzRTZ0VOa0g1cEFyWW9ybGc?oc=5"
+      }
+     ]
     }
    ],
    "interview": [
     {
-     "topic": "최근 원·달러 환율 하락이 당사 수출 실적과 영업 활동에 미치는 영향과 대응 방안",
+     "topic": "환율 변동성 확대에 따른 수출 대금 관리 전략",
      "script": [
-      "최근 역대급 무역흑자와 수출업체의 달러 매도 물량 유입으로 인해 원·달러 환율이 1340원대까지 하락하는 양상을 보이고 있습니다.",
-      "이는 시장에 달러 공급이 원활해지면서 원화 강세 압력이 커졌기 때문으로 분석됩니다.",
-      "해외영업 직무 관점에서 환율 하락은 바이어에게 가격 경쟁력 약화로 작용하거나 원화 환산 매출액을 감소시킬 수 있습니다.",
-      "따라서 저는 환 헤지 상품 활용 및 장기 계약 시 환율 변동 조항 검토 등 리스크 관리 능력을 갖춘 영업 전략을 펼치겠습니다."
+      "최근 원·달러 환율이 1,360원선을 넘나들며 급등락을 반복하는 장세가 이어지고 있습니다.",
+      "이는 미 국채 금리 상승 등의 강달러 요인과 국내 수출 기업들의 달러화 매도(네고) 물량이 맞물려 발생한 현상입니다.",
+      "해외영업 담당자로서 저는 이러한 환율 변동성에 대응하기 위해 바이어와의 계약 시 환헤지 전략을 고려하고 최적의 네고 시점을 파악하는 것이 중요하다고 생각합니다.",
+      "입사 후에도 환율 추이를 주기적으로 모니터링하여 회사의 환위험을 최소화하고 영업 이익을 방어하는 데 기여하겠습니다."
      ],
      "followups": [
       "",
@@ -148,12 +151,12 @@
      ]
     },
     {
-     "topic": "글로벌 해상 운임 변동성(SCFI 하락 및 항로별 혼조세)에 대응하는 물류비 절감 전략",
+     "topic": "해운 운임 변동과 포워더 관리의 중요성",
      "script": [
-      "최근 글로벌 해운 운임이 전반적인 하락세를 보이는 한편, 미주와 중동·유럽 등 항로별로 혼조세를 나타내고 있습니다.",
-      "이는 선박 발주량 증가와 지정학적 리스크에 따른 항로별 수급 불균형이 복합적으로 작용했기 때문입니다.",
-      "물류·SCM 담당자로서 이러한 운임 변동성은 운송 원가에 직접적인 영향을 미치므로 철저한 모니터링이 필수적입니다.",
-      "저는 주요 선사와의 장기 계약(SC) 비중을 조절하고, 대체 항로 발굴 및 적기 선적 계획을 수립하여 물류비를 최적화하겠습니다."
+      "최근 글로벌 해운 운임이 항로별로 혼조세를 보이는 등 물류비용의 불확실성이 커지고 있습니다.",
+      "이는 선박 공급 과잉과 지정학적 리스크가 복합적으로 작용하여 항로별 수급에 차이가 생겼기 때문입니다.",
+      "물류·SCM 직무 지원자로서 저는 이러한 운임 변동기에 안정적인 선복을 확보하고 최적의 물류 경로를 설계하는 것이 원가 경쟁력의 핵심이라고 생각합니다.",
+      "입사 후 주요 포워더와의 파트너십을 강화하고 운임 지수를 모니터링하여 물류비를 절감하는 실무형 인재가 되겠습니다."
      ],
      "followups": [
       "",
@@ -162,9 +165,9 @@
     }
    ],
    "concept": {
-    "title": "네고 (Negotiation / 환어음 매입)",
-    "body": "수출업체가 선적을 마친 후 발급받은 선적서류(B/L 등)를 은행에 제출하고 수출대금을 조기에 현금화하는(환어음 매입 또는 추심) 외환 업무 과정을 뜻합니다. 신입 해외영업 담당자는 바이어가 대금을 지급하기 전이라도 은행을 통해 안전하게 자금을 회수할 수 있는 이 과정을 정확히 이해해야 합니다.",
-    "tip": "수출 계약서(Sales Contract) 상의 결제 조건(L/C, T/T 등)에 따라 네고에 필요한 서류 요건이 달라지므로, 선적 직후 누락 서류 없이 신속하게 은행에 제출하는 것이 대금 회수 기간을 줄이는 핵심입니다."
+    "title": "수출 네고 (Negotiation of Export Bills)",
+    "body": "수출업자가 신용장(L/C)이나 선적서류를 근거로 발행한 환어음을 은행에 매각하여 수출 대금을 조기에 현금화하는 금융 업무를 뜻합니다. 실무에서는 외환 시장에서 달러를 매도하여 원화로 바꾸는 행위 전반을 통칭하기도 합니다.",
+    "tip": "해외영업 면접에서 환율 변동 관련 질문을 받을 때 '수출 네고 시점 조절'을 언급하면 실무에 대한 이해도가 높다는 인상을 줄 수 있습니다."
    }
   }
  ]
