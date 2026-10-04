@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-04 11:48",
+ "updated": "2026-10-05 06:33",
  "days": [
+  {
+   "date": "2026-10-05",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국 관세 압박 및 자동차 산업 부담 가중",
+     "what": "트럼프가 대미 투자와 관세 폭탄을 압박하며 자동차 등에 높은 관세 부담이 예상되는 상황이다.",
+     "why": "미국의 보호무역주의 강화와 대미 투자 압박 정책에 기인한다.",
+     "impact": "해외영업 담당자는 북미향 수출 시 관세 비용을 고려한 가격 전략 수립과 현지 생산/투자 전략을 면밀히 검토해야 합니다.",
+     "tags": [
+      "현대차",
+      "기아",
+      "트럼프"
+     ],
+     "sources": [
+      {
+       "name": "데일리굿뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtcG1WWGNzVDFiRGtzYWFLVHE1dTZIcXNJUzJZbGdKZDYxaXltbnRCWjBJRUU1cHpUY3RCOTlqd3ZMRkgyVDJqM2VYdjh2WHM4NWg5dHNEYzRRcXpwTXFvaHpwajRJeGdkak5na0JDbm4?oc=5"
+      },
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9oNUgtNEhtTkRlSnh0aTY0Mnh0YmtZaGwtY25BR1RRbGwyVTNLVjBiUWJUd2Jac1BOdkZjeFRVSjVFTENOWjV4aDJNWjFMNVd3cFE?oc=5"
+      },
+      {
+       "name": "재경일보",
+       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lUWhxVGxYRXBIRjZjbUd1ajhEN2Z4OEFKc1lSbDBXaks5VXRiNGpIT1ZHbmJGNzI5YVhlU3Q3ZXJocFR3MUctWDZKQQ?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "화장품 및 K뷰티 수출 역대 최대 실적 경신",
+     "what": "2026년 3분기 화장품 누적 수출이 111억 달러를 기록하며 역대 최대 실적을 달성했다.",
+     "why": "글로벌 시장에서 K뷰티의 수요가 지속적으로 증가한 결과로 보인다.",
+     "impact": "해외영업 직무에서는 신규 바이어 발굴 및 소액 상거래 통계 활용 등 데이터 기반의 수출 확대 전략을 세워야 합니다.",
+     "tags": [
+      "K뷰티"
+     ],
+     "sources": [
+      {
+       "name": "기계신문",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1lTURWeFRBcmVBbmJPdTBqam9TV2pQQTEtNFB1VG5EMWNxQWJDSVlxOGxtVkw0ZjdRbXFQTTZiMWxfajJpSllYVnRIa3VGX1hGejg2S0xDODRXdEtNcFU2aGxDenZPUQ?oc=5"
+      },
+      {
+       "name": "매일경제",
+       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE96b1dkcU54WkhKRlZkeUZERE9vVHduelNfUjFYYlZjVVBQVm9FQlZBRWVFZEtETTFrdXJ1ZUk3NF9Md3JiTEE?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "환율 변동성 확대와 수출 기업 환 리스크",
+     "what": "장기금리 변동 및 환율 급락 등 외환시장 변동성이 커지며 수출주 실적에 대한 우려가 제기되고 있다.",
+     "why": "글로벌 경제 지표 변화와 외환시장 수급 불균형 때문이다.",
+     "impact": "해외영업 담당자는 환율 변동에 따른 마진 감소에 대비해 환헤지 전략을 재점검하고 업황 중심의 대응을 해야 합니다.",
+     "tags": [],
+     "sources": [
+      {
+       "name": "edaily.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSHdySGJTVjhiYTl4NFdJWWpwcEU1cF91WmRHbTdhZ3dXODNVSTYweFNSR2k5ZVpJSWtVRGpHVjJfWVZtSmUtWjhlcElDNmpjM0kwWEhCNS05Z3FtOFJPSEtpbFV1WmVYNFVB?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA2NVREUHBFa3NqUExwWURGanlvdEl2Zk83YkdCZnY1T0laV3h5dWJoUzZDZWhpeHZBa0RzeHdGc0ItWk1LdUdKTzJJN3FhNFloSVRkM1NtMDg4NG9hdlZzZUdyTWfSAWRBVV95cUxQNjVURFBwRWtzalBMcFlERmp5b3RJdmZPN2JHQmZ2NU9JWld4eXViaFM2Q2VoaXh2QWtEc3h3RnNCLVpNS3VHSk8ySTdxYTRZaElUZDNTbTA4ODRvYXZWc2VHck1n?oc=5"
+      },
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SSFZvTHAwdDNXcVhkS0tBQ1hvZ04zaEtyX2dPU0k3dlFreFF5Z1F0QVRZSWNIX29lY1JTc010blVhamk1bDFOWWF5eHp1dG4xN2tuUE13ODVrOHYwQlZKR0t5QWMwTEEwbnBRTjluaDB1ZGFtTWNN0gF3QVVfeXFMTlJIVm9McDB0M1dxWGRLS0FDWG9nTjNoS3JfZ09TSTd2UWt4UXlnUXRBVFlJY0hfb2VjUlNzTXRuVWFqaTVsMU5ZYXl4enV0bjE3a25QTXc4NWs4djBCVkpHS3lBYzBMQTBucFFOOW5oMHVkYW1NY00?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "반도체 편중 수출 및 반면 펫푸드 등 무역적자 지속",
+     "what": "반도체를 제외한 전체 수출은 정체 상태이며, 펫푸드 시장은 11년 연속 무역적자를 기록하고 있다.",
+     "why": "수출 품목의 편중과 특정 내수·수입재 중심 시장 구조 때문이다.",
+     "impact": "해외영업 사원은 리스크 다변화와 함께 신수종 수출 품목 발굴 및 경쟁력 분석의 필요성을 인지해야 합니다.",
+     "tags": [],
+     "sources": [
+      {
+       "name": "빅데이터뉴스",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5kdDVfT205WUEzUW5BelNtLXRqbFBLbk9Oa0dONTFaTl9QSERxVDEwOVphVm1mYi0xZnZPbWhEY0x5VG1kUlNYZW5aSUtqdUF6NnNLcUVQWHJlUEdXWFBneVhxc2wtZGZwOWtpRUFfd21TTllHWjRyZ2VrOVk?oc=5"
+      },
+      {
+       "name": "월드장애인사랑뉴스",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWbV9xZWhKZ01RaUY5Q2VhTnFoT1U5WDQyOXhCMXlKVmVkMWVvM0l0TWtocGdwNTlqT3ZITW9SVEJxNy1ubFk0NV9DaWl3S20xcTZoQ09LclFFdmpFS3hvRTQtb0tDanh4SGZRakxwQQ?oc=5"
+      },
+      {
+       "name": "kbmaeil.com",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MQk91Ml95YVctRFpiWXlMdkZITW5hdmtzM0sycjNER0JhZmM4MzVMS2tmN2ZIU2duNzN0ODV3X2JEcEROR2RpLUlyS0NjTWo3cmpDbHdiZWFUZw?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "항만 혼잡 심화 및 글로벌 컨테이너선 발 묶임",
+     "what": "항만 혼잡으로 인해 전 세계 컨테이너선의 12%가 발이 묶이며 4년 만에 최고치를 기록했다.",
+     "why": "글로벌 물류 병목 현상과 운송 차질 발생 때문이다.",
+     "impact": "물류 및 해외영업 담당자는 선적 지연 리스크를 사전에 파악하고 대체 운송 경로를 확보하는 등 SCM 관리 능력을 발휘해야 합니다.",
+     "tags": [],
+     "sources": [
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0M1hIRFRDQjhHcDdZel9WMWZZWVFKS2J4c1FrOUwxZGFNdjBVUzlUbnU5cnQ2bWxzeE96TEJYRlVXc3VEQS1NbDJNeDg3Q0YxZks4Q1ExanF1ODlneGQtWlhOeFVKLVBvLXh3?oc=5"
+      },
+      {
+       "name": "ebn.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ybkFMSFVXVUJmX01tSGYtYnpfWHg5ckx1clBGQW55bzJNaDBqWG5rVjM5WnhmbU94M1dYc2FDaWQwZTFtUVZ4T19vb0htRkpKS2plNU5jOWZBdGx2QTlxZm5vaDJOS0JY?oc=5"
+      }
+     ]
+    }
+   ],
+   "interview": [
+    {
+     "topic": "미국의 고관세 및 보호무역주의 강화에 따른 해외영업 대응 전략",
+     "script": [
+      "트럼프의 관세 압박과 대미 투자 요구로 인해 자동차 등 주력 수출 품목의 비용 부담이 커지고 있습니다.",
+      "이는 보호무역주의 기조가 강화되면서 현지 생산 및 가격 경쟁력에 직접적인 타격을 주기 때문입니다.",
+      "해외영업 신입 지원자로서 저는 바이어와의 가격 협상 시 관세 리스크를 반영하고, 원가 절감 및 대체 시장 다변화 방안을 모색하겠습니다.",
+      "궁극적으로 규제 환경 변화를 모니터링하여 수출 타격을 최소화하는 유연한 영업 전략을 수립하는 데 기여하고 싶습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "항만 혼잡과 컨테이너선 발 묶임 현상에 따른 SCM 및 물류 리스크 관리",
+     "script": [
+      "최근 항만 혼잡으로 인해 전 세계 컨테이너선의 상당수가 발이 묶이며 물류 대란 우려가 커지고 있습니다.",
+      "이는 글로벌 공급망의 병목 현상과 물류 인프라의 정체가 원인으로 작용하고 있습니다.",
+      "물류·SCM 담당자로서 저는 정기적인 선적 현황 모니터링을 통해 지연 요소를 사전에 파악하고 비상 대응 계획을 세우겠습니다.",
+      "이를 통해 납기준수를 지키고 고객사의 신뢰를 유지하는 안정적인 공급망 관리에 기여하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "환헤지(Exchange Hedge)",
+    "body": "환율 변동에 따른 손실 위험을 줄이기 위해 환율을 고정하거나 파생상품을 통해 미래의 거래 가격을 미리 정해두는 금융 기법입니다.",
+    "tip": "환율 급락이나 강세 시 수출 기업의 실적 타격을 방어하기 위해 재무팀 및 영업 부서가 협력하여 필수적으로 고려하는 개념입니다."
+   }
+  },
   {
    "date": "2026-10-04",
    "mode": "ai",
