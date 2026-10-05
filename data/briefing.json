@@ -1,6 +1,150 @@
 {
- "updated": "2026-10-05 06:33",
+ "updated": "2026-10-06 06:31",
  "days": [
+  {
+   "date": "2026-10-06",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원달러 환율 전망 엇갈림과 수출 영향",
+     "what": "1250원부터 1400원까지 환율 전망이 엇갈리며 1340~1350원대 공방이 이어지고 있습니다.",
+     "why": "미국 장기금리와 고용 지표 변화, 네고 물량 간의 힘겨루기가 복합적으로 작용하고 있습니다.",
+     "impact": "환율 변동성은 수출 가격 경쟁력과 마진에 직접적인 영향을 주므로, 해외영업 담당자는 환율 추이에 따른 유연한 가격 전략과 리스크 관리가 필요합니다.",
+     "tags": [
+      "환율",
+      "원달러",
+      "수출"
+     ],
+     "sources": [
+      {
+       "name": "이데일리TV",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50bjh3OF9pbHk0bGlSLXpKVTJuOEp4TUpadFc4ejBXbmp1enQ2R01qcEYyMjRuaDZjX2pHZE96WWt4M2otS09qM29acXIxcmFaZjdOT29XNnlFQWhKUkdLb0V6d3NVa3ZJbEw2TkhpQk9KVmJUTlJFMHQxMA?oc=5"
+      },
+      {
+       "name": "edaily.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vSHdySGJTVjhiYTl4NFdJWWpwcEU1cF91WmRHbTdhZ3dXODNVSTYweFNSR2k5ZVpJSWtVRGpHVjJfWVZtSmUtWjhlcElDNmpjM0kwWEhCNS05Z3FtOFJPSEtpbFV1WmVYNFVB?oc=5"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MWm80cHREb1ZNOVduNUlrOENsaGEtaFBJNzgxVzE5alpuZTZzbDZnaUtJT2kzaFFfdGNEX2dCa0VCT01RZTlfTUtzNHJRTjRrREM2V1YzZEJPS0EtVUhFVWJIMjBEdDFKX3c?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "K-Food 및 K-뷰티 북미·글로벌 진출과 규제 대응",
+     "what": "K-Food와 K-뷰티 등 주요 소비재의 북미 진출 및 글로벌 표준 선점을 위한 물류 전략 세미나와 수출 테스트베드 확장이 진행 중입니다.",
+     "why": "관세 전쟁과 비관세 장벽 등 무역 규제가 강화됨에 따라 체계적인 현지 진출 전략이 요구되기 때문입니다.",
+     "impact": "해외영업 신입은 단순 판매를 넘어 현지의 비관세 장벽과 규제 표준을 이해하고 대응하는 능력을 길러야 합니다.",
+     "tags": [
+      "K-Food",
+      "K뷰티",
+      "신세계"
+     ],
+     "sources": [
+      {
+       "name": "농수축산신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPWkUwUVFKSDU4S2xpR3QwTjB3OW9jbEl3QkdFc1FJR1VrNWxMaTU5VGo3azQ5M0V5dnJabmRJNktqVkdkSHIyanZ4TmM3QjlwRHB2aWh4ekpJcTVvVjdrLTJzcFBIYlczMzNkYQ?oc=5"
+      },
+      {
+       "name": "newskr.kr",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE02d0VqT0tObmJpcTVBVS1RZFZ4STA3eUhtbjZTaVhqNnJhRExaWDNHbzBQTGU5NS03eWVGZml5LXNMeUltTENXRDM3b0k4TlZtbHZKLVlFMEtlQmgyYVpGOUh5cmZpNjY5MUHSAWpBVV95cUxNNndFak9LTm5iaXE1QVUtUWRWeEkwN3lIbW42U2lYajZyYURMWlgzR28wUExlOTUtN3llRmZpeS1zTHlJbUxDV0QzN29JOE5WbWx2Si1ZRTBLZUJoMmFaRjlIeXJmaTY2OTFB?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42eHVqbDR3cTItZ2tqamRPQ0U0X0hwakR5WFM2OHpsRm50TkptWE5sSjRaNVp3UmxseVR6NXpDR0NuT3FPeXN5bHJ2aENVRDlTVzJFZEpCSDjSAVhBVV95cUxONnh1amw0d3EyLWdrampkT0NFNF9IcGpEeVhTNjh6bEZudE5KbVhObEo0WjVad1JsbHlUejV6Q0dDbk9xT3lzeWxydmhDVUQ5U1cyRWRKQkg4?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "중국 철도 병목 현상과 부산~블라디보스토크 물류비용 변화",
+     "what": "중국 철도의 병목 현상으로 인해 부산~블라디보스토크 구간의 물동량과 운임이 동시에 상승했습니다.",
+     "why": "육상 운송로의 정체가 해상 및 대체 루트로의 물량 집중을 유발했기 때문으로 추정됩니다.",
+     "impact": "물류 SCM 담당자는 예상치 못한 운송 병목에 대비해 대체 운송 경로를 확보하고 물류비 변동에 대응해야 합니다.",
+     "tags": [
+      "부산항",
+      "블라디보스토크",
+      "철도물류"
+     ],
+     "sources": [
+      {
+       "name": "해양통신",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fQmtvS01McGowTmU4UmRPRHBjWU1fNWhNbTNzWDNRaS1DdTl3ZkllSFRGbGVDVXhKV256VDZWTzdVaGhNRmVOWGJXQnFUV3dBWGwzREdnT1RHSDlRSUFVMw?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "수출 증대 속 리스크 다변화를 위한 보험 역할 확대",
+     "what": "수출을 늘리면서 대외 리스크를 분산하기 위해 무역보험 등의 역할 확대가 강조되고 있습니다.",
+     "why": "글로벌 경기 회복이 더디고 환율 및 무역 불확실성이 상존하기 때문입니다.",
+     "impact": "해외영업 직무에서는 대금 미회수 및 계약 불이행 등의 리스크를 방어하기 위해 무역보험 활용 방안을 숙지해야 합니다.",
+     "tags": [
+      "무역보험",
+      "수출리스크"
+     ],
+     "sources": [
+      {
+       "name": "한국보험신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RVmg0ZWt2RnpaWFRrQkVPUmRTSWo1S1JsQVNMTGNQWlBFaVNaWmoxRmpueFkwRHZtSmFwdmtGSTlRZWZ2SE1wMFNDUTNLZks2OG5LdVgzTHltQ1lTdUtmdzZZcDltZkRWZU040gFvQVVfeXFMTkRBZUs3SFJ3Qk9LQlltSGp1WUhZTFY3LXVLSnVBMDJBNzlvZHptQVJUb2hkMGx5NVZ5cG16Wk41d3hDY245UXliakd4RTBER09Wa0RsNXcwSlJrb2RqQU01eEltczRuRzdLX0Y5M3hV?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "해운업 선박 가격 상승 및 초대형 선박 발주 쇄도",
+     "what": "유조선 및 특수 선박의 가격이 최고치를 경신하고 있으며 초대형 선박 발주가 이어지고 있습니다.",
+     "why": "해운 시장의 선종별 수급 불균형과 노후 선박 교체 수요 등이 복합적으로 작용하고 있습니다.",
+     "impact": "선가 상승과 선박 발주 동향은 향후 해상 운임과 선복량에 영향을 주어 장기 물류비 예측에 중요합니다.",
+     "tags": [
+      "해운",
+      "선박발주",
+      "유조선"
+     ],
+     "sources": [
+      {
+       "name": "Vietnam.vn",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVk5bkI1ZWhRMW5KQmVXeHhWLTVZdEsydFNYQVk2WE9IaGM4LTJvYTZmWk9vU3pNdkUtMm1VRFdlZnAxZnV3MGxRUjVlRWxHbkItQ2t1WjhJSk1WOThnajdrRkFNNVo4cXdzWmUwWUlYbU5tQVJHYWR4eFMzZEg4MnFvNnE3NXBGcm93bE9wR1pob2g5NHdtNnRVTDNVVDFGbkEwS2p4akRkN3JBcEU2WDgxXzJLamZSS0RkVTA0eUcwVDVnYmc?oc=5"
+      }
+     ]
+    }
+   ],
+   "interview": [
+    {
+     "topic": "프랑스·독일, 신속한 EU 무역 대응 조치 제안",
+     "script": [
+      "최근 '프랑스·독일, 신속한 EU 무역 대응 조치 제안' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "해외영업 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "中 철도 병목에 부산~블라디 물동량·운임 동시 ↑",
+     "script": [
+      "최근 '中 철도 병목에 부산~블라디 물동량·운임 동시 ↑' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "비관세장벽 (Non-Tariff Barriers)",
+    "body": "관세 부과 외에 수입을 제한하는 다양한 행정적·기술적 규제를 의미합니다. 통관 절차, 기술 표준, 위생·검역 기준 등이 이에 해당하며 최근 글로벌 무역에서 관세보다 더 까다로운 진입 장벽으로 작용합니다.",
+    "tip": "해외영업 면접에서 '단순히 제품을 파는 것을 넘어 수입국의 인증 및 규격 기준을 충족하는 컴플라이언스 역량이 중요하다'고 어필하면 좋은 점수를 받을 수 있습니다."
+   }
+  },
   {
    "date": "2026-10-05",
    "mode": "ai",
