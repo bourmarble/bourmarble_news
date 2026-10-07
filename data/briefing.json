@@ -1,6 +1,167 @@
 {
- "updated": "2026-10-07 06:17",
+ "updated": "2026-10-08 06:19",
  "days": [
+  {
+   "date": "2026-10-08",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국 무역적자 확대와 대한국 적자 증가",
+     "what": "미국의 8월 무역적자가 1056억 달러로 3월 이후 최대치를 기록한 가운데, 대한국 적자도 크게 확대되고 한국의 대미 수출이 증가함.",
+     "why": "AI 투자 확대 등이 미국의 수입을 늘렸고, 이 과정에서 한국 등 주요 대미 수출국의 수출 물량이 증가했기 때문.",
+     "impact": "해외영업 담당자는 미국의 수입 수요 변화와 대미 수출 증가 추세를 모니터링하고, AI 등 유망 품목 중심의 영업 전략을 수립해야 합니다.",
+     "tags": [
+      "미국",
+      "한국",
+      "AI"
+     ],
+     "sources": [
+      {
+       "name": "VOA 한국어 홈페이지",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmZkbV9nbFl5MzYzN0x0d0pOQkxHQUQxOHQtQzVza005QTUxSXhlUnFwUHR5T29PdTNwRFpUQm1SNTJsTWVMamgzb01PRDRNMnZZZVZtTXVGeXduWDRjZHM1Z0VwdjJ3b3hSZ0JsbzBLckxhRFI1d1Z4SHMzRmllTmtFazN2T3lGU2dDTTV30gGOAUFVX3lxTE5GZmRtX2dsWXkzNjM3THR3Sk5CTEdBRDE4dC1DNXNrTTlBNTFJeGVScXBQdHlPb091M3BEWlRCbVI1MmxNZUxqaDNvTU9ENE0ydlllVm1NdUZ5d25YNGNkczVnRXB2MndveFJnQmxvMEtyTGFEUjV3VnhIczNGaWVOa0VrM3ZPeUZTZ0NNNXc?oc=5"
+      },
+      {
+       "name": "토큰포스트",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpTndBS2piZWlIbUNWcXBjRzVFTEFPZHpwLW5lUlA4bmFDejdDVDNqbkF1UTFuVTJFaDFveDN6SEZhQkVhNXZMWEVQTjBpNDBjTHVXaHVNWQ?oc=5"
+      },
+      {
+       "name": "팸타임스 FAM Times",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpZXhNeGFiblo1R2MydlJNWDNuNDFFTnZsX1plMkVUNWZNYkh0UWxHMTRSZDZSM3hpWkF3Yy0yOHgyQmxNQ0d3U3VCMTY3a1oyb3JrdWx2QVk5dHVXVEVaNXAxOE9aaHFjS2Zrb2xB?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1,340원대 하락 및 수출기업 영향",
+     "what": "수출기업의 달러 매도(네고) 물량 등에 힘입어 원·달러 환율이 1,340원대 보합 및 하락세를 보임.",
+     "why": "수출 기업들이 달러를 내다 팔면서 환율 하락 압력을 가중시켰고 최근 석 달간 급락세를 보였음.",
+     "impact": "환율 하락은 원화 환산 수출 채산성에 부정적 영향을 줄 수 있으므로, 해외영업 직무에서는 환 헤지 전략과 마진 관리에 주의를 기울여야 합니다.",
+     "tags": [
+      "환율",
+      "달러"
+     ],
+     "sources": [
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNl8xSzc3QkVpTkx0UGdHNG5FblNseUJyN3BpS2dIT3JZRGV0cG9Vanhhd29SY1pIaWVXQXVHSUNYYXA5c3JabnhEVXBVOHVHMm1RQk1NVktHWDlqV3RJNzJ3NzF2YTVN?oc=5"
+      },
+      {
+       "name": "데일리매거진",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QV3UzU0hRV2RVNENfZ1ZXdUx2ZktjUm5LMmJ1ZWJqeUYwaVhJMHRGenFYbUwydHVwdFo2ZmRwU1hYN0VrU1dYV1REUE85NjRrQ2NoRlVHYXBxOHgzVE1tWXI4bFlqbUh1cXptd0tQaS02NGVtZ3U1Y083OA?oc=5"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNanJXd1g1cHhRUERnc0pMOW5VbEF5bFR0VndiUlYtTkNnMTYzU1dXbXctbmRFOW9YNjgtWnMwT0RhT3VvLTdxTWkybzNTeS0zNTF1a1lxLXBaOTlrOTl1QdIBYEFVX3lxTFBNanJXd1g1cHhRUERnc0pMOW5VbEF5bFR0VndiUlYtTkNnMTYzU1dXbXctbmRFOW9YNjgtWnMwT0RhT3VvLTdxTWkybzNTeS0zNTF1a1lxLXBaOTlrOTl1QQ?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "상하이컨테이너운임지수(SCFI) 2년 내 최고치 경신 후 하락세",
+     "what": "미주향 수요 증가와 중국 항만 적체로 SCFI가 2년 만에 최고치를 기록했으나, 북미 동안 컨운임 등을 중심으로 하락세로 전환됨.",
+     "why": "성수기 수요와 항만 적체가 일시적으로 운임을 밀어올렸으나 피크아웃 이후 하락 속도가 예상보다는 완만하게 진행 중.",
+     "impact": "물류 및 해외영업 담당자는 변동성이 큰 해상 운임 추이를 주시하며 선복 확보와 물류비 예산을 유연하게 조정해야 합니다.",
+     "tags": [
+      "SCFI",
+      "해운",
+      "물류"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UNk9CWFZ0UjI5alluSEktM05ZLXZGamlxN0tkb3B5Z3NYamNDZE5abEhRSHlSa2M2NWNYbDNuNDdZT2RWdml5V3lJODNaRFUzOWZVRjNMX2NzU1htRF9IbWhMMEhvWWg4ZUdjekk2RUxfSmM?oc=5"
+      },
+      {
+       "name": "한국해운신문",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9IbW1aYlkwT2puM05LNTduU0lUc2xtdmpVY3Zja21RNDc1aDNXMHN6NENuUF9oS0s5VE02TEx0b2lwSzVOeExHTmgyWUxZMl9nT1dSX0VoemdXMEJGYWFqcnV6MkFIY0V2aVEyNE1aV2d1YUk?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UNk9CWFZ0UjI5alluSEktM05ZLXZGamlxN0tkb3B5Z3NYamNDZE5abEhRSHlSa2M2NWNYbDNuNDdZT2RWdml5V3lJODNaRFUzOWZVRjNMX2NzU1htRF9IbWhMMEhvWWg4ZUdjekk2RUxfSmM?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "코트라, 5년간 AI 무역인재 5,600명 양성 추진",
+     "what": "코트라가 수출 마케팅 전 과정에 AI를 활용할 수 있는 무역인재 5,600명을 5년간 양성하는 사업의 2기 발대식을 개최함.",
+     "why": "글로벌 무역 환경의 디지털 전환 속도에 맞춰 수출 현장의 AI 역량을 강화하기 위함.",
+     "impact": "신입 지원자는 AI 기반의 바이어 발굴 및 데이터 분석 역량을 갖추는 것이 실무 경쟁력 확보에 유리합니다.",
+     "tags": [
+      "KOTRA",
+      "AI",
+      "무역인재"
+     ],
+     "sources": [
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWOFdocEdqSlBNM3lhdjJrRUh4TjRRWlNTcl9DSlpnczdiX1M0V2FDaXN5MUFUUW5GUzMxeVVMdFM3cG4zV2hiUmdvV1pKNkYzZGZPQ1lB?oc=5"
+      },
+      {
+       "name": "워크투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTUoxQktKY2dxblhQcVpISUM2RXhrMk1NQkVTWTl4dEtHWWFhM09WSEwwazFadVQxaC1QX3BSdV9GVmNVN3ZISVBKa3RMbmhidjlScVpQeDVpWU1YV0R5WEpmbThjVXZManJkaA?oc=5"
+      },
+      {
+       "name": "중소기업투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xYTk1OU1hOHFqYVNuSmVYUUktVGVaVG5iMUFWQ01ZSERPUklhMkgyTVVjVlJSbnpsZ2pnQTZJV1pEb3hqZFZFTWlCU3BwWGJwdVN1TzQwdjB6LVJoUnVyVVJOU1JaNmFUMFRDVtIBbEFVX3lxTE9xYTk1OU1hOHFqYVNuSmVYUUktVGVaVG5iMUFWQ01ZSERPUklhMkgyTVVjVlJSbnpsZ2pnQTZJV1pEb3hqZFZFTWlCU3BwWGJwdVN1TzQwdjB6LVJoUnVyVVJOU1JaNmFUMFRDVg?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "멕시코 생산 및 대미 수출 기업의 관세 리스크",
+     "what": "현대트랜스리드 등 멕시코에서 생산해 미국으로 수출하는 기업들이 높은 관세(예: 35% 관세) 등 통상 파고의 직격탄을 맞고 있음.",
+     "why": "미국의 보호무역주의 기조와 원산지 규정, 관세 정책 변화 때문.",
+     "impact": "해외영업 담당자는 글로벌 공급망(GSC) 재편에 따른 관세 리스크를 파악하고 우회 생산 기지나 관세 절감 방안을 검토해야 합니다.",
+     "tags": [
+      "현대트랜스리드",
+      "멕시코",
+      "미국",
+      "관세"
+     ],
+     "sources": [
+      {
+       "name": "리드경제",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JYjRRRTI4NVk3SnlYSk1aUEZqSEgtMWVJT1Y4QUV4aEl0UjhpZmw0WVBnbGU0STBrZEJUYm5OeG91UHJzbS1sUFRFaTRvci1reVFlLUN3cUd4UGdCQXIzeXZpcHk3OGdTRHV5cEk0VWc?oc=5"
+      }
+     ]
+    }
+   ],
+   "interview": [
+    {
+     "topic": "미국, 대한국 적자 두 배…무역균형 추진 속 적자 확대",
+     "script": [
+      "최근 '미국, 대한국 적자 두 배…무역균형 추진 속 적자 확대' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "해외영업 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "컨테이너항, 7월 세계 컨화물 처리량 지수 1% 감소...태풍으로 중화권 하락",
+     "script": [
+      "최근 '컨테이너항, 7월 세계 컨화물 처리량 지수 1% 감소...태풍으로 중화권 하락' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고(Negotiation / 네고시에이션)",
+    "body": "무역 실무에서 '네고'는 주로 환어음 매입이나 수출환어음 네고(Negotiation)를 의미하며, 수출업자가 선적 서류를 은행에 제출하고 대금을 미리 지급받는 과정을 뜻합니다. 또한 넓은 의미로는 바이어와 가격, 결제 조건, 납기 등을 조율하는 협상 과정을 일컫기도 합니다.",
+    "tip": "신입 면접 시 '네고'라는 용어가 단순히 가격 깎는 것을 넘어, 신용장(L/C) 조건에 맞춰 정확한 서류를 은행에 제시하고 조기 대금 회수를 이끌어내는 무역 금융의 핵심 절차임을 이해하고 있음을 어필하세요."
+   }
+  },
   {
    "date": "2026-10-07",
    "mode": "ai",
