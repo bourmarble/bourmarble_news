@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09 06:19",
+ "updated": "2026-10-09 20:25",
  "days": [
   {
    "date": "2026-10-09",
@@ -7,76 +7,90 @@
    "issues": [
     {
      "cat": "sales",
-     "title": "WTO 올해 상품무역 증가율 3.9% 상향",
-     "what": "WTO가 올해 상품무역 증가율을 3.9%로 상향 조정하며 AI 호황이 이란전 등의 충격을 상쇄했다고 분석했다.",
-     "why": "글로벌 IT 및 AI 관련 수요가 견조하게 유지되면서 전체적인 교역량 증가를 이끌었기 때문이다.",
-     "impact": "해외영업 담당자는 AI 및 반도체 관련 전방 산업의 수요 확대를 주목하여 타깃 시장의 수주 기회를 적극 발굴해야 한다.",
+     "title": "AI 호황 속 글로벌 무역 전망 상향과 수출 확대",
+     "summary": "WTO가 AI 투자 호황을 이유로 올해 세계 상품무역 성장률 전망을 3.9%로 상향했습니다. 대만 9월 수출도 AI 열풍에 힘입어 전년 대비 60% 급증하며 사상 최대를 기록했습니다.",
+     "what": "AI 투자 열풍과 수요 증가로 인해 WTO의 글로벌 상품무역 성장률 전망이 상향 조정되고 대만 등 주요 IT 수출국의 실적이 급증했습니다.",
+     "why": "글로벌 시장에서 인공지능 관련 인프라 및 부품 투자가 전면 확대되면서 대외 교역 수요를 견인하고 있기 때문입니다.",
+     "impact": "IT 및 첨단 부품·장비 분야 해외영업 담당자는 AI 생태계 관련 글로벌 밸류체인 진입 및 신규 공급선 확보 기회를 적극 모색해야 합니다.",
      "tags": [
       "WTO",
-      "AI",
-      "상품무역"
+      "대만",
+      "인공지능",
+      "반도체"
      ],
      "sources": [
       {
        "name": "뉴시스",
        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MZ3huSFpkODFmcmRhRkEySXJkM1UxQ1hUX0NfckhYMGFNcm1ZQVFWVTBNR2FYaU5ocVRNaEZKTHcxWTExX3V5OGNvTlJyY3NUSUNjbnExYThNbERpNmVDdjFMNkJacTdnUzBFVnU1eEpSeWw0WnRWRtIBeEFVX3lxTE9MZ3huSFpkODFmcmRhRkEySXJkM1UxQ1hUX0NfckhYMGFNcm1ZQVFWVTBNR2FYaU5ocVRNaEZKTHcxWTExX3V5OGNvTlJyY3NUSUNjbnExYThNbERpNmVDdjFMNkJacTdnUzBFVnU1eEpSeWw0WnRWRg?oc=5"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tMkNiUlpmNmRvMXFsRmtsSlZOVW5QamRRbXp6Mzg5VUtFeDlaUkc3UlZ2WTQ1Q3dkYUtuSEdVN2pUaFdOUlJud1FUSk0xUGFlU1lleS12eTltczhaTDBONtIBeEFVX3lxTE5ORUVoNU5RMzVHdkdEel83SkdqX1JvOEdOT25TZjN5YXBQM2RMSGpwaUs5U1VYbUlEUWJIdmd2Wm5Wb3NrUThtZklBaC1DLXFsNERuLXNieG1zQk14RUNiajVKeklWTGJSNzA5WWgyTU1JYlMzU0puRA?oc=5"
+      },
+      {
+       "name": "투데이신문",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xQWJXX3JHV1dLdk1aTXF6ZnNCWkVfMFRzQmdVeWx2THY4c2R6TWFIa3IyMktuSEx4UzVFUE42ZndXTlptS1FQV185Ylp4TzI5UWVPbm9RV2JqczJCWjFaMkpvQ0FoekhpZ3Q4eFBQSdIBb0FVX3lxTE8xQWJXX3JHV1dLdk1aTXF6ZnNCWkVfMFRzQmdVeWx2THY4c2R6TWFIa3IyMktuSEx4UzVFUE42ZndXTlptS1FQV185Ylp4TzI5UWVPbm9RV2JqczJCWjFaMkpvQ0FoekhpZ3Q4eFBQSQ?oc=5"
       }
-     ]
-    },
-    {
-     "cat": "sales",
-     "title": "원·달러 환율 1,330원대로 하락",
-     "what": "달러 강세 요인에도 불구하고 국내 수출기업들의 달러 매도 물량이 유입되면서 원·달러 환율이 5거래일 연속 하락해 1,330원대(1,338.5원 등)에서 마감했다.",
-     "why": "수출 기업들이 달러를 내다 팔며 환율 상단이 막히고 추가 하락 압력이 지속되었기 때문이다.",
-     "impact": "환율 하락은 환차익에 의존하던 전통 수출 기업들의 수익성에 부담을 주므로, 가격 경쟁력 외에 본원적인 제품 경쟁력과 마진 방어 전략을 세워야 한다.",
-     "tags": [
-      "환율",
-      "원달러",
-      "수출기업"
      ],
-     "sources": [
+     "questions": [
       {
-       "name": "CBC뉴스",
-       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4xNl8xSzc3QkVpTkx0UGdHNG5FblNseUJyN3BpS2dIT3JZRGV0cG9Vanhhd29SY1pIaWVXQXVHSUNYYXA5c3JabnhEVXBVOHVHMm1RQk1NVktHWDlqV3RJNzJ3NzF2YTVN?oc=5"
+       "q": "AI 산업 호황이 글로벌 무역에 미치는 긍정적 효과와 이에 맞춘 영업 전략은 무엇인가요?",
+       "hint": "AI 관련 전후방 산업(부품, 통신, 인프라) 수요 확대를 파악하고 맞춤형 B2B 고객사 발굴 방안을 제시합니다."
       },
       {
-       "name": "직썰",
-       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UWHNCRjB1djl3Qlk4VHh6UWJCNWNwSkNpb1JyQ3BXODlONGQ0dGcxWl9kZnc1NzA4R0hjVmpuLVR4MkZ1X2laTzJ5aDNuMjNvdjNwb2NkbW9YV2VWWDhQbTQ5cGJQS0FF0gFsQVVfeXFMT1dNdk1ibmkxM2gtMERWMlU4eTNySHluREN4T3VMZkxPdzZGYUJQdFM3empEWmhXQzFNcXpVb0VNWUxyVUxXVm9RUlFGY3dQdUxESHFzSEgwQ2NpT3NjRFVGTFdsdi01ekRLeEM3?oc=5"
-      },
-      {
-       "name": "베타뉴스",
-       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INk1mbUNiVVBCd0dTZGI2eWF1VTNoUjVmUllhWXplaW5KWV9wX2M3b203VWwzTzJCRDZtY0JIVFJfbEFXdjY2b0hMNEd2emVHQXZwdFdSWTNfU1l2Mkd3RFJJUmU?oc=5"
+       "q": "특정 유망 산업에 수출이 집중될 때 발생할 수 있는 리스크와 해외영업 차원의 대응책은 무엇인가요?",
+       "hint": "경기 변동이나 수요 둔화 리스크를 언급하며 포트폴리오 다변화 및 기존 전통 품목과의 균형 유지를 설명합니다."
       }
-     ]
+     ],
+     "unverified": []
     },
     {
      "cat": "log",
-     "title": "해운사 3분기 성수기 운임 급등 속 호실적 예상",
-     "what": "HMM과 팬오션 등 주요 해운사들이 성수기와 운임 급등의 영향으로 3분기에도 좋은 실적을 거둘 것으로 전망된다.",
-     "why": "물동량 증가와 성수기 효과로 인해 해상 운임이 강세를 보였기 때문이다.",
-     "impact": "수출입 물류를 담당하는 SCM 실무자는 해상 운임 변동성에 기민하게 대응하고 선복 확보 계획을 미리 수립하여 물류비를 최적화해야 한다.",
+     "title": "해운 성수기 및 해상운임 급등에 따른 선사 실적 호조",
+     "summary": "HMM과 팬오션 등 국내 주요 선사가 계절적 성수기와 해상운임 급등에 힘입어 3분기 호실적을 이어갈 것으로 전망되었습니다. 한편 HMM은 대규모 현금 보유에도 불구하고 주주환원 이슈 등으로 밸류에이션 할인을 겪고 있다는 지적도 나왔습니다.",
+     "what": "해운 업계가 전통적 성수기 진입과 운임 급등의 영향으로 3분기 실적 개선세를 보이고 있습니다.",
+     "why": "계절적 물동량 증가와 글로벌 물류 공급망 불안정 등이 겹치면서 해상 컨테이너 및 벌크선 운임이 강세를 유지했기 때문입니다.",
+     "impact": "수출입 물류 및 SCM 실무자는 해상 운임 상승에 따른 물류비 부담을 줄이기 위해 조기 선복 확보와 장기 계약(SC) 비중 조율에 집중해야 합니다.",
      "tags": [
       "HMM",
       "팬오션",
+      "해상운임",
       "해운"
      ],
      "sources": [
       {
        "name": "데일리한국",
        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZdk5QVERzbTFYVV9FUGtxMkt5SVRaY3VYeFc4VDg0dmZWZGliU20wNHllRVVvM2lsYTVSMzNIVjZzMnhHNlZVMXc4ZTVtS1IwRW9WOTZZM1c3cmwyNWRta2pSdjU2QlNXYUtzdkZyd9IBc0FVX3lxTE5obXlJM3lTNjhiZnY2SUdhUTNVTjFSRjI1dGhlQ2RtMmJEa2Z0aXlyeEpkSFhVQ0hIbkV5YTlXTGlxeG9rT3NQZFZzZndISk1lSHE0c0xGRzg3cW5fZXRLLXZoWlZ4Z25nSUxXTk04d1RVWTg?oc=5"
+      },
+      {
+       "name": "뉴스퀘스트",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBPMDR6YWVPLVFJWFQwQW1YTTBqZkFFZk1tVWhWNHgzY21HUVZlS0JBS3d0UzVfTFRFU0FJWDNUYWc4eGdQYzl6cjlIdENWQTh0aFB0dlRvbGcxWFVBbmFGX2pOanN0Rk5XNWZNRlF4OA?oc=5"
       }
-     ]
+     ],
+     "questions": [
+      {
+       "q": "성수기 해상운임 급등 시 SCM 담당자로서 선복 부족과 물류비 상승을 어떻게 방어하겠습니까?",
+       "hint": "포워더와의 다각화된 협력, 장단기 계약 믹스 운용, 선적 일정 사전 조율을 통한 대응 방안을 제시합니다."
+      },
+      {
+       "q": "선사의 실적 호황 이면에 숨겨진 공급망 리스크는 무엇이라고 보나요?",
+       "hint": "운임 급등은 화주의 원가 부담 및 납기 지연으로 이어질 수 있으므로 안정적 리드타임 관리의 중요성을 짚습니다."
+      }
+     ],
+     "unverified": []
     },
     {
      "cat": "sales",
-     "title": "미국의 대한국 무역 적자 확대 및 무역균형 추진",
-     "what": "미국의 8월 무역적자가 3월 이후 최대치를 기록한 가운데, 대한국 무역 적자도 1년 사이 두 배로 늘어났다.",
-     "why": "미국의 수입 수요 증가 및 교역 구조 변화에 기인하며, 트럼프 진영 등의 무역적자 축소 기조와 대조를 이룬다.",
-     "impact": "미국의 대외 무역적자 확대와 통상 압박 강화 기조 속에서 북미 지역을 담당하는 해외영업 직무는 현지 규제 및 통상 정책 변화를 면밀히 모니터링해야 한다.",
+     "title": "미국의 대한국 무역적자 확대와 통상 관세 리스크",
+     "summary": "미국의 8월 대한국 무역적자가 전년 대비 두 배 수준으로 확대되며 대미 통상 압박 우려가 커지고 있습니다. 한미 관세 상한 등 향후 통상 정책 변화에 대한 업계의 경계심도 확산되고 있습니다.",
+     "what": "미국의 8월 전체 무역적자가 확대된 가운데 한국 대상 무역적자도 1년 만에 두 배 수준으로 급증했습니다.",
+     "why": "한국의 반도체 및 주요 품목 대미 수출이 호조를 보인 반면, 미국 내 무역균형 및 자국 산업 보호 기조가 강화되고 있기 때문입니다.",
+     "impact": "대미 수출 비중이 높은 해외영업 실무자는 관세 인상이나 비관세 장벽 도입 가능성을 점검하고 원산지 관리 및 계약 조건을 사전 검토해야 합니다.",
      "tags": [
       "미국",
-      "무역적자",
-      "트럼프"
+      "통상압박",
+      "관세",
+      "대미수출"
      ],
      "sources": [
       {
@@ -84,74 +98,139 @@
        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORmZkbV9nbFl5MzYzN0x0d0pOQkxHQUQxOHQtQzVza005QTUxSXhlUnFwUHR5T29PdTNwRFpUQm1SNTJsTWVMamgzb01PRDRNMnZZZVZtTXVGeXduWDRjZHM1Z0VwdjJ3b3hSZ0JsbzBLckxhRFI1d1Z4SHMzRmllTmtFazN2T3lGU2dDTTV30gGOAUFVX3lxTE5GZmRtX2dsWXkzNjM3THR3Sk5CTEdBRDE4dC1DNXNrTTlBNTFJeGVScXBQdHlPb091M3BEWlRCbVI1MmxNZUxqaDNvTU9ENE0ydlllVm1NdUZ5d25YNGNkczVnRXB2MndveFJnQmxvMEtyTGFEUjV3VnhIczNGaWVOa0VrM3ZPeUZTZ0NNNXc?oc=5"
       },
       {
-       "name": "토큰포스트",
-       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpTndBS2piZWlIbUNWcXBjRzVFTEFPZHpwLW5lUlA4bmFDejdDVDNqbkF1UTFuVTJFaDFveDN6SEZhQkVhNXZMWEVQTjBpNDBjTHVXaHVNWQ?oc=5"
-      },
-      {
        "name": "SPN 서울평양뉴스",
        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZmNZa3dJNDBNLTVONXdEM3RQQzdCSjVkM1BxSmNlX3RsY05RZzRocV84b0NLVFdmVGxRVFBTNm1wclplSXNZcTBGQlJEM21sYjdkSzBTQlo1V3Fod182S0hUZkpkTm0xSEx3?oc=5"
+      },
+      {
+       "name": "스페셜경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9lN2toUFJ1cnZhV0w0aG9CeEY3NmxJQ3ZVMGgyZUV5ZzZ2UTdzZWZPWkpYYnFnZnRsb1ptTVVGT0hyb2J6aTBLcGtIVmFoOEJvT2UxakF4NHFZUGJXUnVfa3A2MHo5NVRQN2JuMg?oc=5"
       }
+     ],
+     "questions": [
+      {
+       "q": "미국의 대미 무역적자 확대에 따른 통상 압박이 가시화될 경우 해외영업팀은 어떻게 대비해야 할까요?",
+       "hint": "수출 시장 다변화, 현지화 투자 비중 검토, 인코텀즈 및 관세 분담 조항 재정비 등을 설명합니다."
+      },
+      {
+       "q": "통상 리스크로 인해 관세가 부과될 경우 기존 바이어와의 가격 협상을 어떻게 이끌어가겠습니까?",
+       "hint": "제품의 기술 경쟁력과 대체 불가능성을 부각하고 단계적 단가 조정 또는 물류비 최적화로 상쇄 방안을 제안합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1,330원대 하락과 수출 채산성 관리",
+     "summary": "수출기업들의 달러 매도 물량이 유입되면서 원·달러 환율이 5거래일 연속 하락해 1,338원선으로 마감했습니다. 고환율 수혜를 누리던 수출 기업들은 향후 본업 경쟁력과 환리스크 관리가 중요해졌습니다.",
+     "what": "수출기업의 네고 물량 출회 등으로 원·달러 환율이 1,330원대로 하락세를 이어가고 있습니다.",
+     "why": "강달러 흐름 속에서도 국내 수출 호조에 따른 달러 매도 수급이 상단을 누르며 원화 가치 절상 압력으로 작용했습니다.",
+     "impact": "환율 하락 시 원화 환산 매출과 영업이익률이 감소하므로, 해외영업 직무에서는 환헤지 실행과 결제 통화 다변화로 수익성을 지켜야 합니다.",
+     "tags": [
+      "환율",
+      "수출기업",
+      "원달러",
+      "외환"
+     ],
+     "sources": [
+      {
+       "name": "직썰",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UWHNCRjB1djl3Qlk4VHh6UWJCNWNwSkNpb1JyQ3BXODlONGQ0dGcxWl9kZnc1NzA4R0hjVmpuLVR4MkZ1X2laTzJ5aDNuMjNvdjNwb2NkbW9YV2VWWDhQbTQ5cGJQS0FF0gFsQVVfeXFMT1dNdk1ibmkxM2gtMERWMlU4eTNySHluREN4T3VMZkxPdzZGYUJQdFM3empEWmhXQzFNcXpVb0VNWUxyVUxXVm9RUlFGY3dQdUxESHFzSEgwQ2NpT3NjRFVGTFdsdi01ekRLeEM3?oc=5"
+      },
+      {
+       "name": "매경헬스",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9wN3NUU1hESWVoNmNGZjN4Uk8zNWFNeDZuZnBuNmdNc0J5N2E1RkF1WERhOW1WNmxfb0pEaUZwMkwyenpITEFvVVZzc3dYV1ZGa3dERWNwbUxkdDRNQklhNENvYkVwUU1LamtrSA?oc=5"
+      },
+      {
+       "name": "베타뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9INk1mbUNiVVBCd0dTZGI2eWF1VTNoUjVmUllhWXplaW5KWV9wX2M3b203VWwzTzJCRDZtY0JIVFJfbEFXdjY2b0hMNEd2emVHQXZwdFdSWTNfU1l2Mkd3RFJJUmU?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "원·달러 환율이 하락(원화 강세)할 때 해외영업 담당자로서 취해야 할 실무 조치는 무엇인가요?",
+       "hint": "단가 인상 협상 가능성 점검, 환변동보험 활용, 바이어와의 통화 바스켓 결제 검토 등을 제시합니다."
+      },
+      {
+       "q": "고환율 효과가 사라질 때 제품의 본원적 경쟁력을 증명할 수 있는 방안은 무엇입니까?",
+       "hint": "가격 할인에 의존하지 않는 품질, 납기 신뢰도, 애프터서비스 등 비가격 경쟁 요소를 강조합니다."
+      }
+     ],
+     "unverified": [
+      "1,330"
      ]
     },
     {
      "cat": "sales",
-     "title": "KOTRA, AI 무역인재 5600명 양성 추진",
-     "what": "KOTRA가 수출마케팅 전 과정에 AI를 활용할 수 있는 무역인재를 5년간 5,600명 양성하기 위해 2기 발대식을 개최했다.",
-     "why": "디지털 전환 가속화에 맞춰 무역 및 수출 실무 현장의 AI 활용 역량을 높이기 위함이다.",
-     "impact": "신입 지원자는 AI 기반의 데이터 분석, 바이어 발굴 및 마케팅 자동화 툴 활용 능력을 갖추어 실무 즉시 투입 가능한 인재임을 어필해야 한다.",
+     "title": "대러 전략물자 수출 통제와 규제 준수(Compliance)",
+     "summary": "정부는 대러 전략물자 수출을 전면 불허하고 있으며 제재 품목이 아닌 물자도 국제사회의 수출 통제 노력에 적극 동참하고 있다고 밝혔습니다. 일부 석유제품 공급 논란에 대해 정부 차원의 철저한 관리 감독 방침을 재확인했습니다.",
+     "what": "정부가 대러 전략물자 수출 통제 방침을 엄격히 유지하고 있음을 공식적으로 밝혔습니다.",
+     "why": "국제사회의 대러 제재 동참 기조와 우크라이나 사태 관련 국제 평화 유지 노력에 발맞추기 위함입니다.",
+     "impact": "해외영업 담당자는 바이어의 최종 사용자(End-user) 및 최종 목적지를 명확히 검증하고 무역 컴플라이언스 위반 리스크를 철저히 차단해야 합니다.",
      "tags": [
-      "KOTRA",
-      "AI무역인재",
-      "수출마케팅"
+      "전략물자",
+      "대러제재",
+      "컴플라이언스",
+      "수출통제"
      ],
      "sources": [
       {
-       "name": "헤럴드경제",
-       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWOFdocEdqSlBNM3lhdjJrRUh4TjRRWlNTcl9DSlpnczdiX1M0V2FDaXN5MUFUUW5GUzMxeVVMdFM3cG4zV2hiUmdvV1pKNkYzZGZPQ1lB?oc=5"
-      },
-      {
-       "name": "워크투데이",
-       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTUoxQktKY2dxblhQcVpISUM2RXhrMk1NQkVTWTl4dEtHWWFhM09WSEwwazFadVQxaC1QX3BSdV9GVmNVN3ZISVBKa3RMbmhidjlScVpQeDVpWU1YV0R5WEpmbThjVXZManJkaA?oc=5"
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xM3Yxb3Q0RzJnMllYMFMwRlRZNk1FWUdrMzJwYUdib2phUkt2UjNmWDRjRVNRcG1tSUFsUl8zek5ITTdRbU5xZmozMDd5a25UNkRZdUVIbV9iR1Z0R25LY9IBYEFVX3lxTE0xM3Yxb3Q0RzJnMllYMFMwRlRZNk1FWUdrMzJwYUdib2phUkt2UjNmWDRjRVNRcG1tSUFsUl8zek5ITTdRbU5xZmozMDd5a25UNkRZdUVIbV9iR1Z0R25LYw?oc=5"
       },
       {
        "name": "이데일리",
-       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZGRkSlNQVEJnT1JDTmo5ME9pMVAxTE40N0RnWHlfWXB4cmR0SUJjMVpRZTNITTNXckVzVkJoMldKV2ZRS3plbW4xd0JhUk5QZ0wzZU5HOHotTy1fckdfNXVlNEF6c0s5UlBPaktvZFBsNW9iQUc3dS1aZXRfYjdrbg?oc=5"
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd29ZYi1uaEFFN0NRQ2UydTZOTjZVdDZ1cUZUb05kQW9zemNrSFNJWm1BTDJTYjhkT1p0NTVHdW9Td2doeGQxNjBJVUt6bUkzaWQ1R1lyeTlwVS1qeWJGM3cyU1N0cjBzQzVIVUNaLXZoNmU0eUNWUmNhYjZQUEVjbg?oc=5"
+      },
+      {
+       "name": "나우뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Bc0FBNTY4YVAzTHhjU3J5cmtGbjdZSEVjd0psU1ZZZzlCYVVQU1NMOXE2b3FpamsxeWkwN2lzazVOWU5FQWhKbThWRE5rWUF5cTVhZkdYajh3MmFKV0JoZXdpV2tPMExVVUhsVFRJQmI?oc=5"
       }
-     ]
+     ],
+     "questions": [
+      {
+       "q": "전략물자 수출 통제 대상 국가나 제3국 우회 수출 의혹이 있는 바이어를 접했을 때 어떻게 대응하겠습니까?",
+       "hint": "사내 컴플라이언스팀 보고, 전략물자 판정 절차 준수, 최종 사용자 확인서(EUC) 징구 절차를 언급합니다."
+      },
+      {
+       "q": "해외영업에서 매출 목표 달성과 무역 컴플라이언스 준수가 충돌할 때 어떤 기준을 두겠습니까?",
+       "hint": "제재 위반 시 기업 전체의 대외 신인도와 영업 기반이 박탈될 수 있으므로 원칙 준수가 최우선임을 밝힙니다."
+      }
+     ],
+     "unverified": []
     }
    ],
    "interview": [
     {
-     "topic": "최근 원·달러 환율 하락이 수출 기업의 영업 활동에 미치는 영향과 대응 방안",
+     "topic": "WTO, 올해 상품무역 증가율 3.9%로 상향…\"AI 호황, 이란전 충격 상쇄\"",
      "script": [
-      "최근 외환시장에서 달러 강세 요인에도 불구하고 수출업체의 달러 매도 물량이 유입되면서 원·달러 환율이 1,330원대까지 하락했습니다.",
-      "이는 그동안 환율 상승으로 누려왔던 환차익 효과가 줄어들고, 수출 기업들의 매출 마진 방어에 부담으로 작용하고 있습니다.",
-      "해외영업 신입 사원으로서 저는 단순히 환율 변동에 기대기보다, 제품 자체의 기술 경쟁력을 강조하고 환리스크 관리 부서와 긴밀히 협력해 마진율을 방어하겠습니다.",
-      "결론적으로 환율 하락 국면일수록 현지 바이어와의 가격 협상력을 높이고 비가격 경쟁 요소를 강화하는 영업 전략이 필수적이라고 생각합니다."
+      "최근 'WTO, 올해 상품무역 증가율 3.9%로 상향…\"AI 호황, 이란전 충격 상쇄\"' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "해외영업 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
      ],
      "followups": [
-      "",
-      ""
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
      ]
     },
     {
-     "topic": "해운 성수기 및 운임 변동성에 대응하는 SCM 관점의 물류비 절감 방안",
+     "topic": "HMM·팬오션, '성수기·운임 급등' 업고 3Q도 '好好'",
      "script": [
-      "최근 주요 해운사들이 성수기와 운임 급등에 힘입어 호실실적을 기록하고 있습니다.",
-      "이는 글로벌 물동량 증가와 해상 운송 환경의 변화로 인해 화주들의 운송비 부담이 커지고 있음을 의미합니다.",
-      "물류·SCM 직무 지원자로서 저는 선복 확보를 조기에 진행하고, 대체 운송 경로를 발굴하여 물류비 급등 리스크를 최소화하겠습니다.",
-      "체계적인 재고 관리와 유연한 운송 계획 수립을 통해 안정적인 공급망을 유지하는 것이 물류 경쟁력의 핵심이라고 생각합니다."
+      "최근 'HMM·팬오션, '성수기·운임 급등' 업고 3Q도 '好好'' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
      ],
      "followups": [
-      "",
-      ""
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
      ]
     }
    ],
    "concept": {
-    "title": "선복(Ship's Slot/Space)",
-    "body": "선박 내에서 화물을 적재할 수 있는 공간이나 장소를 의미합니다. 해운 시장의 성수기나 물동량이 몰릴 때는 선복 부족 현상이 발생하여 운임이 급등하곤 합니다.",
-    "tip": "해외영업 및 물류 직무 면접에서 '선복 확보'는 수출입 납기를 맞추기 위한 핵심 과제로 다뤄집니다. 물류 파트너와의 우호적 관계 유지와 사전 예약(Booking)의 중요성을 강조할 때 유용한 용어입니다."
+    "title": "전략물자 수출통제 (Strategic Goods Export Control)",
+    "body": "전략물자 수출통제는 대량살상무기(WMD), 재래식 무기 및 이들의 개발·제조에 사용될 수 있는 이중용도(Dual-use) 품목의 수출을 국가가 사전에 심사하고 제한하는 제도입니다. 일반 공산품이나 화학·정밀부품도 군사용으로 전용될 가능성이 있으면 전략물자로 분류되며, 허가 없이 수출할 경우 무역 제재 및 형사처벌을 받을 수 있습니다.",
+    "tip": "면접에서 수출 컴플라이언스 관련 질문이 나오면 전략물자 판정 시스템(트레이드넷 등) 확인 절차와 최종 사용자 확인서(End-User Certificate) 징구의 중요성을 언급하면 전문성을 어필할 수 있습니다."
    }
   },
   {
