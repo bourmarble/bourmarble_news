@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09 20:23",
+ "updated": "2026-10-10 06:17",
  "items": [
   {
    "id": "578f121e79",
@@ -103,6 +103,41 @@
    "tags": [
     "관세·통상"
    ]
+  },
+  {
+   "id": "ebadc4dc85",
+   "date": "2026-10-09",
+   "title": "IntraAsia '컨' 운임, 상승 6주만에 하락 반전",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ITDZYbjloSGxNYnh1ejdsZGRFV016cTJ0OEZBOUxfQTVDVG81eEdoRFFHZ3g0a0RPU1J1YzFBbXVkdlZUNm1PNEdEYTRubGNwYUZwSHU0ZlJYbmJRdjFJMGNKVzk0UQ?oc=5",
+   "source": "해양통신",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "4f4f70bbcb",
+   "date": "2026-10-09",
+   "title": "EU-중국: 무역 적자 사상 최고치 경신, 무역 전쟁 불가피한가?",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzdLbDU0ZnNsNDg1Y3dUUUJObjlWdEZ3cXJrS2dnaDNmdV9NYkFzRkZiMUNEUDBoVjdSQ0VFdUZFUVdIMkdHY3dIRTVJY0JWbEdGb1Z1X25mWkt6ekdfb2VvSFJHcUU4UzJvcUZCaTUxdGxENlllc21yYnVYdVlUSGpFaWo0eWJXWnUtbm1ZUzRETW9pM0x3N1NkMDhzczJxdl9wcEtXcXNORzBwTERWTzFDRQ?oc=5",
+   "source": "Vietnam.vn",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "f279f0ec7b",
+   "date": "2026-10-09",
+   "title": "세계무역기구(WTO)는 인공지능(AI) 붐 덕분에 세계 상품 무역 성장률 전망치를 상향 조정했습니다.",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSjNPOFlYSzJSUVM0c2JmOHl2bWVwcW5lc3Z0Y3BtTXFXaXFaRXR0ZVFEbEtWYXp0c3ZVRzgzRmEzMmhET2FrNmpsQ1FJYUlTLWlLemk0UjN5RklpblBpSzUwYkIyWGNMSlo3b0RJMnFGTk1xOXpMclJvaUFzSnpRNHhsMVdaR2daeG1oMUVUZXYxM3pDcEdTeEt3aTN4Zw?oc=5",
+   "source": "Vietnam.vn",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
   },
   {
    "id": "709417b801",
@@ -567,6 +602,30 @@
    ],
    "tags": [
     "자동차"
+   ]
+  },
+  {
+   "id": "9ebd22408b",
+   "date": "2026-10-08",
+   "title": "9월 브라질 철광석 수출 감소",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOEUzQmZESmttWlpKT05nVzBMYzNDWGhyUEF1OXlXcVI2dnduVVRfcHdWbHgxUk80QmpNeG9HbnJxUk0tOVNlSjA0dkQ3cGRzNnp2Ujc1UER5LVdXX1dNN0hWeFAxVU1LVnBsaWRLMHp4QXI3TTIzZmFkbV9NbUljd0U2NVpJVmM?oc=5",
+   "source": "IndexBox",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "23f005d447",
+   "date": "2026-10-08",
+   "title": "원달러 환율, 461억 달러 경상흑자와 해외투자를 읽는 법",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11ZUw1YkZCbU1xMW9GdUNQcm8zSVowT1RVY0R3eG04OFpuTnpMMHJMTUhBTUJ3SWpwOVVvTFZGNE45MnhZNE1PaXNZeDlRanZfbWc?oc=5",
+   "source": "EBC Financial Group",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
    ]
   },
   {

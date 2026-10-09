@@ -1,6 +1,206 @@
 {
- "updated": "2026-10-09 20:25",
+ "updated": "2026-10-10 06:18",
  "days": [
+  {
+   "date": "2026-10-10",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "WTO, AI 붐 힘입어 글로벌 상품무역 성장률 3.9%로 상향",
+     "summary": "세계무역기구(WTO)가 인공지능(AI) 호황 등에 힘입어 올해 세계 상품무역 증가율 전망치를 3.9%로 상향했습니다. 분쟁 등 대외 충격 요인에도 불구하고 AI 관련 수요가 글로벌 교역 회복을 견인하고 있는 것으로 평가됩니다.",
+     "what": "WTO가 올해 세계 상품무역 성장률 전망치를 기존보다 높은 3.9%로 상향 조정함.",
+     "why": "AI 투자 확대 및 AI 산업 호황이 지정학적 불안 충격을 상쇄하며 무역 수요를 견인함.",
+     "impact": "글로벌 IT 및 관련 기자재 품목을 중심으로 해외 바이어의 발주 확대 기회가 생기며, 신규 시장 진입 및 타깃 지역 다변화 전략 수립에 긍정적인 신호로 작용함.",
+     "tags": [
+      "WTO",
+      "AI",
+      "반도체",
+      "IT장비"
+     ],
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MZ3huSFpkODFmcmRhRkEySXJkM1UxQ1hUX0NfckhYMGFNcm1ZQVFWVTBNR2FYaU5ocVRNaEZKTHcxWTExX3V5OGNvTlJyY3NUSUNjbnExYThNbERpNmVDdjFMNkJacTdnUzBFVnU1eEpSeWw0WnRWRtIBeEFVX3lxTE9MZ3huSFpkODFmcmRhRkEySXJkM1UxQ1hUX0NfckhYMGFNcm1ZQVFWVTBNR2FYaU5ocVRNaEZKTHcxWTExX3V5OGNvTlJyY3NUSUNjbnExYThNbERpNmVDdjFMNkJacTdnUzBFVnU1eEpSeWw0WnRWRg?oc=5"
+      },
+      {
+       "name": "투데이신문",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xQWJXX3JHV1dLdk1aTXF6ZnNCWkVfMFRzQmdVeWx2THY4c2R6TWFIa3IyMktuSEx4UzVFUE42ZndXTlptS1FQV185Ylp4TzI5UWVPbm9RV2JqczJCWjFaMkpvQ0FoekhpZ3Q4eFBQSdIBb0FVX3lxTE8xQWJXX3JHV1dLdk1aTXF6ZnNCWkVfMFRzQmdVeWx2THY4c2R6TWFIa3IyMktuSEx4UzVFUE42ZndXTlptS1FQV185Ylp4TzI5UWVPbm9RV2JqczJCWjFaMkpvQ0FoekhpZ3Q4eFBQSQ?oc=5"
+      },
+      {
+       "name": "팩트인뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3SVI5bk5POGhvZzVrM2JfLWsyWUhRV1c0UFdZZmJld1BxT0VOeDJmM3RLTjE2Y3ZHaU1xOC1FeGxIaXdZTEtMWVJOVFJrVEg4bFVqbTNwSVdYcWdEWDdaV3Rnd0FNNXVCR3hyRjQtekPSAXRBVV95cUxQbjF0RlVLMkZMV3Ztb2ZENXp2dWhCMkpaLTMyVGxoNFRzMk0zTlVqcHFNaWhobnVvOXVFU19YUmV6c0Z5QnhIRVNXLWx1ZkFFcUVvRzNiYURtRUViUHFlUC1HVEpLLUJVcTk2ZXdwS0pNSVlKbg?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "AI 산업 중심의 무역 호황 속에서 전통 제조업 품목을 담당하게 된다면 어떤 영업 전략을 취하겠습니까?",
+       "hint": "AI 밸류체인과 연결 가능한 연관 부품/소재 수요를 발굴하거나, IT 인프라 확장에 필요한 파생 설비 시장을 공략하겠다고 답변합니다."
+      },
+      {
+       "q": "글로벌 교역 전망치 상향이 해외영업 현업 사원의 분기별 매출 목표 설정에 어떤 영향을 주나요?",
+       "hint": "전체 수요 증대 흐름을 반영해 공격적인 파이프라인 확장을 시도하되, 지정학적 리스크 등 변수에 대비한 단계별 실행 계획을 강조합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "Intra-Asia 컨테이너 운임, 6주 만에 하락 반전",
+     "summary": "아시아 역내 컨테이너선 운임이 연속 상승세를 멈추고 6주 만에 하락세로 돌아섰습니다. 단기적인 해상 운임 변동성에 따라 역내 운송을 진행하는 화주들의 물류비 예측 관리가 요구됩니다.",
+     "what": "아시아 역내(Intra-Asia) 컨테이너 운임이 6주간 이어진 상승세를 마감하고 하락 반전함.",
+     "why": "단기적인 선복 공급과 역내 선적 수요 간의 일시적 수급 조정 또는 계절적 요인 발생 추정.",
+     "impact": "아시아 역내 수출입 비중이 높은 기업의 단기 물류비 부담이 완화될 수 있으나, 운임 변동성이 커져 선사 계약 시점 선정 및 스팟(Spot) 운임 모니터링이 중요해짐.",
+     "tags": [
+      "해운",
+      "컨테이너",
+      "물류비",
+      "아시아"
+     ],
+     "sources": [
+      {
+       "name": "해양통신",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ITDZYbjloSGxNYnh1ejdsZGRFV016cTJ0OEZBOUxfQTVDVG81eEdoRFFHZ3g0a0RPU1J1YzFBbXVkdlZUNm1PNEdEYTRubGNwYUZwSHU0ZlJYbmJRdjFJMGNKVzk0UQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "운임이 하락 반전하는 시기에 물류 담당자로서 장기 계약(SC)과 스팟 운임 중 무엇을 선호하겠습니까?",
+       "hint": "하락 추세 안정 여부를 확인하기 위해 단기적으로 스팟 비중을 유연하게 활용하면서, 장기 계약 갱신 시 인하 조항을 반영하겠다고 답합니다."
+      },
+      {
+       "q": "해상 운임의 급격한 변동이 아시아 역내 공급망 리드타임에 미칠 영향은 무엇이라고 봅니까?",
+       "hint": "선사들의 임시 결항(Blank Sailing)이나 스케줄 변경 가능성을 언급하며, 리드타임 버퍼 확보와 실시간 트래킹의 중요성을 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "철강 수출 4회 연속 증가 및 수출 단가 15.8% 상승",
+     "summary": "철강 품목의 수출이 연속 증가세를 기록한 가운데 수출 단가도 15.8% 상승했습니다. 단가 인상 흐름 속에서 수출 실적의 외형적 성장세가 이어지고 있습니다.",
+     "what": "철강 수출이 4개 연속 증가세를 이어가고 수출 단가가 15.8% 올랐음.",
+     "why": "글로벌 원자재 가격 변동, 고부가가치 제품 중심 수출 믹스 개선 또는 공급망 여건 변화 반영 추정.",
+     "impact": "해외영업 담당자는 바이어와의 가격 인상 협상에서 마진을 방어할 근거를 확보하는 한편, 단가 부담으로 인한 이탈을 막기 위해 장기 납품 신뢰성을 강조해야 함.",
+     "tags": [
+      "철강",
+      "원자재",
+      "수출단가"
+     ],
+     "sources": [
+      {
+       "name": "www.ebn.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZZk9xdy1ESVJ5SFRFWThzNUxqd3R2NDZ3RzBBQjZnS0tmNU5WbmpSSEwyU1ZsemlKTC1VdVp4MWpzMjdlM0kzdnJfendmNzNZWmI0NDhvbllxRzJLZVRBWXF5Y08yWjdm?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출 단가가 15% 이상 급등했을 때 기존 바이어의 단가 인하 압박을 어떻게 방어하겠습니까?",
+       "hint": "품질 우수성, 안정적 납기, 원자재 시장 시세 데이터를 객관적으로 제시하며 윈-윈 가능한 물량 연동형 단가 구조를 제안합니다."
+      },
+      {
+       "q": "수출 물량(Volume)과 단가(Price) 중 현재 실적을 견인하는 핵심 지표를 어떻게 해석해야 합니까?",
+       "hint": "단가 상승이 실적을 견인할 때는 판가 유지와 함께 실수요 물량이 유지되고 있는지 점검해 허수 성장을 경계해야 한다고 답변합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1,330원대 안착 시도와 원화 강세 움직임",
+     "summary": "원·달러 환율이 1,330원대 안착을 시도하며 추가적인 원화 강세 가능성이 주목받고 있습니다. 환율 하락은 수출 기업의 원화 환산 매출 및 채산성에 직접적인 영향을 줄 수 있습니다.",
+     "what": "원·달러 환율이 하락세를 보이며 1,330원대 진입을 타진하고 있음.",
+     "why": "글로벌 통화 정책 기대감 및 대외 금융 시장 환경 변화에 따른 원화 가치 변동 추정.",
+     "impact": "달러 결제 비중이 높은 해외영업 부서는 원화 환산 수익성 악화에 대비해 환헤지 전략을 점검하고, 계약서 내 결제 통화 조건 재협상을 검토해야 함.",
+     "tags": [
+      "외환",
+      "환율",
+      "수출채산성"
+     ],
+     "sources": [
+      {
+       "name": "굿모닝경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5oNWtxTElXTnBXdHI4LXpadGxQMFpyQl9fZGttTFRwc2l6WWxER0VSbkp1NWI5SGlYMnhrYWI1U0VNNEhKSUhWdG9hZ0NtNnZ1NWJfdnBPelYtM1F5dkNvRW9VWVRjMnd5cnJEVg?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 급격히 하락(원화 강세)할 때 해외영업 신입사원으로서 어떤 실무적 대응을 취할 수 있습니까?",
+       "hint": "견적 유효기간(Validity) 단축, 바이어와의 환변동 완충 조항(Currency Clause) 반영, 결제 시점 관리를 들 수 있습니다."
+      },
+      {
+       "q": "원화 강세 국면에서 가격 경쟁력을 보완하기 위해 비가격적 요소로 무엇을 제시하겠습니까?",
+       "hint": "납기 준수율, 맞춤형 패키징 및 기술 지원, 유연한 최소주문수량(MOQ) 제안 등을 제시합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "EU-중국 무역 적자 사상 최고치 경신과 무역 갈등 우려",
+     "summary": "EU와 중국 간 무역 적자가 사상 최고치를 경신하면서 무역 갈등 격화에 대한 우려가 커지고 있습니다. 양측 간 통상 압박과 규제 강화는 제3국 수출 기업에 기회와 위기를 동시에 안겨줄 수 있습니다.",
+     "what": "EU의 대중국 무역 적자가 최고 수준에 달하며 무역 분쟁 가능성이 제기됨.",
+     "why": "중국산 제품 수입 급증 및 양자 간 교역 불균형 심화.",
+     "impact": "EU의 반덤핑 등 무역 장벽 강화 시 중국산 대체 공급망을 찾는 유럽 바이어를 확보할 기회가 생기는 반면, 글로벌 통상 불확실성은 확대됨.",
+     "tags": [
+      "EU",
+      "중국",
+      "통상규제",
+      "무역분쟁"
+     ],
+     "sources": [
+      {
+       "name": "Vietnam.vn",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzdLbDU0ZnNsNDg1Y3dUUUJObjlWdEZ3cXJrS2dnaDNmdV9NYkFzRkZiMUNEUDBoVjdSQ0VFdUZFUVdIMkdHY3dIRTVJY0JWbEdGb1Z1X25mWkt6ekdfb2VvSFJHcUU4UzJvcUZCaTUxdGxENlllc21yYnVYdVlUSGpFaWo0eWJXWnUtbm1ZUzRETW9pM0x3N1NkMDhzczJxdl9wcEtXcXNORzBwTERWTzFDRQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "EU와 중국 간 통상 갈등이 심화될 때 한국 수출 기업이 취할 수 있는 기회 요인은 무엇입니까?",
+       "hint": "중국 공급망 리스크를 회피하려는 유럽 고객사들의 '차이나 플러스 원' 기조를 파고들어 신규 벤더 등록을 타진하는 전략을 언급합니다."
+      },
+      {
+       "q": "글로벌 무역 분쟁 심화 시 통상 규제 리스크를 관리하기 위해 영업사원이 확인할 문서는 무엇입니까?",
+       "hint": "원산지증명서(C/O), 품목분류(HS Code), 반덤핑 관세 부과 여부 등을 사전에 통관 부서 및 관세사와 확인해야 한다고 답변합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "WTO, 올해 상품무역 증가율 3.9%로 상향…\"AI 호황, 이란전 충격 상쇄\"",
+     "script": [
+      "최근 'WTO, 올해 상품무역 증가율 3.9%로 상향…\"AI 호황, 이란전 충격 상쇄\"' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "해외영업 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "IntraAsia '컨' 운임, 상승 6주만에 하락 반전",
+     "script": [
+      "최근 'IntraAsia '컨' 운임, 상승 6주만에 하락 반전' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "Spot 운임 vs Contract 운임 (스팟 운임과 장기 계약 운임)",
+    "body": "해상 물류에서 스팟(Spot) 운임은 선적 시점의 시장 수급에 따라 즉시 결정되는 단기 운임이며, 콘트랙트(Contract) 운임은 화주와 선사가 특정 기간(통상 6개월~1년) 동안 일정 물량을 약정하고 고정된 가격으로 맺는 장기 운임입니다. 운임 상승기에는 장기 계약 운임이 물류비 급증을 막아주는 방패가 되지만, 운임 하락기에는 스팟 운임이 더 저렴해져 장기 계약이 불리하게 작용할 수 있습니다.",
+    "tip": "면접에서 '운임 변동 리스크를 어떻게 관리할 것인가'라는 질문을 받으면, 고정 계약을 통한 물류 안정성과 스팟 부킹을 통한 비용 절감 간의 포트폴리오 밸런스를 잡겠다고 설명하세요."
+   }
+  },
   {
    "date": "2026-10-09",
    "mode": "ai",
