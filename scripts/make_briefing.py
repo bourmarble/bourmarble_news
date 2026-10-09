@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """수집한 뉴스로 일일 브리핑 생성: Gemini 무료 API를 시도하고, 실패하면 규칙 기반 틀로 대체."""
-import json, os, re, sys, urllib.request
+import json, os, re, sys, time, urllib.error, urllib.request
 from datetime import datetime, timedelta, timezone
 
 KST = timezone(timedelta(hours=9))
@@ -28,6 +28,20 @@ TEMPL = {
     "other": ("공급망 변화는 비용과 납기에 영향을 줍니다.",
               "담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다."),
 }
+QTEMPL = {
+    "fx": [("환율이 내려가면 수출 마진에 어떤 영향이 있고 어떻게 대응하나요?", "견적 환율 기준, 환율 변동 조항, 환헤지 협의를 언급"),
+           ("환율 변동이 큰 시기에 바이어와 가격은 어떻게 협의하나요?", "견적 유효기간 단축, 결제 통화·조건 조정 제안")],
+    "freight": [("운임이 오르내릴 때 영업에는 어떤 영향이 있나요?", "Incoterms에 따른 운임 부담 주체와 원가·납기 영향 설명"),
+                ("운임 정보는 어디서 확인하나요?", "SCFI·KCCI·포워더 견적을 함께 확인한다고 답변")],
+    "tariff": [("관세가 오르면 수출 가격은 어떻게 대응하나요?", "HS Code·FTA 확인, 비용 분담 협의, 시장 다변화"),
+               ("관세 이슈를 어떻게 모니터링하나요?", "관세청·무역협회·KOTRA 등 신뢰 출처 언급")],
+    "export": [("최근 수출 통계에서 눈에 띈 점과 그 이유는?", "품목·지역별 증감과 원인을 근거와 함께 설명"),
+               ("수출이 좋은데 담당 품목은 부진하다면?", "품목별 수요·단가 차이를 확인하고 원인 분석")],
+    "port": [("납기 지연이 예상되면 어떻게 대응하나요?", "원인 파악, 대체 항로·선사 확인, 바이어에 조기 통보"),
+             ("항로 변경은 비용과 납기에 어떤 영향을 주나요?", "운송 기간·연료비 변화를 설명")],
+    "other": [("이 이슈가 담당 업무에 미칠 영향은?", "원인, 영향 대상, 대응 방안 순서로 답변"),
+              ("관련 정보를 어떻게 꾸준히 확인하나요?", "신뢰 출처와 점검 주기를 구체적으로 설명")],
+}
 CONCEPTS = [
     {"title": "SCFI와 KCCI", "body": "SCFI는 상하이거래소가 발표하는 중국 출발 컨테이너 운임 지수이고, KCCI는 한국해양진흥공사가 발표하는 한국 출발 운임 지수입니다. 둘의 방향과 항로별 차이를 같이 보면 시황 흐름을 읽을 수 있습니다.", "tip": "면접에서 지수 이름과 방향을 함께 말하면 시황을 챙긴다는 인상을 줍니다."},
     {"title": "HS Code", "body": "무역 상품을 분류하는 국제 번호로, 관세율·FTA 적용·수입 규제가 이 번호로 정해집니다. 분류를 잘못하면 추징이나 통관 지연이 생길 수 있습니다.", "tip": "관세 이슈가 나오면 HS Code 기준으로 영향 품목부터 확인하겠다고 답하세요."},
@@ -52,7 +66,8 @@ def rule_briefing(sel):
             if cat in it["cats"] and it["id"] not in used and n < 3:
                 why, imp = TEMPL[kind(it["title"])]
                 used.add(it["id"]); n += 1
-                issues.append({"cat": cat, "title": it["title"], "what": it["title"], "why": why, "impact": imp,
+                issues.append({"cat": cat, "title": it["title"], "summary": it["title"], "what": it["title"], "why": why, "impact": imp,
+                               "questions": [{"q": q, "hint": h} for q, h in QTEMPL[kind(it["title"])]], "unverified": [],
                                "tags": it["tags"][:5], "sources": [{"name": it["source"] or "원문", "url": it["link"]}]})
     iv = []
     for cat, label in (("sales", "해외영업"), ("log", "물류·해운")):
@@ -71,7 +86,7 @@ def build_prompt(sel):
 규칙:
 - 제목에 없는 수치·사실·기업 정보를 지어내지 마라. 불확실하면 일반적인 해석으로 쓰고 단정하지 마라.
 - 이슈 4~6개를 골라 해외영업(sales) 중심으로 분석하되 물류(log)도 포함하라. 비슷한 기사는 하나로 묶어라.
-- 각 이슈 필드: cat("sales" 또는 "log"), title(짧은 제목), what(무슨 일), why(왜), impact(누구에게 어떤 영향, 해외영업 직무 관점), tags(관련 산업·기업 이름 0~5개), ids(근거 기사 id 1~3개).
+- 각 이슈 필드: cat("sales" 또는 "log"), title(짧은 제목), summary(기사 제목에서 확인되는 내용만으로 2문장 이내 요약), what(무슨 일), why(왜), impact(누구에게 어떤 영향, 해외영업 직무 관점), tags(관련 산업·기업 이름 0~5개), ids(근거 기사 id 1~3개), questions(이 이슈로 면접관이 물을 만한 예상 질문 2개: 각각 q(질문), hint(답변 방향 한 줄)).
 - interview: 2개(해외영업 1, 물류 1). 각각 topic, script(4문장: 요약/원인/직무 연결/내 생각), followups(꼬리질문과 답변 방향 2개).
 - concept: 신입이 알아둘 무역·물류 개념 1개(title, body, tip).
 - JSON만 출력. 스키마: {{"issues":[...],"interview":[...],"concept":{{...}}}}
@@ -93,16 +108,38 @@ def call_gemini(prompt, key):
         url = f"https://generativelanguage.googleapis.com/v1beta/models/{m}:generateContent"
         body = json.dumps({"contents": [{"parts": [{"text": prompt}]}],
                            "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3}}).encode()
-        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
-        try:
-            with urllib.request.urlopen(req, timeout=90) as r:
-                data = json.load(r)
-            print("Gemini 모델:", m)
-            return parse_json(data["candidates"][0]["content"]["parts"][0]["text"])
-        except Exception as e:
-            last = e
-            print(f"모델 {m} 실패: {e}", file=sys.stderr)
+        for attempt in range(3):  # 일시적 오류(503 등)는 쉬었다가 같은 모델로 재시도
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+            try:
+                with urllib.request.urlopen(req, timeout=90) as r:
+                    data = json.load(r)
+                print("Gemini 모델:", m)
+                return parse_json(data["candidates"][0]["content"]["parts"][0]["text"])
+            except urllib.error.HTTPError as e:
+                last = e
+                print(f"모델 {m} 실패(시도 {attempt + 1}): {e}", file=sys.stderr)
+                if e.code in (429, 500, 502, 503, 504) and attempt < 2:
+                    time.sleep(8 * (attempt + 1))
+                    continue
+                break
+            except Exception as e:
+                last = e
+                print(f"모델 {m} 실패: {e}", file=sys.stderr)
+                break
     raise RuntimeError(last)
+
+
+NUM = re.compile(r"\d[\d,]*\.?\d*")
+
+
+def unverified_numbers(texts, base):
+    base = base.replace(",", "")
+    out = []
+    for n in NUM.findall(" ".join(texts)):
+        k = n.replace(",", "").rstrip(".")
+        if len(k) >= 2 and k not in base and n.rstrip(".,") not in out:
+            out.append(n.rstrip(".,"))
+    return out[:5]
 
 
 def s(v):
@@ -118,8 +155,12 @@ def validate_ai(d, byid):
         if not src:
             continue  # 근거 기사가 없는 이슈는 버림
         tags = [s(t) for t in i.get("tags", []) if s(t)][:5]
-        issues.append({"cat": "sales" if i.get("cat") == "sales" else "log", "title": s(i["title"]), "what": s(i["what"]),
-                       "why": s(i["why"]), "impact": s(i["impact"]), "tags": tags, "sources": src})
+        qs = [{"q": s(q.get("q")), "hint": s(q.get("hint"))} for q in i.get("questions", []) if isinstance(q, dict) and s(q.get("q"))][:3]
+        base = " ".join(byid[x]["title"] for x in i.get("ids", []) if x in byid)
+        summary = s(i.get("summary")) or s(i["what"])
+        issues.append({"cat": "sales" if i.get("cat") == "sales" else "log", "title": s(i["title"]), "summary": summary,
+                       "what": s(i["what"]), "why": s(i["why"]), "impact": s(i["impact"]), "tags": tags, "sources": src,
+                       "questions": qs, "unverified": unverified_numbers([summary, s(i["what"]), s(i["why"]), s(i["impact"])], base)})
     iv = [{"topic": s(x.get("topic")), "script": [s(t) for t in x["script"]][:4],
            "followups": [s(t) for t in x.get("followups", [])][:2]}
           for x in d.get("interview", []) if isinstance(x.get("script"), list) and len(x["script"]) >= 4 and s(x.get("topic"))]
