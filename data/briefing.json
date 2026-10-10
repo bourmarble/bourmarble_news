@@ -1,6 +1,184 @@
 {
- "updated": "2026-10-10 06:18",
+ "updated": "2026-10-11 06:19",
  "days": [
+  {
+   "date": "2026-10-11",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "지정학 리스크와 고환율 장기화",
+     "summary": "지정학 리스크와 고환율이 내년 수출 기업의 영업이익률을 가르는 핵심 변수로 작용하고 있으며, 환율은 1330원 안착 등 변동성이 확대되고 있습니다.",
+     "what": "고환율과 지정학 리스크가 지속되며 수출 기업의 수익성에 큰 영향을 미치고 있습니다.",
+     "why": "글로벌 환율 판도가 수급과 성장률에 따라 변화하고 지정학적 불안이 가중되기 때문입니다.",
+     "impact": "해외영업 담당자는 환율 변동에 따른 가격 경쟁력 변화를 모니터링하고 환 헤지 전략을 고민해야 합니다.",
+     "tags": [
+      "환율",
+      "수출입"
+     ],
+     "sources": [
+      {
+       "name": "www.thefairnews.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuNEhMOGZFOWdFUW9ydDE3U3d6OXVSVkRxbDlzdWFSRmd5N29IQ2RkQ0RsRHA3a1g3NDE0SUhKdUlORmt3d0RaUXBoOXR0UWVVLXdkX3ZFNGhBM2dfSHZoTkNxTS1WajB0c19LbUxiMnk?oc=5"
+      },
+      {
+       "name": "미디어펜",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wWS13SDhXeU1hdWhUTnpfc3ZIVUVXLUhjN3ZHV2dGR0VEUWRGSGJfNjlEOUpza0k2YjNoWVpZYnlyS0tJOUwzcjB0TlFwUTdwaVFpadIBWEFVX3lxTFA3Wnhpc2tiZng2bktjempaUVpadjZPNlJhMzZ0YU5fQTB1WjVIMWdIX1EwanY2ZU9qYl9GbkNmX016amN1Vm5KdkJrWU1wOXNQWUxRN2MxY0I?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 상승이 수출 기업의 매출과 영업이익에 미치는 복합적인 영향은 무엇인가요?",
+       "hint": "원화 약세 시 외화 환산 매출 증가 효과와 원부자재 수입 비용 증가에 따른 마진 압박을 함께 설명합니다."
+      },
+      {
+       "q": "고환율 국면에서 해외영업 사로서 취할 수 있는 대응 방안은 무엇이 있나요?",
+       "hint": "바이어와의 가격 협상력 유지 방안 및 환 헤지 부서와의 협업을 언급합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "중국-EU 하이브리드차 수출 감축 합의",
+     "summary": "중국과 EU가 하이브리드 자동차 수출 수백만 대 감축 원칙에 합의하면서 통상 갈등에 일단 제동이 걸렸습니다.",
+     "what": "중국산 하이브리드차의 대(對)EU 수출량이 감축되는 통상 합의가 이루어졌습니다.",
+     "why": "양측 간의 지속된 통상 갈등과 무역 적자 해법을 고심한 결과입니다.",
+     "impact": "완성차 및 부품 해외영업 담당자는 글로벌 자동차 시장의 규제 변화와 무역 마찰에 따른 대체 시장 발굴을 검토해야 합니다.",
+     "tags": [
+      "중국",
+      "EU",
+      "하이브리드차"
+     ],
+     "sources": [
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTHNaRTJaQV9sQ1FVYy1PZUI5YXBjaEtXRGJwbjZXV0pEVHpCYXFnX2pVcVMwRjZEX3NtY201MmhDYlRNMlJSdzk4dTZ3bWk0X0cxVFNucjhnV1ZuTEZ0Z0VPRDdFZnY4bk1pMVNYNHlrV0doZlp2Tmo4T0wxSklZcXdLVjVVbE1U?oc=5"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VT1owaF9QdVVfMEo1cmZIbDhCQ25DZmhqUHFkRUZRMWNxUXdHWVp4YklxT0kxbGFXS2NIQjNmc25Vd0xvUlVMTWxEWlVKRUZJOUFVd082dUVLa1JvT1BUdFpBNFp6ZXZiVUVJWEl30gFuQVVfeXFMTlVPWjBoX1B1VV8wSjVyZkhsOEJDbkNmaGpQcWRFRlExY3FRd0dZWnhiSXFPSTFsYVdLY0hCM2ZzblV3TG9SVUxNbERaVUpFRkk5QVV3TzZ1RUtrUm9PUFR0WkE0WnpldmJVRUlYSXc?oc=5"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UT2g4UDhiM2xNMzZXb0tCUUVjVF9NZW9Lb2RKSUM0a09LUXVodS1PRmVkTlVpUEF5a0dWVHJCSEtvOUVtQXFDWXRmZzlfUHR2akHSAVNBVV95cUxOTUhKS1VaaXdqSGJlczItc2RGWmJlVWhhci1qZjY4bFh0T050M1ljLTFYZmZwUEFMOHNRNnF6V1lvV3ladlR5WTUwaEdDNjV3allZOA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "주요국의 통상 갈등으로 수출 물량이 제한될 때 해외영업의 대처법은 무엇인가요?",
+       "hint": "규제 우회 방안이나 제3국으로의 수출 다변화 전략을 제시합니다."
+      },
+      {
+       "q": "자동차 산업의 통상 환경 변화가 공급망에 미치는 영향은 무엇입니까?",
+       "hint": "부품 조달부터 완성차 판매까지의 리스크 관리 필요성을 강조합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "수에즈운하 복귀 조기화 및 해상 초크 포인트 리스크",
+     "summary": "컨테이너 선사의 수에즈운하 복귀율이 80%에 달하며 복귀 시점이 내년 2월로 앞당겨졌으나, 글로벌 해상 초크 포인트 리스크로 대체 항로 확보가 관건입니다.",
+     "what": "수에즈운하 운항 재개 움직임이 빨라지는 동시에 해상 요충지 리스크가 상존하고 있습니다.",
+     "why": "글로벌 물류 병목 현상을 해소하려는 선사들의 노력과 지정학적 불안이 공존하기 때문입니다.",
+     "impact": "물류 및 SCM 담당자는 운송 경로 변경에 따른 리드타임 변동에 유연하게 대처해야 합니다.",
+     "tags": [
+      "수에즈운하",
+      "해운",
+      "SCM"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JT3pXdHNXOHFaRjZHN01GcFFKekgwNExYWHVRZUxMU19XUnlOY0FBTnc0RV9rWHRIRm5ZX0hLdl9GSUlsd1lEYXkzNWZXQmRjMWpPZTJZaHFQUW9iamVBQ1BOaFlFUHg5MEhrY29LNlJRWE0?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA2UWFxMFg2amFnT3FCbG0tSlhIZ3MxV3VHNEtkM2wyaTZiT0lSQzh3eFhfZDMyMktLZ1I1eTFBWmsxLW9Xd0FjNTdzQWh0aVNTZXhwUFNiTk9OR0pRUUQtRHVtTVJlRUkxWndzNjVEcHd3RmM?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수에즈운하 복귀가 앞당겨질 때 해상 운임과 리드타임에는 어떤 변화가 생기나요?",
+       "hint": "운송 일수 단축과 이에 따른 운임 하방 압력 가능성을 설명합니다."
+      },
+      {
+       "q": "해상 초크 포인트 리스크에 대응하기 위한 SCM 관점의 전략은 무엇인가요?",
+       "hint": "대체 항로 사전 파악 및 안전 재고 확보의 중요성을 말합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "아시아역내 운임 하락 및 SCFI 변동",
+     "summary": "드류리에 따르면 아시아역내 운임이 전년 동기 대비 소폭 하락했으며, 상하이발 컨테이너운임지수(SCFI) 등 운임 지표가 변동하고 있습니다.",
+     "what": "아시아 역내 해상 운임이 전년 동기 대비 내림세를 보였습니다.",
+     "why": "선박 공급과 수요의 수급 상황 변화가 반영되었기 때문입니다.",
+     "impact": "수출입 물류 담당자는 운임 변동 추이를 활용해 물류비를 절감하고 운송 계약을 유리하게 체결해야 합니다.",
+     "tags": [
+      "드류리",
+      "SCFI",
+      "해상운임"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MRHBQVXgxNkUtOGlMdGdoMGo2RTdMT2dZUUthMUtXUUw4ZTllVnhCNWFXMnZyY2x1Vm53MWVMckkwdkwtQzVaVGtJWU1wdWt0bHBwMjVGV1ZrSUdPZmJyT05uQXA1SjdPYnUyaEU5UFgxQ1k?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WVHZfdVN6SUhxMVBHTnNoMlZRZTNqVmFGSTBRZGZHdFZwTWQzNzNhWUZUbVQ4T282NDRKRjZyNlUxVlYyME0zMXA5M08xd2wtcDJDbUxtS1BOdzNGWXlvUFFlNG5uYVBrLXM4SnFnd2t2Qkk?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임 하락 시 수출 기업이 물류비를 최적화하는 방법은 무엇인가요?",
+       "hint": "장기 운송 계약(SC)과 스팟 계약의 비중 조절을 언급합니다."
+      },
+      {
+       "q": "SCFI 등 운임 지수 동향을 해외영업과 물류 부서가 어떻게 공유해야 할까요?",
+       "hint": "견적 산정 시 물류비 변동분을 적시에 반영하기 위한 부서 간 협업을 강조합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "반도체 수입 24억달러 증가…미국 8월 무역적자 1056억달러",
+     "script": [
+      "최근 '반도체 수입 24억달러 증가…미국 8월 무역적자 1056억달러' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "해외영업 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "드류리 발표, 아시아역내 운임 1% 하락...작년 동기에 비해 소폭 내려",
+     "script": [
+      "최근 '드류리 발표, 아시아역내 운임 1% 하락...작년 동기에 비해 소폭 내려' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "초크 포인트 (Choke Point)",
+    "body": "해상이나 육상의 무역 물류에서 좁은 해협이나 운하 등 반드시 통과해야 하는 지리적 요충지를 의미합니다. 수에즈운하, 말라카해협 등이 대표적이며, 이곳에서 지정학적 리스크나 사고가 발생하면 글로벌 공급망 전체가 마비될 수 있습니다.",
+    "tip": "물류 및 SCM 직무 면접에서 '공급망 리스크 관리' 역량을 어필할 때 자주 쓰이는 용어입니다."
+   }
+  },
   {
    "date": "2026-10-10",
    "mode": "ai",
