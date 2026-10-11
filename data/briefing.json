@@ -1,6 +1,227 @@
 {
- "updated": "2026-10-11 06:19",
+ "updated": "2026-10-12 06:20",
  "days": [
+  {
+   "date": "2026-10-12",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "코트라 지원 기업, 미국 관세 5200만 달러 환급 수령",
+     "summary": "코트라의 지원을 받은 48~50여 개 국내 수출 기업이 미국으로부터 5200만 달러 이상의 관세를 환급받았습니다. 다만 일부 기업의 미수령 문제나 상담 급감 등 실질적 사후 지원 강화 필요성도 함께 제기되었습니다.",
+     "what": "대미 수출 기업들이 무역 유관기관(코트라) 지원을 통해 과오납되거나 환급 가능한 미국 관세를 돌려받는 성과를 냈습니다.",
+     "why": "복잡한 현지 통관 규정 및 관세 제도 속에서 정부 기관의 컨설팅 지원이 실질적인 비용 회수로 연결되었기 때문입니다.",
+     "impact": "해외영업 담당자는 단순 제품 수주에 그치지 않고, 통관 및 관세 리스크를 철저히 관리하여 숨은 영업이익을 방어하는 관세환급(Drawback) 절차의 중요성을 체감하게 됩니다.",
+     "tags": [
+      "KOTRA",
+      "관세청",
+      "무역협회"
+     ],
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWG1oVHhCbHMwb204VTZuUlNiSWpQVlA0bHktRTUySzI5RXM5aUYyWFo3VW9sNkxVSjlxTURoUFNIV29ZeGtmd1FsRklreUJoZ0NHVVNLRnZkczdHRnpUdtIBYEFVX3lxTFBGWG1oVHhCbHMwb204VTZuUlNiSWpQVlA0bHktRTUySzI5RXM5aUYyWFo3VW9sNkxVSjlxTURoUFNIV29ZeGtmd1FsRklreUJoZ0NHVVNLRnZkczdHRnpUdg?oc=5"
+      },
+      {
+       "name": "https://www.entv.kr/",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4aEJtX0ltVk04YklBbms5bXJVQ3dHRGpYelZvaFhYaUR6U18tNmhuZDNERUdETVNoanlLaGdvT0Vwa2tHTV9MRVhEa2U1SEl5b0lQX3BCS3B4TVhJeVhjZHpnS1o?oc=5"
+      },
+      {
+       "name": "중앙뉴스타임스",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBST1paOFR3OEFpLXFHaS10MDVXdjQ1VklvQ2hhU1p0aXJlVzJFbXRTUGlDU2NBMzhMeEFkRzZTODM0SXBCcFBLTHB3QXBORWh3MHhCeEdYUjQ1UjJOSDNJVElTYjE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해외영업 실무에서 관세 환급이나 통관 규정 모니터링이 수익성에 어떤 영향을 미치나요?",
+       "hint": "관세는 수출 단가 및 마진과 직결되므로 규정 준수와 환급 제도를 활용해 불필요한 비용 누수를 막는 방어적 수익 창출이 중요함을 설명합니다."
+      },
+      {
+       "q": "현지 수입 규제나 관세 장벽이 높아졌을 때 영업 담당자로서 어떻게 대처하겠습니까?",
+       "hint": "코트라 등 유관기관 지원 사업을 신속히 파악하고, 바이어와의 인코텀즈 계약 조건 재검토나 통관 코드(HS Code) 최적화를 검토하겠다고 답합니다."
+      }
+     ],
+     "unverified": [
+      "5200"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "K-소스 및 K-푸드 수출 역대 최대치 경신",
+     "summary": "한국의 매운맛과 감칠맛을 앞세운 K-소스 수출이 역대 최대치를 경신하며 2년 연속 4억 달러 돌파가 유력해졌습니다. 라면 등 가공식품 분야에서도 내수 부진을 수출 호조로 상쇄하는 흐름이 뚜렷합니다.",
+     "what": "K-소스와 라면 등 K-푸드 품목이 글로벌 시장에서 큰 호응을 얻으며 수출 기록을 새로 쓰고 있습니다.",
+     "why": "글로벌 한류 확산과 함께 한국 식문화에 대한 현지 소비자 수요가 증가했기 때문입니다.",
+     "impact": "식품 및 소비재 해외영업 담당자는 현지 유통망 다변화와 함께 문화적 트렌드를 제품 포지셔닝에 적극 결합하는 마케팅 영업 역량을 강화해야 합니다.",
+     "tags": [
+      "K푸드",
+      "식품가공",
+      "라면"
+     ],
+     "sources": [
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91X0s1WHlwdHprR25TYzd4LUdSQ1BBMjh0a25ZOEp0YVBmUDVmUFpXbmlGNzl3REptck96VXpOQ1RXM21VU3g5MWNySTVEMUU4c3d3aWtBdWgxQQ?oc=5"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EVmt5MlRFYWU4VklUYlVzZ2VZTlJGX1Zlc3hXbkFDUjA2QzRLbndEdDVUOEtKSXkwTnh2TnkwRUZFbUhWU0MwaF83dWNHVHBTd3hhcGxjRmZKdw?oc=5"
+      },
+      {
+       "name": "국민기자뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SOVFRUVZPVnp2b1lhbk5BYjZhUFFaLUtzYjlRd01pWS1ZUUI3b2ZZdTBLZ1BUekJ3c2R2VDE3OEVfR3dZU1lya3pxSkZBeUZSVVQ3V1g0VWRFVVNXQjZGbHN2aXZBV1HSAWdBVV95cUxNUjlRUVFWT1Z6dm9ZYW5OQWI2YVBRWi1Lc2I5UXdNaVktWVFCN29mWXUwS2dQVHpCd3NkdlQxNzhFX0d3WVNZcmt6cUpGQXlGUlVUN1dYNFVkRVVTV0I2Rmxzdml2QVdR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "특정 K-콘텐츠 열풍으로 급성장한 품목의 수출 지속성을 담보하려면 어떤 영업 전략이 필요한가요?",
+       "hint": "단기적 유행에 그치지 않도록 현지 주류 오프라인 유통 채널(대형마트 등)에 안정적으로 입점하고 현지화 레시피를 제안해야 함을 강조합니다."
+      },
+      {
+       "q": "신규 해외 시장에 K-푸드 제품을 수출할 때 가장 먼저 점검해야 할 요소는 무엇입니까?",
+       "hint": "해당 국가의 수입 식품 안전 규제, 라벨링 요건, 첨가물 기준 등 비관세 장벽과 유통 기한 관리를 위한 물류 조건을 점검하겠다고 답변합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 변동성과 지정학 리스크, 수출 기업 이익률 핵심 변수",
+     "summary": "원·달러 환율이 1330원대에서 등락을 보이며 미국 물가 및 금리 정책에 주목하고 있는 가운데 지정학 리스크와 고환율 장기화가 내년 수출 기업 영업이익률을 가를 변수로 꼽힙니다. 반도체 수출 호조에 따른 달러 유입 등 환율 변동 요인이 복합적으로 작용하고 있습니다.",
+     "what": "지정학 리스크와 환율 변동성 확대가 수출 기업들의 영업이익률과 채산성에 직접적인 영향을 미치고 있습니다.",
+     "why": "미국 거시경제 지표 발표, 금리 정책 전망, 글로벌 분쟁 등 복합적인 대외 불확실성이 지속되고 있기 때문입니다.",
+     "impact": "해외영업 담당자는 계약 체결 시 환율 변동 리스크를 헤지하기 위해 결제 통화 다변화나 환변동 보험 등 금융적 대응 방안을 면밀히 고려해야 합니다.",
+     "tags": [
+      "외환",
+      "반도체",
+      "현대로템"
+     ],
+     "sources": [
+      {
+       "name": "www.thefairnews.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuNEhMOGZFOWdFUW9ydDE3U3d6OXVSVkRxbDlzdWFSRmd5N29IQ2RkQ0RsRHA3a1g3NDE0SUhKdUlORmt3d0RaUXBoOXR0UWVVLXdkX3ZFNGhBM2dfSHZoTkNxTS1WajB0c19LbUxiMnk?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNnVZNm96R2c1UlAzMjRvMmVSS2RtaG15bVNxTUNZR0x1Uk5JeVVSZmpvU0JvbkxQSFVqbkRFaVEyUVk0eEtla3RFWnU1elUzVHRwUzZmc3htRTJ4U00zc0pJUVdtaFBrS2FrQkk3a0pDeHZhamhNR1gyamFVNVI0dw?oc=5"
+      },
+      {
+       "name": "블루밍비트",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0zOS04NEVhUHNwTXlxWmpTVlduWFlBVGVyOHJyN20zd2RKdFJLeWxfUHBfTFJ3dWlpS3cwWVUwVDVMN0NISUdXRWRyNThFcW43?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "원·달러 환율 하락(원화 강세) 국면에서 해외영업 수주 경쟁력을 유지하기 위한 방안은 무엇인가요?",
+       "hint": "가격 경쟁력 약화를 극복하기 위해 납기 단축, 품질 및 AS 등 비가격 경쟁력을 강조하고 원가 절감 노력을 병행해야 함을 제시합니다."
+      },
+      {
+       "q": "지정학 리스크로 인해 수출 대금 결제나 운송에 차질이 우려될 때 어떻게 대응하시겠습니까?",
+       "hint": "안전한 결제 조건(L/C 등) 활용 비중을 높이고 바이어와의 긴밀한 소통으로 대체 운송 루트 및 비상 플랜을 선제적으로 수립하겠다고 말합니다."
+      }
+     ],
+     "unverified": [
+      "1330"
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "해상운임 상승과 중국발 자동차 물동량에 해운·물류사 3분기 순항",
+     "summary": "해상운임 상승과 중국 완성차 운송 수요 등에 힘입어 HMM과 현대글로비스 등 주요 해운·물류 기업의 3분기 실적이 호조세를 보일 전망입니다. 글로벌 공급망의 지정학적 요인과 해상 운임 변동이 물류 시장 전반을 견인하고 있습니다.",
+     "what": "해상 운임 상승과 특수 화물(자동차 등) 물동량 확대로 주요 원양 해운 및 물류 대기업의 3분기 실적이 개선되고 있습니다.",
+     "why": "글로벌 지정학적 불안으로 인한 항로 우회 등 공급망 경색과 특정 지역의 완성차 수출 물동량 확대가 운임을 지지했기 때문입니다.",
+     "impact": "물류 및 SCM 담당자는 급등락하는 해상운임 속에서 장기 선복(Space)을 사전에 확보하고 물류 원가 상승분을 최소화하는 최적 운송 포트폴리오를 짜야 합니다.",
+     "tags": [
+      "HMM",
+      "현대글로비스",
+      "해운"
+     ],
+     "sources": [
+      {
+       "name": "아이뉴스24",
+       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE01ejRiLVE3WWlzbzA3M2JZc2p0R25tc25QbHZPM1BxREZwUnk2emk1SVdqMGlqbTdIM190V0JEMUV3RUVxQTRN?oc=5"
+      },
+      {
+       "name": "중대신문",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CdkdlZnYwZGdmVnNhRTVIZ25kVTQzUmNCV1lpZGl5WlYyZUNnUnBkd0poeDRNZ1dVWmFaNmd2dzlQNFVpNXVkcjdqOFBGSWR1dHowY29fejFqcFA5NmFlbXhoZmZvMG_SAWtBVV95cUxQVEp0bDRWMUVGdk1jLUJRUHVEdnBXYkxZUlZWZ3hKU1Yza2h0TGxLNml1Um5JZTVGU0FVQmdWTTBvZ2V5ZlhZVWxMQVNfcmp2TG9nRldyem9MUUhtTTlxU1lad2lrYXBTdWg0RQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상운임이 급격히 상승할 때 화주 입장에서 취할 수 있는 SCM 물류비 절감 방안은 무엇인가요?",
+       "hint": "포워더와의 장기계약(SC) 비율 조절, 컨테이너 적재율 극대화, 대체 항로나 복합운송 루트 검토 등을 언급합니다."
+      },
+      {
+       "q": "해운 선사들의 실적 호조가 일반 수출 기업 물류 담당자에게는 어떤 의미를 갖나요?",
+       "hint": "선사의 수익 증대는 화주의 물류비 부담 증가 및 선복난을 의미할 수 있으므로 일정 관리와 운임 모니터링 역량이 더욱 중요해집니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "항만 공공데이터와 AI 기술 결합한 선박 출항시간 예측 서비스 출시",
+     "summary": "인천항만공사가 공공데이터를 개방해 스타트업의 'AI 기반 선박 출항시간 예측 서비스' 출시를 지원했습니다. 항만 운영 데이터가 물류 예측 정확도 제고에 기여할 것으로 기대됩니다.",
+     "what": "항만 공공데이터를 활용한 AI 기반 선박 출항 시간 예측 솔루션이 개발·출시되었습니다.",
+     "why": "항만 정체와 입출항 불확실성을 데이터 기반으로 해소하여 스마트 항만 물류 체계를 구축하기 위함입니다.",
+     "impact": "수출입 물류 및 포워딩 관리자는 입출항 지연으로 인한 체선료(Demurrage/Detention) 리스크를 줄이고 육상 운송과의 연계 스케줄링을 정교화할 수 있습니다.",
+     "tags": [
+      "인천항만공사",
+      "스마트항만",
+      "AI물류"
+     ],
+     "sources": [
+      {
+       "name": "컨슈머타임스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zOUZKOFdSOVowYzNPUmYwVHVyc3VtcWJ1M2JSVWc3Qm1MQTJrbVIxVGlvRWNUS1ktZ285YUdfSThDVFc5c2dFbEhTZ25xVk9IdE1CYlNCcEI1ZGJFVjRzNmVONjNIVGp6RGc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "선박의 입출항 지연(항만 체선)이 전체 SCM 리드타임에 미치는 영향과 이를 줄이기 위한 방법은 무엇입니까?",
+       "hint": "선박 지연은 후속 내륙 운송과 고객 납기 지연으로 이어지므로 디지털 가시성(Visibility) 솔루션을 통해 사전 대체 스케줄을 잡아야 합니다."
+      },
+      {
+       "q": "물류 프로세스에서 AI 및 공공데이터를 접목할 수 있는 또 다른 영역을 제안해 보세요.",
+       "hint": "창고 재고 수요 예측, 최적 트럭 배차 및 복합운송 경로 탐색 등 데이터 기반 물류 최적화 사례를 제시합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "반도체 수출 호황에…달러 넘치는 외환시장",
+     "script": [
+      "최근 '반도체 수출 호황에…달러 넘치는 외환시장' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "세계 공급망의 물길을 가르며",
+     "script": [
+      "최근 '세계 공급망의 물길을 가르며' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "관세 환급 (Duty Drawback)",
+    "body": "관세 환급이란 수출용 원재료를 수입할 때 납부했던 관세 등을 해당 원재료로 만든 물품을 정해진 기간 내에 수출했을 때 되돌려주는 제도, 또는 착오로 과오납된 관세를 사후에 돌려받는 절차를 의미합니다. 수출 기업의 원가 부담을 덜어주고 국제 경쟁력을 높이기 위해 전 세계적으로 널리 활용되고 있습니다.",
+    "tip": "면접에서 '영업이익 방어' 방안을 묻는다면 원가 절감뿐 아니라 인코텀즈 계약에 따른 DDP 거래 시의 관세 환급이나 원재료 수입 후 가공 수출 시 관세 환급 제도를 활용할 수 있음을 언급하면 전문성을 보여줄 수 있습니다."
+   }
+  },
   {
    "date": "2026-10-11",
    "mode": "ai",
