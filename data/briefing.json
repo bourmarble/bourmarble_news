@@ -1,6 +1,228 @@
 {
- "updated": "2026-10-12 06:20",
+ "updated": "2026-10-14 06:29",
  "days": [
+  {
+   "date": "2026-10-14",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 하락 및 변동성 확대",
+     "summary": "원·달러 환율이 2년 만에 최저 수준으로 떨어지는 등 하락세를 보였으나, 중동 리스크와 달러 강세 요인으로 인해 1340원대 안팎에서 혼조세를 나타내고 있다. 수출 기업들은 환율 하락에 따른 채산성 악화와 환차손 우려로 긴장하고 있다.",
+     "what": "원·달러 환율이 2년래 최저치로 하락한 뒤 중동 리스크 및 달러 강세 등 복합 요인으로 변동성이 커지며 1330~1340원대를 오가고 있음.",
+     "why": "수출업체의 네고 물량(달러 매도)과 수출 호조세가 원화 강세를 유인하는 한편, 중동 지정학적 리스크와 미 달러화 강세가 상방 압력으로 작용하기 때문.",
+     "impact": "해외영업 담당자는 환율 하락 시 수출 단가 경쟁력 약화 및 원화 환산 매출액 감소를 겪으며, 환헤지 전략과 가격 협상력 보완이 필수적임.",
+     "tags": [
+      "삼성전자",
+      "SK하이닉스",
+      "국내 수출기업"
+     ],
+     "sources": [
+      {
+       "name": "경향신문",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jU0twMmxxMV9NM29qMXVweFFDb29oQUlXSzNvM0ZMS1NqX3NRT090QlJxMlViUndCWUVKZERNNTcxYlE1dVRKYmVQX2hFR25sVUJpa2dLUWFad9IBX0FVX3lxTE11YlpkdW8yVXdIMlNFbWdIUFN2bU51a1RobGZSVlhtMXViSTZNVk5MSF9RZlVJU2t1VUt5WlRUNnIwUk9iYjZNTWpHUEV1NXNXWThfMnR3clQzOVg0Q2w4?oc=5"
+      },
+      {
+       "name": "연합뉴스 한민족센터",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HWkpzN1FqbTdxVVFyS2w2T0hQV1ZRU1huaGFNOXhTcGZTZm93eVRKbzJYaVN4ZE9Pa3pQc1YtZVFvSWlWWXgxRHZfbWJrODl2Q25ZS1dJUUdBRk9xTzRJOFF0VDRMcWFMWFMwWXhhWnNnRnNO?oc=5"
+      },
+      {
+       "name": "블로터",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UQlRCYlVEQ2JfVW40c2lPME0yVlY2VXNoVjlxRFc5Zy1tUnFPOEV1UWRZdENUZ3Fzc25XbTZzWkMxYVZNSlVacDlHNUNJZmZxMm9jb09RUzFON2dHSndRbHk3YUtCbmhESUlxTdIBbEFVX3lxTE9UQlRCYlVEQ2JfVW40c2lPME0yVlY2VXNoVjlxRFc5Zy1tUnFPOEV1UWRZdENUZ3Fzc25XbTZzWkMxYVZNSlVacDlHNUNJZmZxMm9jb09RUzFON2dHSndRbHk3YUtCbmhESUlxTQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 하락할 때 수출 중심 기업의 해외영업 담당자로서 가장 먼저 취해야 할 대응은 무엇인가요?",
+       "hint": "환헤지(통화선물, 옵션) 활용 상황 점검 및 바이어와의 판가 재협상 가능성 검토."
+      },
+      {
+       "q": "최근 환율 변동성이 큰 상황에서 바이어가 단가 인하를 요구해 올 때 어떻게 대처하겠습니까?",
+       "hint": "환율 효과 외에 제품의 품질, 납기, 토탈 SCM 서비스 등의 비가격 경쟁력을 강조."
+      }
+     ],
+     "unverified": [
+      "1340",
+      "1330"
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "글로벌 해상운임 혼조세 및 컨테이너 운임 변동",
+     "summary": "유럽항로 컨테이너 운임이 14주 만에 반등하고 북미 동안 운임도 재상승하는 등 노선별로 반등세를 보이고 있다. 반면 일부 구간은 선복량 복귀 등으로 운임이 완화되거나 해운주가 혼조세를 보이는 등 불확실성이 지속되고 있다.",
+     "what": "유럽 및 북미 항로 중심의 컨테이너 운임이 반등하는 등 글로벌 해상운임의 변동성이 확대됨.",
+     "why": "지정학적 리스크와 선복량 수급 변화, 계절적 수요 요인이 복합적으로 작용했기 때문.",
+     "impact": "물류비 상승은 수출입 기업의 원가 부담을 가중시키므로, SCM 및 물류 담당자는 운임 추이를 모니터링하고 최적의 선적 루트를 확보해야 함.",
+     "tags": [
+      "HMM",
+      "팬오션",
+      "KOBC"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4tMldWQTllTmhrM3VnSmVFMkZIa2VQVHhoa2NFX1otd3RUTjR4OU9MX0FtYVJIcy1jM0NBYmg4YjJTZ3VSMWpvdWpyR2Y3WnZpbFJqdjJzckJ0dnlTWVBVLWFKTVZRdEdWUHlfVmhKTHhvQkU?oc=5"
+      },
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKX2hDM3I2VW1wNkQ4MUZIb1FvLURmNnlRS0Q3MWZNMTU3ajdwbklHRXVzbVR2Q19RLTlsVC1SYXZOeGU3RUVoU3hiLUY1aHo4TzktRHBhYWVMUE1oNzltWS1mNm9xeEQ3TmZlRHBqZVlzZHYzcGRz0gF3QVVfeXFMUEpfaEMzcjZVbXA2RDgxRkhvUW8tRGY2eVFLRDcxZk0xNTdqN3BuSUdFdXNtVHZDX1EtOWxULVJhdk54ZTdFRWhTeGItRjVoejhPOS1EcGFhZUxQTWg3OW1ZLWY2b3F4RDdOZmVEcGplWXNkdjNwZHM?oc=5"
+      },
+      {
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbFk5MGxpeWJsYU0tempUSXNHX1A5VldMT2FpNEt0Ty1YM196VnFyS1FmSmxiQWNpdE5CVW1HZ3djX1BpNWQta3FzU29JU2dVZTlaUTZqSHhVeTdRWXFDMGRSZ0ZXUE5xbFBYOUQ3ajhIYWVjaGp6eG1OTmIwdWpWVDFmcnAzS1dGYkN4YWIyR0NLRnRpVWVieGFldEk?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 급등락할 때 물류 부서에서 선제적으로 대응할 수 있는 방안은 무엇인가요?",
+       "hint": "장기 운송 계약(SC 계약) 비중 확대와 대체 항로·선사 발굴."
+      },
+      {
+       "q": "운임 상승이 회사의 영업이익에 미치는 영향을 최소화하기 위해 영업과 물류 부서가 어떻게 협업해야 합니까?",
+       "hint": "운송 비용 인상분을 판가에 반영하거나 출하 일정을 조율하는 부서 간 소통."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "반도체 공급 과잉 우려와 환율 복합 영향",
+     "summary": "메모리 반도체 호황기임에도 불구하고 공급 과잉 우려와 환율 요인으로 인해 관련 대형주들의 주가와 체감이 주춤하고 있다. 반도체 업황 변동은 국내 전체 수출 전선과 연관성이 높다.",
+     "what": "반도체 호황 국면 속에서도 공급 과잉 및 환율 리스크가 겹치며 관련 업계의 불확실성이 커짐.",
+     "why": "향후 공급 물량 증가 전망과 환율 하락에 따른 실적 우려가 동시에 작용했기 때문.",
+     "impact": "반도체 및 IT 부품 수출 기업의 해외영업 담당자는 전방 산업의 재고 수준과 수급 동향을 면밀히 파악해야 함.",
+     "tags": [
+      "삼성전자",
+      "SK하이닉스"
+     ],
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DTDg5VW9JRDlzWjFLZDBvSkFUOGZ1UlR2REpMSGFhUzRXbXZVelZucHU2X1hGRm9aLWh3eGM4V1plNS1HemdhNmZ3MlV3dU5UXy1mZWhVckRXYmpOYmM3aEpxcDdsc19seDhjNkV0cUwwRDdJTzhPYdIBeEFVX3lxTE9DTDg5VW9JRDlzWjFLZDBvSkFUOGZ1UlR2REpMSGFhUzRXbXZVelZucHU2X1hGRm9aLWh3eGM4V1plNS1HemdhNmZ3MlV3dU5UXy1mZWhVckRXYmpOYmM3aEpxcDdsc19seDhjNkV0cUwwRDdJTzhPYQ?oc=5"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kemF6djlZN2FhSWRsZlN6SkR0R0VjbnQyUUs2VDEySHhIamFfTS1vc3l3Z1FlTzVZS0IzNUVsTTdMLUJ5dEVfck9JaXFVREdjV0xTbk42NGVEUTlBUDc5ctIBeEFVX3lxTE8yZlNVbWJoYW90LUJpVG1fbC1rM0c5cXJIOGhPSnljMVQ1UmQ3aGtUMnFwWjdZdjU2aUl4MzlpNGpWcEw5Q1h1MzJnTFZXM2VLZmt0NEVLSFNqRFJxbUlPUjFpeEVzQTJTaVFPZTR1RHZpOTZ2T3BsOA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "전방 산업의 공급 과잉 우려가 제기될 때, 해외영업 사원으로서 리스크를 관리하는 방법은?",
+       "hint": "고객사별 재고 소진 현황 파악 및 장기 계약을 통한 물량 안정화 도모."
+      },
+      {
+       "q": "환율과 업황이 동시에 불리하게 움직일 때 영업 전략을 어떻게 수정해야 할까요?",
+       "hint": "고부가가치 제품 집중 판매 및 수익성 중심의 오더 선별 수주."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "물류 디지털 전환, SaaS 및 AI 기반 SCM 플랫폼 구축",
+     "summary": "로지스올시스템즈 등 물류 관련 기업들이 SaaS와 AI를 기반으로 한 End-to-End SCM 통합 플랫폼을 구축하고 있다. 구매와 조달부터 배송까지 전 과정을 디지털화하여 효율성을 높이려는 시도가 이어지고 있다.",
+     "what": "물류 및 SCM 분야에서 SaaS와 AI 기술을 결합한 통합 플랫폼 도입이 확산됨.",
+     "why": "복잡해진 글로벌 공급망에서 가시성을 확보하고 운영 효율성을 극대화하기 위함.",
+     "impact": "물류 및 SCM 신입 지원자는 최신 IT 시스템(SaaS, AI)을 이해하고 데이터를 활용한 공급망 최적화 역량을 갖추는 것이 중요해짐.",
+     "tags": [
+      "로지스올시스템즈",
+      "삼영물류"
+     ],
+     "sources": [
+      {
+       "name": "헬로티",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94aGVybmgtcXRuSDNEWVZldTBiMzRmX09JQ05hVzF0ZnZTSWJWUE9qb2x3aWctT2RhZFlwUkQxaW5KNHRlejRaZXp1ZXh5dDJkR3QyaXFQemgzdnlqYXMw?oc=5"
+      },
+      {
+       "name": "물류신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTkNTVk0xX0hkdEZRMmVIYllwTVJjeWN0aVNHNVM2NEdsSElVcnRsUmFhNVNlbkJSMjNEcmhpRXhuZl9WTFJqd016WHI1SnRlYXQxYW9waW54MDhtUURaNnFKWFdrbUNnQTFn?oc=5"
+      },
+      {
+       "name": "아웃소싱타임스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE83VjdYaTFkOUNNSGJVcHc2SWUwU1RaOTBkRFZka1duejJDRndTdHlPOVJEMC1MZl8tVXpfLVF3cXBSeF9RRzBWWjBLTExmcXVpcWNaUTlKRkRfWnRHMjF5WXBiTTE1MTFFclpBMUxONUQ5UQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "물류 SCM 분야에서 AI와 SaaS 도입이 왜 중요한지 본인의견을 말해보세요.",
+       "hint": "공급망 가시성(Visibility) 확보와 실시간 데이터 기반의 의사결정 효율화."
+      },
+      {
+       "q": "신입 물류/SCM 담당자로서 AI 기반 물류 플랫폼을 실무에 어떻게 활용할 수 있겠습니까?",
+       "hint": "수요 예측 정확도 향상 및 재고 최적화 데이터 분석에 활용."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "국가별·품목별 틈새 수출 시장 확대 (캐나다 파스너·중국 EU 무역 합의)",
+     "summary": "캐나다 파스너 시장 등 수입 의존도가 높은 틈새 시장에서 한국산 제품의 수출이 증가하고 있다. 또한 EU와 중국 간 하이브리드 자동차 및 희토류 관련 무역 합의 등 지역별 규제 변화가 수출입에 영향을 미치고 있다.",
+     "what": "캐나다 파스너 등 특정 품목의 대외 수출이 늘어나고 주요 경제권 간 무역 협정이 변화함.",
+     "why": "현지 시장의 수입 수요 증가와 국가 간 통상 정책 및 쿼터 조율의 결과.",
+     "impact": "해외영업 담당자는 전통 주력 시장 외에도 신흥 틈새 시장의 수요를 발굴하고 규제 변화에 신속히 대응해야 함.",
+     "tags": [
+      "캐나다 파스너 시장",
+      "EU",
+      "중국"
+     ],
+     "sources": [
+      {
+       "name": "철강금속신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3eE1ZaFFILWVKSldySlh2V2ppNlZMRUhlMXkxeENrM0xWNVBvdkMtcXpZdmd2XzVSSHdybVloMDBwM256WG1BUWkxYzNIMUZwbGItdndUOEl2UTZOVFF4M0Y2aVZ0blI3SVE?oc=5"
+      },
+      {
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWFCM2dqU01QSGtWNlFWNFZURU01MTE3U2Y3ZEllck02Y29yek5JUnhZa0cxSWRGbDVPZDRNdkVfTGJkSDdRcDRwQXh5dFZYSzRpcVp4RVQ1djhiRE9ON2pTOTRUallBRDE3QzhjdmJiMDdHRTV0WERDWjVEWDFlRFNFWk4xeGlQM1NTUTlqZldRNFBEUk9DZ3RCbnhxcXJLaUdvakk3cF9ZUjhHSVhiQm5yMmJ5UlotX1pnN2lTLXlFeGR3Nmc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수입 의존도가 높은 틈새 해외 시장을 공략할 때 해외영업으로서 가장 중요한 전략은?",
+       "hint": "현지 바이어의 신뢰 확보 및 경쟁국 대비 우수한 품질·납기 경쟁력 어필."
+      },
+      {
+       "q": "주요 국가 간 무역 합의나 규제 완화가 우리 회사의 수출에 미치는 기회를 어떻게 포착하겠습니까?",
+       "hint": "통상 뉴스 및 현지 규제 동향 모니터링을 통한 선제적 바이어 제안."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "환율 하락에 따른 해외영업 대응 방안",
+     "script": [
+      "최근 원·달러 환율이 2년 내 최저 수준으로 떨어지거나 변동성이 커지면서 수출 기업들의 수익성 우려가 커지고 있습니다.",
+      "이는 달러 강세와 원화의 개별 요인, 그리고 중동 리스크 등 대외 변수가 복합적으로 작용했기 때문입니다.",
+      "해외영업 신입으로서 저는 환율 하락 시 단순히 가격 경쟁력 약화에 좌절하기보다, 환헤지 상품 활용 현황을 점검하고 고부가가치 제품 중심의 영업으로 수익성을 방어하겠습니다.",
+      "입사 후에도 환율 변동 추이를 매일 모니터링하며 유관 부서와 긴밀히 소통해 리스크를 최소화하는 영업 사원이 되겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "해상 운임 변동성과 물류 SCM 리스크 관리",
+     "script": [
+      "최근 유럽항로 컨테이너 운임이 반등하고 지정학적 리스크로 인해 해상운임의 변동성이 확대되고 있습니다.",
+      "이는 선복량 수급 불균형과 글로벌 공급망의 구조적 취약성이 원인입니다.",
+      "물류·SCM 담당자로서 저는 운임 상승기에 대비해 장기 운송 계약을 검토하고, 대체 항로를 선제적으로 파악하여 운송 차질을 막겠습니다.",
+      "입사 후에도 데이터 기반의 물류 모니터링을 통해 최적의 납기를 준수하고 물류비를 절감하는 데 기여하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고(Negotiation / 네고시에이션)와 환전·환헤지",
+    "body": "무역 실무에서 '네고(Nego)'란 수출업자가 선적 서류를 은행에 제시하여 대금을 추심하고 환전을 받는 행위를 주로 뜻합니다. 환율이 하락하는 국면에서는 수출기업들이 달러를 원화로 바꾸는 네고 물량이 시장에 나오면서 환율 하락 압력을 가중시키기도 하며, 수출 기업의 실적에 직접적인 영향을 미칩니다.",
+    "tip": "신입 면접 시 '수출업체 네고 물량'이라는 기사 표현이 나오면, 수출로 벌어들인 달러를 시장에 매도하여 원화로 환전하는 행위로 이해하고 있음을 어필하세요."
+   }
+  },
   {
    "date": "2026-10-12",
    "mode": "ai",
