@@ -1,6 +1,229 @@
 {
- "updated": "2026-10-14 06:29",
+ "updated": "2026-10-15 06:28",
  "days": [
+  {
+   "date": "2026-10-15",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1,330원대 등락과 수출 채산성 영향",
+     "summary": "원·달러 환율이 달러 약세와 수출 네고 물량 유입 등으로 1,338원대로 하락 전환하며 등락을 보이고 있다. 반도체 수출 호조와 증시 약세 등 복합적 요인 속에 환율 하락으로 인한 기업 실적 눈높이 조정 우려도 나온다.",
+     "what": "원·달러 환율이 1,338원 선으로 내려앉는 등 단기 변동성을 나타내고 있다.",
+     "why": "글로벌 달러 약세 흐름과 수출 기업들의 네고 물량 출회, 반도체 업황에 대한 투자 심리 변화 등이 복합적으로 작용했다.",
+     "impact": "해외영업 담당자는 결제 통화 기준 매출액의 원화 환산 수익성(채산성)이 변동될 수 있으므로, 환율 변동에 맞춘 가격 정책 및 결제 시점 관리가 요구된다.",
+     "tags": [
+      "외환",
+      "환율",
+      "수출채산성"
+     ],
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wMFpUQlZzMXB0YzAzaTBIZlU3YUJsenNzbjducFhHbHUzZTZSSlBtaEJqR3RJaGZ0Qnp5czJDNXJpazMtQlFLa2t1b3JBS0JvUGR0SHVUalJQOGNxZ2N5UNIBYEFVX3lxTE8wMFpUQlZzMXB0YzAzaTBIZlU3YUJsenNzbjducFhHbHUzZTZSSlBtaEJqR3RJaGZ0Qnp5czJDNXJpazMtQlFLa2t1b3JBS0JvUGR0SHVUalJQOGNxZ2N5UA?oc=5"
+      },
+      {
+       "name": "자본시장뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5EWnBkRF9qcE1SS0VCNlAxcGhrN0twRFJCemxTOFZVb19ZV3ExWWxXVC0xcWs4RndhMDlqYThWeUhVS2hrS1ljamFzbWJIb1JlS3VIRGU4cFBxRktzTHdEOHdLTWd3ZlE?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNNGNiZllpUkhtM1ZULV9CY0NuRnVPMkNNeXlLU0hvWWdhNENPdVVteFJObTM1N1pEQzFLWHlGNFZkeTVlRTM2NVZJbEsyckR4UFpQakdnekjSAVhBVV95cUxQTTRjYmZZaVJIbTNWVC1fQmNDbkZ1TzJDTXl5S1NIb1lnYTRDT3VVbXhSTm0zNTdaREMxS1h5RjRWZHk1ZUUzNjVWSWxLMnJEeFBaUGpHZ3pI?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "최근처럼 환율이 급격히 등락할 때 해외영업 담당자로서 계약 시 어떤 환위험 관리 방안을 취하겠습니까?",
+       "hint": "환변동 보험 활용, 결제 통화 다변화, 계약서 내 환율 연동 가격 조정(Currency Adjustment) 조항 반영 등을 제시한다."
+      },
+      {
+       "q": "원화 강세(환율 하락) 국면에서 수출 단가 인하 압박을 바이어에게 받을 경우 어떻게 대응하겠습니까?",
+       "hint": "단순 단가 인하보다는 제품 부가가치 강조, 납기 및 결제조건 양보 등 비가격 경쟁력을 활용한 협상 전략을 설명한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "미국·EU 무역 규제 강화와 통상 대응 및 시장 다변화",
+     "summary": "미국의 반덤핑 관세 및 EU 포장재 규제 등 글로벌 통상 규제 변화에 대응하기 위해 설명회가 열리고 정부 차원의 통상 불확실성 완화 노력이 이어지고 있다. 세아제강 등 개별 기업은 관세 리스크 속에서도 분기별 실적 반등을 모색하고 있다.",
+     "what": "주요 교역국의 반덤핑 관세 및 환경·포장재 규제 등 비관세·관세 장벽이 현실화되며 대응책 마련이 추진되고 있다.",
+     "why": "미국, EU 등 선진국 중심의 보호무역주의 및 환경 관련 통상 규제가 강화되며 글로벌 통상 환경이 재편되고 있기 때문이다.",
+     "impact": "해외영업 직무에서는 수출 대상국의 수입 규제 요건과 관세율 변동을 지속 모니터링하고, 특정 국가 의존도를 낮추기 위한 대체 시장 발굴이 필수적이다.",
+     "tags": [
+      "통상규제",
+      "반덤핑",
+      "세아제강",
+      "미국",
+      "EU"
+     ],
+     "sources": [
+      {
+       "name": "페로타임즈",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pVUpzX28xZWxKcld2R3NCS19QRVcwNGFjeWhoWVFTZnQ2dEYzWlEwZnN0RlVUSzRtSVlNSU9vRFJ3WWxvZDU4dGd6TzN5ZnVnLUxQc3ZYS1c4eDJzVWFETHVrYWVwdG0yMUVPWg?oc=5"
+      },
+      {
+       "name": "뉴스퀘스트",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vVk5GNUlfT04zS3ppM2hPZkxaa0kwMXRvb2ZHTl9PRFN4ZEpmcG9tbjBWSUw3Sy1QbUEyVV9qSnZGdHNRb1N5X21HbHZpOC1rajZCRzRya3RKOU1MTWJkRDZlZzN2eUdPbV81cF9kYw?oc=5"
+      },
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmemNYbWgzNWNPUHEwLWZhREdNVXJ0TElhZjQtUWJfcTFIblhySlFfN3JkMUJJYkJVeGpqSWF5X0tIZ01RMG94N3FYMGpWMV9ENzAyRQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출 주력 시장에서 반덤핑 관세나 비관세 장벽이 신설될 경우 영업 측면에서 어떻게 대처하겠습니까?",
+       "hint": "관세 부과 전 선적 일정 조율, 품목 분류(HS Code) 재검토, 신흥 대체 시장으로의 물량 분산 전략을 답변한다."
+      },
+      {
+       "q": "ESG 및 환경 규제(예: 포장재 규제)가 수출 계약에 미치는 영향은 무엇이라고 생각합니까?",
+       "hint": "단순 물품 인도를 넘어 친환경 패키징 및 규제 인증 준수 여부가 바이어 계약 체결의 핵심 조건이 됨을 언급한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티 및 농산물 등 수출 다변화와 판로 개척",
+     "summary": "코트라가 60개국 220개사가 방한하는 대규모 K-뷰티 수출상담회를 개최하고 당진 아미쌀이 호주 시장 진출을 모색하는 등 품목과 지역 다변화가 진행 중이다. 반도체 호황에 가려진 비주력 소비재 및 농산물의 해외 진출 지원이 확대되고 있다.",
+     "what": "뷰티, 농식품 등 소비재 품목의 글로벌 수출 상담회 및 신규 국가(호주 등) 진출 시도가 활발히 이뤄지고 있다.",
+     "why": "특정 품목(반도체 등) 중심 수출 구조의 한계를 극복하고 다양한 품목과 지역으로 수출 교두보를 넓히기 위함이다.",
+     "impact": "신규 해외영업 담당자는 해외 바이어 발굴(전시회·상담회 활용), 현지 인증 취득 및 로컬 맞춤형 제안서 작성 역량을 발휘할 기회가 늘어난다.",
+     "tags": [
+      "K-뷰티",
+      "농식품",
+      "코트라",
+      "수출다각화"
+     ],
+     "sources": [
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HNHZwOGNYSG1mUy1Zblo2eXNwakdEZk1neTBBRkQyc05uUll1S2ZrdUIyTkRWN1lVVGpoRHYyTTJVOE4yMDY0UVNOSVBxZmdnNDFKZVZR?oc=5"
+      },
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tLWllc1JUUUJTOFhma1p1d2U0bjRxVHlkZ3VUVUF5d1NHd1hHZWlWMnVRak5iZmxpNU1RM1drcWVQQU84aEV0cmVUcW12eEwtQ09sRmFacWhBTkcyaGtWa3dnLUM?oc=5"
+      },
+      {
+       "name": "경상일보",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LZjdJUzFiWVJOUjZxaC1hb0VfdkJyU3pZWEYzWTNMOFZYbEdVODdZYktQRW4zN2ZtODR0WTRZS3g2RWYtUVYtbkhLd0YwcGZubHVlOFZ1R3h2T2xfRll2Y01qNHRzYnk1dEY0RQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해외 수출상담회에 참여할 때 유의미한 수주 성과를 내기 위해 사전/사후에 무엇을 준비하겠습니까?",
+       "hint": "사전 바이어 사전 분석 및 맞춤형 견적서 준비, 상담 직후 24시간 내 Follow-up 이메일 발송 및 샘플 제공 전략을 제시한다."
+      },
+      {
+       "q": "새로운 해외 시장(예: 오세아니아)을 개척할 때 가장 우선적으로 고려해야 할 영업적 요소는 무엇입니까?",
+       "hint": "현지 규제 및 검역 요건, 유통 채널 구조, 현지 소비자 선호도 파악을 단계적으로 접근하겠다고 설명한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "유럽항로 컨테이너 운임 반등과 해상 물류비 변동성",
+     "summary": "유럽항로 컨테이너 운임이 14주 만에 상승세로 돌아서며 해운 시장의 운임 반등 기대감이 커지고 있다. 이에 따라 해상운임 추이와 선사들의 주가 및 실적 전망에도 관심이 쏠리고 있다.",
+     "what": "유럽항로 컨테이너 운임이 장기간 하락세를 멈추고 14주 만에 반등했다.",
+     "why": "공급 조절, 계절적 성수기 진입 또는 해상 운송로의 지정학적/운항 환경 변화 등이 복합 요인으로 작용했을 가능성이 있다.",
+     "impact": "물류 및 SCM 직무에서는 유럽 수출 화물의 선복(Space) 확보 경쟁과 물류비 상승에 대비해 선사와의 포워딩 계약 및 운임 추이를 긴밀히 확인해야 한다.",
+     "tags": [
+      "해운운임",
+      "컨테이너",
+      "HMM",
+      "유럽항로"
+     ],
+     "sources": [
+      {
+       "name": "한국해운신문",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NUDZnRG03NVRRaTFSVzVuNUlDMWExcXY1d0tHc0J4SnRpNm1wR3JhS0pJOVZlU2FzdHNwSDExNmd1c0RLeWphRHhDVktwSnNEeXhINWk1M3JHLTgyNXlWZy0tZ3pmbXBDS0ZtOF9zZ1RSNXM?oc=5"
+      },
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ocnRheUJESXJ1Y1pRaWg4Z21fZ3VhR0p2Q1NhVDZ2aUFacl8xVnc4dFZpTzZtTHVvNkVzM180WTcwSVR3Q3F2eEw0dTM3OHBEdXpzVGNQMC1qMkh2bkxQdTduMzdRV2tYVkZXSnY1ZGQ2QncybzFB0gF3QVVfeXFMTmhydGF5QkRJcnVjWlFpaDhnbV9ndWFHSnZDU2FUNnZpQVpyXzFWdzh0VmlPNm1MdW82RXMzXzRZNzBJVHdDcXZ4TDR1Mzc4cER1enNUY1AwLWoySHZuTFB1N24zN1FXa1hWRldKdjVkZDZCdzJvMUE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 갑작스럽게 급등할 때 SCM 담당자로서 물류비 부담을 완화하기 위한 방안은 무엇입니까?",
+       "hint": "장기운송계약(SC) 비중 관리, 스팟 운임과 분할 활용, 컨테이너 적재율(CBM 최적화) 개선 방안을 제시한다."
+      },
+      {
+       "q": "선복 부족으로 유럽향 수출 일정이 지연될 위기라면 어떤 프로세스로 대응하겠습니까?",
+       "hint": "포워더와의 다각적 소통을 통한 롤오버 방지, 대체 항로나 환적 옵션 검토, 영업 부서와의 납기 조율 협력을 언급한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "SCM 시스템 내 SaaS 및 AI 기술 도입 가속화",
+     "summary": "로지스올시스템즈가 자사 SCM 시스템에 SaaS와 AI 기술을 본격 도입하며 물류 시스템 고도화에 나섰다. 물류 공급망 관리 전반에서 디지털 전환과 운영 효율화가 강조되고 있다.",
+     "what": "물류 솔루션 기업을 중심으로 클라우드 기반 SaaS 및 AI 기술을 접목한 SCM 시스템 구축이 추진되고 있다.",
+     "why": "물동량 예측 정확도를 높이고 물류 운영 프로세스를 자동화·가시화하여 공급망 리스크를 줄이기 위함이다.",
+     "impact": "물류·SCM 실무자는 단순 배차·재고 관리에서 벗어나 데이터 기반 재고 최적화 및 공급망 가시성(Visibility)을 활용하는 디지털 역량이 요구된다.",
+     "tags": [
+      "로지스올",
+      "SCM",
+      "AI",
+      "SaaS",
+      "디지털전환"
+     ],
+     "sources": [
+      {
+       "name": "콜드체인뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE15SlU2UnROY3Q4TmJ4TVJ6WVMzM3A5X1BId1kxWEJiZlF4eEVacUZqSkdBQlJMMmpodEdaam1adUhCQThqWTZWcmZmZm1DR05xTUoyeUxZMjVkMk0xS1hBa1lDZU15QQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "AI와 SaaS 기반 SCM 도입이 실제 수출입 물류 프로세스에 어떤 구체적 효율을 줄 수 있다고 보십니까?",
+       "hint": "실시간 화물 추적, 리드타임 편차 감지, 수요 예측에 따른 최적 안전재고 산출 등 가시성 향상을 답변한다."
+      },
+      {
+       "q": "기존 전통적 물류 시스템에서 신규 디지털 솔루션으로 전환할 때 발생할 수 있는 현장 문제를 어떻게 조율하겠습니까?",
+       "hint": "현장 작업자 및 파트너사와의 데이터 정합성 유지 교육, 단계적 전환 및 피드백 수렴의 중요성을 강조한다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "반도체·소비재 호황 비켜간 울산…수출 다각화 시급",
+     "script": [
+      "최근 '반도체·소비재 호황 비켜간 울산…수출 다각화 시급' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "유럽항로 컨테이너 운임 14주만에 상승",
+     "script": [
+      "최근 '유럽항로 컨테이너 운임 14주만에 상승' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고 (Negotiation / 수출환어음 매입)",
+    "body": "무역 실무에서 '네고(Nego)'는 수출상이 선적을 완료한 후, 신용장(L/C)이나 계약 조건에 따라 발행된 운송서류와 환어음을 수출지 외국환은행에 제시하여 대금을 매입(지급)받는 절차를 의미한다. 기사에서 언급되는 '수출 네고 물량'은 수출 기업들이 해외에서 결제받은 달러 환어음을 원화로 환전하기 위해 시장에 내놓는 물량을 뜻하며, 이는 외환시장에서 달러 공급을 늘려 원·달러 환율의 하락 압력으로 작용한다.",
+    "tip": "면접에서 환율 하락 원인으로 '수출업체 네고 물량 출회'라는 용어를 자연스럽게 활용하면 외환과 무역 실무 메커니즘을 정확히 이해하고 있음을 어필할 수 있다."
+   }
+  },
   {
    "date": "2026-10-14",
    "mode": "ai",
