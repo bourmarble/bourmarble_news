@@ -1,6 +1,226 @@
 {
- "updated": "2026-10-17 06:26",
+ "updated": "2026-10-18 06:23",
  "days": [
+  {
+   "date": "2026-10-18",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 2년 만에 최저치 하락 및 향후 전망",
+     "summary": "원·달러 환율이 반도체 호황과 미국 국채금리 하락 등의 영향으로 2년여 만에 최저 수준을 기록했습니다. 다음 주에도 1330원대 공방 등 하방 압력이 이어질 것으로 전망됩니다.",
+     "what": "원·달러 환율이 2년 1개월 만에 최저치를 기록하고 원/엔 환율도 19년 만에 가장 낮은 수준을 나타냈습니다.",
+     "why": "국내 반도체 수출 호황과 미국 국채금리 하락 등이 원화 강세 및 환율 하방 압력으로 작용한 것으로 분석됩니다.",
+     "impact": "수출 대금을 외화로 정산받는 해외영업 기업의 원화 환산 매출 및 수익성이 축소될 수 있으며, 환변동 리스크 관리가 중요해집니다.",
+     "tags": [
+      "반도체",
+      "환율",
+      "외환"
+     ],
+     "sources": [
+      {
+       "name": "연합뉴스 한민족센터",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5VWml4S0hJNm5zdVAyLXNMUUlheUZrdUNQQ3plWWZDUUluTENWOUJNdWxoSW44R2YwUWo0ZERDMS1Ubm11TGVkNnkzWXhzbjMwTVQyOVNtRG40c0JvaUt1Z0E3RV8zT0FWemttdWVzNmdOTWJo?oc=5"
+      },
+      {
+       "name": "마켓인",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NUC0yOEY0R3NIdEhLRDJEWkQwTElSQTVaNmFXTWxyMDkwbS1QaUlhY0F6Nzg4ZGxlUWlBZm1PR2xQQnpBMkNqYzNrZnNfRnphT2Jwak1JS0pZZFBDYkVmQUt3dVcwemVHcTFlTlpONW1YeTQ?oc=5"
+      },
+      {
+       "name": "굿모닝경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aWG9Ed0YyNTVUSTdMMFJISV9ONUJGbld4aDZmQ1V2U1NBR0hvdXMtTlA5bzBucGp1bFZwWnpmbzREdlY4c2tUZFBhQ1A1MDkxclB3cDdvaUdraXBKLUVSY2lqZjk3VmF6LVJVOQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "원화 강세 및 환율 하락 국면에서 해외영업 담당자로서 어떻게 대처하겠습니까?",
+       "hint": "환헤지(선도환 계약 등) 전략 수립 및 결제 통화 다변화, 가격 조정 협상 방안을 제시합니다."
+      },
+      {
+       "q": "엔화 약세(원/엔 저환율)가 우리 수출 경쟁력에 미치는 영향은 무엇이라고 봅니까?",
+       "hint": "글로벌 시장에서 일본 기업과 경합하는 품목의 가격 경쟁력 변화와 그에 따른 비가격 경쟁력 강화 방안을 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "중동 리스크 재부각에 따른 글로벌 해운운임 2주 연속 상승",
+     "summary": "중동 지역 긴장 고조 등으로 유럽 및 중동 노선을 중심으로 글로벌 해운운임이 2주 연속 상승했습니다. 컨테이너 선사들의 미주 항로 운임 인상과 서비스 확대 움직임도 나타나고 있습니다.",
+     "what": "글로벌 해운운임이 2주 연속 오름세를 보이며 유럽과 중동 노선 운임이 강세를 나타내고 선사들의 운임 인상이 이어지고 있습니다.",
+     "why": "중동 지정학적 위기 재확산 우려와 선사들의 공급 조절 및 항로 서비스 조정이 운임 상승을 견인했습니다.",
+     "impact": "해외영업 및 물류 부서의 수출 운임 비용 부담이 증가하며, 선복 확보 경쟁 심화로 납기 지연 리스크가 커집니다.",
+     "tags": [
+      "해운",
+      "컨테이너",
+      "HMM",
+      "팬오션"
+     ],
+     "sources": [
+      {
+       "name": "글로벌경제신문",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VNmlqalc0Q0k1MS1qMV9YLVc2aTFQcFhwNHpDZGo5emt1aUFTdUJpOTR3S1lDdG83cXA4RmpwN1duZnUyTjFfeTJ5TWwzeG9hejdmbHRSdTJKdGhBNlFyZzRDc0JtTDlfV2N6a0gxVULSAXBBVV95cUxOVTZpampXNENJNTEtajFfWC1XNmkxUHBYcDR6Q2RqOXprdWlBU3VCaTk0d0tZQ3RvN3FwOEZqcDdXbmZ1Mk4xX3kyeU1sM3hvYXo3Zmx0UnUySnRoQTZRcmc0Q3NCbUw5X1djemtIMVVC?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ2xweW84NUcyT3hrZUpock9BVndXaGlqamtYa1kxanJ2U3lMRE5kOFpDM0o4S0JMVkdCdmtTaFBTNm5LeS02bUJTcFd4VWlwQ05sZW9kMXRneUxjcjFGMFhnZklSS19vWVZhTEh5WTZLX3I3VnhGeUdpX0lRRGZMVw?oc=5"
+      },
+      {
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSEdlUndyZW1CaFkzZzRRRUl0N0RXbUxRd1c4TjJpa2x5V0NoMWY4Sk5QS3RtdWtNVGRiM2M4UjIzcV9tdzc1cjdEdTJjbWpGdEVJTVZWVkRtZzB5LTJfUEo0cXlDMmVPNVpSN0hEOHBDQ1VuR3JxUjBuNWtlbjltMGFVdU54N2huZGRYbm9ZbUtQNHZlVlBYdQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운운임 상승세가 지속될 때 물류비 부담을 완화하기 위한 방안은 무엇입니까?",
+       "hint": "선사/포워더와의 장기계약(우대운임협정), 인코텀즈 조건(FOB 전환 등) 재협상, 컨테이너 적재 효율화를 언급합니다."
+      },
+      {
+       "q": "지정학적 리스크로 인한 운송 지연 발생 시 해외 바이어와 어떻게 소통하겠습니까?",
+       "hint": "물류 가시성을 바탕으로 사전 지연 공지, 대체 운송 루트 제안 및 안전재고 협의 과정을 답합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티 월 수출 12억 달러 돌파 속 환율·원자재 변수 직면",
+     "summary": "화장품 산업이 월 수출 12억 달러를 돌파하며 호조세를 보였으나 원가 및 공급망 변수가 대두되었습니다. 최근 환율 변동과 용기 공급난 등으로 기업 간 3분기 실적 명암이 엇갈리고 있습니다.",
+     "what": "화장품 월 수출액이 12억 달러를 넘어섰으나 부자재 부족과 환율 변동성으로 실적 편차가 발생하고 있습니다.",
+     "why": "글로벌 K-뷰티 수요 급증에 따른 용기 수급 불균형과 환율 하락 등 외부 환경 변화가 복합 작용했습니다.",
+     "impact": "해외영업 담당자는 바이어 주문 증가에도 불구하고 패키징 등 공급망 차질로 납기 대응에 어려움을 겪을 수 있어 SCM 협업이 필수적입니다.",
+     "tags": [
+      "화장품",
+      "K뷰티",
+      "SCM",
+      "포장용기"
+     ],
+     "sources": [
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1NjhUanFXMGxwRTZQU1pqQnRZWFJ3UFdkeURIdUdodTcteEFHOGtYZnktTGxxRDJNYU8tUlJxLTd3RnNGMGRTQ3Y1b1JteEtXWm1TVQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출 호조에도 핵심 원부자재 수급난이 발생했을 때 해외영업팀은 어떻게 대응해야 합니까?",
+       "hint": "대체 공급망 확보 협의, 우선순위 고객 물량 배분(S&OP), 바이어와 납기 조정 커뮤니케이션을 제시합니다."
+      },
+      {
+       "q": "환율 하락 국면에서 소비재 완제품의 수출 마진을 방어할 전략은 무엇입니까?",
+       "hint": "고부가가치 라인업 중심 세일즈, 인코텀즈 가격 재산정, 현지 유통채널과의 프로모션 분담을 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "CPTPP 가입 논의 정체와 수출 경쟁력·농업 보호 딜레마",
+     "summary": "세계 GDP 14% 규모 메가 FTA인 CPTPP 가입 절차가 농업계 반발 등으로 다시 멈춰 섰습니다. 다자간 무역협정 합류 지연으로 수출 경쟁력 약화를 우려하는 목소리가 나옵니다.",
+     "what": "정부의 CPTPP(포괄적·점진적 환태평양경제동반자협정) 가입 추진이 농업 분야 피해 우려와 식량안보 논란으로 제동이 걸렸습니다.",
+     "why": "공산품 수출 시장 확대 및 관세 혜택 기대와 민감 품목인 농업 부문 타격에 대한 사회적 합의 도출이 어렵기 때문입니다.",
+     "impact": "회원국 간 무관세 및 누적 원산지 혜택을 받는 경쟁국 대비 한국 수출 품목의 가격 경쟁력이 장기적으로 불리해질 수 있습니다.",
+     "tags": [
+      "CPTPP",
+      "FTA",
+      "통상",
+      "농업"
+     ],
+     "sources": [
+      {
+       "name": "www.ebn.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02SXJIcXEtcnNOMzVWNFFyeFZTSDEzVzdKWG05SnAyRDRIVU9OUWI0NE5SVlZLQ215MXZJT295dV91WHEtRFZDVDZUTHRsNldONXRvUkhBT0tzWnZ6TllGUXJnYlZrbE9U?oc=5"
+      },
+      {
+       "name": "산경투데이",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpeTVzTDdKcHpjTXBIUFpEYy1yQW4zaHJ6M2hWUFdLNW1sNW5hNERNWF9YOGNybnBGOTVoQW5PdVV2RXd6X290c3VZcXcyaEJ4NU5vLWlVbzB1XzFudm1HelBXb0U4aWtRUU1ORFhlWW1vZmI40gF0QVVfeXFMUGl5NXNMN0pwemNNcEhQWkRjLXJBbjNocnozaFZQV0s1bWw1bmE0RE1YX1g4Y3JucEY5NWhBbk91VXZFd3pfb3RzdVlxdzJoQng1Tm8taVVvMHVfMW52bUd6UFdvRThpa1FRTU5EWGVZbW9mYjg?oc=5"
+      },
+      {
+       "name": "매일경제TV",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaTEZyU0FEaGNlNG44YXlSM19NUjY3eUE3M0s2OTZ0RWI5N1RqWmY0RW5lN0RDWk9RTUJHV0hLcHl2SnlqSlRXNVZXWERiTWpPQ0RaYWpjcnFaVm56RmhsS1VBNkFva0RrOVNn?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "CPTPP와 같은 메가 FTA 가입 여부가 한국 제조업 수출에 미치는 영향은 무엇이라고 봅니까?",
+       "hint": "관세 철폐를 통한 시장 진입 이점 및 '완전원산지누적' 혜택과, 미가입 시 주요 회원국 시장 내 소외 우려를 비교 설명합니다."
+      },
+      {
+       "q": "자유무역협정 체결 시 발생하는 산업 간 이해충돌 문제를 기업 관점에서 어떻게 이해해야 합니까?",
+       "hint": "제조업 수출 확대의 당위성과 함께 공급망 전체의 지속가능성, 국내 산업 보완대책의 필요성을 균형 있게 언급합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "지역 수출기업을 위한 FTA 컨설팅 및 맞춤형 지원 확대",
+     "summary": "전북통상진흥센터와 경진원 등이 지역 수출 중소기업을 위한 설명회, 집합컨설팅 및 맞춤형 지원에 나섰습니다. 통상 환경 변화에 대응해 실무 역량 강화와 수출 애로 해소를 지원하는 취지입니다.",
+     "what": "지자체 및 통상 지원기관들이 중소 수출기업을 대상으로 FTA 활용 설명회와 맞춤형 지원 사업을 전개하고 있습니다.",
+     "why": "복잡해지는 다자·양자 FTA 통상 환경 속에서 자체 전문 인력이 부족한 수출기업의 통상 대응력을 높이기 위함입니다.",
+     "impact": "해외영업 신입 실무자는 유관 공공기관의 원산지 증명 지원 및 바이어 매칭 사업을 적극 활용해 거래 비용을 절감할 수 있습니다.",
+     "tags": [
+      "FTA",
+      "수출지원",
+      "통상진흥"
+     ],
+     "sources": [
+      {
+       "name": "전북제일신문",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3LUwzQl9qa1hBMFRpR053UVpfSVVRV0J0RF9lbFQyVEpaSWwteW5jODNCQ2g5Z2Y2M3d5V0ZlcUhUTzk1RE1yTFJpY1I1QXdPdFExaG42blZCSmJueHU5OUVYMXV1dmY2YlE?oc=5"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uRHhPSFRTblUxTi12SE95cjdwekpralJBNEhwUHBSWGhJcXR3UkhNOXhmd1lRSVNwNGxMVWRKT25Ia2xkUGZQTkRDeXFkZmhzX2RqN3g5WjFPLUwtcG9LVlBveUtjQzNFc242aExOc9IBb0FVX3lxTE5uRHhPSFRTblUxTi12SE95cjdwekpralJBNEhwUHBSWGhJcXR3UkhNOXhmd1lRSVNwNGxMVWRKT25Ia2xkUGZQTkRDeXFkZmhzX2RqN3g5WjFPLUwtcG9LVlBveUtjQzNFc242aExOcw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "중소 수출기업 해외영업 실무자로서 정부 및 지자체의 수출 지원 프로그램을 어떻게 활용하겠습니까?",
+       "hint": "FTA 원산지 확인 컨설팅, 해외 바이어 지사화 사업, 수출 물류비 바우처 등 구체적 사업 활용 방안을 답변합니다."
+      },
+      {
+       "q": "FTA 원산지 판정 및 증명서 발급 실무가 수출 계약 성사에 중요한 이유는 무엇입니까?",
+       "hint": "바이어가 현지 수입 시 특혜관세를 적용받아 최종 구매 가격이 인하되므로 수주 결정에 결정적 요인이 됨을 설명합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "이달 환율 2년1개월만에 최저…원/엔 19년만에 가장 낮아",
+     "script": [
+      "최근 '이달 환율 2년1개월만에 최저…원/엔 19년만에 가장 낮아' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "다시 커지는 중동 포화 소리에 글로벌 해운운임 2주째 오름세",
+     "script": [
+      "최근 '다시 커지는 중동 포화 소리에 글로벌 해운운임 2주째 오름세' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "원산지 누적기준 (Cumulation Rule)",
+    "body": "CPTPP나 다자간 FTA에서 핵심이 되는 개념으로, 협정 체결국 역내 다른 국가에서 생산된 원재료나 부품을 자국산 원재료로 간주해 역내산 부가가치 비율을 계산하는 제도입니다. 이를 통해 복잡한 글로벌 가치사슬(GVC) 속에서도 역내 회원국 간 공급망을 활용하면 원산지 결정기준을 쉽게 충족하여 특혜관세 혜택을 받을 수 있습니다.",
+    "tip": "면접에서 CPTPP 등 메가 FTA 관련 질문을 받을 때, '단순한 양자 관세 인하를 넘어 역내 누적기준 활용을 통한 글로벌 공급망 최적화가 핵심'이라고 답변하면 차별화된 통상 이해도를 보여줄 수 있습니다."
+   }
+  },
   {
    "date": "2026-10-17",
    "mode": "ai",
