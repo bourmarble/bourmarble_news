@@ -1,6 +1,231 @@
 {
- "updated": "2026-10-19 06:23",
+ "updated": "2026-10-20 06:28",
  "days": [
+  {
+   "date": "2026-10-20",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 급락세와 수출 기업 채산성 비상",
+     "summary": "원·달러 환율이 장중 1327원대를 터치하며 2년여 만에 최저치를 기록했습니다. 환율 급락으로 K-뷰티를 비롯한 수출 기업들의 원화 환산 매출 감소 우려가 커지고 있습니다.",
+     "what": "반도체 수출 호조에 따른 달러 공급 및 수출업체 달러 매도로 원·달러 환율이 석 달 만에 약 200원 급락하며 1327.6원까지 하락함.",
+     "why": "수출업체의 달러 매도와 주요 수출 호조로 인한 달러 공급 확대 등이 복합적으로 작용함.",
+     "impact": "해외영업 담당자 관점에서 동일한 달러 결제 대금 수취 시 원화 환산 매출과 마진이 감소하므로, 결제 통화 다변화 및 환헤지 전략 수립이 요구됨.",
+     "tags": [
+      "K뷰티",
+      "환율",
+      "수출기업"
+     ],
+     "sources": [
+      {
+       "name": "경상일보",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Jc0hYSGNSQmJ4N3Vyb1pRVmVKMkN2c3EwM0tOc3NqTFJkUmhUSjhpajNxVEJ2ZHFnLVhiS2ZYX1Nld1NLcDFEQ01GU0wyM2hLeTc4VkFnMl9CYmxkT211ZTdhb2U3NjZPbzlrUw?oc=5"
+      },
+      {
+       "name": "문화일보",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rN3BHVlFvX196NHJuODFBdzctNGpOMlRlYVBidFdPY01yUlZMeWwxVlMzN2FOSGZtNGV5TERKa3RDREdCRU9mT2Rvcnc0Mmdh?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdk10MHZ4UHlqczBtU0ZkdkljOEZVUEl5aHNuMDF3YXlQdDZuRjRSbzhzWXZ2Y3E3UkVRQ0FMdnBONDlwc0tmN3pQNU5xdmt1aGxsM0gyc2x2aEdxNjk1OWZtTUxqQ0Z3YlBVbTFaUThtaWltR1pUc2xfRVZxYnM3Sw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "원·달러 환율이 급격히 하락할 때 해외영업 담당자로서 취할 수 있는 대응 방안은 무엇인가요?",
+       "hint": "환헤지 상품 활용, 결제 통화 다변화, 제품 단가 재협상 및 고부가가치 제품 중심 포트폴리오 조정을 제시합니다."
+      },
+      {
+       "q": "환율 하락이 수출 기업뿐만 아니라 수입 원자재 비중이 높은 기업에 미치는 영향은 어떻게 다른가요?",
+       "hint": "수출 매출에는 부정적이나 원자재 수입 원가 절감에는 긍정적인 복합적 효과가 있음을 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "해운 운임 정점 임박 및 하락 압력 확대",
+     "summary": "KOBC 컨테이너종합운임지수(KCCI)가 소폭 하락하고 미주행 운임이 혼조세를 보이며 성수기 종료에 따른 하락 압력이 커지고 있습니다. 이에 따라 고운임 부담을 겪던 수출 기업의 물류비 부담 완화가 기대됩니다.",
+     "what": "KCCI 지수가 전주 대비 하락하고 미주행 컨테이너 운임 하락 압력이 커지며 해운 운임이 정점에 달했다는 관측이 제기됨.",
+     "why": "해운 성수기 종료 및 홍해 통항 선복량 변동 등 공급망 환경 변화가 작용함.",
+     "impact": "물류 및 SCM 실무자 관점에서 선복 확보 난이도가 다소 완화되고 운임 협상력이 개선될 수 있으나, 선사들의 장기계약 전략 변화를 주시해야 함.",
+     "tags": [
+      "KOBC",
+      "해운운임",
+      "컨테이너선"
+     ],
+     "sources": [
+      {
+       "name": "www.dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1rcEwydjRoYU13Zmw2dHFTcVRZY3B3bU05a2pNRUxqT2tzM2pqWDB1d0VKeWZIaldvRzUzSTNhWVBBc0JWRjNOSTJfNDdaQQ?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1QS0FQNUhDRFEtSVVrNGNpb0hYVTQ4c1hVQnBlMmE3bzlqUTN1V0VvbVFrUWlaZnZUZHFpRkhpQ25Za0hxVlVJSGJWVFlYNzRUQ1hnc2F6SWFydFQ4ZkwzUWVPRE9lblJUUGJ1LUNXLUlVLU0?oc=5"
+      },
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ZTUZRQWEwVWVkZTBGVDFOZkJ6Q3JaRTRTc1BRMTdHNUhtYWxzSDRGRjc5bjdGYlN5THZuNEVGRlNEVHNjd2h6bklzc3lacEFOR3p6M1Qwd0hWY0xhd2ZOaXNCYXNTU2RxOThr?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운 운임 변동성이 클 때 물류비 리스크를 최소화하기 위한 계약 전략은 무엇인가요?",
+       "hint": "스팟(Spot) 운임과 장기계약 운임의 비율을 분산하고 복수 포워더 및 선사 파트너십을 구축하는 방안을 언급합니다."
+      },
+      {
+       "q": "운임 하락 국면에서 해외 선적 일정 관리 시 주의해야 할 물류적 리스크는 무엇인가요?",
+       "hint": "선사들의 임의 결항(Blank Sailing) 가능성 및 선복 축소에 따른 지연 가능성을 점검해야 함을 강조합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "비관세장벽 해소와 해외 인증을 통한 시장 다변화",
+     "summary": "산업부가 9개국 비관세장벽 대응을 지원하는 가운데, 한우의 카타르 할랄 시장 진출 등 인증 기반 수출 성과가 나타나고 있습니다. 기업들은 우량 수출기업 인증 등을 통해 통관 비용 부담 경감을 꾀하고 있습니다.",
+     "what": "정부와 지자체가 신흥 시장 인증 및 통관 장벽 대응 지원을 확대하며 할랄 등 신규 시장 판로를 개척함.",
+     "why": "글로벌 보호무역주의 및 국가별 기술·위생 규제 등 비관세장벽이 높아져 개별 기업의 진입 장벽이 심화되었기 때문임.",
+     "impact": "해외영업 담당자는 신규 지역 개척 시 단순 가격 경쟁력을 넘어 현지 규제, 인증 요건(예: 할랄)을 사전에 파악하고 공공 지원 인프라를 활용해야 함.",
+     "tags": [
+      "비관세장벽",
+      "할랄",
+      "해외인증"
+     ],
+     "sources": [
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ybEYxWTdCeTF4aG1CRC1FX3l2TWJZdU1FZ2hUTzNqR1RObnRUWnQ1Yi1PM0gzbnNNT0d1ZWt5Ymd6OERhVjRFcEtSYzI4WndoTXpDbkZVMG1od9IBWEFVX3lxTE9TRkIxN1FxbTN6MG9FV2dkdEdJUmVNRmNOc2d2V21XR2dhZDN3cDdOYWlMeklVQmt3U29rMXdTTWFQSEtNVWpkMnZyZ2lxb3NwUjl5cG83bng?oc=5"
+      },
+      {
+       "name": "중소기업투데이",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9fNkd2XzJkNHlLLVNuNDR2QkJCd1Q1VmlIT3J0NV9hWEFJRGZnLUdWSmF1NFdpRVF3bmd2eFc1U3RfQWJ2RWh6QlVYd2ozM0FZZVVKeUo5dXNQSkZqcVU2T29ta3hxSkhrcXQzU9IBbEFVX3lxTE9fNkd2XzJkNHlLLVNuNDR2QkJCd1Q1VmlIT3J0NV9hWEFJRGZnLUdWSmF1NFdpRVF3bmd2eFc1U3RfQWJ2RWh6QlVYd2ozM0FZZVVKeUo5dXNQSkZqcVU2T29ta3hxSkhrcXQzUw?oc=5"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNS0kxU0V0cURJQUp3Wm0tTXMwbmpHQkgxTjlDZUplTkotQVRqNEFtYkEtWW53TjF5ejg0cl9tWjJsRWRjUjVDbnRScG0xOFBkMUo3VkcwOGlNbTVMTUdzczRTX1VlWExQWGY1VWlETGdnbjRWQUxzRmxaSlpFMldXOVZuaXN1QdIBmgFBVV95cUxQTXJza1VRNHkya3c1b2tkWFJsdVFPNjROcmlmbzc5ai1XSEQwdnM2MUZfUVd4QXhjUjVuYlZNMVozSnNsWEVjN01DMnh2eFc3dUhnbG56WS03MDF0YW1OVEQ4RW5QTXN6VnVLSE1zZGZRelVTdG5OTElfQncwM0RESjd5TERVczhXbEhEdV8wUFNwR2t0VWNnb2JR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "비관세장벽이 높은 신흥국 시장 진출 시 해외영업 담당자로서 가장 먼저 확인해야 할 사항은 무엇인가요?",
+       "hint": "현지 규격·라벨링·위생 인증 요건과 정식 통관 절차 및 관세 혜택 여부를 사전 점검하는 절차를 제시합니다."
+      },
+      {
+       "q": "인증 및 규제 준수 과정에서 발생하는 비용과 시간 지연을 어떻게 관리할 것인가요?",
+       "hint": "정부 지원 사업 활용, 현지 파트너사와의 협업 분담, 선행 인증 프로세스 구축을 전략으로 제시합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-조선기자재 세계 시장 직거래 및 판로 개척",
+     "summary": "코트라가 동남권 해양 부품의 해외 직거래 판로 개척을 추진하며 3.3억 달러 규모의 수출 상담을 진행했습니다. 중간 유통망 의존도를 낮추고 직접 수출 네트워크를 구축하려는 시도입니다.",
+     "what": "코트라 주도로 조선기자재 중소·중견기업의 글로벌 시장 직거래 확대 및 대규모 수출 상담회가 열림.",
+     "why": "글로벌 조선·해양 시장 수요에 맞춰 국내 우수 부품사의 수출 판로를 다변화하고 직수출 경쟁력을 강화하기 위함.",
+     "impact": "B2B 해외영업 담당자는 중간 에이전트 없이 글로벌 선주 및 조선사와 직접 네트워크를 형성해 마진율을 개선하고 장기 고객 풀을 확보할 수 있음.",
+     "tags": [
+      "조선기자재",
+      "코트라",
+      "해외직거래"
+     ],
+     "sources": [
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLZ0JfeFB3NWVaaTFqOGswM0NNV3BZX01uY2NBT1FfbFpDMW5ZM1FnSjVOYW9XMVJjUG1LSVlYeWdWR3lXNERRWEdIQkxFTVMxRmoyaEVXUzFvMkg1VUQ3RG5R?oc=5"
+      },
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoOEtvZl9pUXhNYTYwQ1BCWEZVdmM2RlI0clpCZm9LY0RHbjVVdmdEaS02QWpaMlNnb29nMVQyS2k4dlFXSllnMi1jaThwZUQyWFVmOFplNA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "B2B 부품·기자재 영업에서 중간 에이전트를 통하지 않고 직거래를 확대할 때 예상되는 어려움과 극복 방안은?",
+       "hint": "현지 네트워크 부족과 A/S 대응 문제를 짚고, 현지 지사 구축이나 거점 물류 창고 확보, 기술 영업 역량 강화를 해법으로 제시합니다."
+      },
+      {
+       "q": "대규모 해외 수출 상담회에 참가하기 전 영업 담당자로서 준비해야 할 핵심 요소는 무엇인가요?",
+       "hint": "바이어 사전 분석, 타깃 제품의 기술 사양서 준비, 경쟁사 대비 납기 및 품질 차별화 포인트 설정을 강조합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "영업·생산·물류 통합을 위한 전사 SCM 체계 도입 확산",
+     "summary": "제조 기업들이 S&OP 기반의 전사 공급망 관리(SCM) 체계를 도입하여 부서 간 운영 체계를 일원화하고 있습니다. 이를 통해 납기 준수율과 글로벌 공급 경쟁력을 강화하려는 움직임입니다.",
+     "what": "기업들이 영업, 생산, 물류 조직을 통합 관리하는 첫 SCM 회의 및 전사 공급망 운영 체계를 구축함.",
+     "why": "공급망 불확실성 증대에 대응하고 글로벌 고객 납기 경쟁력을 체계적으로 확보하기 위함.",
+     "impact": "물류 및 SCM 직무자는 사내 영업 부서의 수요 예측과 생산 일정을 신속히 동기화해 재고 관리 효율과 배송 리드타임을 최적화해야 함.",
+     "tags": [
+      "엠엑스온",
+      "SCM",
+      "S&OP"
+     ],
+     "sources": [
+      {
+       "name": "헬로티",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yU3o1bUgwSnZiSS16bnBnYjhLREFCV0otM2E5S1VybW42MkdCbG1qclBKY1ZXc0VJb25FNTJwOUswNmFCanFJbWlKbW8yV0JvS3VDQTh0SnVxY01OTk5z?oc=5"
+      },
+      {
+       "name": "팍스경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qdHVIR3RyY0RDMHFSNV9OdUdqQW5BX0dQWlc4a2c5ZHBab3VjdzlSV09NLVJ0MUlXT0hBWGIyMDFCeWxERjhfZ0RkMGpMMGdLUkNkNjBWZGJXNDhKU1Uzc2tucE5SVkE?oc=5"
+      },
+      {
+       "name": "중앙이코노미뉴스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JdVFoRVM3NUVEaUFpRVZMcjhkYUF5VjB2TXFJVU9BakMzekU4ckNDendQUGZaUDFNVEpzUkRtaGRZOEhxSmw5OTBLMHp1bGdMZUJxeHVtWmNiak1SX25ZSkQ3WExZZThUWGI3bkxBMHFPUQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "영업 부서와 물류 부서 간 흔히 발생하는 목표 상충 문제를 SCM 관점에서 어떻게 조율하겠습니까?",
+       "hint": "영업의 빠른 납기 요구와 물류의 비용 최소화 목표 간 간극을 정량적 재고 데이터와 S&OP 체계로 조율한다고 답변합니다."
+      },
+      {
+       "q": "S&OP 프로세스에서 정확한 수요 예측이 중요한 이유는 무엇인가요?",
+       "hint": "과다 재고 비용을 방지하고 결품으로 인한 납기 지연 리스크를 사전에 예방하기 위함임을 설명합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "아르헨티나 2026년 9월 무역 흑자 29억 7,600만 달러…수출 23.5%↑, 수입 1.8%↓ - 뉴스 및 통계",
+     "script": [
+      "최근 '아르헨티나 2026년 9월 무역 흑자 29억 7,600만 달러…수출 23.5%↑, 수입 1.8%↓ - 뉴스 및 통계' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "해운 운임 ‘정점’ 임박…수출기업 숨통 트인다",
+     "script": [
+      "최근 '해운 운임 ‘정점’ 임박…수출기업 숨통 트인다' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "S&OP (Sales and Operations Planning, 판매 및 운영 계획)",
+    "body": "영업(Sales)의 수요 예측과 생산(Operations), 물류 부서의 공급 역량을 일치시켜 최적의 전사 수급 계획을 수립하는 통합 경영 프로세스입니다. 이를 통해 품절과 과다 재고를 동시에 예방하고 고객 납기 신뢰도를 높입니다.",
+    "tip": "면접에서 물류나 SCM 직무는 단순히 운송장을 끊는 역할이 아니라, 영업 데이터와 생산 일정을 조율해 회사 운전자본을 최적화하는 핵심 조정자임을 어필할 때 활용하기 좋습니다."
+   }
+  },
   {
    "date": "2026-10-19",
    "mode": "ai",
