@@ -1,6 +1,195 @@
 {
- "updated": "2026-10-21 06:30",
+ "updated": "2026-10-22 06:32",
  "days": [
+  {
+   "date": "2026-10-22",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "log",
+     "title": "수에즈운하 복귀에도 운임 상승…공급과잉 우려",
+     "summary": "수에즈운하 복귀 움직임에도 불구하고 컨테이너 운임은 오히려 상승세를 보이고 있으며, 2027년까지 공급과잉 우려가 지속되고 있습니다. HMM 등 주요 선사는 고운임과 공급 병목 현상의 수혜를 입어 실적 호조가 전망됩니다.",
+     "what": "수에즈운하 복귀에도 컨테이너 운임이 상승하고 2027년 공급과잉 우려가 제기됨.",
+     "why": "글로벌 공급망 병목 및 복합적인 해운 시장 변동성에 기인함.",
+     "impact": "해외영업 및 물류 담당자는 해상 운임 변동성에 따른 물류비 상승 리스크를 관리하고 선사와의 운임 협상 전략을 재수립해야 합니다.",
+     "tags": [
+      "HMM",
+      "해운",
+      "컨테이너운임"
+     ],
+     "sources": [
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4eURGWVFjZ0FOYnV2M21tSzJBNjloc3pXWmlvS2RRV3h6TXJTbVdNOTY0X0ZzMHpleGZXZEt3aENnZjY5cThVWGM0NFUyYjluVUFiR2lVSlcwR3ZmNDZ3aV9MdUZEekxicmdj?oc=5"
+      },
+      {
+       "name": "한국해운신문",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1MR3U0UGFJUkgxZzZtVEV5RUtqLVM1TGgxRlYyQlI4b3J6ZEV4M2VDTmw5S25ucGQ2S1pIWS1UdmxLRFZTbE5Qc3hPSlR1TUphRE0wYjBQWVp1bTBQX3dsa2xtdXFkcTk1VVBQRVBtNnB5RFk?oc=5"
+      },
+      {
+       "name": "연합인포맥스",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HV1F2SHpiRGpESWZiZ1lOTWZ0MFM4SmRBeHhsWmE3Y3A4MnJwTHk5endZQ1lKanBoR0VjV1B0NHJpOTk0dlNGb2MteDVsbUF5Rkh6Xy16UVJYcmtXRzdVNnM3WnpRR0ZHOWdIcy1UQkV4aVJG?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 상승하는 상황에서 물류비를 절감할 수 있는 방안은 무엇인가?",
+       "hint": "장기 운송 계약(SC) 활용 및 복합 운송(Sea & Air) 검토 등 대안 제시"
+      },
+      {
+       "q": "선사들의 공급과잉 우려가 향후 수출 기업의 물류 전략에 미치는 영향은?",
+       "hint": "시황 변동에 따른 유연한 선복 확보와 리스크 관리 강조"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "반도체 수출 호조 속 원·달러 환율 4일째 연저점",
+     "summary": "반도체 등 수출 호조와 외국인 자금 유입으로 인해 원·달러 환율이 4거래일 연속 연저점을 기록하며 1,320원대 초중반으로 하락했습니다. 환율 하락으로 수출 기업의 원화 환산 이익이 감소하는 '환율의 역설' 우려도 제기되고 있습니다.",
+     "what": "반도체 수출 호조와 달러 공급 증가로 원·달러 환율이 1,325원대 연저점을 기록함.",
+     "why": "역대급 수출에 따른 달러 매도 물량 유입과 외국인 자금 귀환.",
+     "impact": "해외영업 담당자는 환율 하락에 따른 마진 감소에 대비하여 가격 경쟁력 방어 및 환헤지 전략을 점검해야 합니다.",
+     "tags": [
+      "환율",
+      "반도체",
+      "수출"
+     ],
+     "sources": [
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02Z1ZkMjItaE1GZGF4V01rRGtTZmZSdmk3NlctOEVXWUM3d1ctYkg5MVdjRVljb2FKUy0xbWEyS3pJbkQzNW5XZW11aUpHVHQxRmszNEtHZDNVTFc4NkxiVnZzakVrRHlL?oc=5"
+      },
+      {
+       "name": "연합인포맥스",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAtTVhwVE9paGNaODlEOXZWUUIxRjEtaEdCSzBtQnJmWWdiS1NYTl9BVHN5dFJLZ3NJWUdCWVcwamFiQmNBTkZ6R3d4ZWJGTzc0QllkVEN2NnVDb3I0dm9oS2J1TU1oalI1V1Jqd05pQTFUV2p3?oc=5"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBITTZ4NDc5VkFlY0FEMVk1aGJJaXdha2dUSU93ZnJ2Xzg3aHFPQ1VjUzdmRGwyMGtIRngxQXZ0WTNhSDRYdXVXUzFjOXA2SllMSnRtYXZGUlN2Tlg0VnMyYlV4NHpQU01HdXc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락(원화 강세)이 수출 기업의 수익성에 미치는 양면성은 무엇인가?",
+       "hint": "가격 경쟁력 약화와 원화 환산 매출 감소(환율의 역설) 설명"
+      },
+      {
+       "q": "환율 변동성이 클 때 해외영업 실무자로서 취할 수 있는 대응책은?",
+       "hint": "환헤지 상품 활용 및 계약 조건 조정 등 리스크 헤지 방안 언급"
+      }
+     ],
+     "unverified": [
+      "1,325"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "미국 상호관세 및 통상변화대응법 시행",
+     "summary": "정부가 미국의 상호관세 및 수출통제 등 외국 통상조치로 피해를 본 기업을 지원하기 위한 통상변화대응법을 시행합니다. 포스코스틸리온 등은 통상 장벽을 넘고 국내 최초로 미국 GE 공급망에 진입하는 성과를 거두었습니다.",
+     "what": "미국 상호관세 등 통상 조치에 대응하기 위한 정부 지원 법안이 시행되고 기업들의 공급망 진입이 이어짐.",
+     "why": "보호무역주의 강화 및 글로벌 공급망 재편에 대응하기 위함.",
+     "impact": "해외영업 및 SCM 담당자는 강화된 통상 규제와 관세 리스크를 모니터링하고 정부 지원 제도를 적극 활용해야 합니다.",
+     "tags": [
+      "포스코스틸리온",
+      "GE",
+      "통상변화대응법"
+     ],
+     "sources": [
+      {
+       "name": "연합뉴스 한민족센터",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5eVZzSUExc0FYSzE4TFN0clFOUXVIa3N3NFc2bGFTaHBMdGx2NmdXanJsNk5ZMmwzQ3BqMzdTLTk5eHd4NThvUzFmeVlwM0ZNVzZRenFXREJWanVVTjJSNlV1dkd3b0k2ZHZvRlU3V2hUTTQt?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0R1BOWHZJV1pfc2hCTkFzamxvdmthWENYS3ZtS3ZGbG1xTndOZS1PdVZFWUtGcDl3akQwbXFsdDA1dmY3Ty1mMzExYTUtRVI0YjdFN3pQdERaQdIBWEFVX3lxTE5xVHlqQjhuSmt2VHdvNy05WGlZNUd1aUZ4ci1zUFg0THZENFp1TUoyZlNRRktlOU1hZldfZ3NBU1JUZXczQXhEcEh0ZTNtRm1yWmVCUXZXZ1M?oc=5"
+      },
+      {
+       "name": "경북매일",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qaEZpU2RFMWotUTlxejNqNVhhWVJ6X0dIV3M3aWt0M052VXBUMjhPUTFneURkNnhUVE5YVklDeHRSaERNMW4yckdyaFhwRmFHbnRYbDUyRGxUdw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국의 관세 및 수출통제 강화 기조 속에서 북미 시장 진입을 위한 전략은?",
+       "hint": "현지 규제 준수(Compliance)와 공급망 투명성 강조"
+      },
+      {
+       "q": "통상변화대응법 시행에 따라 기업들이 활용할 수 있는 지원책은 무엇인가?",
+       "hint": "정부의 피해 기업 지원 및 통상 리스크 컨설팅 연계 활용"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "중국 COSCO, 지정학적 리스크 대비 백업망 구축",
+     "summary": "전쟁과 기후 위기 등 글로벌 공급망 불안에 대응하기 위해 중국 COSCO가 육·해상 복합 우회로를 개설하는 등 백업망 구축에 나섰습니다. 물류 안정성을 높이기 위한 대체 루트 확보가 중요해지고 있습니다.",
+     "what": "전쟁 및 기후 위기에 대응해 육·해상 복합 우회로 백업망이 구축됨.",
+     "why": "지정학적 리스크와 기후 변화로 인한 기존 운송로 마비 위험 방지.",
+     "impact": "물류 및 SCM 담당자는 단일 운송 경로 의존도를 낮추고 비상 대안(Alternative Route)을 마련해야 합니다.",
+     "tags": [
+      "COSCO",
+      "복합운송",
+      "SCM"
+     ],
+     "sources": [
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV3RHZGdUZjdpbEZnMTJIQ1JobGYtY1pwZzA5RnZ4OXVrMnlyX3I1enFWRngwM2MybUxRWHBQLUYwNHdLV0MwbFJwamhaY2d2eVhRZXJSNEtqMktEYmtCeWtTTTRtbW1OVGh4M2VSU1h5cVMyTmNQVHNGRTFGZmtSVHNuTDh2dHlZ?oc=5"
+      },
+      {
+       "name": "코리아쉬핑가제트",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xSTBsajczc1RjX3VUbUdyZXhad3BMRHZuaFJCNEtvTl9WbmtzWV93dnBSMWVpeUdycHZ6dTdzSXlIaHNRQkxqVWpkSW5JTGh6dHJJbk92Sk9IU2MyX0gxQmZXOTV5alU?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "지정학적 리스크로 공급망이 차단될 때 SCM 관점에서 가장 먼저 해야 할 일은?",
+       "hint": "대체 운송 경로 및 백업 공급처(Dual Sourcing) 확보"
+      },
+      {
+       "q": "육·해상 복합 우회로 구축이 물류비와 리드타임에 미치는 영향은?",
+       "hint": "비용 증가 가능성과 안정성 확보 간의 트레이드오프 설명"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "[환율 4일째 연저점] \"1,320원 선도 위태롭다\"…수출 호조·외인 귀환에 장중 1,322원 터치",
+     "script": [
+      "최근 '[환율 4일째 연저점] \"1,320원 선도 위태롭다\"…수출 호조·외인 귀환에 장중 1,322원 터치' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "수에즈운하 복귀에도 컨테이너 운임 상승…2027년 공급과잉 우려",
+     "script": [
+      "최근 '수에즈운하 복귀에도 컨테이너 운임 상승…2027년 공급과잉 우려' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "환율의 역설 (Paradox of Exchange Rate in Export)",
+    "body": "수출 물량이 사상 최대를 기록하며 달러가 국내에 많이 유입될 때, 시장에 달러 공급이 넘쳐나면서 원·달러 환율이 하락(원화 강세)하는 현상을 말합니다. 수출 기업 입장에서는 물량은 많이 팔았지만 정작 원화로 바꿀 때 손에 쥐는 돈이 줄어들어 이익이 뒷걸음질 치는 모순이 발생합니다.",
+    "tip": "해외영업 면접에서 '수출 호조인데 왜 환율이 떨어지고 이익이 걱정인가요?'라는 질문이 나오면, 수출 증가가 환율 하락을 유발하고 이것이 마진을 압박하는 메커니즘을 정확히 설명하세요."
+   }
+  },
   {
    "date": "2026-10-21",
    "mode": "ai",
