@@ -1,6 +1,224 @@
 {
- "updated": "2026-10-23 06:29",
+ "updated": "2026-10-24 06:31",
  "days": [
+  {
+   "date": "2026-10-24",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "환율 하락 및 변동성 확대에 따른 수출입 기업 대응",
+     "summary": "원·달러 환율이 연저점을 경신하고 추가 강세 여지가 제기되면서 수출 기업들의 채산성 악화 우려가 커지고 있습니다. 환율 변동에 따라 수출 실적과 환차손 관리가 시급해진 상황입니다.",
+     "what": "원·달러 환율이 연저점을 경신하며 하락세를 보이고 일부 전문가들은 추가 하락 가능성을 경고함.",
+     "why": "글로벌 외환시장 여건 변화와 외국인 자금 흐름, 위험 회피 심리 등 복합적 요인 작용.",
+     "impact": "해외영업 담당자는 환율 하락에 따른 원화 환산 매출 감소 및 마진 축소에 대비해 환헤지 전략을 수립해야 합니다.",
+     "tags": [
+      "환율",
+      "원달러",
+      "수출입"
+     ],
+     "sources": [
+      {
+       "name": "인더스트리뉴스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTng3RWNLSWdfZGxGMWliX0txaWFqcERtR0NHVWMwa3piMnRVWVcyNnpFYnFSV1pCcy13cEZuTWJhSC16aWpIWDlCX3JyWjFwQkRUZGl0QjFQWG1FREx4ZVk1b1RJWl80N0FpR29TY09Cdw?oc=5"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyQzRsZ3ZpQWVtZ1FwVXlhRUlRSzZvQXNSaTNjWmlaSjl0WGVsMlBySjlIYXJlckMwRW1wc0hQODBvRlhhWG9ZN3ozQXJFUmZ5MmfSAVNBVV95cUxNQnFGVGJFdDhIVzQteEEwNG9UOFdLN3JVQzhIQ3pwNExEekxONG5KUjdtZ0V5cWhtS1pzQVpnOHEtTzlZazRaVkdQMXAzVEFWcEFOSQ?oc=5"
+      },
+      {
+       "name": "문화일보",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1JYlBpUk5ZejZ6NlBuay1RT3lPbEdDMXFUTTFpaG9GS1RQUVdiUFhLODdMbUxzczdId0ZRaTZyTGtaUmVnb0xvc2VXeDFnR3FR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락이 지속될 때 해외영업 실적에 미치는 영향은 무엇인가요?",
+       "hint": "원화 환산 매출액 감소 및 가격 경쟁력 약화 가능성 언급"
+      },
+      {
+       "q": "환리스크를 관리하기 위한 실무적 대책은 무엇이 있나요?",
+       "hint": "선물환 계약, 자연적 헤지(Natural Hedge) 등 활용 방안 제시"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "미국의 우회수출 단속 및 원산지 규제 강화",
+     "summary": "미국이 관세에 이어 엄격한 원산지 규정 및 우회수출 단속을 예고하면서 K-수출기업들이 비상에 걸렸습니다. 철저한 공급망 추적과 대응 체계 재설계가 요구되고 있습니다.",
+     "what": "미국이 우회수출 단속과 원산지 규제를 강화하며 국내 수출기업들의 사전 점검이 요구됨.",
+     "why": "무역 규제 회피를 막고 자국 산업을 보호하려는 미국의 통상 정책 기조 때문.",
+     "impact": "해외영업 및 SCM 담당자는 부품 조달부터 최종 수출까지의 원산지 증빙과 공급망 투명성을 확보해야 합니다.",
+     "tags": [
+      "미국",
+      "원산지규제",
+      "우회수출",
+      "통상"
+     ],
+     "sources": [
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Ib25JMUo5TF9nb0JZTnc1MURMN2RrbDZaVkI0LUpObW5ZaTdWU2xBN0FHZGR2Y3Q5RzBFYWt0blhGR1ZZTm9sTHdZMHdoVnhwQnN0c3JsdXZFTm1FRzc1QQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "강화된 원산지 규제에 대응하기 위해 SCM 관점에서 무엇을 확인해야 합니까?",
+       "hint": "BOM(자재명세서) 및 부품별 원산지 판정의 정확성 강조"
+      },
+      {
+       "q": "미국의 수입 규제 강화가 우리 기업의 미국 시장 진영에 주는 리스크는?",
+       "hint": "통관 지연, 추가 관세 부과 및 법적 리스크 증대"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "컨테이너 운임 변동과 물류비 리스크",
+     "summary": "스팟 컨테이너 운임을 나타내는 SCFI가 3주 연속 상승한 반면, CCFI는 하락세를 보이는 등 물류비 변동성이 지속되고 있습니다. 환율과 유가 충돌 가능성과 맞물려 물류비 관리 중요성이 커졌습니다.",
+     "what": "스팟 컨운임 지수인 SCFI가 상승세를 기록하며 해상 운송 비용의 불확실성이 지속됨.",
+     "why": "항만 적체, 선박 운항 스케줄 변동 및 글로벌 해운 수급 불균형 영향.",
+     "impact": "물류 및 해외영업 담당자는 운임 변동성에 맞춰 해상 운임 예산을 재조정하고 선사와 긴밀히 협력해야 합니다.",
+     "tags": [
+      "SCFI",
+      "컨테이너운임",
+      "해운물류"
+     ],
+     "sources": [
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LN0s0YV9pRFRSNzRXbnRQUjNVMW1KUWk1c0l2aWJxVllRMk1PQzhzbURrTlU3MlRtYk1OWXYyVnNDdC0zOVZfRktfZjd2UU5XdGN3?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vRjlUNzdaZVd6aWk1eEdHSFN1Vk1kemJ0U1JoMk8zS1Ayc0Nqd3lSUjZfZkMxcHh1UW1jdGhoZzVKNnhkVDEtNG9OVUpjWjlCOG5zUUtXcGZ5YTR5VzhFMVNtaE5oUkFHN1NvRzlwS2lCM0U?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "스팟 운임이 상승할 때 수출 기업이 취할 수 있는 운송비 절감 대책은?",
+       "hint": "장기 계약(SC) 활용, 대체 항로 검토 등"
+      },
+      {
+       "q": "물류비 변동이 해외영업의 FOB/CIF 가격 협상에 미치는 영향은?",
+       "hint": "견적 산정 시 물류비 변동분 반영 및 마진 방어"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "주력 품목 수출 증감 엇갈림 속 신시장 개척",
+     "summary": "반도체 수출 비중이 높은 가운데 대미 자동차 수출이 급감하고 중동 수출이 줄어드는 등 품목 및 지역별 명암이 엇갈리고 있습니다. 이에 따라 코트라 등을 통한 대체시장 다변화 노력이 가속화되고 있습니다.",
+     "what": "특정 품목·지역의 수출 둔화 속에서 정부와 유관기관이 대체시장 지원 및 신시장 개척을 추진함.",
+     "why": "글로벌 수요 변화 및 보호무역주의로 인한 기존 시장의 한계 극복 필요.",
+     "impact": "해외영업 신입 지원자는 단일 시장 의존도를 낮추고 신흥국 등 대체 시장을 발굴하는 역량을 보여주어야 합니다.",
+     "tags": [
+      "코트라",
+      "수출다변화",
+      "신시장"
+     ],
+     "sources": [
+      {
+       "name": "경인방송 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hYV9JRVZJSVVXRFNRRDFGclpsMEFsSC1ITkxDRExjcWc3WUFqMG5qRkMxVWhaVm52VFZIdVRIdUpQLWRwUjZtSmd1ZnI5TEN0OWxRWVlFb2NybWd6WEZtTl9zX0HSAWhBVV95cUxOSmhkLTlZSWlpWHNGbzBYc0JLUzBydmIyeXlDcUlmbVhIQ3RaQVM5VGFaYWc5N0U5SDg0SmlKNVozQ3NiSkZCeEItVzJFMjRZeDNETnVzanE5RDEwU0kxVDN3V1ZZVm5rTQ?oc=5"
+      },
+      {
+       "name": "서울신문",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MOThzaUZESTBTNWV2TC1zSjFqUURFYXI1d3FHdmRRRTJfZk5Sb1ZOdGItSWZiMDNFeEpnUXFFbFc1ZExNT3pfTENuR0F1c2RYbUs2YzYtVGxoSVNfRVZXeFBWdDVIN0ZaVmF4b1RTOA?oc=5"
+      },
+      {
+       "name": "환경일보",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hWk5fb3duV1VRWVNFSmpseFB1S2h0RFlKSHRUazFtTmpCVzBZRUJ1U2NRbWd2em9fenpXT3pIVzdJYjZwNFp3bFNubmJPOVVQeFhHOVRFUUZCTkJKVklUS2l3ckE4M1Zu?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "주력 시장의 수출이 감소할 때 해외영업으로서 가장 먼저 해야 할 일은?",
+       "hint": "원인 분석 및 유망 대체 시장(신흥국 등) 발굴"
+      },
+      {
+       "q": "정부나 유관기관의 수출 지원 사업을 실무에 어떻게 활용할 수 있나요?",
+       "hint": "KOTRA 무역관 지사화 사업, 수출바우처 등 활용 경험 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "제약·바이오 및 소비재 K-수출 영토 확장",
+     "summary": "한국유나이티드제약이 필리핀과 베트남에 항암제 수출 계약을 체결하고, K-뷰티 및 K-소비재가 글로벌 시장에서 성장세를 이어가고 있습니다. 동남아 및 선진국 시장을 중심으로 수출 저변이 확대되고 있습니다.",
+     "what": "국내 제약사와 소비재 기업들이 동남아 등 해외 시장에서 잇따라 수출 성과를 거둠.",
+     "why": "품질 경쟁력 강화 및 현지 맞춤형 마케팅 전략 주효.",
+     "impact": "해외영업 담당자는 현지 규제(인허가 등)를 준수하며 바이어와의 파트너십을 공고히 해야 합니다.",
+     "tags": [
+      "한국유나이티드제약",
+      "K뷰티",
+      "항암제수출"
+     ],
+     "sources": [
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12RTY1bjRUMVhILUVaYzlyVXBsSnNPMTg0STRIUjlaMXBtMFhNbUExM0kwZzYwNDVGaVV1YUVTa1RZaXJYWE8zLW41TW9HTG5PWExuNHV5VnpLallmOXpjRlZkT2dYYTVFdlE?oc=5"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fNXYzZkVJZkxySzhNcHUybW0tWFJnNWZmRFU1TGoxcVdyeXRJdEtJcnlQUXZYamRnZkswTVlxWTQwWi1xTEwzV3NRLTd6RXV2cVZxQXRDakJmak96ZE0wSDhzMWpQLUVyaV82dHZ0c0lvR0lUTndXbHpNcE7SAXxBVV95cUxPXzV2M2ZFSWZMcks4TXB1Mm1tLVhSZzVmZkRVNUxqMXFXcnl0SXRLSXJ5UFF2WGpkZ2ZLME1ZcVk0MFotcUxMM1dzUS03ekV1dnFWcUF0Q2pCZmpPemRNMEg4czFqUC1FcmlfNnR2dHNJb0dJVE53V2x6TXBO?oc=5"
+      },
+      {
+       "name": "마이데일리",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jY2g5dG90bzlob3NxbDdyeVR0aktGSS1YUVdHQnF2SWY1ekVqMlNHdzRGT2dXeF9tZy12NDNSdlFoVzJOZFNFeGJsY3Nna0pTb3BBMzhiSGg5N3AyLTlLaWFJYjQwQQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "제약·바이오 품목의 해외영업에서 가장 까다로운 절차는 무엇인가요?",
+       "hint": "현지 보건당국 인허가(PMDA, FDA 등) 및 규제 준수"
+      },
+      {
+       "q": "K-소비재가 동남아 시장에서 성공하기 위한 영업 전략은?",
+       "hint": "현지 유통망 발굴 및 디지털 마케팅 활용"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "해외영업: 환율 하락과 채산성 악화 대응 방안",
+     "script": [
+      "최근 원·달러 환율이 하락세를 보이면서 수출 기업들의 환차손 우려와 채산성 악화가 가중되고 있습니다.",
+      "이는 글로벌 경제 불확실성과 외환시장 수급 변화에 기인한 것으로 판단됩니다.",
+      "해외영업 신입사원으로서 저는 환율 변동에 대비해 정기적인 환헤지 계약 검토와 함께 바이어와의 가격 협상력을 높이는 방안을 고민하겠습니다.",
+      "나아가 환율 리스크를 최소화하기 위해 재무팀과 긴밀히 소통하며 안정적인 마진을 확보하는 영업 전략을 실행하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "물류: 해상 운임 변동성 대응과 SCM 리스크 관리",
+     "script": [
+      "스팟 컨테이너 운임이 등락을 거듭하는 등 물류비의 불확실성이 커지고 있습니다.",
+      "이러한 현상은 글로벌 해운 시황의 수급 불균형과 항만 상황에 따라 발생합니다.",
+      "물류 및 SCM 직무 담당자로서 저는 주요 선사와의 장기 운송 계약을 관리하고 대체 항로를 모니터링하여 물류비 절감에 기여하겠습니다.",
+      "예측 불가능한 물류 리스크에 선제적으로 대응하여 적기 납기(On-time Delivery)를 완수하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "인코텀즈(Incoterms)와 FOB·CIF",
+    "body": "인코텀즈는 국제상업회의소(ICC)가 제정한 국제 무역 거래 조건의 해석에 관한 규칙입니다. 매도인과 매수인 간의 비용 부담, 위험 이전 시점, 수출입 통관 의무 등을 명확히 규정합니다. 대표적으로 FOB(Free On Board)는 선적항에서 배에 화물이 실릴 때 위험이 이전되며, CIF(Cost, Insurance and Freight)는 운임과 보험료를 매도인이 부담하는 조건입니다.",
+    "tip": "해외영업 견적 작성 시 인코텀즈 조건에 따라 최종 마진과 물류 비용 계산이 완전히 달라지므로, 계약 체결 전 반드시 물류팀과 협의하여 유리한 조건을 선택해야 합니다."
+   }
+  },
   {
    "date": "2026-10-23",
    "mode": "ai",
