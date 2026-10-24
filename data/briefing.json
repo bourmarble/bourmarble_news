@@ -1,6 +1,218 @@
 {
- "updated": "2026-10-24 06:31",
+ "updated": "2026-10-25 06:24",
  "days": [
+  {
+   "date": "2026-10-25",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 급락 및 원화 강세 기조",
+     "summary": "반도체 수출 호조에 따른 달러 유입과 수급 영향 등으로 원·달러 환율이 2년 만에 최저 수준으로 떨어지며 하락 압력을 받고 있다. 1,300원대 붕괴 가능성까지 거론되며 수출 기업의 가격 경쟁력 및 채산성 관리가 요구된다.",
+     "what": "반도체 등 수출을 통한 달러 유입과 네고 물량 확대로 원·달러 환율이 1,320원대 이하로 하락하며 원화 강세가 이어지고 있다.",
+     "why": "반도체 호황에 따른 달러 공급 우위와 전반적인 달러 약세 기조가 맞물려 환율 하락 압력이 커졌다.",
+     "impact": "수출 대금을 달러로 정산받는 해외영업 기업의 원화 환산 매출 및 영업이익이 감소할 수 있어 결제 통화 다변화와 환헤지 전략 수립이 시급하다.",
+     "tags": [
+      "반도체",
+      "환율",
+      "외환"
+     ],
+     "sources": [
+      {
+       "name": "www.dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA4TTFIcDA5dDIxVFNERzNOeGVIa3RCcEJwNU1VMGpUdVBDczJlMjNYOFZnZFJ4XzNXa0ZFRUVhVThFOTNGOEJieEk2QUtGZw?oc=5"
+      },
+      {
+       "name": "세계비즈",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56SHpjVl9ETHpyR1lNbVdDeHRaR21jejRlUlp1MDliOUJZMUhERkVscEpCb0JsTXd1Y2k1bUVpanY0MkRoY1Buc25kMGFIRGxvdEctSXdPZw?oc=5"
+      },
+      {
+       "name": "굿모닝경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02Z0xtczhxakpwb0d5b0toZGNxcHNQclZ1cFB1Yi1LNGYxUlZqdlU4S2dCcGZ4MjA0Y1N4aHhpZ0k5UGFYTFBBRnR5MVhCTnFkd3R2dVA5MTBSWG80QTFMSWJCcjc3WTlWem9Vbw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "최근처럼 급격한 원화 강세(환율 하락)가 이어질 때 해외영업 담당자로서 어떻게 채산성을 방어하겠습니까?",
+       "hint": "선물환 매도 등 재무팀과의 환헤지 공조, 결제 통화 다각화, 계약 시 환변동 반영 조항(Currency Adjustment Clause) 검토 등을 제시한다."
+      },
+      {
+       "q": "환율 하락으로 바이어의 가격 인하 압박이 덜해질 수 있는 반면 채산성은 악화되는데, 가격 협상 전략은 어떻게 가져가겠습니까?",
+       "hint": "단순 단가 인하 방어에 그치지 않고 장기 공급 계약이나 납기 단축, 부가 서비스 등 비가격 경쟁력을 결합한 협상 방식을 제안한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "컨테이너선 해운 운임 추이 및 변동성 확대",
+     "summary": "드류리 컨테이너 운임 종합지수가 7월 이후 최고가를 기록했으나 상승폭이 축소되며 고점 통과 여부가 주목받고 있다. 아시아 역내 운임은 국경절 영향 등으로 소폭 상승하는 등 단기 변동성이 관측된다.",
+     "what": "글로벌 컨테이너 운임 지수가 2주 연속 상승세를 보였으나 상승폭이 둔화되면서 정점 도달 가능성이 제기되고 있다.",
+     "why": "성수기 진입 및 중국 국경절 전후 물동량 변화가 단기 운임을 밀어올렸으나, 글로벌 경기 및 선복량 공급 변수로 상승세가 둔화되었다.",
+     "impact": "물류비 변동성이 커지면서 장기 계약(SC)과 스팟(Spot) 계약 간 배분 비중 조정 및 선복 확보 일정이 중요해졌다.",
+     "tags": [
+      "해운",
+      "컨테이너",
+      "HMM",
+      "물류"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OMGNDRlZGc1d3cUdGYmdHcnpndEpqWl82OWwtdHJZX081WnZYMF95anlURGQwRlR3bGotUTNYUjJ4UWQ4MXY1STVETVJ4UnRnbEtYMkRVcGJGMHhhQW1SWUdnQmNvREhmWDZjMmt5WXA0Wkk?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNU3RiMlRaa2pfMkNaemdKZlU3Mk1FYUsyeVc0YlJCZkRSNjJjbmN0MFpwNk9sSW02WEc4eTVQeURCY2JLRzlaYWVzU01fRWYyN1BmZmtJZVNmVFMzQ19ZU1k4WWFWbm5UeUVjd09odEw3cHFVZDNsa1JnbUNKZHUzSQ?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kbFhGN0M2VVhzUkpQaEFkMW42d0hVb0gtT3BiYTRYRU5PeS1wVXk2MU1lVGduVDV0ckk4MlRmX1BmRHBYX0J2alRuT28zSWJyQ0dfMlBQaURnRWI1cDJ4ZWlLT2pHR0NOdzJVVEZfQlg5S2s?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운 운임이 고점을 찍고 등락을 반복할 때 포워더 및 선사와의 계약을 어떻게 체결하는 것이 유리하겠습니까?",
+       "hint": "기본 물량은 장기 고정 운임으로 안정성을 확보하고, 잔여 물량은 스팟 운임 하락세를 활용하는 분할 계약 전략을 설명한다."
+      },
+      {
+       "q": "아시아 역내 및 원거리 노선 운임 변동이 잦을 때 출하 지연을 방지하기 위한 SCM 관리 방안은 무엇입니까?",
+       "hint": "선적 2~3주 전 사전 부킹 시스템 정착, 복수 선사 활용, 현지 창고(Hub)를 통한 완충 재고 확보 방안을 제시한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율·유가·물류비 복합 리스크에 따른 대응체계 필요성",
+     "summary": "미국 대선 등 대외 환경 변화와 함께 환율, 유가, 물류비가 동시에 출렁이는 복합 충격 가능성이 경고되고 있다. 한국 수출 경제 전반에 걸쳐 선제적인 리스크 관리 체계 재설계가 요구된다.",
+     "what": "환율, 유가, 해상 물류비가 동시에 변동하는 3중 충격 가능성으로 인해 수출 기업들의 위기 대응 체계 재정비가 대두되었다.",
+     "why": "미국 대선 등 대외 불확실성과 지정학적 긴장이 원자재 가격, 환율, 공급망 비용 전반에 복합적으로 영향을 미치기 때문이다.",
+     "impact": "영업 마진 산출 시 예상치 못한 원가 상승이 발생할 수 있어 인코텀즈 조건 선택 및 비용 연동 조항의 중요성이 커진다.",
+     "tags": [
+      "미국대선",
+      "수출리스크",
+      "공급망"
+     ],
+     "sources": [
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LN0s0YV9pRFRSNzRXbnRQUjNVMW1KUWk1c0l2aWJxVllRMk1PQzhzbURrTlU3MlRtYk1OWXYyVnNDdC0zOVZfRktfZjd2UU5XdGN3?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율, 유가, 물류비가 동시에 불안정해질 때 해외영업 견적서(Quotation) 작성 시 유의할 점은 무엇입니까?",
+       "hint": "견적 유효기간(Validity)을 단축하고 유류할증료(BAF) 및 물류비 실비 정산 조건, 통화 변동 반영 조항을 삽입하는 방안을 제시한다."
+      },
+      {
+       "q": "이러한 대외 복합 리스크 발생 시 내부 유관부서(SCM, 재무, 생산)와 어떻게 협업하겠습니까?",
+       "hint": "수주 단계부터 납기-원가 시뮬레이션을 공유하고 실시간 정보 공유 채널을 구축해 유기적으로 대응하겠다고 답변한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-소비재(뷰티·프리미엄 소비재) 해외 진출 및 품목 다변화 과제",
+     "summary": "무역협회가 미국 LA에서 소비재전을 열어 400건의 상담을 진행한 반면, K-뷰티 립메이크업 수출은 둔화되고 미·일 편중이 심화되고 있다. 소비재 수출 확대를 위해 품목 및 진출 국가의 다변화가 요구된다.",
+     "what": "북미 현지 소비재 전시회를 통한 수주 상담이 활발히 이뤄지고 있으나, 립메이크업 등 주력 뷰티 품목은 성장 둔화 및 시장 편중 문제가 나타났다.",
+     "why": "미국과 일본 시장에 대한 높은 의존도와 특정 품목군의 경쟁 심화로 인해 성장세가 조정 국면에 들어섰기 때문이다.",
+     "impact": "해외영업 담당자는 기존 주력 시장 외 신규 권역(유럽, 중동 등) 발굴과 둔화 품목을 대체할 신규 카테고리 기획이 필수적이다.",
+     "tags": [
+      "K뷰티",
+      "화장품",
+      "소비재",
+      "한국무역협회"
+     ],
+     "sources": [
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UWUVNZmRvYXphd3Q1YTIwR3B5MkNhYjlpbHlhRjgwTFpsbk0yTE9zZ2VGeGlIUW1BcHNVcXAzaWRBVFUwUnRncy1EdUkyOGowczMxQWhFQ1d2aFphOVJOOEk3MGI2WU1FUkE?oc=5"
+      },
+      {
+       "name": "메트로신문",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fdWlsNkx6SVJnVHhZc0NJUGJnMEFJZVRSeU9uVUFIR0FmQ1VTS0Yyd3ZKT0pLVmVxN0VwX2NGdnZhTXFMV2dFQXVhVXRHRDM3VzZQZHBHaXFoUjM4OHJOOQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국, 일본 등 특정 국가에 매출이 집중된 K-소비재의 시장 다변화를 위한 바이어 발굴 전략은 무엇입니까?",
+       "hint": "현지 무역전시회 참가를 통한 현지 유통 벤더 접촉, 글로벌 이커머스 입점을 통한 권역별 수요 테스트 전략을 제시한다."
+      },
+      {
+       "q": "수출 성장률이 둔화된 제품군의 재도약을 위해 해외 바이어에게 어떤 프로모션 전략을 제안하겠습니까?",
+       "hint": "현지 트렌드에 맞춘 패키징 변경, 번들 상품 기획, 데이터 기반의 현지 맞춤형 마케팅 공동 지원책을 제안한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "중동 건설기계 수출 급감과 지정학적 물류 리스크",
+     "summary": "상반기 UAE 대상 한국산 굴착기 수출이 53% 급감하며 물류 및 공급망 리스크에 대한 대비 필요성이 제기되었다. 중동 지역의 운송로 불안과 지정학적 변수가 중장비 수출에 직접적인 타격을 주고 있다.",
+     "what": "UAE 굴착기 수출이 절반 이상 줄어들며 중동 시장 내 중장비 수출 환경이 악화되었다.",
+     "why": "홍해 사태 등 중동 인근의 항로 불안과 현지 물류 차질, 프로젝트 지연이 복합적으로 작용한 결과로 해석된다.",
+     "impact": "중량화물(벌크/RORO) 운송 시 항로 우회로 인한 운임 및 리드타임 증가로 수주 경쟁력 저하 및 납기 페널티 위험이 커진다.",
+     "tags": [
+      "건설기계",
+      "굴착기",
+      "중동",
+      "물류리스크"
+     ],
+     "sources": [
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5JQ19RM0RscTFFckY4OWJENk9ROHRyY3JlMHE1LWRITlNVRGRqYXRiU0s5VUhJRGp5VFpodnNTbEd6cnV2ZzBDQ3dFbHBHOWNKWlpFdHp0Yw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "특정 국가로의 수출이 물류 리스크로 급감할 때 중량화물 영업 및 물류 담당자로서 취할 즉각적인 대안은 무엇입니까?",
+       "hint": "인근 대체 항만(Hub Port)을 활용한 복합 운송로 모색, 현지 딜러와의 재고 분산 보관 협의 등을 언급한다."
+      },
+      {
+       "q": "지정학적 리스크로 인한 선박 운항 지연 시 바이어와의 납기 분쟁을 최소화하는 방안은 무엇입니까?",
+       "hint": "불가항력(Force Majeure) 조항 점검, 운송 트래킹 정보의 투명한 선제 공유, 긴급 분할 선적 제안을 제시한다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "외국인 21조 팔아도 원화 강세…환율 1300원 밑으로 가나?",
+     "script": [
+      "최근 '외국인 21조 팔아도 원화 강세…환율 1300원 밑으로 가나?' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "드류리 발표, 컨테이너 운임 종합지수 2주 연속 상승...7월 이후 최고가",
+     "script": [
+      "최근 '드류리 발표, 컨테이너 운임 종합지수 2주 연속 상승...7월 이후 최고가' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "BAF (Bunker Adjustment Factor, 유류할증료)",
+    "body": "BAF는 해상 운송에서 선박 연료인 벙커유의 가격 변동에 따른 선사의 손실을 보전하기 위해 기본 운임에 추가로 부과되는 부대비용이다. 유가가 급등할 때 선사는 BAF 요율을 인상하여 화주에게 유가 변동분을 전가하며, 최근 중동 분쟁이나 글로벌 환경 규제로 인한 저유황유 사용 등으로 변동 폭이 커지고 있다. 무역 거래 시 해상 운임 견적에 BAF가 포함(All-in)되어 있는지 별도 청구되는지 명확히 확인해야 예상치 못한 물류비 초과 지출을 막을 수 있다.",
+    "tip": "면접에서 물류비 상승 대응 방안을 물을 때 기본 운임 외에 BAF, CAF(통화할증료) 등 부대비용을 포함한 'All-in Rate' 조건 여부를 체크하겠다고 답변하면 실무 이해도를 어필할 수 있습니다."
+   }
+  },
   {
    "date": "2026-10-24",
    "mode": "ai",
