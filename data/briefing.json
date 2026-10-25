@@ -1,6 +1,185 @@
 {
- "updated": "2026-10-25 06:24",
+ "updated": "2026-10-26 06:26",
  "days": [
+  {
+   "date": "2026-10-26",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "반도체 수출 호조와 원/달러 환율 하락",
+     "summary": "반도체 등 수출 호조와 달러 유입으로 원/달러 환율이 1310~1320원대까지 하락하며 원화 강세 흐름을 보이고 있다. 외국인의 주식 매도에도 불구하고 수출 실적이 환율 하락을 떠받치는 모습이다.",
+     "what": "수출 호조에 따른 달러 유입 등으로 원/달러 환율이 1310~1320원대 수준으로 하락함.",
+     "why": "반도체 중심의 수출 양호로 국내에 달러 공급이 늘어나면서 원화 가치가 강세를 보이기 때문.",
+     "impact": "환율 하락은 원화 환산 수출액 감소로 이어져 가격 경쟁력에 부담을 줄 수 있어, 해외영업 담당자는 수익성 관리에 주의해야 함.",
+     "tags": [
+      "반도체",
+      "환율"
+     ],
+     "sources": [
+      {
+       "name": "매일경제 마켓",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSDRGU1prOFA4YzJ1emU0dmdYYU9XTnZOdUdlSi1sNzdjQ2xRaGg1T0llNW1GVU9lSXhyT1dieFhadjJhREIwQmhMZEFMVW9lTWc?oc=5"
+      },
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZXdDTWhoZlIzZm9GUTl3QU15Mm5BSXRrclZmUmhOSm1DV3pmY25GcXZyV05vd2RQVUNSVXlXbF9JZmFmY01FRUk1VW8xUlBUN0lCRVU1STZNUlNzSVBMVHRtOXdaQWU1Y3dFUzd1T0lhenNxV1JVeXlhb1pnY0FBZExwOC0?oc=5"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1GMkk5R3VidFJkZUphSVBqcDV6WDZLYnJFV3h4OGRvMW9EeERDREpjVHVKNmUtbVlpaHhKVndPZFpBeGNOM1B4QjRiQ1RRSmtySjVaS3AxTHJ5WlZEYVRUOQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락(원화 강세) 시 수출 기업의 해외영업 전략은 어떻게 수정되어야 합니까?",
+       "hint": "가격 경쟁력 약화에 대응해 고부가가치 제품 중심 영업 및 환헤지 전략 활용 언급"
+      },
+      {
+       "q": "외국인의 국내 주식 매도에도 불구하고 환율이 하락한 원인은 무엇이라고 보십니까?",
+       "hint": "반도체 등 주력 산업의 수출 호조로 인한 무역수지 흑자 및 달러 유입 영향 설명"
+      }
+     ],
+     "unverified": [
+      "1320"
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "해운 컨테이너 운임 상승세 지속",
+     "summary": "컨테이너운임종합지수가 2주 연속 상승하며 7월 이후 최고가를 기록했다. 아시아발 유럽향 및 태평양 횡단항로 운임 상승이 전체 지수 견인을 주도하고 있다.",
+     "what": "컨테이너 운임종합지수가 상승하며 7월 이후 최고가를 기록함.",
+     "why": "아시아발 유럽 및 태평양 횡단 등 주요 항로의 운임이 올랐기 때문.",
+     "impact": "물류비용 증가로 인해 수출입 기업의 마진이 압박을 받을 수 있어, 해외영업과 SCM 부서 간 긴밀한 운송비 대응이 요구됨.",
+     "tags": [
+      "해운",
+      "컨테이너운임"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43aGhqMzVBXzJCaG5XcXgzWTQwQUtMU1JnM1dqOXlSejJ1YVNrUDhCRkNDbld5Z0VnSS1xMURpYzRQRmtUNHNPVU42SG5nZklubVFPeVhPa0VZRW05b2pmQlZua2M4VzEwS2huQjEzbzRmb3c?oc=5"
+      },
+      {
+       "name": "www.dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1qaWRIa19OY2N4VkUwSHMtZm1iUkN5Mm5YOVJSYmQwaHZwZGEydldkSTEyUm94b1FOa3phUzBSZ2Q4cVNHV2ZjYnh2QUF1QQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임 상승세가 지속될 때 SCM 및 물류 관리 관점에서 어떤 대응 방안이 있습니까?",
+       "hint": "장기 계약(SC) 비중 확대 및 대체 항로·선사 검토 언급"
+      },
+      {
+       "q": "운임 상승이 해외영업 마진에 미치는 영향을 어떻게 최소화할 수 있습니까?",
+       "hint": "견적 시 물류비 변동분을 반영하거나 고객사와 운임 연동제 협의 등 제안"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티 북미 및 글로벌 시장 수출 확대",
+     "summary": "K-뷰티의 대미 수출이 큰 폭으로 증가하고 아이메이크업 등 세부 품목도 성장세를 보이고 있다. 무역협회 등의 지원 속에 북미 등 해외 판로 개척이 활발하다.",
+     "what": "K-뷰티의 미국 등 북미 지역 수출이 높은 증가율을 기록하며 성장을 견인함.",
+     "why": "글로벌 시장에서 K-뷰티 제품의 경쟁력 상승과 현지 판로 확대 지원 덕분.",
+     "impact": "해외영업 신입은 유망 품목의 현지 트렌드 분석과 바이어 발굴 역량을 입증하는 기회로 활용 가능함.",
+     "tags": [
+      "K-뷰티",
+      "무역협회",
+      "화장품"
+     ],
+     "sources": [
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ySWhGVHpKWWxZa0tyS2xvNFNpcUVoU3YzZDFRZGhQRmFjd0pXX29BcC1rYTNubGRaakdCTVczZjQ2Yi05N0d6X2ExQmFIZ0RsNncxSjgzMjEtWlRXSjhJUE9nVzZxNEVta0E?oc=5"
+      },
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PR2x2T2cwUXpwd0dabkZPeGt6eWo4RzA4NFUwenpkSzBIMWxScDR1ZTh1R2pYNTVRRVBRZTk4MDkzNlBtS0YzQ3JNVkVYTGFBbTdKYWtMbEp1bnR5QnJpcGx0OGR1aTVHb1E?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "K-뷰티의 북미 시장 수출이 급증하는 상황에서 영업 담당자로서 가장 중요하게 봐야 할 요인은 무엇입니까?",
+       "hint": "현지 규제 대응, 소비자 트렌드 변화, 온·오프라인 채널 다변화 언급"
+      },
+      {
+       "q": "신규 해외 시장을 개척할 때 바이어 발굴을 위해 어떤 접근을 취하겠습니까?",
+       "hint": "현지 전시회 참가, B2B 플랫폼 활용 및 데이터 기반 타겟팅 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "글로벌 통상 갈등 및 무역 장벽 강화",
+     "summary": "미국과 EU 간의 빅테크 규제를 둘러싼 관세 갈등이 고조되고 있으며, 중국산 자동차 등에 대응해 EU의 무역 장벽도 높아지고 있다. 글로벌 보호무역주의가 심화되는 양상이다.",
+     "what": "미·EU 통상 갈등 및 EU의 무역 장벽 강화 등 글로벌 보호무역 리스크가 확대됨.",
+     "why": "각국이 자국 산업 보호와 규제 대응을 위해 관세 및 통상 압박을 높이고 있기 때문.",
+     "impact": "수출 대상국의 통상 규제 변화는 해외영업의 리스크 관리 및 컴플라이언스 역량을 직접적으로 시험하는 요인임.",
+     "tags": [
+      "무역장벽",
+      "관세",
+      "통상갈등"
+     ],
+     "sources": [
+      {
+       "name": "초이스경제",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xbTl1MjR0UEJhMkE2ZUYzUUZQZ1JXckpIdmRvclRVSmwtZ3VzRFBZdXpER2NRM1JZMXJvQUdhTGJPc1oxTHVGdzR1UmNCcmllb1VYUHVfTTZBZnc5Z0hyYmJRSnc0bDlrN1ZCTXRZUkRHTXPSAXNBVV95cUxNMW05dTI0dFBCYTJBNmVGM1FGUGdSV3JKSHZkb3JUVUpsLWd1c0RQWXV6REdjUTNSWTFyb0FHYUxiT3NaMUx1Rnc0dVJjQnJpZW9VWFB1X002QWZ3OWdIcmJiUUp3NGw5azdWQk10WVJER01z?oc=5"
+      },
+      {
+       "name": "세계일보",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVNTQ5dDRiSDE2SkVXcGpPajdrTjU1MndSek1tY2JKMk95QWVNY2k4N3diSVR3a3Z2Q2EzOGpTMmFQc3ZURUFTUEpRVzdZZjVK0gFUQVVfeXFMT2dpdkY3aUdTaTJvNDFQcEJJUEoyV0J5SldIaHo3YUd3TEZqSWFTTGRBbk9RaEtsZDg3N0k0aU5lUjltZ0w1X0hCeURzVFlLSEk2M0pE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "보호무역주의와 관세 갈등이 심화되는 시장에서 해외영업 사원이 갖춰야 할 태도는 무엇입니까?",
+       "hint": "현지 관세 및 통상 정책에 대한 모니터링과 유연한 리스크 대응 강조"
+      },
+      {
+       "q": "수출국 정부의 비관세 장벽이나 규제 강화에 직면했을 때 어떻게 대처하겠습니까?",
+       "hint": "유관 부서 및 현지 파트너와의 협업을 통한 규제 준수 및 인증 획득 과정 설명"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고",
+     "script": [
+      "최근 '원/달러 환율 1,310원대 근접…명목실효환율 2년만에 최고' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "中·파나하 적체 완화에도…해운업계, 내년 ‘운임 인상’ 만지작",
+     "script": [
+      "최근 '中·파나하 적체 완화에도…해운업계, 내년 ‘운임 인상’ 만지작' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "환헤지(Exchange Rate Hedging)",
+    "body": "환율 변동에 따른 손실 위험을 줄이기 위해 선물환 계약이나 옵션 등 금융 기법을 활용해 미래의 환율을 미리 고정하는 무역·금융 관리 기법입니다. 환율 하락 시 수출 기업의 원화 환산 수입 감소 위험을 방어하는 데 필수적입니다.",
+    "tip": "해외영업 면접에서 환율 변동성 대응 방안을 물을 때, 단순 마지못해 가격을 깎아주는 것보다 재무 부서와 협력한 '환헤지 전략 활용'을 언급하면 전문성을 높게 평가받을 수 있습니다."
+   }
+  },
   {
    "date": "2026-10-25",
    "mode": "ai",
