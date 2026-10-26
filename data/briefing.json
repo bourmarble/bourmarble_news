@@ -1,6 +1,200 @@
 {
- "updated": "2026-10-26 06:26",
+ "updated": "2026-10-27 06:34",
  "days": [
+  {
+   "date": "2026-10-27",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1320원대 연저점 경신, 수출 기업 수익성 악화 우려",
+     "summary": "반도체 수출 호조에 따른 달러 매도 물량 등으로 원·달러 환율이 1320원대 초반으로 떨어지며 2년 만에 최저치를 기록했습니다. 환율 하락으로 물가 안정에는 도움이 되지만, 수출 중심 기업들은 수익성 악화 타격을 입고 있습니다.",
+     "what": "원·달러 환율이 반도체 수출 기업들의 달러 매도(네고) 물량 유입으로 1323.1원 등 연중 최저치를 기록하며 2년 만에 최저 수준으로 하락함.",
+     "why": "반도체 등 주요 품목의 수출 호조로 달러 공급이 늘어났고, 월말 네고 물량이 겹치면서 원화 강세 압력이 커졌기 때문.",
+     "impact": "해외영업 직무에서는 환율 하락에 따라 달러 결제 시 원화 환산 매출 및 수익성이 감소하므로, 환헤지 전략 점검과 수익성 방어 대책 마련이 필수적임.",
+     "tags": [
+      "환율",
+      "반도체",
+      "수출"
+     ],
+     "sources": [
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JVmh6QzRsLVAtaER0M2hXUV9UaEVDdFZwaW5nUkRCZ2UzX0NfZlNiZ0pBNzNqa0pmWGNaMl9iLUFZbk8zcG1aRGtrSjNDeFkycTJHVDR3a1hUbGZFaTFvNFB5UnVFZEVjTlRmbjliSkNXMFpNMVHSAWZBVV95cUxPajQzMFV1b3FhekVmSnJmakhxVXJzdUJpc3FyVHN4SFRiR1N2SUkxMERmNlZPQnE0S3dmb09uX3JUSW8yN0RzQ2xFdEVqZThEYzdIZXJya2lmU3Y1MDd6SE5UYUFidFE?oc=5"
+      },
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hQUhtZW44V1ltY0h6NjVaOGlKOVhCNHhlQWthNTBCLXdNRmdYSHliR1JyUmN5YWZVMl9aaXJwZjhISjZmV0xMQkU3LUNhWE5BSG9VYWVfUjl5UGgwN3dKSGVvLU5OVUtL?oc=5"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CNFhmNmVEUWNvZ0xlLU1Tc091YTNmNzlrdE5Ra3p2N2VOMWYxUGhmN0I0Y0Y3bFpjZ2tMYnlLaS1Va0xCd2ljYklpQnVpeFpCQ3VLM29vZWFCMEHSAWBBVV95cUxPVHRZejR3OG9vYVdFSTJJQXBhRWhFQ1JJeVhUck9jdzMxMUE1Z0JwUEQyQzBnSGpMbldHQll1bmFvWW4wSFFEV1RFTHlveG1ob0VJbXJmX2NEMDNkOHBmUVo?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락으로 수출 기업의 수익성이 악화되는데, 해외영업 담당자로서 어떤 대응을 할 수 있나요?",
+       "hint": "선물환 계약 등 환헤지 활용 방안이나 판가 조정 협상 가능성을 언급합니다."
+      },
+      {
+       "q": "최근 원화 강세의 주요 원인은 무엇이라고 보나요?",
+       "hint": "반도체 수출 호조에 따른 달러 물량(네고 물량) 집중 유입을 핵심 원인으로 짚어줍니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "일본발 컨테이너 선복 부족 심화 및 해운 운임 엇갈린 흐름",
+     "summary": "일본발 컨테이너 화물의 선복 부족이 심화되면서 일부 선사가 신규 예약 접수를 중단하는 등 혼잡이 발생했습니다. 한편 글로벌 해운 운임은 지수별로 엇갈린 흐름을 보이며 품목 및 항로별 모니터링 중요성이 커졌습니다.",
+     "what": "일본발 컨테이너 화물의 선복 부족으로 신규 예약이 중단되는 혼잡이 발생했고, 글로벌 해운 운임은 케이프와 파나막스 등 선종별로 엇갈린 흐름을 보임.",
+     "why": "구매 경쟁력 열세 등 물류 시장의 수급 불균형과 선종별 수요 변화가 복합적으로 작용했기 때문.",
+     "impact": "해외영업 및 물류 담당자는 수출입 시 선복 확보 난항과 운임 변동성에 대응하여 대체 선적 경로 발굴 및 물류비용 통제를 철저히 해야 함.",
+     "tags": [
+      "해운",
+      "컨테이너",
+      "선복부족",
+      "운임"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14U1gwR2tHNTltOFI2NHJrU0NJTUtNVEVURl9UdElZdHF1QmVQSWYxcnY2OEpEN0JYUmYtWThYSExNN3RCVFZKaGlkbUowbl90YURKUU9NUUFZeWU2OTQ4bEo0akNuSThHakc0SWtKTkdsWnc?oc=5"
+      },
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBEN0ktR3JiWFBaZHIxV1lMbUp2aktmQlk1YTZ6YXJuU2ZTR1BkelJmWlgtYlBPWDlNMGVudmR2Q1ozRTlkbzVWdF9Oano1U0dFYW1XdHZ5LWlyLW5uYzVkUXpTT1pKQTJWdEE0?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UQnVYTEl1aGRPRFRTUGVzTzh5SkRfZnVsbDEwM0Vhdk5Jbm8zaGE4ZHFaV1FUb1o3bklYVWY0YW1Ic08yMXpLWF9RZVhsM0ticWdzWHBoZldfRGJ6MzNRRm4tQVdrYjFHcFFQVHFSRUlQeWM?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "선복 부족으로 수출 화물 선적이 지연될 때 물류 담당자로서 어떻게 대처하겠습니까?",
+       "hint": "복합 운송 검토, 선사와의 파트너십 활용, 조기 예약(Booking) 관리 등을 답변합니다."
+      },
+      {
+       "q": "해운 운임 변동성이 클 때 해외영업과 SCM 부서가 협력해야 할 부분은 무엇인가요?",
+       "hint": "운송 비용 상승분을 판가나 계약에 반영하는 방안과 재고 최적화 조율을 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "화장품 및 소비재 중심 중소기업 수출 호조와 북미·아시아 공략",
+     "summary": "화장품과 반도체 등의 호조로 중소기업 수출이 3분기 기준 역대 최대를 기록했습니다. 무역협회와 코트라는 북미 및 아시아 시장을 겨냥한 현지 바이어 상담 및 초보 기업 지원을 확대하고 있습니다.",
+     "what": "K-뷰티 등 소비재와 반도체를 중심으로 중소기업 수출이 3분기 역대 최대를 기록했으며, 기관들의 해외 마케팅 지원이 이어짐.",
+     "why": "글로벌 시장에서 K-콘텐츠 및 K-브랜드 인지도 상승과 정부·유관기관의 적극적인 해외 바이어 매칭 지원 덕분.",
+     "impact": "해외영업 신입은 유망 품목의 글로벌 트렌드를 파악하고, 바이어 발굴 및 비대면·대면 상담회 활용 역량을 키워야 함.",
+     "tags": [
+      "K-뷰티",
+      "중소기업수출",
+      "코트라",
+      "무역협회"
+     ],
+     "sources": [
+      {
+       "name": "플래텀(Platum)",
+       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IMzh1YmFTSUJCZzZsY0d0RkdBMTRuNTctdWpLeUlqNWZJTHREaW9LT0U0SVJENE9IWDJ3VWZ1eHRKaTdPeElEMQ?oc=5"
+      },
+      {
+       "name": "스마트비즈",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKQ013NmFuZWhsWHFPZ0pqWmpWeHhpMWhsUjlGVjdPRTRIUDJpYWlYS2VQSjJneUE5cjZLSzJ1LTJJN2hqenN1WENjNUVOUVJ3SmhIQ0U0Z0VsRVFuaHliYVBFd1MzMkpxVV9KNg?oc=5"
+      },
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTUkUtVlJvc21ROFI3NUFyZkp3Q1NVQVFCMXZVMHhqQS1aUEQwYW93M3E0X1RFV1lTeVpNbTcxeHVrTkVBNWV6YnRGMTlkREV4M3QwdnFlbnpCbFhNU1k0SDBUbjM1ZkhpeGc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "중소기업 수출 확대를 위해 해외영업 사원이 신규 바이어를 발굴할 때 가장 중요하게 봐야 할 점은?",
+       "hint": "현지 시장 트렌드 부합 여부와 바이어의 유통망 및 신용도를 강조합니다."
+      },
+      {
+       "q": "K-뷰티 등 특정 품목의 수출 다변화를 위해 어떤 전략이 필요한가요?",
+       "hint": "특정 국가 편중을 줄이고 신흥 시장으로의 마케팅 확장 필요성을 언급합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "해운·항공 업황의 구조적 변화와 물류 정보 디지털화 가속",
+     "summary": "HMM 등 해운·항공 업황이 단발성 호재를 넘어 구조적 변화를 보이고 있습니다. 또한 한국해양진흥공사가 카카오톡 기반 AI 정보 서비스를 개시하는 등 물류 정보의 접근성과 디지털화가 빨라지고 있습니다.",
+     "what": "해운 및 항공 업황이 호조를 보이며 구조적 변화를 예고했고, 해양진흥공사 등 공공 부문에서 AI 기반 물류 정보 서비스를 도입함.",
+     "why": "글로벌 물류 공급망 재편과 디지털 기술을 활용한 대고객 물류 정보 제공 효율화 요구 증대.",
+     "impact": "물류 및 SCM 담당자는 신속한 물류 데이터 수집과 AI 툴 활용을 통해 운송 리스크를 줄이고 업무 효율을 높여야 함.",
+     "tags": [
+      "HMM",
+      "해양진흥공사",
+      "스마트물류",
+      "AI"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5PUXIxYjJ4RE1QcWN4U000aUdHeW5WQkFGb0lRQW9yRGhFRE5obU0tckxJRVBlX3FMYWxCbVFLbGlxVHN5WlJhQXpvTFlDdkZ1QXFxel9pSkh6cjhLdTI2UjRLd2ZmU1BqSktnelk3U3U0N1k?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4eDVEaEJjTF8yZTRLdXZTT1Z6bVRTS3RvNzhzcFdPb1NnWERlTnJ1bzY4TzY5R0ZqSlkzaFRBZHRNQWs0LWdSMzFvOUN4TjlpQWh5a0M3Tnl5bGlGMzdZMFlsNDc2R0h0SzFhRzUzYURGZkU?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5FLS13ZUVFN1JRRVA5YWxTQUxFNDgtQUdDZjF6bVBCRzY2V0h0VjJoTEMxT3E2RlY0NnNnZnRvMW1zNV9aTkxjMnlrVWFYaVhDNnRITnpDU21QQnZGZ3k3a0ZFM3dzbTFZa20xbnhWNF85ek0?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "물류 분야에서 AI나 디지털 정보 서비스를 실무에 어떻게 활용할 수 있을까요?",
+       "hint": "실시간 운임 및 화물 추적 정보의 신속한 파악을 통한 리스크 선제 대응을 말합니다."
+      },
+      {
+       "q": "해운·항공 업황 변동에 대응하기 위해 SCM 실무자가 갖추어야 할 역량은 무엇인가요?",
+       "hint": "시장 데이터 분석력과 유연한 대체 운송 수단 확보 능력을 제시합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "말레이시아 9월 무역흑자 337억 링깃…수출 54.5% 증가",
+     "script": [
+      "최근 '말레이시아 9월 무역흑자 337억 링깃…수출 54.5% 증가' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "일본발(發) 컨테이너 화물 선복 부족 심화, 신규 예약접수 중단 선사도...혼잡 영향 배경엔 ‘구매 경쟁력 열세’",
+     "script": [
+      "최근 '일본발(發) 컨테이너 화물 선복 부족 심화, 신규 예약접수 중단 선사도...혼잡 영향 배경엔 ‘구매 경쟁력 열세’' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고 (Negotiation / 환어음 매입)",
+    "body": "무역 실무에서 '네고(Nego)'는 수출업자가 선적 후 발급받은 선적서류(B/L 등)를 은행에 제시하여 대금을 미리 지급받는 환어음 매입(또는 추심) 과정을 뜻합니다. 또한 외환시장에서는 수출 기업이 벌어들인 달러를 원화로 바꾸기 위해 시장에 매도하는 행위를 '네고 물량'이라고 부릅니다.",
+    "tip": "신입 면접에서 '수출 네고 물량 유입으로 환율이 하락했다'는 기사 표현을 접할 때, 수출 기업이 달러를 원화로 환전하면서 원화 가치가 강세를 보였다는 시장 메커니즘으로 이해하고 활용하세요."
+   }
+  },
   {
    "date": "2026-10-26",
    "mode": "ai",
