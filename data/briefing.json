@@ -1,6 +1,231 @@
 {
- "updated": "2026-10-27 06:34",
+ "updated": "2026-10-28 06:34",
  "days": [
+  {
+   "date": "2026-10-28",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 2년 만에 최저치… 수출기업 수익성 비상",
+     "summary": "원·달러 환율이 2년 만에 최저 수준인 1320원대로 하락하면서 자동차, 제약·바이오 등 수출 비중이 큰 기업들의 수익성 악화 우려가 커지고 있습니다.",
+     "what": "원·달러 환율이 하락하여 1320원대 등락을 거듭하고 있음.",
+     "why": "수출업체의 달러 매도(네고 물량) 및 대내외 경제 여건 변화에 기인함.",
+     "impact": "환율 하락은 원화 환산 수출액 감소로 이어져 해외영업 직무에서 마진율 관리 및 환위험 헤지 전략 수립이 중요해짐.",
+     "tags": [
+      "자동차",
+      "제약바이오",
+      "환율"
+     ],
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4SWxYWnh4WWhFY25XRVhjVnhVLVVqRTF5TjY4RU5Rek1FMldoUUpBQ2ctNTE4eHBwTldZVFR1QTdtbjg2bVhlR0hid1VIU1cyb2Z2QVZGN1pWVFdTXy1NYndyUk5lbGpQRk1vTUdYaXlhNE9KWTdoSdIBeEFVX3lxTFB4SWxYWnh4WWhFY25XRVhjVnhVLVVqRTF5TjY4RU5Rek1FMldoUUpBQ2ctNTE4eHBwTldZVFR1QTdtbjg2bVhlR0hid1VIU1cyb2Z2QVZGN1pWVFdTXy1NYndyUk5lbGpQRk1vTUdYaXlhNE9KWTdoSQ?oc=5"
+      },
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JVmh6QzRsLVAtaER0M2hXUV9UaEVDdFZwaW5nUkRCZ2UzX0NfZlNiZ0pBNzNqa0pmWGNaMl9iLUFZbk8zcG1aRGtrSjNDeFkycTJHVDR3a1hUbGZFaTFvNFB5UnVFZEVjTlRmbjliSkNXMFpNMVHSAWZBVV95cUxPajQzMFV1b3FhekVmSnJmakhxVXJzdUJpc3FyVHN4SFRiR1N2SUkxMERmNlZPQnE0S3dmb09uX3JUSW8yN0RzQ2xFdEVqZThEYzdIZXJya2lmU3Y1MDd6SE5UYUFidFE?oc=5"
+      },
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hQUhtZW44V1ltY0h6NjVaOGlKOVhCNHhlQWthNTBCLXdNRmdYSHliR1JyUmN5YWZVMl9aaXJwZjhISjZmV0xMQkU3LUNhWE5BSG9VYWVfUjl5UGgwN3dKSGVvLU5OVUtL?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락 시 수출 기업이 겪는 직접적인 타격은 무엇인가요?",
+       "hint": "원화 환산 매출액 및 영업이익 감소, 가격 경쟁력 약화 관점에서 답변"
+      },
+      {
+       "q": "신입 해외영업으로서 환율 변동 리스크를 줄이기 위해 어떤 조치를 취할 수 있나요?",
+       "hint": "환변동보험 활용, 바이어와의 결제 통화 다변화 등을 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "HBM 수출 분기 50조 원 돌파… 반도체 수요 폭증",
+     "summary": "고대역폭 메모리(HBM) 수출액이 분기 기준 최초로 50조 원을 돌파하며 가파른 성장세를 보이고 있습니다.",
+     "what": "HBM 수요 폭증과 HBM4 등 고부가가치 제품 확대에 힘입어 수출액이 50조 원을 넘어섬.",
+     "why": "인공지능(AI) 시장 확대에 따른 고성능 반도체 수요 집중 때문.",
+     "impact": "반도체 및 IT 부품 해외영업 담당자는 급증하는 글로벌 수요에 맞춘 공급망 조율과 주요 고객사 대응 역량이 핵심 경쟁력이 됨.",
+     "tags": [
+      "반도체",
+      "HBM",
+      "수출"
+     ],
+     "sources": [
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXFldV80alZqSVlkbWRWYXMwZmFXQmY5a0JnM2t5RXo2Z3Z1c0w1WFZpV2xqZElGd01aOFpvaTY4Nk84OEVtWmxfRUlfbWxzRG9DdlNrZUZheG5uanBETjAzQmU2UmNFMlFJVWZhSkoxdXR1U1hPbXhHUjliSUpSX0MwVQ?oc=5"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVm5paDZCTVVSLXBBWk5VY2IzclNHNnNqR1BzZGdDRVIxS293RUxMSDRNbzNhMWtWd3kxQjhmbGFpbFdWN3lKeVVJZWNxS0tTOHhaQl9ySzFod28tT1V0SUlZTGJmZ0I0dS1ZdGttckxXejJXSUppZXBHckg5RHNXa2VDNA?oc=5"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93OUc4WVlfQTdmVnlGcUsyZVNPRmlJZHBhREg2TkhsZTF6UTU4VFYxeHlKZlRCRENjWEtsVnNwa2xiQk8xM3NtVE1wSFZnVnRlRkZtUDZNME1wR215bEZDb9IBeEFVX3lxTE5UTUFna3ByYzRpWUNRb1VzdU5mUm92RXB0U2ZobWFyRnpjLTJYMlROU2lIRW9ad0ZBcUZ5b3E3dTNRZldqWkN0YkQ1VUpiSGV6UXlZTEluWUJTMzJINEpZWFVEaF9xTDc4bmt6OG5ZYm9DRDBOYlJ3eA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "HBM 등 첨단 반도체 수출 영업에서 가장 중요하게 고려해야 할 점은 무엇인가요?",
+       "hint": "고객사와의 긴밀한 기술 협력 및 안정적인 물량 배정(Allocation) 관리"
+      },
+      {
+       "q": "미국의 첨단 기술 수출 통제 등 대외 리스크가 반도체 영업에 미치는 영향은 무엇인가요?",
+       "hint": "규제 컴플라이언스 준수 및 대체 시장 발굴 필요성"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "한·중 합작 물류센터 건립 및 배터리 공급망 물류 거점 확대",
+     "summary": "진해 웅동배후단지에 한·중 합작 물류센터가 들어서며, 한솔로지스틱스가 미국 인디애나에 물류 거점을 구축하는 등 글로벌 물류망이 확장되고 있습니다.",
+     "what": "국내외 주요 물류 거점 신설 및 합작 투자가 활발히 진행됨.",
+     "why": "글로벌 공급망 재편 대응 및 배터리 등 핵심 산업의 물류 경쟁력 선점 목적.",
+     "impact": "물류 및 SCM 직무 지원자는 해외 거점 간 운송 효율화와 리스크 관리에 대한 이해를 높여야 함.",
+     "tags": [
+      "한솔로지스틱스",
+      "물류센터",
+      "배터리"
+     ],
+     "sources": [
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLUtqQm9LVGdmanVOaUNpSjgtU2I5d1l1bG8zMERmZXVNN05yU1lKTTM5cWVYaVBtcHUtczdtZjhDSWtNb0R6VHFoenRKUm5QU2NjYVBwVXF3MTBnaF9xekx3Tzg1RlRYeTNienk1RFZvNXI5NnNnRnpSM05sdzhYMF9BaGVWdw?oc=5"
+      },
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOXoxa3RnYy1meV83NG1reHp0clNIN2haYzRmLUp4ZVhPcVBwMEhwNUtneUkzMEFlem9GRGpmSzJXYXdWUm9sdnRhRERhcVJycDV6TTNVbTh2UQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해외 물류 거점(예: 미국 인디애나)을 구축할 때 SCM 관점에서 가장 중요하게 고려할 요인은?",
+       "hint": "현지 물류 인프라, 세제 혜택, 인접 고객사와의 리드타임 단축"
+      },
+      {
+       "q": "합작 물류센터 운영 시 발생할 수 있는 운영상 리스크와 대책은 무엇인가요?",
+       "hint": "파트너십 관리, 표준화된 프로세스 정립 및 정보 공유 체계 구축"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "유럽항로 컨테이너 운임 상승 및 선복 부족 심화",
+     "summary": "유럽항로 컨테이너 운임이 2주 연속 상승세를 보이고 있으며, 일본발 선복 부족 심화 등 아시아권 해운 시장의 혼잡이 가중되고 있습니다.",
+     "what": "유럽·지중해 중심으로 컨운임이 소폭 상승하고 일부 지역은 선복 부족과 예약 중단이 발생함.",
+     "why": "항만 혼잡 및 글로벌 해운 시장의 수급 불균형과 구매 경쟁력 열세 등 복합적 요인.",
+     "impact": "수출입 물류를 담당하는 실무자는 운임 변동성에 대응하여 선사 계약(SC/TOC)과 대체 항로 확보 전략을 수립해야 함.",
+     "tags": [
+      "HMM",
+      "컨테이너운임",
+      "해운"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14U1gwR2tHNTltOFI2NHJrU0NJTUtNVEVURl9UdElZdHF1QmVQSWYxcnY2OEpEN0JYUmYtWThYSExNN3RCVFZKaGlkbUowbl90YURKUU9NUUFZeWU2OTQ4bEo0akNuSThHakc0SWtKTkdsWnc?oc=5"
+      },
+      {
+       "name": "한국해운신문",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qWlh1dllMRFo4SUVzU2k1LXliWkMxZ3otZTV1bW5BanpiTGFfTmNUTnZkZFpGcU9DcjZMVHdJelNzTmdyVE5hWFhySHNmc3lsLTZKcjlGeV9WUUstR2JfU1dYLXFOS0pYc1N6TVRESFhVT0E?oc=5"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORkVZWHI2SVdSSnlDQkJBWUNabUlOVGwtcmJPbHh3QlBXdllweGhZblhYZlJmNWtGS1FJcFFPTzhnRVYySUVNTjEtMDJTdXZ2Q1M4NWVGUjV3OF9adlEybzlYMWdJQllzN1dTejFMUlNmVXlfSUEweGxDODh5MEJucmVyZkFMdw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운 운임이 급등하고 선복이 부족할 때 SCM 담당자가 취해야 할 대응책은?",
+       "hint": "장기 계약(SC) 물량 우선 확보, 대체 운송 경로(복합운송 등) 검토"
+      },
+      {
+       "q": "운임 지표(SCFI 등) 변화가 수출 기업의 마진에 미치는 영향은 어떻게 분석해야 하나요?",
+       "hint": "CIF/CFR 조건 시 물류비 상승이 영업이익에 미치는 시뮬레이션 수행"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "코트라, 내수·수출 초보 기업 300개사 맞춤형 해외 진출 지원",
+     "summary": "코트라(KOTRA)가 내수 및 수출 초보기업 300개사를 대상으로 일대일 화상 상담 등 맞춤형 해외시장 개척을 지원합니다.",
+     "what": "수출 초보 기업들의 해외 판로 개척을 위한 종합 지원 프로그램 가동.",
+     "why": "중소기업의 첫 수출 동행 및 글로벌 경쟁력 강화 유도.",
+     "impact": "해외영업 신입 지원자는 정부 및 유관기관의 수출 지원 사업 활용법을 숙지하고 바이어 발굴 프로세스를 이해하는 데 도움을 얻을 수 있음.",
+     "tags": [
+      "코트라",
+      "수출초보기업",
+      "해외마케팅"
+     ],
+     "sources": [
+      {
+       "name": "매일경제 마켓",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52clQ5MWQyUlFTS0pQdXU1a2E0SndseEd1MjE1by1UZDI1aDk3eGNqUEhBNmdOYmJLR1d5M1hSUUVYMm8xalIwWUlvbWIydTB6bUE?oc=5"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlFtblh1ckNieXhjdXREQk5jUFFHOXdIV1paM2p2bE9pTGhfREtlZXh4ZUtXV2RfbUJ5WndzOHd5QjB4SGFmWV9KYkdKZXJVZnRaaWVkZ1VXZWcxbnotbmdtTkdaNzhGZ0VCVWJ3NjZSeXR0LW0tWkNvcy1acjlBQ2taQ0VXcnoyNE1lNFJ2cHdtMUxGbmg3cnhzTTFHQ0RHdk00X3hsYlBGTFpNV2FPenM1WnAxeHNqa3dLZFhhczFVVXNGZDY4N1g5b1k2QWtpT0k5bml3U04xNjNFLW5veFlYOA?oc=5"
+      },
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1WV0d5WWM4b1BZb1JadHRnSHBQOU5lWWdHb1lEWExpVkVveERGVUpNaHoxeE93QjFZNTBOSUx3MHpQemJSMlU3V3pYMi1FeUZKakg2Q2F3?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출 초보기업이 해외 시장에 진입할 때 가장 먼저 검토해야 할 마케팅 전략은?",
+       "hint": "타겟 시장의 바이어 성향 분석, KOTRA 등 공공 기관 인프라 활용"
+      },
+      {
+       "q": "온라인 화상 상담회를 통해 바이어를 발굴할 때 신입 영업 사원으로서 유의할 점은?",
+       "hint": "철저한 사전 기업 분석, 명확한 제품 USP(차별적 가치) 전달"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "HBM 수출, 분기 기준 50조원 첫 돌파",
+     "script": [
+      "최근 'HBM 수출, 분기 기준 50조원 첫 돌파' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "진해 웅동배후단지에 韓·中 합작 물류센터 들어선다",
+     "script": [
+      "최근 '진해 웅동배후단지에 韓·中 합작 물류센터 들어선다' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고(Negotiation / 화환어음 매매)",
+    "body": "무역 거래에서 '네고'는 수출업자가 선적을 마친 후 선하증권(B/L) 등 선적 서류를 은행에 제시하고 대금을 수령하는 환어음 매입(Negotiation) 과정을 뜻합니다. 해외영업 실무에서는 수출 대금을 안전하고 신속하게 회수하기 위해 필수적으로 거치는 단계입니다.",
+    "tip": "서류상의 오탈자(Discrepancy)가 발생하면 네고가 지연되어 자금 흐름에 차질이 생기므로, 선적 서류 작성 시 꼼꼼한 더블체크가 철저히 요구됩니다."
+   }
+  },
   {
    "date": "2026-10-27",
    "mode": "ai",
