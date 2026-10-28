@@ -1,6 +1,31 @@
 {
- "updated": "2026-10-28 06:31",
+ "updated": "2026-10-29 06:35",
  "items": [
+  {
+   "id": "2349d84a5e",
+   "date": "2026-10-29",
+   "title": "부산-경남, 첨단물류-기술 입고 고부가 산업 진화",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ONFR1cC0yMU5YSVRObGNDNjFVN2lKUFcwVHdUcXY4ZUhIRzRoS1BUdFNoNlltRmYwTE9LaHhSNUxtRkpDb3VaUFc4N0M3S0d1YzdCZkhOYVc5Q0VUVU9aTHpreUIxUdIBZkFVX3lxTE9ONFR1cC0yMU5YSVRObGNDNjFVN2lKUFcwVHdUcXY4ZUhIRzRoS1BUdFNoNlltRmYwTE9LaHhSNUxtRkpDb3VaUFc4N0M3S0d1YzdCZkhOYVc5Q0VUVU9aTHpreUIxUQ?oc=5",
+   "source": "동아일보",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "52df1667f6",
+   "date": "2026-10-29",
+   "title": "인천항만공사, 선사·포워더와 함께 인천항 물동량 증대 방안 모색",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iU2RVOTZyUldvN3Nsa2NMTXlicko3cENyOXRBQkdDa0tEMGdmVW5uQU5QYzAtTXFiS2lmY2NyM214cXVFbjNZbi1rejZnanJGZ3hHS2RSZ0JQemhNZl9uUHI5c2pMNVRKS0x2ZllGSQ?oc=5",
+   "source": "기호일보",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만",
+    "국제물류(포워딩)"
+   ]
+  },
   {
    "id": "fa9fe397e7",
    "date": "2026-10-28",
@@ -63,6 +88,358 @@
    "tags": [
     "관세·통상"
    ]
+  },
+  {
+   "id": "380799b5b1",
+   "date": "2026-10-28",
+   "title": "컨테이너 해운주 4.6% 하락… 탱커와 갈린 항로",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pcFBmN3M4MWJzUVRkS1BkWDV2VkZZaUh1dmIyMUNXQ3ZmN0pMTXJSZXVJa0E4NWV0cFhhcjhEcG5MM0Ruc3k0TzdFbXd0a3NsTVR6akV3YUt4M0xxVG9DLU1OZmgySWN2eG9n0gFvQVVfeXFMTU5xby1HR1FLenVUdjNmbGJwa2hYbE54ZUp3RnNkbXdLQy13OUxidENIdHpYdk84YXBUVlJqR0RfTXFOdUtycUtBR1VrU0ZGYXVBQnBwMVJjXzJPOWdhOVRiNVJoSzV6VXpjNERGWGdV?oc=5",
+   "source": "뉴스로드",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "d319e7ecaa",
+   "date": "2026-10-28",
+   "title": "인천항만공사, 해운물류업계 네트워킹 데이 개최… 선사·포워더 교류 확대",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMjBIbldvX0tOMlpSbGtwRnZJcmluZTJYZUlaUk1XV0NLQjQ3ejRDVEJlRnpJUU92RFloVTIxb05QOTRIV2kwNEZjamlGT0ZwNFgzY05ua0cxbGduZ2tTQ1cxYw?oc=5",
+   "source": "우리일보",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만",
+    "국제물류(포워딩)"
+   ]
+  },
+  {
+   "id": "0927815f86",
+   "date": "2026-10-28",
+   "title": "인천항만공사, 선사-포워더 50여 명 집결 '해운물류 네트워킹 데이' 개최",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1Q0NmgxS3V6ZFpQeW5LbmRER3ZYbXRqa0NEWUdMeEZtOEVlaG1Mdl9pQXBkdE1FaGU5dlpzQWtySk9iOUhxczQwMUMwUHozZERsMjl6bFRLcS1KNkI1dDZweXZGMWlvelE?oc=5",
+   "source": "컨슈머타임스",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만",
+    "국제물류(포워딩)"
+   ]
+  },
+  {
+   "id": "b8c7e563dc",
+   "date": "2026-10-28",
+   "title": "한국국제물류협회, ‘2026 물류인 상생 자선 골프대회’ 성황리 개최",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uSk56YkV1NnJoeEpNVUlrQ0RrRkV4eE5TUXptMkR2SXo5MkpoTERMRGhndngwUmRFY3lTUkp0NktIaWtsTXNBXzVrVWxsRlphVjFfWHRBWUh5a1huRHNETlZqY0tMeTZya0dIWldGX0JwUWc?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "국제물류(포워딩)"
+   ]
+  },
+  {
+   "id": "f7b32c9950",
+   "date": "2026-10-28",
+   "title": "한국국제물류협회, ‘2026 물류인 상생 자선 골프대회’",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uaE94MUg1Q3RIY2N3bUU2YVRaRTFXYU1sQlhjTHg2N0FCQ29vY0Q3QnhHakRQczZWTi02SXNNVTVhcU1VM0F6UjE2TEtwdjdvNzQxdXlDdm5XZw?oc=5",
+   "source": "한국경제",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "국제물류(포워딩)"
+   ]
+  },
+  {
+   "id": "0cd19cf051",
+   "date": "2026-10-28",
+   "title": "인천항만공사, 선사·포워더 50여 명 결집…해운물류 교류 물꼬",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9RQlA5d1pENElxbFA1MU1UM0pmOEp3ZHgxTXhST1R0RzB0YXpUWEFCNXF1TnQ5NVFsVzZZVHh1OFM4WkxjX3gxeElST00?oc=5",
+   "source": "아이뉴스24",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만",
+    "국제물류(포워딩)"
+   ]
+  },
+  {
+   "id": "b1fbac2095",
+   "date": "2026-10-28",
+   "title": "인천항만공사, 선사·포워더 네트워킹 행사 개최",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9ockpjcmZyelk5Njd5YVB3anFKcmVrQ2NIUDJWTEZrTXdzcXI4eE55UXpKdW9JNnVZWFEwOUZYeV8wbHRPVlFXaHNJUXlHU2Zfdk5SYXYwaTEtUnJpeEZ6UnBUeHlwU1ZIbENJ0gFvQVVfeXFMTzJTcFdNLXptZ2VIRGtuWmhWTTRGeHd3YVZFellQU25UcFc1Vm0xSVBQa0N5Vm94ZDZqbG9zeFNoRlRJYTQxSXQtcGNaS1p6dXQtaTc3U21CN3FOREkzbjVSemxnLXRaSDA2bFY2N204?oc=5",
+   "source": "한스경제",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만",
+    "국제물류(포워딩)"
+   ]
+  },
+  {
+   "id": "6c43352670",
+   "date": "2026-10-28",
+   "title": "인천항만공사, ‘인천항 해운물류업계 네트워킹 데이’ 개최",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ieVNMZDZuZmFVVVI0V20xVDFybmNrQXhvNnJBVHRSc2NqbjZ5Q0QwU0FVbTRpR0hRRmoyRThDdzNOc01XbmROYXl4Y0YxRzgyZzRxSTlIQlhPanNySkVsNG1XLUdoYlJlNzl1VE8tMVctZ1U?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만"
+   ]
+  },
+  {
+   "id": "f9c17e5e4b",
+   "date": "2026-10-28",
+   "title": "K-뷰티 수출 빅데이터 리포트⑦: 마스크팩 1억 9247만 달러 달성...무역흑자 12% 증가",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9OcjJKQWtQbVhJRUtRakRSREdYdm5uaFVXTDc2X3JkOGxlc2FMMENCb29JR2loeVFLcG93UkJKNjJEMFl4ellBVkswTzlSSEhONFRRWmN4VmdiTDBrTmoxY1NJekxCeXBZRGc?oc=5",
+   "source": "뷰티경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "e775f6ae1d",
+   "date": "2026-10-28",
+   "title": "중국산 하이브리드車 겨냥한 EU 쿼터제…'3.5조원 수출' 한국산까지 위협하나",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cEFHaDhxMVl0M20wZHNpY25IR3U3b1duYTFrUk16RWEzYUFLWjlscUl2WHRtdlVoQUtCM29abkhBQzljZE93d0x4M3dmQlh6VHdVMXgzakVZbXJ0cFFZSdIBeEFVX3lxTE5VQjdYc1k4V2g5T2paXzF6MTVMNjRqQ3k0NWtESndlSUVDeVlDQjdHSFc4TmNrVVlBcHFRemNhbVZQVzYxZndHRVFYay1kV2FSd3hNbFUyaEhCb0RZRFFVUWF0Y0s1a3daT3lteDhVQ1pma3pVNjlueQ?oc=5",
+   "source": "뉴시스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "53004ac109",
+   "date": "2026-10-28",
+   "title": "원/달러 환율, 하루만에 14원 급등…5개월 만에 최대 상승폭 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tSzM5NlExdVZmMV9pdS1DSUVDYzhhRWo3U2ZORThlSTdrYXotOWwyQkdRV2d4LWlNU0FZQ2dRMm5ZWDRUZEVDdG5MMkRiN0tJbXk4cUk4XzJTdUdVNFBBVHpGZFY5bkJ4UnlLcG9BcTDSAXBBVV95cUxPLUszOTZRMXVWZjFfaXUtQ0lFQ2M4YUVqN1NmTkU4ZUk3a2F6LTlsMkJHUVdneC1pTVNBWUNnUTJuWVg0VGRFQ3RuTDJEYjdLSW15OHFJOF8yU3VHVTRQQVR6RmRWOW5CeFJ5S3BvQXEw?oc=5",
+   "source": "머니투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "a9ea29b323",
+   "date": "2026-10-28",
+   "title": "[외환] 항공 웃고 수출기업 운다…환율 1323원 2년 만 최저",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBFRWVhZ2c3QVJldmt0WlJSaGFRREJ1UW9CekkwRFR0Yy1GU2pfSmRDcGJQLUh6elQtd0NnYmw2bXdqcy1Wck9zdmlYck9VZG15bzdtcEJuOUxUV05yVUg0bWhaZDA5SXM?oc=5",
+   "source": "자본시장뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "14fe3e9df3",
+   "date": "2026-10-28",
+   "title": "원·달러 환율, 수출업체 네고 물량에 1331원대 하락",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ueHJGYlFHRUpJanA3VWNPNW5tRzVweWJmRDdKa204RXBHczVOc3RHY2h4OTR1N3NoR09POXdobWFZMEtFXzFJbTJFNmhla3U1d0lHczFrbk3SAVhBVV95cUxPbnhyRmJRR0VKSWpwN1VjTzVubUc1cHliZkQ3SmttOEVwR3M1TnN0R2NoeDk0dTdzaEdPTzl3aG1hWTBLRV8xSW0yRTZoZWt1NXdJR3Mxa25N?oc=5",
+   "source": "아주경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "02255666d2",
+   "date": "2026-10-28",
+   "title": "원·달러 환율 2년 만에 최저…자동차업계 수익성 '빨간불'",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yYjFoS1R4aEpDODFoeVl4eVBrR201ekpwajkwSkZOY0lQM0NESHN1RDJDUnc3WjZreVpXbENJb3JSQ05zNGpHdUlzaDVNVzdQUjdadUhOSkFWU2ZrVm82NnhraURadVM3RmNmSg?oc=5",
+   "source": "스페셜경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "자동차",
+    "외환"
+   ]
+  },
+  {
+   "id": "6f7b836287",
+   "date": "2026-10-28",
+   "title": "엔저, 韓 수출에 영향 제한적 “환율보다 업황이 핵심 변수”",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX0Y3QlM2cVhkN05PSnlLSkRFd3FLYnh4eGtScklBVkQxMFdiV05pSFJIUE5fMEhWcEJVSXltYUNvYU5PS1RLMllqMVdNekpkRHfSAVNBVV95cUxNMlE0SnktcHdZeVRiMGtRVWRYbUR2b1BxTkY2d1hNNlFCT0llZjVDQXBCRW5LVGo0X19ZRENjZUF4VHpQYVNzdkNqV2NoTkxWSVRCYw?oc=5",
+   "source": "서울경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "f6dfe156f8",
+   "date": "2026-10-28",
+   "title": "엔저 10% 약세에도 한국 수출은 0.07% 감소 불과",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBobUdoOTJaajI0aDlvOUt1Tkp3Q29oV2VGcjFRU3RzUjMyb2Jia0FrOXZKOENhamxsektQZ3Y2X3hNRW9fekk4TjlyVm9yLThvN3hQM3BFeUtDUWwtelJURDdQRmlMczg3WVZ6NWVVVzBZNmfSAXdBVV95cUxPaExqVE9IX2lfVGZYWHVnM0taV0lDalJZWXFHMlhGa2EzVTNhUkp6b2U4Tk9JRV9ncDI2aVFpNmlVOC1qaEU4aUIzdVU2d29uUlIxSWtJUEdsS3FVM0t3cUFjWUM3VWo5T0RRa21vNmVydlFCdFpUOA?oc=5",
+   "source": "뉴스프리존",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "a61068b792",
+   "date": "2026-10-28",
+   "title": "무역협회 \"엔저보다 업황이 수출단가 좌우\"",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pYkVJOVk3eG1QV0NJa1JscGtGbThlVWNZWEtzOHpKM0U1VmFDRTJCcFFwRmpGZXVSNHpvcTNJVGljNzNfZFRqRUxRZkg4UjF1TVF2YmdjZjlmbU8zWEtwVV9qZTdlSFNWWEc4T09B?oc=5",
+   "source": "세이프머니",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "b7530c771d",
+   "date": "2026-10-28",
+   "title": "수출 급증에...외화예금 사상 첫 1500억弗 돌파",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rX3kzR2h3WkZWbml6clhMSWR6T0VkTUY5M0cyb3JrcGx2MlhEZEYtX01OODZzc00xU2hyUXFiMzhadDhjRzExQkhiU2dZSGloU2fSAVNBVV95cUxOTkhiYkpqTlBfUlRHemJBcUdFMTRRT2NZRUo3VndBNmFoTHV3dURhWmtiZFZTV1RJNGUtU2dYcnNkRXltTTVsTW1STHRnSzM3MGx5Zw?oc=5",
+   "source": "서울경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "c499f5d68e",
+   "date": "2026-10-28",
+   "title": "대전상의, 지역 수출기업 통상 대응력 높인다",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uWkdyNi1IUDltTFlMekZ5djRIUUNFSXd1WGpnZ2RqSWRabVh1SEZmbldMQ1ZWUXIydU9nd29wUGowaHBpbUI0Q2JLRkhjWlJDVXptRzAtM0lQSlNOdEJQZ2tQdmRfRTRBNy1vSA?oc=5",
+   "source": "충청뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "45c34ac143",
+   "date": "2026-10-28",
+   "title": "대전상의, 수출기업에 FTA·관세·금융 맞춤 상담",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2anFSeGhzMENqYzFOTUlNSTA1em1JVm5TaGN3TjFCTlhDLVpwZ0h4V0pVQ2ZnTTJYdU9IUlE2QVpZVWp3eWFwSlBValEyTkNkbm9BNA?oc=5",
+   "source": "타임뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "68bf5e4e23",
+   "date": "2026-10-28",
+   "title": "대전상의, ‘찾아가는 FTA·통상데스크’ 실시",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwQmNNNXVURWU2Y0RJTnhhRXRPTTRkX21aQUtpTmIxSFNTOFNGQTdOMXN0aFkxRWJhdTRuRnVMcnBFR2pMQkpKbkJGcHVVQWNEbXpHRm9WTFlnZ0JnWFktZVFiSGFwcEZYOEszVktXeGREN0k?oc=5",
+   "source": "충남일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "dec232c717",
+   "date": "2026-10-28",
+   "title": "대전상의, 수출기업 위한 '찾아가는 FTA·통상데스크' 개최",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5NaHM5SEN4cTg0WkxTdWx5S25QeGRfSWRmQ1E4cEJCdTdrRUtidU5hTWZyWGpuM1dxMWIxNm1id2RHWHZLMVR1MlFGZ0xfN2NUT1MwaEtfa21xWDRHd05XYWNCNjAzTnBudmxEbUZ3Z9IBc0FVX3lxTE9DU2ZWREk1S0I3OHhEQUFzM2Y5V3hzSzFCMEpkbmtpUzNEZ3dndWJTUkV3Y0RTcExpNThtUUgtakFJTGNMQ0JYTWx5TF9ScDJ5S3FQUncyRFJXSVlOQ3V3RjdodGt3WlRyeDg5VGd2dXJManM?oc=5",
+   "source": "대전일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "bc4ac352d6",
+   "date": "2026-10-28",
+   "title": "무협 “美 중간선거 결과 무관 트럼프 통상기조 지속…엔저 충격은 제한적”",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ndG5SMjdleXViZVctMVQtSENpaU9WWl9VcWJTZWlUX0syZHVxT2l4bkUzNElUdmJSMUFjYkpRVkllYkNiTVRELW1aM0RLSFVIY1dvc2FnU0dFT2F2YXo1Snd1M3RjU0ZyMndvQXd2RUM1X09m?oc=5",
+   "source": "대한경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "1544241f0c",
+   "date": "2026-10-28",
+   "title": "대전상의, 찾아가는 FTA·통상데스크 열어",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9qVmt3MUhRREtFLXBtblRQVWpmSnVCQ2hILV9sZVpBVkdkNGFEMnBuanEzajF5WVNSYmpabWVrdDNxUWlEZW45c0o2QWlOSnhCUU12YjZCdG9hemFSSVpPSEhNTXRlcksydXZrY2lZc0JaWTBFTVhrNtIBeEFVX3lxTE9qVmt3MUhRREtFLXBtblRQVWpmSnVCQ2hILV9sZVpBVkdkNGFEMnBuanEzajF5WVNSYmpabWVrdDNxUWlEZW45c0o2QWlOSnhCUU12YjZCdG9hemFSSVpPSEhNTXRlcksydXZrY2lZc0JaWTBFTVhrNg?oc=5",
+   "source": "뉴시스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "97c11802ac",
+   "date": "2026-10-28",
+   "title": "국립한국해양대 앵커사업단, ‘조선해양플랜트기자재 수출상담회’ 참가",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9fbGRMeDBrWnRJZ0N2WWoydmE2cUk1ODN0Z1RramNGVHZsNDYwM1FwVGpGUDBGUHZNSFpNU1haTks5ZFVjRHdZWlg0ZS1jNFdiZXFFaGlLczNVUHZhT0tVSzY0X0tpVmp0S2VwV3lOU3JySmVveElUVUc0ZUs?oc=5",
+   "source": "부산일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "6aab559e88",
+   "date": "2026-10-28",
+   "title": "해외 바이어 ESG 평가 요구 확산…수출기업 공급망 대응 역량 강화",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ocFVMUUNndVEtU2JQRzBZRUNaWkM3UGYyLTNqbTNtV3BJdjRhV0M1cDBMWWJTTHJUbWZrYjROaTZHczdoUXlNWnZUeDdTbnU3REln?oc=5",
+   "source": "데일리안",
+   "cats": [
+    "sales",
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "90fc794679",
+   "date": "2026-10-28",
+   "title": "[수출시장 다변화] 창업 10개월 만에 아프리카·중앙亞로…‘수출 1조달러’ 향한 다변화 현장",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNUXdfNk93bTlEN1FkY21kWVBsMHZ4czV0N1dHSXl2YXNZeVBjUGI3LVVrSDZtSVB5WlNiQ2ZLTzJJUDloYWZ4eFluVkVsSXRCRHNJNWcxcS1CdjcyTDJhRmdNNXlCRnVPX1lwVHpB?oc=5",
+   "source": "코리아포스트 한글판",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "8d6a2c14b5",
+   "date": "2026-10-28",
+   "title": "용인시산업진흥원, 글로벌 수출상담회서 258만 달러 상담 성과",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE92QkF1Y3RHY216WjVDekpIZVJpLVZSTUJyN01FSEo3WjRRMk03TklwY1VCLUQ5cVlDd2NENTE5R19IVFhhVGY2bnpzUHYxWl9xaXdhMm84ZUpxajgwTnNlVkh2ZU9FWWluU1E?oc=5",
+   "source": "www.skedaily.com",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
   },
   {
    "id": "b746671148",
@@ -831,6 +1208,52 @@
    "title": "WMIT, AI로 K-의료기기 수출길 연다…인허가부터 수출 지원",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xcVRaX05tYXIxWnFINmxVTkJuVS1BbnN1Rnl3cUlJd0hYajdCdlVDUFFFNWw4QUNCYnh0YzNnQzJma3ozX01uelM3X3dZTjlnMmtCclgtZEFVWGVYZWgwSlpR?oc=5",
    "source": "보건신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "5a454b8ebf",
+   "date": "2026-10-27",
+   "title": "컨테이너 운임 지수 소폭 상승…미주항로 약세 지속",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VRURwanJWTGFnNklQeWFuSlVUQ2pDNU8zdGs3TDdQanFIYm5oSTBhM3FXdmVLMzJLWFFicDVmeGZQRWVvc1htSHBoM2tyUkVrTjE2TlFFOFBsOHJybXdRZWhwNlYzb3dTTVNTU1AzRUFIV1RLcjRhV9IBeEFVX3lxTE9VRURwanJWTGFnNklQeWFuSlVUQ2pDNU8zdGs3TDdQanFIYm5oSTBhM3FXdmVLMzJLWFFicDVmeGZQRWVvc1htSHBoM2tyUkVrTjE2TlFFOFBsOHJybXdRZWhwNlYzb3dTTVNTU1AzRUFIV1RLcjRhVw?oc=5",
+   "source": "뉴시스",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "e638c54608",
+   "date": "2026-10-27",
+   "title": "내수·초보기업 300곳, 첫 수출 도전…코트라, 해외 바이어 연결",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QY3FYWGZwd3haaXpsa2plT09UWko5eWN6ZzBDYlUwTmw4Q2F3UndpbGJuV2Q3TVlqN0FVSHh0SEhROElEaVY0VlVPZ29RY2ZXQ3hqbklFLXVmbF9JbVJMV3Jpci1uWE1S0gFsQVVfeXFMT05PcmhPcDdqU19oandzTEZiT1FldnR3ZkhVMTN3M24xaVR0VWxPV09kN2s0UEN4blZJV0xQYzFpV3N3ZEl0YWxESlhNRV9lLTZndnNsMGV2M0h1Q0dmSHFHeDR5OFBIX1RsNS1p?oc=5",
+   "source": "중소기업투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "5613a8c0d6",
+   "date": "2026-10-27",
+   "title": "[심층분석] 수출상담 12억 달러, 계약 전환이 관건…한국 기업의 시장 다변화 시험대",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wU3pUUGZfd0hyVTRQQU1RM01hdWRrc0xjRUZNS1BDVF9rTl9NcExVX0lQOXJ2ZVpYVWxhQWpLOHlQVjZNV2VzMzhUZ3d2cU5UdU1xSlA1VmJIM1JSR0FJdFpzejZXVW9lcHc?oc=5",
+   "source": "뉴스밸류",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "7cffbe984a",
+   "date": "2026-10-27",
+   "title": "코트라, 내수·초보기업 300개사 '첫 수출' 지원한다",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbGlWQTJtUWdSRk1pSEF1aTBWU1lvX1VXajVVd3VNT3VXeVFlQlRBWWk2a29tV1BVTXpwUFcwRTZ1amd4UWFuZmtSeGFfMmdBZVg2N2duVExDZ3pSaGF6MkZuekEwM2hyZHRRUlJfekRkVXV6SmJEM2xKNnU4Q1lYRnJn?oc=5",
+   "source": "아시아경제",
    "cats": [
     "sales"
    ],

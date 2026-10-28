@@ -1,6 +1,220 @@
 {
- "updated": "2026-10-28 06:34",
+ "updated": "2026-10-29 06:36",
  "days": [
+  {
+   "date": "2026-10-29",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 변동성 확대와 수출 업계의 수익성 관리",
+     "summary": "원·달러 환율이 2년 만에 최저 수준을 기록하는 등 급격한 변동세를 보이며 자동차, 제약 등 주요 수출 업계의 수익성 관리에 비상이 걸렸다. 환율 하락 시 원화 환산 매출과 영업이익이 직접적으로 타격을 입을 수 있다.",
+     "what": "원·달러 환율이 2년 만에 최저치로 하락했다가 일일 급등락을 보이는 등 변동성이 크게 나타나 주요 수출 기업들의 실적 우려가 커지고 있다.",
+     "why": "수출업체 네고 물량 유입 및 대외 거시경제 환경 변화에 따라 외환시장의 불확실성이 지속되고 있기 때문이다.",
+     "impact": "해외영업 담당자는 결제 통화 다변화, 환헤지 전략 점검, 환율 변동에 따른 계약 단가 조정 조건 등을 적극 반영해야 한다.",
+     "tags": [
+      "자동차",
+      "제약바이오",
+      "외환"
+     ],
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4SWxYWnh4WWhFY25XRVhjVnhVLVVqRTF5TjY4RU5Rek1FMldoUUpBQ2ctNTE4eHBwTldZVFR1QTdtbjg2bVhlR0hid1VIU1cyb2Z2QVZGN1pWVFdTXy1NYndyUk5lbGpQRk1vTUdYaXlhNE9KWTdoSdIBeEFVX3lxTFB4SWxYWnh4WWhFY25XRVhjVnhVLVVqRTF5TjY4RU5Rek1FMldoUUpBQ2ctNTE4eHBwTldZVFR1QTdtbjg2bVhlR0hid1VIU1cyb2Z2QVZGN1pWVFdTXy1NYndyUk5lbGpQRk1vTUdYaXlhNE9KWTdoSQ?oc=5"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWHdTWTNqcnc5X3BfUDBhbl9HZDlTckpPZk84bm42UWxWeFl4TDFVRmZtb1pOUXpsd09LeThlUVdPbUpiN1pDM0JuZ3hkcjdxcFduSU9jTjktQ256bVExM2RmYTdjYWtwUUpvVUJId0M3YmFsUmpwek1oQUxBd3BfbzJTMlBLOGPSAZsBQVVfeXFMUDBsNkUxNzRQX2xsQ01fb1d3LUxWZlNTSldvejBqZmh1WnB0YVhWV2w1b3g3cmg3TndtMUtWLVRuMF9BWDI3clJfakVkUDdqRDByZE9YU3ZXS3phTGlRcWlmSndjOVVwYl9jM0RTSENEN3NXYTJaSHlDVjltSzBjeEJmVk9UYVp5N2luZkVDb0xSMkMxYnVYNkxKT1U?oc=5"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tSzM5NlExdVZmMV9pdS1DSUVDYzhhRWo3U2ZORThlSTdrYXotOWwyQkdRV2d4LWlNU0FZQ2dRMm5ZWDRUZEVDdG5MMkRiN0tJbXk4cUk4XzJTdUdVNFBBVHpGZFY5bkJ4UnlLcG9BcTDSAXBBVV95cUxPLUszOTZRMXVWZjFfaXUtQ0lFQ2M4YUVqN1NmTkU4ZUk3a2F6LTlsMkJHUVdneC1pTVNBWUNnUTJuWVg0VGRFQ3RuTDJEYjdLSW15OHFJOF8yU3VHVTRQQVR6RmRWOW5CeFJ5S3BvQXEw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 급격히 하락(원화 강세)할 때 해외영업 담당자로서 취할 수 있는 대응 방안은 무엇인가요?",
+       "hint": "단기 환차손 방지를 위한 환헤지 및 결제 통화 분산, 비가격 경쟁력 강화와 단가 연동제 협의 등을 언급한다."
+      },
+      {
+       "q": "환율 변동기에 바이어와의 가격 네고 시 어떤 원칙을 가지고 임하시겠습니까?",
+       "hint": "환율 변동 범위를 계약서 내 조항으로 반영하고 고부가 가치 서비스나 납기 안정성을 부각해 단가 인하 압박을 방어하는 논리를 제시한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "EU 및 글로벌 통상 규제 강화와 공급망 쿼터 리스크",
+     "summary": "중국산 하이브리드차를 겨냥한 EU의 쿼터제 움직임이 한국산 친환경차 수출에도 부정적인 영향을 미칠 수 있다는 우려가 제기되고 있다. 주요국의 무역 장벽이 특정 국가 견제를 넘어 역내 공급망 전반으로 번질 위험이 있다.",
+     "what": "EU가 중국산 하이브리드차 등을 견제하기 위해 쿼터제 등 통상 장벽을 세우면서 한국 자동차 수출에도 불똥이 튈 가능성이 대두되었다.",
+     "why": "글로벌 보호무역주의가 심화되고 자국 산업 보호를 위한 통상 규범이 광범위하게 적용되고 있기 때문이다.",
+     "impact": "해외영업 담당자는 수출 대상국의 통상 정책 모니터링을 강화하고 현지 생산 거점 활용 및 규제 예외 규정 충족을 위한 원산지 관리에 집중해야 한다.",
+     "tags": [
+      "자동차",
+      "하이브리드",
+      "EU"
+     ],
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04cEFHaDhxMVl0M20wZHNpY25IR3U3b1duYTFrUk16RWEzYUFLWjlscUl2WHRtdlVoQUtCM29abkhBQzljZE93d0x4M3dmQlh6VHdVMXgzakVZbXJ0cFFZSdIBeEFVX3lxTE5VQjdYc1k4V2g5T2paXzF6MTVMNjRqQ3k0NWtESndlSUVDeVlDQjdHSFc4TmNrVVlBcHFRemNhbVZQVzYxZndHRVFYay1kV2FSd3hNbFUyaEhCb0RZRFFVUWF0Y0s1a3daT3lteDhVQ1pma3pVNjlueQ?oc=5"
+      },
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdVNkMVNvQkpXMkgtbjZueDFfWEdTWXdUc3JEYXp1X3hFdkJwNWYxTWJIbHQxeDZPR2xXZTNEdnRfZU5oY1pFWmsxejNyQl81cnZFVVNfRXFobHhFaWNPOV94LW0wdzJMT3hxUEhVenEweEVZbUt1M1I1aEYtc29xb1MxYzctU2ZK?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "EU 등 선진 시장의 비관세 장벽이나 수입 쿼터제 강화에 해외영업 담당자는 어떻게 대비해야 할까요?",
+       "hint": "규제 세부 요건 분석을 통한 원산지 증명 확보, 규제 대상 외 제품군으로의 포트폴리오 전환 및 우회 방안 검토를 설명한다."
+      },
+      {
+       "q": "미국과 EU의 보호무역주의 기조 지속 시 수출 시장 다변화 전략은 어떻게 수립해야 할까요?",
+       "hint": "선진 시장 중심 구조에서 벗어나 중동, 중앙아시아 등 대체 시장 개척 및 현지 파트너 협력을 통한 리스크 분산을 제시한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "글로벌 바이어의 ESG 공급망 실사 요구 확대",
+     "summary": "해외 주요 바이어들의 공급망 대상 ESG 평가 요구가 확산되면서 국내 수출 기업들의 공급망 대응 역량 강화가 시급해지고 있다. 단순 가격과 품질을 넘어 지속가능성 충족이 수주 여부를 결정짓는 핵심 지표로 부상했다.",
+     "what": "글로벌 바이어들이 공급망 전반에 걸쳐 탄소 배출, 인권, 환경 등 ESG 지표에 대한 검증 및 평가를 강력히 요구하고 있다.",
+     "why": "유럽 공급망 실사법 등 주요국의 지속가능성 관련 규범이 법제화되고 글로벌 대기업들의 협력사 관리 기준이 강화되었기 때문이다.",
+     "impact": "해외영업 사원은 제품 스펙뿐 아니라 자사 및 협력사의 ESG 인증 데이터와 탄소 배출 이력을 준비해 입찰 및 수주 평가에 대응해야 한다.",
+     "tags": [
+      "ESG",
+      "공급망",
+      "수출기업"
+     ],
+     "sources": [
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ocFVMUUNndVEtU2JQRzBZRUNaWkM3UGYyLTNqbTNtV3BJdjRhV0M1cDBMWWJTTHJUbWZrYjROaTZHczdoUXlNWnZUeDdTbnU3REln?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해외 바이어가 공급망 ESG 실사 자료를 요구할 때 실무자로서 어떻게 대처하시겠습니까?",
+       "hint": "사내 유관 부서 및 협력사와 협력해 객관적인 공인 인증 데이터를 체계적으로 수집·전달하고 개선 로드맵을 함께 제시한다고 답변한다."
+      },
+      {
+       "q": "ESG 규범 준수로 인해 원가가 상승할 경우 이를 바이어에게 어떻게 설득하겠습니까?",
+       "hint": "단순 비용이 아닌 바이어의 글로벌 공급망 리스크 절감과 장기적 파트너십 구축이라는 가치를 강조하며 프리미엄 요인으로 연결한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "HBM 수출 분기 50조원 첫 돌파와 고부가 제품 견인",
+     "summary": "HBM(고대역폭메모리) 수출액이 분기 기준 처음으로 50조 원을 돌파하며 반도체 산업의 호조를 견인하고 있다. 엔저 등 대외 변수 속에서도 고부가 주력 제품의 글로벌 경쟁력이 수출 실적을 주도하고 있다.",
+     "what": "HBM 수출이 분기 기준 사상 최대 실적인 50조 원을 돌파하며 수출 성장세를 이끌고 있다.",
+     "why": "AI 데이터센터 수요 급증에 따른 고부가 메모리 반도체 중심의 글로벌 업황 개선과 탄탄한 시장 지배력 덕분이다.",
+     "impact": "해외영업 담당자는 범용 제품 대비 마진율이 높은 프리미엄 제품군을 중심으로 장기 공급 계약을 확보하고 빅테크 고객 맞춤형 영업을 지속해야 한다.",
+     "tags": [
+      "HBM",
+      "반도체",
+      "IT"
+     ],
+     "sources": [
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdXFldV80alZqSVlkbWRWYXMwZmFXQmY5a0JnM2t5RXo2Z3Z1c0w1WFZpV2xqZElGd01aOFpvaTY4Nk84OEVtWmxfRUlfbWxzRG9DdlNrZUZheG5uanBETjAzQmU2UmNFMlFJVWZhSkoxdXR1U1hPbXhHUjliSUpSX0MwVQ?oc=5"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUX0Y3QlM2cVhkN05PSnlLSkRFd3FLYnh4eGtScklBVkQxMFdiV05pSFJIUE5fMEhWcEJVSXltYUNvYU5PS1RLMllqMVdNekpkRHfSAVNBVV95cUxNMlE0SnktcHdZeVRiMGtRVWRYbUR2b1BxTkY2d1hNNlFCT0llZjVDQXBCRW5LVGo0X19ZRENjZUF4VHpQYVNzdkNqV2NoTkxWSVRCYw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 변수보다 업황과 제품 경쟁력이 수출에 더 큰 영향을 미친다는 점에 대해 어떻게 생각하십니까?",
+       "hint": "환율은 단기 마진에 영향을 주지만 장기적 거래 지속성은 기술력과 대체 불가능한 제품 경쟁력(예: HBM)에 달려 있음을 피력한다."
+      },
+      {
+       "q": "하이테크 고부가 제품의 장기 수주 계약을 성사시키기 위해 해외영업 사원에게 필요한 역량은 무엇입니까?",
+       "hint": "고객사의 로드맵을 선제적으로 파악하는 기술적 이해도와 납기 신뢰성을 바탕으로 한 록인(Lock-in) 전략을 제시한다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "인천항만공사의 선사·포워더 교류 확대와 물동량 유치",
+     "summary": "인천항만공사가 선사와 포워더 관계자들을 결집해 해운물류 네트워킹 데이를 열고 물동량 증대 방안을 모색했다. 항만 당국과 해운물류 플레이어 간의 소통을 통해 물류 공급망 인프라 확대를 꾀하고 있다.",
+     "what": "인천항만공사가 선사와 포워더 50여 명을 초청한 네트워킹 행사를 개최해 인천항의 신규 물동량 창출과 교류 확대를 추진했다.",
+     "why": "글로벌 해운 시황 변동성 속에서 안정적인 컨테이너 노선을 유치하고 포워더와의 협력을 통해 처리 물량을 확대하기 위함이다.",
+     "impact": "물류 및 SCM 담당자는 선사-포워더 네트워크를 적극 활용해 대체 항만 옵션을 검토하고, 화물의 운임 및 리드타임 경쟁력을 확보할 수 있다.",
+     "tags": [
+      "인천항만공사",
+      "선사",
+      "포워더",
+      "해운물류"
+     ],
+     "sources": [
+      {
+       "name": "기호일보",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iU2RVOTZyUldvN3Nsa2NMTXlicko3cENyOXRBQkdDa0tEMGdmVW5uQU5QYzAtTXFiS2lmY2NyM214cXVFbjNZbi1rejZnanJGZ3hHS2RSZ0JQemhNZl9uUHI5c2pMNVRKS0x2ZllGSQ?oc=5"
+      },
+      {
+       "name": "컨슈머타임스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE84b1Q0NmgxS3V6ZFpQeW5LbmRER3ZYbXRqa0NEWUdMeEZtOEVlaG1Mdl9pQXBkdE1FaGU5dlpzQWtySk9iOUhxczQwMUMwUHozZERsMjl6bFRLcS1KNkI1dDZweXZGMWlvelE?oc=5"
+      },
+      {
+       "name": "우리일보",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KMjBIbldvX0tOMlpSbGtwRnZJcmluZTJYZUlaUk1XV0NLQjQ3ejRDVEJlRnpJUU92RFloVTIxb05QOTRIV2kwNEZjamlGT0ZwNFgzY05ua0cxbGduZ2tTQ1cxYw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출입 물류 프로세스에서 화주, 포워더, 선사의 상호 관계와 역할에 대해 설명해보세요.",
+       "hint": "화주는 화물 운송을 의뢰하고, 포워더는 복합운송 주선 및 통관을 대행하며, 선사는 실제 해상 운송 인프라를 제공하는 협업 관계임을 설명한다."
+      },
+      {
+       "q": "특정 항만의 물동량 포화나 체선 발생 시 물류 담당자로서 어떻게 운송 경로를 최적화하시겠습니까?",
+       "hint": "인근 대체 항만(예: 부산항, 인천항 등) 노선 분석, 포워더와의 신속한 협의를 통한 운송 모드 전환 및 피더선 활용 전략을 제시한다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "HBM 수출, 분기 기준 50조원 첫 돌파",
+     "script": [
+      "최근 'HBM 수출, 분기 기준 50조원 첫 돌파' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "부산-경남, 첨단물류-기술 입고 고부가 산업 진화",
+     "script": [
+      "최근 '부산-경남, 첨단물류-기술 입고 고부가 산업 진화' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "환변동보험 (Foreign Exchange Risk Insurance)",
+    "body": "수출입 기업이 환율 변동으로 인해 입게 되는 손실을 방지하기 위해 한국무역보험공사 등 정책금융기관을 통해 가입하는 위험 관리 수단이다. 수출 계약 체결 시점의 보장환율과 실제 대금 결제 시점의 시장 환율 간 차액을 정산하여 환차손을 보전받고, 환차익 발생 시에는 이를 환수하는 방식으로 운영된다.",
+    "tip": "면접에서 중소·중견 수출 기업의 외환 리스크 관리 방안 질문이 나올 때, 시중은행 선물환 거래의 대안이자 신용 한도 부담을 줄일 수 있는 실효적 수단으로 환변동보험을 언급하면 실무 이해도를 효과적으로 보여줄 수 있다."
+   }
+  },
   {
    "date": "2026-10-28",
    "mode": "ai",
