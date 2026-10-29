@@ -1,6 +1,230 @@
 {
- "updated": "2026-10-29 06:36",
+ "updated": "2026-10-30 06:40",
  "days": [
+  {
+   "date": "2026-10-30",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국·EU 통상 압박 및 관세·원산지 규제 강화",
+     "summary": "미국의 자동차 관세 부담과 EU의 쿼터·관세 등 통상 압박이 거세지고 있으며, 원산지 장벽까지 대두되어 수출 전략 수정이 요구되고 있습니다.",
+     "what": "미국과 EU 등 주요 선진국을 중심으로 관세, 쿼터, 원산지 규정 등 수입 장벽이 높아지고 있음.",
+     "why": "자국 산업 보호 및 글로벌 공급망 재편 과정에서 통상 마찰과 보호무역주의가 심화되고 있기 때문.",
+     "impact": "대미·대EU 수출 비중이 높은 자동차, 철강, 부품 등의 해외영업 담당자는 관세 및 원산지 증명 리스크를 철저히 관리해야 합니다.",
+     "tags": [
+      "미국",
+      "EU",
+      "현대차",
+      "철강"
+     ],
+     "sources": [
+      {
+       "name": "엠투데이",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fLUQ3Tkx6dV9Ka0hwMGNPdXdQUUJtTkE0aUhEQmFSVnFIVGVfd0Z0clYxcU01Y2drZ3pLMWJoQk5ic2J5ejVuTG5uV01kbERRQzN1UE5PcHh5OGZyTEx3VE1DUWp3dHJ3UmRfdGVMTQ?oc=5"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ZeVh0WEdrRkl3bDg1bGlweUVuNm9XQklaRnNJeS1ickc3TnRUQW9sWFBNSEg4ZS1keldJVHFnekJtWWlJNVltdFd0RXdGXzhzV2wwbUpWcjFTLWhuZlctdjVuZHhmS05BZUZF0gFvQVVfeXFMTVM3UlAxRWVXcXpaaWQ1RHlvbE83TW0za1RqQkt3R2hNVDZXOXM2bENvcDRhUFZDMUY0NWFPS2hCVHJ5QmZqb1Q2RWYtbjIxdF9KdW1sUncycTVYMTFXMnRsdjhTdWE2WjhVYjkwRHBJ?oc=5"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MdWxCbm04TlR6Y3g4LXgzb1BvMFRBdW9CaWJCck41WXVfamo4ZzNfbEJvRlhJbWVHbXJQX3lHWjNITEtwZlVMMWw3WmNxN3ppWjFtWDJGcC10NHRibnBLcXZzQ0dXWGhEdDZxczFZT0JOdTVvYlE5dUNxVTg4QjQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "주요국의 관세 및 비관세 장벽 강화에 대응하기 위한 해외영업적 전략은 무엇인가?",
+       "hint": "원산지 규정 충족, 현지 조달 비율 확대 및 FTA 활용 방안 제시"
+      },
+      {
+       "q": "미국·EU의 통상 압박으로 수출 타격이 우려될 때 신입으로서 어떤 점을 모니터링하겠는가?",
+       "hint": "현지 관세율 변화, 통상 정책 뉴스 및 바이어의 비용 전가 움직임 모니터링 강조"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율 하락(원화 강세) 기조 속 수출 기업 비상",
+     "summary": "미 FOMC 금리 동결 및 약달러 기조의 영향으로 원·달러 환율이 1330원대로 하락하면서 수출 주력 산업계가 타격을 입고 있습니다.",
+     "what": "미국 금리 동결 및 비둘기적 해석으로 인해 원·달러 환율이 하락세를 보이고 있음.",
+     "why": "글로벌 외환시장 내 달러 약세 압력과 통화정책 변화에 따른 결과.",
+     "impact": "환율 하락은 수출 가격 경쟁력을 약화시키므로 해외영업 직무에서 마진율 방어와 환리스크 관리 능력이 중요해집니다.",
+     "tags": [
+      "환율",
+      "FOMC",
+      "수출"
+     ],
+     "sources": [
+      {
+       "name": "뉴스토마토",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TV3JESDFBZ1lDNk9qTmhNRURzMTgxUTZ3aWpQeG5IaVU1bWZWRkYzZEJHU05PZnlIdnVheV9EcE5saDFPZmgzM3h2a19MSUhsUmEyM0l1VmR0VXlWQ0ZzSw?oc=5"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fVUwwcl9GQkpVaC1pWkl5VHp2WEVUMEJ3d1VNMEJ5S1lBSWRnWUF0MUVoUElJTEJoWHRoMEpyazVSTF9OcUt1RWNBbUhyWWV0S3lpVnZUNGUzSVnSAWBBVV95cUxPeFR1UXBDcS15eHdXaDMtTWVHRVV6R01LVUkyckVkYXRHbEQ1MXJ4UG5qVHloZkt0MDVEank5a0JPcFRIZ18wY2liTU9sdkw2RlR5bFI2OWVMTUliMmpVNXA?oc=5"
+      },
+      {
+       "name": "마켓인",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16bjBCZzluX21CTHFWLXpnd2VzMWpiREg0QVY5ZHhnM29JWjZSVFJlVUkxalhzWDZ0LWRsUVZQUV9Oc21kdzVUYjJwclY5TVY3UTVVUHRSeWpJY2MyVk9id29KWnU2eHlfbzJNOVlQZ25iVlk?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락(원화 강세)이 수출 기업의 수익성에 미치는 영향과 대응책을 설명해보라.",
+       "hint": "달러 결제 대금의 원화 환산액 감소로 인한 채산성 악화, 환헤지 전략 언급"
+      },
+      {
+       "q": "환율 변동성이 클 때 해외영업 사원으로서 바이어와의 가격 협상에서 취할 수 있는 태도는?",
+       "hint": "장기 계약 시 환율 변동 조항 검토 및 비가격 경쟁력 강조"
+      }
+     ],
+     "unverified": [
+      "1330"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티의 중동·중국 등 글로벌 시장 다변화 성과",
+     "summary": "어린이 화장품과 K-뷰티 제품의 수출이 증가하는 가운데, 중국 중심에서 UAE 등 중동·북아프리카 시장으로 수출 영토가 확장되고 있습니다.",
+     "what": "K-뷰티의 중동(UAE 등) 수출이 급증하고 중국 시장에서도 특정 품목 수출이 성장세를 보임.",
+     "why": "K-콘텐츠 확산과 중소기업들의 적극적인 신흥 시장 개척 노력 덕분.",
+     "impact": "신흥 시장 개척을 담당하는 해외영업 직무에 새로운 기회 요인이 되며, 지역별 규격 및 인증 대응력이 요구됩니다.",
+     "tags": [
+      "K-뷰티",
+      "UAE",
+      "중국"
+     ],
+     "sources": [
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KMzFaWFNGRUVwcUV4d0tkUERfUHlwV2FFTkFfUjlaeEg3RnQtR2RsSGZHdFRob2dYTTIzaXpTak1CbmZ5Q0lpbDlUc2wxZEktd21DRG1HZTlpVV9vUXNWMTlHbWlncXVzQnc?oc=5"
+      },
+      {
+       "name": "재외동포신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrSlBadFptS0YwMTRKTkxIR2FpYW5mLU5qbTVqQUh2YVM4VVBrUURuRUlnVS0yaG12U1hmenVnakxSUzNBTV9qaTQ5WlFfbkd2Z0FNVnFGOURocHF4U0N6VkZxdkFpaVpCcmxObw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "전통적인 주력 시장 외에 중동 등 신흥 시장 개척 시 해외영업으로서 가장 먼저 파악해야 할 요소는?",
+       "hint": "현지 규제, 문화적 특성, 인증 제도(할랄 등) 파악의 중요성 설명"
+      },
+      {
+       "q": "K-뷰티의 중동 수출 증가세에 발맞추어 신입으로서 어떤 마케팅·영업 전략을 제안하겠는가?",
+       "hint": "현지 온·오프라인 유통망 분석 및 K-컬처 연계 홍보"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "글로벌 컨테이너 운임 상승 및 남미서안 급등",
+     "summary": "글로벌 컨운임지수가 3주 연속 상승한 가운데 특히 남미서안 노선이 12% 급등하는 등 해운 물류비 변동성이 커지고 있습니다.",
+     "what": "세계 컨테이너 운임지수가 상승세를 보이며 특정 노선(남미서안)에서 큰 폭의 운임 상승 발생.",
+     "why": "노선별 수급 불균형 및 글로벌 물류 공급망의 부분적 차질 영향.",
+     "impact": "해외영업 및 SCM 담당자는 물류비 상승에 따른 수출입 원가 증가를 예측하고 선사와의 운임 협상에 대비해야 합니다.",
+     "tags": [
+      "HMM",
+      "팬오션",
+      "해운"
+     ],
+     "sources": [
+      {
+       "name": "조세일보",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1LVZnUDRiYzk3QTZabUJ2RWNrV0tYTktwZms5dzd2cHo3c2h5dHdYU2xKWWtkMXZWeG82aU1XVTMycHRZU3QtR3dhTmxUX2Q1dGptblVBYWtTeF94Sk1F?oc=5"
+      },
+      {
+       "name": "코리아쉬핑가제트",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FM2tMUFNRaWNpN25RZXNiZFVuZE1SSTFyRFlXdEFGY25laVhaRUFSTWFJZFI3dWlkbFEwQzBmT2p2TWJkSFlHRndQRG8wQXpUQ3NaV0JWWEV5QzZBUE13aGZsT1FhamM?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 급등할 때 SCM 및 해외영업 담당자로서 취해야 할 실무적 대응 방안은?",
+       "hint": "장기 운송 계약(SC) 활용, 대체 항로 검토, 물류비 예산 재조정"
+      },
+      {
+       "q": "운임 상승이 바이어와의 FOB/CIF 조건 협상에 미치는 영향은 무엇인가?",
+       "hint": "운임 부담 주체에 따른 가격 경쟁력 변화 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "글로벌 공급망 재편 속 소부장(소재·부품·장비) 해외 진출 기회",
+     "summary": "글로벌 공급망 재편 흐름 속에서 코트라와 지자체를 중심으로 국내 소부장·뿌리기업들의 해외 글로벌 밸류체인 진입 지원이 활발해지고 있습니다.",
+     "what": "해외 기업들이 국내 협력사를 찾기 위한 수출상담회가 개최되는 등 소부장 기업의 글로벌 진입 기회 확대.",
+     "why": "공급망 다변화 및 안정성 확보를 위한 글로벌 기업들의 소싱처 재편 움직임.",
+     "impact": "소부장 분야 해외영업 담당자는 글로벌 밸류체인 진입을 위해 해외 바이어의 기술 요구 수준을 맞추고 매칭 기회를 적극 활용해야 합니다.",
+     "tags": [
+      "코트라",
+      "소부장",
+      "공급망"
+     ],
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONnhlZkZfUkhMWUp1RldfN1RKRUZqZzdHUy1hUnFkM0loU3hsd3h3blVfQVF3TkV0cUw3c2Q5OXVKaW1ZN1Y1Y1Y1TmpLd0ZHdjBBb3RFYjBqUkVRTjlKT1ZkdVRsYWd2UUNHeGhJTE05SFpDMV8xbXhtRU5EUHdacA?oc=5"
+      },
+      {
+       "name": "중소기업투데이",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA0aDF4MFJ0Xy1XOWU4bzVxcG9wM0NsUVNPTnNQQ1VNRTZTeWE3ZlNvd3JYLXQ1YVJZTC1EbXJyeldaaDVUX1QxTlhTdmdhSGJPZ1lqTmtTN2ZPNHJUc0w4MnZIV0tWZTFw0gFsQVVfeXFMT2ZteGxCTUJsUDl3RkdRRHhfQTUyczBLdDdGTEZxTlJpYTBadXhUVXlnOVJHWWNwaGdiVUVZc0hmX1BqTmpLelNiYzVxUktVQXA5bTZHVUhxMmFydld6QlBZSE5POVNaelo1eXpY?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HZ1pUdExYVkluOFlYdXdRS2haTVAxLVhQQkg4WTFpOFYwRGpmVzhFZVlOZ0ZLRDVyOGhIbmlwUEZjbDU1c1pacFNDSUl5NVNNR2w3UHdEMWLSAVhBVV95cUxPR2daVHRMWFZJbjhZWHV3UUtoWk1QMS1YUEJIOFkxaThWMERqZlc4RWVZTmdGS0Q1cjhoSG5pcFBGY2w1NXNaWnBTQ0lJeTVTTUdsN1B3RDFi?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "소부장 산업의 해외영업에서 글로벌 바이어의 신뢰를 얻기 위해 가장 강조해야 할 역량은 무엇인가?",
+       "hint": "품질 안정성, 기술력 입증 자료 및 레퍼런스 제시"
+      },
+      {
+       "q": "글로벌 공급망 재편 시기에 신입 해외영업으로서 다국적 기업의 수요를 발굴하는 방법은?",
+       "hint": "정부·기관 주도 수출상담회 및 글로벌 소싱 플랫폼 활용"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "[기획진단] 미국 車관세 2년 만에 10조 부담⋯EU는 관세 대신 ‘원산지’ 장벽",
+     "script": [
+      "최근 '[기획진단] 미국 車관세 2년 만에 10조 부담⋯EU는 관세 대신 ‘원산지’ 장벽' 소식에 관심을 갖고 있습니다.",
+      "관세·통상 정책은 수출 가격경쟁력과 시장 선택에 영향을 줍니다.",
+      "해외영업 관점에서 보면 HS Code와 FTA 적용 여부를 확인하고 바이어와 비용 분담을 협의해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "부산-경남, 첨단물류-기술 입고 고부가 산업 진화",
+     "script": [
+      "최근 '부산-경남, 첨단물류-기술 입고 고부가 산업 진화' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "원산지증명서 (Certificate of Origin, C/O)",
+    "body": "수출 물품이 어디에서 생산되고 제조되었는지를 증명하는 공식 서류입니다. FTA(자유무역협정) 특혜관세를 적용받아 관세를 감면받거나 면제받기 위해 반드시 제출해야 하며, 수입국의 통관 및 관세 부과 기준이 됩니다.",
+    "tip": "해외영업 실무에서 바이어가 FTA 혜택을 요구할 때 원산지 결정기준을 충족하는지 확인하고 정확한 C/O를 발급·제출하는 것은 계약 성사의 필수 조건입니다."
+   }
+  },
   {
    "date": "2026-10-29",
    "mode": "ai",
