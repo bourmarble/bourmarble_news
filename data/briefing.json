@@ -1,6 +1,191 @@
 {
- "updated": "2026-10-30 06:40",
+ "updated": "2026-10-31 06:36",
  "days": [
+  {
+   "date": "2026-10-31",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원/달러 환율 1,334원대 마감 및 수출기업 동향",
+     "summary": "달러인덱스 하락과 수출기업의 달러 매도(네고 물량) 영향으로 서울 외환시장에서 원/달러 환율이 1,334.3원에 마감되었습니다. 코스피 급락세에도 불구하고 원화는 강세를 보였습니다.",
+     "what": "원/달러 환율이 수출기업의 달러 매도와 달러 약세 영향으로 1,334.3원으로 하락 마감했습니다.",
+     "why": "미국 기술주 약세 및 달러인덱스 하락, 월말 수출기업들의 달러 매도 물량이 집중되었기 때문입니다.",
+     "impact": "환율 하락은 원화 환산 수출액 감소로 이어져 해외영업의 마진 관리에 직접적인 압박을 줍니다. 따라서 가격 경쟁력 외에 비가격 경쟁력 강화와 환리스크 헤지 전략이 중요해집니다.",
+     "tags": [
+      "외환시장",
+      "원달러환율"
+     ],
+     "sources": [
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UZi1ZTUZTb1ctTGJhQl9aVDVFRER1NEI4QmQ1TFlxdmRwRHVQWFUteWV1WGZVSXlqOG4tRFNoZjJBSjh4ZWw3UTJTbXRlOUNlTGhfaGxjX3RrZ29ndWs5cTBmOHc5OEV3?oc=5"
+      },
+      {
+       "name": "베타뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlVXlKU1VLWTJpSmJkalhrSXZyZEZNQ3ZadHZOR2VSQVhXV1RIdk1GMDExdTl3N3JQRFpsdlp0anpvczQ0NDlQdHdSVzVLX3d6Y0JMZWYwenItNi1tcFkyZWowdXA?oc=5"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdlZ5aC1kLW9PakcteW1jSlV2eTJBOERYb0J5bzMxRS1rTHJwZ294SWNFbmtneG5Tem9vT0tTUnAtWjlreFRsb2pxMHk5ZFhLUUHSAVNBVV95cUxQcFYta25NMnVaM3A5d09rQUFha0Uzejc0Z3NRcTU2VEZTUnFfaDlqd0w2UVNBaVpVVnpLbFhXTmhWYzAtdkJFZ29tZVQtYkR4b0UyZw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락이 수출 기업의 실적에 미치는 영향과 해외영업 담당자로서의 대응 방안은 무엇인가요?",
+       "hint": "원화 강세 시 채산성 악화에 대비해 단가 조정, 환헤지 상품 활용, 비가격 경쟁력 제고 방안을 언급합니다."
+      },
+      {
+       "q": "증시 급락과 환율 하락이 동조화되지 않는 현상이 발생했을 때 영업 전략을 어떻게 수정해야 할까요?",
+       "hint": "단기적인 환율 변동에 일희일비하지 않고, 바이어와의 장기 계약 조건 및 결제 통화 다변화 가능성을 검토한다고 답변합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "글로벌 해운운임 4주 연속 상승 및 지정학 리스크",
+     "summary": "지정학적 리스크의 지속으로 상하이컨테이너운임지수(SCFI) 등 글로벌 해운운임이 4주 연속 상승세를 기록했습니다. 특히 유럽과 중동 노선을 중심으로 운임 프리미엄이 발생하고 있습니다.",
+     "what": "지정학적 불안으로 인해 유럽 및 중동 노선을 중심으로 해운운임이 4주 연속 상승했습니다.",
+     "why": "중동 등 글로벌 지정학적 리스크로 인해 선박 운항 차질 및 우회 항로 이용이 늘어났기 때문입니다.",
+     "impact": "해외영업 및 물류 담당자는 치솟는 해상 운임으로 인한 물류비 부담 증가에 직면하며, 이는 최종 제품의 가격 경쟁력 저하로 이어질 수 있어 운송 계획의 최적화가 필수적입니다.",
+     "tags": [
+      "SCFI",
+      "해운운임",
+      "지정학리스크"
+     ],
+     "sources": [
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9NYzg2MEVFUTUxd283d1NzQTlkaTlKbzgtbVU2ekZ3bGc4UlZTSURyMEJ2SjVBeG5tRWZqdkJ4cExSUHNjZnZjbUhQVUxfd1lVbkxaWndtbHl3YjFGNWpJdnNrU3Q?oc=5"
+      },
+      {
+       "name": "포쓰저널",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUS1pRY29hVmF2T3h0Y0NaUVBsaFRwbWExQmx2SlU4djQ2WGZjMlVUOXZLQXlpYy1XZFBzNXE5UFhvQmhCX05wMGsyTGN4WjZDV1JtWWhmWlFESWhKT2taZFY0THg?oc=5"
+      },
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE96TTFrMmpud25rZjVpOHhZQ011WlRwS0tuelNlMlA1R0hGQUhkNkkyVGFhSUJQbWttOXhhVGt4NUl2RkxBNmtqdE5wRVp2ZWVzMEFJNFlBZDhHVXJHbXpFZEF4dm9Hc0RpVjktZDRBdG0zOXNGMGo40gF3QVVfeXFMT3pNMWsyam53bmtmNWk4eFlDTXVaVHBLS256U2UyUDVHSEZBSGQ2STJUYWFJQlBta205eGFUa3g1SXZGTEE2a2p0TnBFWnZlZXMwQUk0WUFkOEdVckdtekVkQXh2b0dzRGlWOS1kNEF0bTM5c0Ywajg?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운운임이 지속적으로 상승할 때, 수출 제조기업의 영업이익 방어를 위해 물류 부서와 어떻게 협업하겠습니까?",
+       "hint": "장기 운송 계약(SC) 활용, 대체 항로 검토, 컨테이너 적재 효율화 등을 통한 물류비 절감 협업을 제시합니다."
+      },
+      {
+       "q": "지정학적 리스크로 인한 공급망 불안정성이 바이어와의 납기 준수에 미치는 리스크를 어떻게 관리할 것인가요?",
+       "hint": "안전 재고 확보 및 조기 선적 프로세스 구축, 실시간 물류 가시성 확보 방안을 말합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "현대글로비스 3분기 해운·물류 동반 호조로 역대 최대 실적",
+     "summary": "현대글로비스가 대형선을 앞세운 중국 완성차 수출 수혜 등에 힘입어 3분기 매출 9조원을 돌파하고 영업이익 5,665억원을 기록하며 역대 최대 실적을 달성했습니다.",
+     "what": "현대글로비스가 해운 및 물류 부문의 동반 성장을 바탕으로 3분기 역대 최대 영업이익을 기록했습니다.",
+     "why": "중국 완성차 수출 물량 증가 및 대형선 운용을 통한 해운 호황의 수혜를 입었기 때문입니다.",
+     "impact": "글로벌 완성차 및 대형 화물의 해상 운송 환경을 가늠하는 지표로서, 자동차 및 부품 수출 기업들의 물류비 추이와 선복 확보 전략에 큰 시사점을 줍니다.",
+     "tags": [
+      "현대글로비스",
+      "해운물류"
+     ],
+     "sources": [
+      {
+       "name": "인사이트코리아",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kYmRGLUV0Mk9YMmtTVnNFUUlrWWZjb2tBc0tDMzFmYXd4a2pmbVVoS0pJWFZUQUZ2WlYzbXNiM0tDczF0cERhODJhOHY5YnlXY1BZS2xDRld3Y0RRMDZDYzl0YUEtc2E4VGIyUFJjWDZ1VVBUVDdv0gF3QVVfeXFMTWRiZEYtRXQyT1gya1NWc0VRSWtZZmNva0FzS0MzMWZhd3hramZtVWhLSklYVlRBRnZaVjNtc2IzS0NzMXRwRGE4MmE4djlieVdjUFlLbENGV3djRFEwNkNjOXRhQS1zYThUYjJQUmNYNnVVUFRUN28?oc=5"
+      },
+      {
+       "name": "금융신문",
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBZVnNCYnNZSWNiMko1ckhUWWZ3M2cxNHlfS3dPTnpKZ3NvaWZRcjRyY0xsMjdaeXdGQmRUTDlGb0VFN01yYjExczRyR19yN2dIZ1R2Y1AxdVprb1ZEMHpDdDMwdVJ6RGdNLWFNUmxhUHFyYUVQOHdCeERDcDA?oc=5"
+      },
+      {
+       "name": "뉴데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYmlHV19HTGtKV3RPZGlHVnEtVFZZbkNTWXdXNmVlbUQyLXVXWjU3VFVaVTlCWHVpanFwNkxmZDNSR2xYb0lmWE51NElFald1Qnlac1hUa3d0a3NZeEd4N1RGNnZ5QTBDa0tETFJZTXBWbHhMMURtMnNSMnRPY0t0V9IBgAFBVV95cUxPYmlHV19HTGtKV3RPZGlHVnEtVFZZbkNTWXdXNmVlbUQyLXVXWjU3VFVaVTlCWHVpanFwNkxmZDNSR2xYb0lmWE51NElFald1Qnlac1hUa3d0a3NZeEd4N1RGNnZ5QTBDa0tETFJZTXBWbHhMMURtMnNSMnRPY0t0Vw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "특정 물류 기업의 해운 부문 호황이 완성차 및 부품 수출 기업의 해외영업에 어떤 기회와 위협이 될 수 있습니까?",
+       "hint": "안정적인 선복 확보가 가능해진 점은 기회이나, 독점적 운임 상승 압박은 위협이 될 수 있음을 분석합니다."
+      },
+      {
+       "q": "글로벌 물류 시장의 성장이 신입 지원자가 바라보는 SCM 직무에 주는 시사점은 무엇인가요?",
+       "hint": "물류가 단순 비용 요소가 아니라 기업의 핵심 경쟁력(수익 창출원)으로 진화하고 있음을 강조합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "미국·EU의 관세 및 원산지 장벽 강화와 수출 영향",
+     "summary": "미국의 자동차 관세 부담 확대와 EU의 관세 대신 원산지 장벽을 세우는 정책 변화가 감지되는 가운데, 미국 상무부의 말레이시아 풍력 재심 관세 등 무역 장벽이 기로에 놓였습니다.",
+     "what": "미국과 EU 등 주요 선진국을 중심으로 관세 및 원산지 규정 등 비관세 장벽이 강화되고 있습니다.",
+     "why": "자국 산업 보호 및 공급망 재편을 위한 각국의 보호무역주의적 무역 정책 강화 때문입니다.",
+     "impact": "해외영업 담당자는 단순한 가격 경쟁력을 넘어 철저한 원산지 규정 충족과 현지 규제 대응 능력을 갖추어야 하며, 그렇지 않을 경우 관세 폭탄이나 통관 지연 리스크를 겪게 됩니다.",
+     "tags": [
+      "씨에스윈드",
+      "미국관세",
+      "원산지장벽"
+     ],
+     "sources": [
+      {
+       "name": "글로벌이코노믹",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnpXbHZ0R0RmbEMyeFpBaVhiYTU1UzB2cWJqQjJYS1QwQkN5T1puQV9sZ09ZeUM4T0xiRTM3TERwNWJZUXlqS1BPaE5RNllYaXR3V1NuVGlIRWlGOEFjb2pMZFhLQ2lfVC1VZ09JYVo1MUJ3dndiSzE5ZjVlaFJURGhrSVo1MTBH?oc=5"
+      },
+      {
+       "name": "엠투데이",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fLUQ3Tkx6dV9Ka0hwMGNPdXdQUUJtTkE0aUhEQmFSVnFIVGVfd0Z0clYxcU01Y2drZ3pLMWJoQk5ic2J5ejVuTG5uV01kbERRQzN1UE5PcHh5OGZyTEx3VE1DUWp3dHJ3UmRfdGVMTQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수입국의 관세 및 원산지 규정 강화에 대응하여 해외영업 실무자가 사전에 점검해야 할 핵심 요소를 설명해 보세요.",
+       "hint": "FTA 원산지 결정기준 충족 여부, 현지 세관 규정 변화 모니터링, 컴플라이언스 준수를 언급합니다."
+      },
+      {
+       "q": "반덤핑 관세나 재심 판정이 특정 기업의 수출에 미치는 타격을 최소화하기 위한 영업적 대책은 무엇인가요?",
+       "hint": "생산 거점 다변화 검토 및 법무·규제 대응 부서와의 긴밀한 공조를 통한 방어 논리 개발을 말합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "[외환시장 동향] 달러인덱스 하락 여파…오늘 서울 외환시장 원/달러 환율 1,334.3원 마감",
+     "script": [
+      "최근 '[외환시장 동향] 달러인덱스 하락 여파…오늘 서울 외환시장 원/달러 환율 1,334.3원 마감' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "한국항만물류고등학교, 제6회 모의 무역 실전대회 최우수상 수상 > 뉴스",
+     "script": [
+      "최근 '한국항만물류고등학교, 제6회 모의 무역 실전대회 최우수상 수상 > 뉴스' 소식에 관심을 갖고 있습니다.",
+      "항로·항만 상황은 선박 회전과 가용 선복에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 납기 지연 가능성을 바이어에게 미리 알리고 대체 일정을 준비해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고 (Nego, Negotiated Export Bill)",
+    "body": "수출업자가 수입업자로부터 받은 신용장(L/C)이나 선적서류를 은행에 제시하고 대금을 조기에 현금화하는(매입) 무역 금융 행위를 말합니다. 환율이 하락하거나 월말이 되면 수출기업들이 달러 매도 물량을 쏟아내면서 환율 하락 압력으로 작용하기도 합니다.",
+    "tip": "면접에서 '월말 네고 물량'이라는 표현이 나오면, 수출 기업들이 수취한 달러를 원화로 바꾸기 위해 시장에 내다 파는 행위로 이해하고 있음을 어필하면 좋습니다."
+   }
+  },
   {
    "date": "2026-10-30",
    "mode": "ai",
