@@ -1,6 +1,227 @@
 {
- "updated": "2026-10-31 06:36",
+ "updated": "2026-11-01 06:32",
  "days": [
+  {
+   "date": "2026-11-01",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "원/달러 환율 하락 압력과 외환 변동성 확대",
+     "summary": "원/달러 환율이 4개월 연속 내림세를 보이며 1,334원대로 마감하는 등 연말 1,200원대 진입 가능성까지 거론되고 있습니다. 달러인덱스 하락과 반도체 수출 호조 등이 영향을 주는 가운데 미국 선거 및 고용 지표를 앞두고 변동성이 주목받고 있습니다.",
+     "what": "원/달러 환율이 1,330원대 초반으로 하락 마감하고 1,320원대 재진입 및 연말 1,200원대 전망이 제기되는 등 하락 흐름이 나타나고 있습니다.",
+     "why": "달러인덱스 하락, 미국 기술주 조정, 이른바 '반도체 달러' 유입 및 미국 선거와 고용 지표 발표를 앞둔 대외 여건 변화 때문입니다.",
+     "impact": "수출 대금 환전 시 원화 환산 매출이 감소할 수 있어 결제 시점 분산과 환변동 위험 관리 방안 마련이 요구됩니다.",
+     "tags": [
+      "외환",
+      "반도체"
+     ],
+     "sources": [
+      {
+       "name": "마켓인",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMGZ4a1RpV01SMUFWN0F3VHU3VDBsLTNfeEtQemczQmtPMkNLMkRaX2VreGxWOFBxLXRiU2x5c0g5VUg3N2N3enZDSUxXaExlaEdaLXZyTTBySFpTVlQ0d1FMc2I4SGpZNTRvT3p0SWppOUk?oc=5"
+      },
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UZi1ZTUZTb1ctTGJhQl9aVDVFRER1NEI4QmQ1TFlxdmRwRHVQWFUteWV1WGZVSXlqOG4tRFNoZjJBSjh4ZWw3UTJTbXRlOUNlTGhfaGxjX3RrZ29ndWs5cTBmOHc5OEV3?oc=5"
+      },
+      {
+       "name": "www.dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNWlETnFPZTN4RWVfQjU4MlY2RlZ4am4tSHRpM2JWUWZlNXRfNE9JeXpncGtiQ0dJbmhZQWUxS3RNMGRsU3UyQ1NmellXUQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 1,200원대로 하락할 경우 해외영업 실적에 미치는 부정적 영향을 어떻게 방어하겠습니까?",
+       "hint": "환헤지 전략과 통화 다변화, 그리고 단기 판가 조정이나 원가 절감 노력을 제시합니다."
+      },
+      {
+       "q": "환율 변동성이 클 때 바이어와의 가격 네고는 어떤 방식으로 진행하시겠습니까?",
+       "hint": "환율 변동 범위를 계약서에 반영하는 통화조정조항(Currency Adjustment Clause) 등을 활용하겠다고 답변합니다."
+      }
+     ],
+     "unverified": [
+      "1,330",
+      "1,320"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "미국 중간선거 앞두고 통상·관세 불확실성 증대",
+     "summary": "미국 중간선거를 앞두고 대미 통상 환경에서 관세 부담과 투자 변수의 불확실성이 지속되고 있습니다. 한국 기업들은 AI 투자, 금리, 관세 변화 등 복잡해진 셈법에 맞춰 통상 전략을 고심하고 있습니다.",
+     "what": "미국 중간선거를 앞두고 관세 부과 우려 및 투자 정책 관련 통상 불확실성이 커지고 있습니다.",
+     "why": "미국 내 정치 이벤트로 인해 무역 정책 방향성과 관세 정책의 향방이 변동성을 보이고 있기 때문입니다.",
+     "impact": "대미 수출 비중이 높은 해외영업 부서는 관세 인상 가능성에 대비한 공급망 점검 및 현지화 전략 수립이 필요합니다.",
+     "tags": [
+      "통상",
+      "미국"
+     ],
+     "sources": [
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5Z3pOVzh6WkFxd3g1VWQxd0NPYXJ2ckQtdHpwbW5Rd0oxY1FycnVpTVlMUUJVT09RQnk5WDcwMDkwcW5vbnFQOFNLS3ZnT1JUOHJERw?oc=5"
+      },
+      {
+       "name": "팩트인뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IMFY2M0haUkg4WmNRUmlFQlFrVVU1WXUyLUpxaVBFTDlYZGdaMkJjeGRUTWUzb1dDQmpmMWc4a19rOGRKbFRSM0YxM0p5U004cEVKZjlrbXZocEQxellYVE1URlRBLXVlRXpiUjlJanjSAXRBVV95cUxNSGZzQUJ4WG5sRmEzYmQ4YktEejFKcWkwWF94bEcySEhxeU5tWWxlOUc3c0UwWEUtMU52Rk5IeTlyR1N0Tm45cl90QkhFakFlM3dwU2N3b3VZM0QzUFZfNzUzX2hNcjZwR2otbjloVUJGaUp6NQ?oc=5"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqaDVDZEtBdEhVellOdmc2eW1rb1UweF9yMTdXSnNseHhNcWNkMDNRUE5ROGRNc0RHcjR6YldHUFRGUVMxNW1GRTJ1a01VRE9YbEpFa05NbW5wcm1Ya2dpWtIBeEFVX3lxTFBVa2NZRDg3Qk4xV0gxbUlBZk5zbW5yYXZkajdvb2QyWkVVRjFtMHZINk9JalIyZ3MxcC02TjFpQ1Y3eTViUkV3Z2xGQm1Cbkd4Wmk4X2Nxem9Ta3lXT0hGazRfeG5udzI4X3dFTndETENQUGtzVS1LTg?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국의 관세 장벽이 강화될 조짐을 보일 때 해외영업 담당자로서 취할 수 있는 현실적 조치는 무엇인가요?",
+       "hint": "바이어와의 선제적 관세 부담 협의, 수출선 다변화, 현지 조달 및 생산 거점 검토 등을 언급합니다."
+      },
+      {
+       "q": "선거 등 주요 정치 일정으로 인한 규제 변동성을 평소 어떻게 모니터링하시겠습니까?",
+       "hint": "현지 파트너사 및 공공 통상 네트워크를 활용해 정책 리스크를 조기 파악하겠다고 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "대EU 철강 수출 회복세 속 탄소국경조정제도(CBAM) 등 규제 장벽",
+     "summary": "대EU 철강 수출의 감소폭이 줄어들며 회복 조짐이 나타나고 있으나 쿼터 축소와 규제 부담은 지속되고 있습니다. CBAM과 같은 환경·탄소 규제 및 통상 장벽으로 인해 업계의 긴장감이 유지되고 있습니다.",
+     "what": "대EU 철강 수출이 다소 개선세를 보이는 가운데 쿼터 축소와 CBAM 등 신규 규제 장벽이 강화되고 있습니다.",
+     "why": "유럽연합이 탄소 배출 저감과 역내 산업 보호를 위해 통상 및 탄소 규제를 단계적으로 강화하고 있기 때문입니다.",
+     "impact": "EU 지역 바이어 대응 시 제품의 탄소 배출 데이터 제출 및 규제 준수 요구가 커져 수출 관리 비용이 증가할 수 있습니다.",
+     "tags": [
+      "철강",
+      "EU",
+      "CBAM"
+     ],
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wUTYxcGZyVGdzOHFEaF9sNWVseFF6aG54MDE2MW5XTUFNa1VadUpha0hRTVNmUnF0czlnelBGY21KUXpvMXlVVEhhTmVWSW00ZTNEcTZwRDVnY1g0WGI2UdIBYEFVX3lxTE1wUTYxcGZyVGdzOHFEaF9sNWVseFF6aG54MDE2MW5XTUFNa1VadUpha0hRTVNmUnF0czlnelBGY21KUXpvMXlVVEhhTmVWSW00ZTNEcTZwRDVnY1g0WGI2UQ?oc=5"
+      },
+      {
+       "name": "아시아투데이",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sN0Nwa19yUkE3Vno5RTRJak5NTFN2cHRfQkNSZi1lZEZreV9UTHlZTGVFRDNfcndrTnZoaTdhaGxiajU5bEo3endlTXlJUm5OT1NHZWtmVl9oaHlKNmZmU2hlWEVIOUlsN3QtM1dB?oc=5"
+      },
+      {
+       "name": "코리아포스트 한글판",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UX1lFNzZUZWh0YnRseVRhMjR1UGJYckFmRVctLTlEaFRSUkdxeHBFemtoTC1DQkpIenhpRjNYWVpXVjk3LWZyV1pWcWk1YWlWcHpXMHZqWnE5b1ZsM3NaT0ZsdTRQRjhZQm1TQmlB?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "EU의 CBAM 등 환경 규제가 강화될 때 영업 실적을 유지하기 위해 바이어에게 무엇을 강조하겠습니까?",
+       "hint": "친환경 공정 데이터의 신뢰성과 장기적 규제 준수 역량을 바이어에게 가치로 제안하겠다고 답합니다."
+      },
+      {
+       "q": "수출 쿼터 축소 규제가 적용될 때 한정된 물량을 어떤 기준으로 배분하여 수주하시겠습니까?",
+       "hint": "수익성이 높은 고부가가치 제품 및 장기 거래처 중심의 포트폴리오 재편 기준을 제시합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "글로벌 해운 운임 4주 연속 상승과 노선별 차별화",
+     "summary": "연말 쇼핑 시즌과 중간선거를 앞두고 글로벌 해운 운임이 4주 연속 올랐으나 상승폭은 제한적인 모습을 보였습니다. 미주 노선은 내린 반면 유럽과 중동 노선은 오르고 아시아 역내 운임도 노선별로 엇갈리고 있습니다.",
+     "what": "해운 운임이 4주 연속 상승세를 기록했으나 상승폭은 둔화되었고 미주 하락, 유럽·중동 상승 등 노선별 차별화가 진행 중입니다.",
+     "why": "블랙프라이데이, 크리스마스 등 성수기 수요와 지역별 해상 수급 불균형이 복합적으로 작용했기 때문입니다.",
+     "impact": "물류팀은 노선별로 상이한 운임 흐름에 맞춰 선복 확보 타이밍을 조절하고 운송비 예산을 재점검해야 합니다.",
+     "tags": [
+      "해운",
+      "컨테이너"
+     ],
+     "sources": [
+      {
+       "name": "글로벌경제신문",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ydlFEcElRSDBDSkdQdmhaX005aGw0ZnZNalQ2V0o5VDhTcnlzUmZiV0tjSHY3ZnpYOTFBVlVocjFNNWJ1QVRvQUh0cjBHSG5PWUxVZUpOMXloN2dDOHhMME83LXFaYlUyeDRYSlhlMWHSAXBBVV95cUxOcnZRRHBJUUgwQ0pHUHZoWl9NOWhsNGZ2TWpUNldKOVQ4U3J5c1JmYldLY0h2N2Z6WDkxQVZVaHIxTTVidUFUb0FIdHIwR0huT1lMVWVKTjF5aDdnQzh4TDBPNy1xWmJVMng0WEpYZTFh?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVUxUZVVybmI4WE91YzVET3BQbDQ3a3ZpVWhJRWdsaUt1TXZsQjR3dVNpTFFwb3lPUmJhQmVGdGJkV3Rra3ZnaG1LdEZHMm1aTmlpVkhSSGdpcEV6Y3ZMWm5fQ0l4VEtaRHo3cXI0NkNRTUJ3RnhGbGRoRVpORnRnTg?oc=5"
+      },
+      {
+       "name": "해양통신",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zYlNFWHRORXdnZjVINkhqRUFVYVpBM1ZDallGaWRNbmRmdjk3QjhTM3RBc2lUWWl3cUJxalEtTUt2VjlXNWhjRjF5em1ESG5hSDhCWU1BSWxMU1B3UmNqZw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "노선별로 운임 등락이 엇갈릴 때 SCM 담당자로서 선복 예약과 물류비 관리를 어떻게 진행하겠습니까?",
+       "hint": "상승 노선은 장기 계약을 우선 고려하고 하락 노선은 스팟 운임을 유연하게 활용하는 방안을 설명합니다."
+      },
+      {
+       "q": "연말 성수기 물류 병목 현상에 대비해 포워더와 어떻게 협업하시겠습니까?",
+       "hint": "출하 일정을 사전 공유하여 스페이스를 선점하고 대체 운송 루트를 마련해 리드타임을 방어합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "EU 수입 하이브리드차 세이프가드 조사 착수와 수출 영향",
+     "summary": "EU가 수입 하이브리드차에 대한 세이프가드 조사에 착수하면서 한국 완성차 업계가 긴장하고 있습니다. 수입 규제 조치로 이어질 경우 한국산 차량의 대EU 수출 전선에 타격이 우려됩니다.",
+     "what": "유럽연합이 수입산 하이브리드 자동차를 대상으로 긴급수입제한(세이프가드) 조사에 돌입했습니다.",
+     "why": "역내 친환경차 시장 보호 및 급증하는 수입차량에 대한 대응 목적 때문으로 풀이됩니다.",
+     "impact": "자동차 및 관련 부품 수출 담당자는 세이프가드 발동 시 관세 인상에 따른 가격 경쟁력 약화와 수출 물량 축소 위험을 점검해야 합니다.",
+     "tags": [
+      "자동차",
+      "EU",
+      "하이브리드"
+     ],
+     "sources": [
+      {
+       "name": "스페셜경제",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5zTUJmV1ZRc0twNzRNRThzZko3WWpDRjc2MWpyNE45d2lxX0VkeE1yTHJWVEdxb1JQVURmVDJKbk11d3VGVVpCcDZ5X1JVbVpxanlWX2RETm1MWUh3V01abjYxM0ZEQy11Q2NrSw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "특정 국가가 세이프가드 조사를 시작할 때 해외영업팀이 즉각 취해야 할 행동은 무엇입니까?",
+       "hint": "협회 및 정부 대응단과의 정보 공유, 바이어 사전 안내, 타 지역으로의 수출 다변화 검토를 제시합니다."
+      },
+      {
+       "q": "무역 규제로 인해 단기적인 수출 제약이 예상될 때 기존 바이어와의 관계를 어떻게 유지하겠습니까?",
+       "hint": "납기 및 통관 리스크를 투명하게 공유하고 규제 영향이 적은 대체 차종이나 부품 공급 대안을 협의합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "4개월 연속 내린 환율…美 선거·고용 앞두고 시험대",
+     "script": [
+      "최근 '4개월 연속 내린 환율…美 선거·고용 앞두고 시험대' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "한국항만물류고등학교, 제6회 모의 무역 실전대회 최우수상 수상 > 뉴스",
+     "script": [
+      "최근 '한국항만물류고등학교, 제6회 모의 무역 실전대회 최우수상 수상 > 뉴스' 소식에 관심을 갖고 있습니다.",
+      "항로·항만 상황은 선박 회전과 가용 선복에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 납기 지연 가능성을 바이어에게 미리 알리고 대체 일정을 준비해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "탄소국경조정제도 (CBAM: Carbon Border Adjustment Mechanism)",
+    "body": "EU로 수입되는 철강, 알루미늄, 시멘트, 비료 등 탄소 집약적 제품에 대해 생산 과정에서 발생한 탄소 배출량에 상응하는 인증서 구매를 의무화하는 무역 규제입니다. 수입품에 일종의 탄소 관세를 부과하여 EU 역내 제품과의 공정한 경쟁 환경을 조성하고 글로벌 탄소 감축을 유도하려는 목적을 가집니다.",
+    "tip": "해외영업 및 SCM 면접에서 비관세 장벽 대응 방안 질문 시 단순 제품 경쟁력을 넘어 '공급망 탄소 배출 데이터 추적 및 인증 관리 역량'이 수주 필수 조건이 되었음을 강조하면 좋은 인상을 줄 수 있습니다."
+   }
+  },
   {
    "date": "2026-10-31",
    "mode": "ai",
