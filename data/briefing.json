@@ -1,6 +1,267 @@
 {
- "updated": "2026-11-01 06:32",
+ "updated": "2026-11-02 06:35",
  "days": [
+  {
+   "date": "2026-11-02",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "환율 하락세 및 미국 선거 앞둔 외환 변동성 리스크",
+     "summary": "원·달러 환율이 하락세를 이어가며 1,300원대 초반 혹은 연말 1,200원대 진입 가능성이 거론되는 가운데, 미국 선거와 주요 경제 지표를 앞두고 외환시장 변동성이 커지고 있습니다. 현대차 등 주요 수출기업들은 과거 환차익 효과 이후 4분기 환율 역풍 우려에 직면하고 있습니다.",
+     "what": "원·달러 환율이 연속 하락하며 1,300원대 진입 후 추가 하락 가능성이 대두되고, 미 선거 등 외부 변수로 불확실성이 확대됨.",
+     "why": "반도체 수출 호조에 따른 달러 유입과 함께 미국 선거 및 고용 지표 발표를 앞두고 글로벌 통화 정책 및 정세 변화 기대가 반영됨.",
+     "impact": "해외영업 담당자는 원화 강세 전환 시 원화 환산 매출 및 영업이익 감소 위험에 대비해 환헤지 전략을 점검하고 판가 조정 옵션을 고려해야 함.",
+     "tags": [
+      "외환시장",
+      "현대차",
+      "반도체",
+      "환율"
+     ],
+     "sources": [
+      {
+       "name": "대한경제",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XOWtmdktYZFYzX1lDdE9mcUV3SlZ3YTlJcF9BcERTSXczYXpVUGhITmhXcGhRREhzQzJrdG1EdjdkWUlGYkx2clE4WVg5TEc5aS1ZNzJNWEtTdFkxMG9qeU82UllRdzRWSDR2SE9qUFcxbzZn?oc=5"
+      },
+      {
+       "name": "마켓인",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aMGZ4a1RpV01SMUFWN0F3VHU3VDBsLTNfeEtQemczQmtPMkNLMkRaX2VreGxWOFBxLXRiU2x5c0g5VUg3N2N3enZDSUxXaExlaEdaLXZyTTBySFpTVlQ0d1FMc2I4SGpZNTRvT3p0SWppOUk?oc=5"
+      },
+      {
+       "name": "www.dt.co.kr",
+       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hNWlETnFPZTN4RWVfQjU4MlY2RlZ4am4tSHRpM2JWUWZlNXRfNE9JeXpncGtiQ0dJbmhZQWUxS3RNMGRsU3UyQ1NmellXUQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "최근 원·달러 환율이 하락세를 보일 때 해외영업 부서에서 즉각 취할 수 있는 대응 방안은 무엇인가요?",
+       "hint": "선물환 등 결제통화별 환헤지 비율 점검, 결제 통화 다변화, 단기 프로모션 마진 재산정 등을 중심으로 답변합니다."
+      },
+      {
+       "q": "환차익으로 인한 실적 개선 착시 현상을 방지하기 위해 영업 성과를 어떻게 분석해야 할까요?",
+       "hint": "환율 변동 효과를 제외한 물량 기준(Volume) 성장률 및 현지 통화 기준 단가 분석의 중요성을 언급합니다."
+      }
+     ],
+     "unverified": [
+      "1,300"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "연간 수출 1조 달러 눈앞과 대미 무역흑자에 따른 통상 압박",
+     "summary": "반도체와 일반기계 등의 호조로 연간 수출 1조 달러 달성이 가시화되고 있으나, 대미 무역흑자가 역대급 규모를 기록하며 통상 압박 우려가 커지고 있습니다. 미국 정치적 일정 및 관세 정책 변화 가능성에 한국 수출 산업계의 긴장감이 높아지고 있습니다.",
+     "what": "반도체와 기계 중심의 수출 급증으로 연 수출 1조 달러 돌파가 기대되지만 대미 무역흑자 확대로 통상 리스크 부각됨.",
+     "why": "주요 전략 품목의 대미 수출 물량이 크게 늘어난 반면 글로벌 지정학적 불확실성과 미국의 무역 규제 기조가 지속되고 있음.",
+     "impact": "해외영업 담당자는 특정 국가에 편중된 매출 구조를 탈피해 동남아·중남미 등으로 시장을 다변화하고, 원산지 규정 및 비관세 장벽 대응 능력을 갖춰야 함.",
+     "tags": [
+      "통상압박",
+      "대미수출",
+      "반도체",
+      "일반기계"
+     ],
+     "sources": [
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFUmUzUHVMeTVZaGIzdHhCNUNNRV9tX0RKWnF1NEVQUHhIOEY1RERQSVRNS2xtbmRLRUluUVRXV0N5U1NUSVc3cHZMZGZqNlRmVXZLeEJGcTLSAVhBVV95cUxQRVJlM1B1THk1WWhiM3R4QjVDTUVfbV9ESlpxdTRFUFB4SDhGNUREUElUTUtsbW5kS0VJblFUV1dDeVNTVElXN3B2TGRmajZUZlV2S3hCRnEy?oc=5"
+      },
+      {
+       "name": "포쓰저널",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CTk1rZlduNmZRMXppNDFTUnlaQmdpa0kzU0ZFX1A1V1pHQi1kUjMyLWNueFlOWGE0emZFYU12Yk8zVi10cjlDMW9UbW9pblR2SnBISW8xS0pxYy1oTHA0SzNSaw?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEb2RQNERVbFQtUURlbFZ3SmE0cEdlWVJHaTkybU5GTURTZzBzZ1RmNWxZRldTVDlHemhCYTFGUUU4U0gwX0RrTTUxa0tsdVZFak5HOUczLWXSAVhBVV95cUxQRG9kUDREVWxULVFEZWxWd0phNHBHZVlSR2k5Mm1ORk1EU2cwc2dUZjVsWUZXU1Q5R3poQmExRlFFOFNIMF9Ea001MWtLbHVWRWpORzlHMy1l?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "대미 흑자 확대로 통상 압박이 심화될 경우 특정 주력 수출 시장 의존도를 줄이기 위해 영업 전략을 어떻게 전환하시겠습니까?",
+       "hint": "신규 잠재 시장 개척, 현지 조립 및 유통 파트너십 구축, 품목 다변화 전략을 제시합니다."
+      },
+      {
+       "q": "해외 바이어와 장기 공급 계약 체결 시 수입 규제나 추가 관세 리스크를 어떻게 계약 조항에 반영할 수 있을까요?",
+       "hint": "관세 인상 시 가격 재협상 조항이나 인코텀즈 조건(DDP 지양, FOB/CIF 활용 등) 조정을 제안합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "EU 하이브리드차 규제 조사 등 주요 권역별 통상 장벽 심화",
+     "summary": "EU가 하이브리드차 수입 규제 조사에 착수하면서 한국 자동차 수출의 새로운 변수로 떠올랐습니다. 주요 권역별 환경 및 무역 규범 강화로 기존 수출 주력 상품의 통상 장벽 극복이 필수 과제로 부상했습니다.",
+     "what": "EU가 하이브리드차 대상 수입 규제 조사를 진행하며 수출 장벽 조성 조짐을 보임.",
+     "why": "역내 산업 보호 및 강화된 친환경 정책 기준을 수입차량에 엄격히 적용하려는 규제 기조가 원인임.",
+     "impact": "완성차 및 부품 영업 담당자는 권역별 규제 요건을 상시 모니터링하고 현지 인증 획득 및 규제 회피를 위한 맞춤형 제품 포트폴리오를 제안해야 함.",
+     "tags": [
+      "EU",
+      "하이브리드차",
+      "자동차수출",
+      "수입규제"
+     ],
+     "sources": [
+      {
+       "name": "에너지데일리",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40VURhbnJpa0NrNGxUb2M2SW84b0xTQVdVNW45cWFCOHMtd09rOUJPZGhjV2JoNFFBb3NYV1NObS1ydy1nTndvdEk0Zzc1S3ZQQnhSOEwxcmZPVlZiRXBROE8wMUx5VmdyRkxjTWJGb2JfUQ?oc=5"
+      },
+      {
+       "name": "서울경제",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53Y2FDNnhmYy1xTkVCNml5dUE4MHNsOS02akNOZFBNMHJsTG9oR3dDbHdUS0dkSHhkMGI4S3V4YXNYWEdTcENqVklSQm1ocGdCZHfSAVNBVV95cUxObzBmc1N4TU9KaVNtWDg5TmpBeVMwN08yVEdvRTJmMzN3Z1N0Rkl5S0Zpa3h4MkpTWGNlcnRYX2pldFhzX1B0SlNIcUxYbFNBN2FRNA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출 대상국에서 친환경 기준이나 비관세 장벽을 강화할 때 영업 현장에서는 어떻게 대처해야 할까요?",
+       "hint": "현지 규제 동향의 조기 파악, R&D/품질 부서와의 즉각적 소통, 대체 규격 제품 제안 체계를 강조합니다."
+      },
+      {
+       "q": "자동차 및 기계류 수출 시 국가별 기술 장벽(TBT)에 대응하기 위한 해외영업의 역할은 무엇이라고 보십니까?",
+       "hint": "인증 취득 일정 관리, 바이어와의 규격 협의, 규제 정보 피드백을 신속히 수행하는 코디네이터 역할을 제시합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "화장품·K-샴푸·수산가공품 등 소비재 수출 품목 다변화",
+     "summary": "화장품 및 K-샴푸가 잇달아 역대 최고 실적을 경신하고 목포 수산식품 수출단지 준공 등 K-소비재의 수출 저변이 넓어지고 있습니다. 반도체 의존도를 낮추고 소비재 수출 경쟁력을 확충하는 흐름이 강화되고 있습니다.",
+     "what": "샴푸, 기초 화장품, 김 등 K-소비재와 수산식품의 해외 수출이 호조세를 보이며 인프라가 확충됨.",
+     "why": "미국과 유럽 등 주요 시장 내 K-브랜드 인지도 상승과 현지 유통망 확장이 실적으로 직결됨.",
+     "impact": "소비재 해외영업 담당자는 온라인·오프라인 현지 리테일 채널을 적극 공략하고 국가별 소비자 규격에 맞춘 로컬라이징 전략을 전개해야 함.",
+     "tags": [
+      "화장품",
+      "샴푸",
+      "수산식품",
+      "에이피알",
+      "아모레퍼시픽"
+     ],
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTi1CbVMwTE9WUjJ2aDdPODhBSWhYbHUxSTg1WHBkWWQxX19mczFweGtNV3AydmZ6Yk54bE1HWUVCRzMxRVFDSXBOYS1IZGJvMjRseENybkh0SFZaZERsSlJUSDdkbThPVkpOSnlsdVVMVHRsUzF5dlF3LU1HalJ3cQ?oc=5"
+      },
+      {
+       "name": "토요경제",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zcXY1SkJEeDBjVnlrOFhZS0F2a3FUWl9ucFNNTkNXYmdWeEFUZ2F4U1NlV0xZd3ZPZEI1ZXRfdWJhMVhwVWZfblFNUzYxWGZMTzZZSUducUZtaHdQWVE1WNIBb0FVX3lxTFBuMThfNUhBcFJSeDdNend3QThVSXBLY0hSZExSeGU4VUU5NFptbXM1eEliQl9ybTgzN2FTUUk5UkhTSTR4czBEQVVXaGtoU3ZNcjN4d29GZ3VJTXVpSU0wa2hRdjdXTlctVVBSMVU5SQ?oc=5"
+      },
+      {
+       "name": "코리아포스트 한글판",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NOTZ1cmRJMmpwWkhIYXNEOGVUSXRibWplQzdDc1YtNXdqSnFMOTJfZElQQmVCd2w2Z1M5TEtUUHJtbTF5Qm1OazU2ajZmd3RYVmVJWXVYZ04zeWdvWXpSVkt2MDVneHZRNFZZc3JR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "K-소비재가 반짝 유행에 그치지 않고 지속적으로 수출을 확대하려면 어떤 영업 유통 전략이 필요한가요?",
+       "hint": "대형 오프라인 리테일 진입, 현지 인허가 안정화, 바이어와의 공동 프로모션 지속성을 제시합니다."
+      },
+      {
+       "q": "중소·중견 소비재 브랜드의 해외 진출 시 가장 먼저 점검해야 할 영업 실무 요소는 무엇인가요?",
+       "hint": "현지 위생허가·성분 규제 통과 여부 및 유통 마진 구조 확보 여부를 검토해야 함을 답합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "호르무즈 해협 전운과 중동 지정학적 긴장에 따른 해운 시장 불안",
+     "summary": "미국과 이란 간 갈등으로 호르무즈 해협의 전운이 고조되며 세계 해운시장이 긴장하고 있습니다. 지정학적 리스크 확산 시 항로 변경 및 해상 운임 급등, 운송 지연이 재발할 가능성이 제기됩니다.",
+     "what": "호르무즈 해협 인근 군사적 긴장 고조로 글로벌 해운 시장의 불안 심리가 가중됨.",
+     "why": "미·이란 분쟁 격화로 원유 및 컨테이너선 주요 길목의 통항 안전이 위협받고 있음.",
+     "impact": "물류 및 SCM 담당자는 우회 항로 확보, 전쟁 보험료 등 추가 운임 발생에 대비하고 원자재·제품의 리드타임 안전재고를 재조정해야 함.",
+     "tags": [
+      "호르무즈",
+      "해상운임",
+      "해운리스크",
+      "지정학"
+     ],
+     "sources": [
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJd0g0V1pUZlZISE9mOTFWWUNIemt5YXRtZ0E1UmtaVzhsclF6U2c5SlUwMjRCRVowR1l5UFRRY1djYVltU05jaGpjeVRNQTFRRGJsa0Vtcl9YTXdPUnoyVzZXMEFZOHdKOHpN?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "주요 해상 통로 봉쇄나 분쟁으로 선박 항로가 우회될 때 물류팀이 취해야 할 우선 조치는 무엇인가요?",
+       "hint": "추가 운임 산정, 대체 운송로(철도/복합운송) 탐색, 바이어 대상 사전 공지 및 납기 조정을 설명합니다."
+      },
+      {
+       "q": "지정학적 리스크로 인한 해상 보험료 및 할증료(Surcharge) 증가를 화주 입장에서 어떻게 관리하시겠습니까?",
+       "hint": "포워더와의 다각적 요율 비교, 선복 사전 계약, 인코텀즈 변경 협의 등을 답변 방향으로 잡습니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "아시아 역내 운임 반등과 주요 항만 혼잡 완화 흐름",
+     "summary": "드류리 발표에 따르면 아시아 역내 운임이 소폭 상승한 반면 주요 항만의 혼잡은 완화 추세를 보이고 있습니다. 해운사들은 호황기 이후 선대 개편 및 원가 통제를 통해 체력 시험대에 대비하고 있습니다.",
+     "what": "아시아 역내 해상 운임은 소폭 반등세를 나타내고 주요 항만의 적체 현상은 점차 풀려가는 양상임.",
+     "why": "일부 항만 혼잡이 해소되며 선박 회전율이 개선되는 한편 지역 내 화물 수요가 운임을 지지하고 있음.",
+     "impact": "SCM 담당자는 항만 혼잡 완화에 맞춰 불필요한 체선료(Demurrage) 지출을 줄이고, 역내 공급망 리드타임을 최적화해야 함.",
+     "tags": [
+      "드류리",
+      "항만혼잡",
+      "아시아역내",
+      "고려해운",
+      "대한해운"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5X2JERUxQS0FheFU0U3lyM24wTHNVOUVXaXljaE9tODBOdkYxWmFsNVVhUC1peFc0di1KazNVTEl6T2RxdW9KTjViSFBmS0l5algwaHlmTm9KZjdGNlk5TTlzQ1J4RTlzclp3RTU0M2pVa0k?oc=5"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XZTYxMmdnQmx5U1ZYZUhON0lRU0xDVjVIX2hLakZUc0RzblBIb0RQRTdfT3NUWEhOOWdpa1h0MWtUTG1OcnI3aUJqRzFQeTZNTXh0NXdabHJIMmJsb29xRFptMF9SdG0wT0E?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "항만 혼잡 완화 시기에 SCM 관점에서 체선료 및 컨테이너 체과료(Demurrage & Detention)를 줄이는 실무 팁은 무엇인가요?",
+       "hint": "Free Time 관리, 보세구역 조기 반출, 현지 포워더와의 트럭 운송 사전 연계 체계 구축을 설명합니다."
+      },
+      {
+       "q": "해운사 실적이 호황 이후 변동성에 직면할 때, 화주사로서 장기 계약(Service Contract)과 스팟 운임을 어떻게 배분하시겠습니까?",
+       "hint": "기본 물량은 장기 계약으로 선복을 안정화하고 변동 물량은 스팟 운임으로 유연성을 확보하는 믹스 전략을 제시합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "[심층기획: 북한 대중 수출 구조 분석 ①] ‘가발·텅스텐’ 특정 품목에 지나친 의존… 저부가가치의 덫에 빠질 수도",
+     "script": [
+      "최근 '[심층기획: 북한 대중 수출 구조 분석 ①] ‘가발·텅스텐’ 특정 품목에 지나친 의존… 저부가가치의 덫에 빠질 수도' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "드류리 발표, 아시아역내 운임 소폭 상승...주요 항만에서 혼잡 완화 추세",
+     "script": [
+      "최근 '드류리 발표, 아시아역내 운임 소폭 상승...주요 항만에서 혼잡 완화 추세' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "환변동보험 (Currency Risk Insurance) & 네팅 (Netting)",
+    "body": "환변동보험은 한국무역보험공사(K-SURE) 등이 운영하는 제도로, 환율 변동으로 인해 수출 기업에 발생하는 환차손을 보상하고 환차익은 환수하여 사전에 계약된 환율로 결제대금을 보장해 주는 무역 보호 장치입니다. 한편 상계(Netting)는 본·지사 간 또는 바이어와의 다수 거래에서 발생하는 채권과 채무를 개별 송금하지 않고 일정 주기마다 차액만을 결제하여 외환 거래 비용과 환노출 위험을 최소화하는 외환 관리 기법입니다.",
+    "tip": "면접에서 '환율 하락기에 영업이익을 어떻게 지킬 것인가'라는 질문을 받으면 단순한 가격 인상 외에 K-SURE 환변동보험 활용이나 글로벌 법인 간 네팅을 통한 외환 리스크 절감 방안을 언급해 실무 감각을 보여주세요."
+   }
+  },
   {
    "date": "2026-11-01",
    "mode": "ai",
