@@ -1,6 +1,235 @@
 {
- "updated": "2026-11-02 06:35",
+ "updated": "2026-11-03 11:52",
  "days": [
+  {
+   "date": "2026-11-03",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "log",
+     "title": "컨테이너 운임지수 보합 및 하락세 전환",
+     "summary": "KOBC컨테이너운임종합지수(KCCI)가 보합세를 보인 가운데, 일부 지표는 3주 만에 하락세를 기록하며 미주 및 동남아 노선 중심으로 약세를 보이고 있습니다. 공급 과잉 우려와 맞물려 해상 운임 변동성이 커지고 있습니다.",
+     "what": "컨테이너 해상 운임지수가 보합 후 하락세를 보이며 노선별로 약세를 기록 중",
+     "why": "글로벌 공급 과잉 조짐 및 미주·동남아 등 주요 노선의 수요 둔화 영향",
+     "impact": "수출 기업들의 물류비용 부담 예측이 어려워져 운임 변동성에 따른 선제적 운송 계약 및 물류비 예산 관리가 중요해졌습니다.",
+     "tags": [
+      "KOBC",
+      "컨테이너운임지수",
+      "해운"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNy1yeGxRQlNUVzlXY2FyczU1cFhpcjM4YUlSN0FBaEVtQUpMZDI0SVNXVk9IYlVYMUJMUUlyX3gzZzhsWkNPcWhQN0JqR1RobUYySnVDQWJydTFfQUpPSmdrYjd0NXd1T1pzRGNkcy14Y00?oc=5"
+      },
+      {
+       "name": "카고뉴스",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04WjBhT1RWWTNEWWZjQ3dHWVRMWGJUZm04cG9HZXlOT1VqazBMV1ZiLUNfd3ZsaVhIWDBBcl96YTVYQzRlVHZoTnl3aGY5cEVZWGtjcExUSGcxYVFEVlVtZnlWaXFJUk82T0EzNQ?oc=5"
+      },
+      {
+       "name": "한국해운신문",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBvcnNNeXIxTlA3bTZvNGp5MDlvdms0a19uaGpHSHRLSEV0TTRtUHdVRXFxSVlPN0JycjV1Y3RmcmVpLWFoRUdkaWh3U18xbnlacThfazZGOTdETmZkd19CQmptZ2tMbzBjNjEyZTFDejhNNW8?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 하락세로 돌아설 때 해외영업 담당로서 취해야 할 대응은 무엇인가요?",
+       "hint": "장기 운송 계약(SC)과 단기 스팟(Spot) 계약의 비중 조절 및 물류비 절감분을 마케팅이나 판가 전략에 활용하는 방안 언급"
+      },
+      {
+       "q": "컨테이너 공급 과잉이 예상될 때 선사와 화주 간의 협상력은 어떻게 달라지나요?",
+       "hint": "화주(수출기업)의 협상력이 상대적으로 높아져 운임 인하 요구가 유리해짐을 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1340원대 등락 및 환リスク 관리",
+     "summary": "원·달러 환율이 1340원대에서 등락을 거듭하며 환율 변동성 대응이 수출 기업의 주요 과제로 떠올랐습니다. 전문가들은 원화 강세가 숨고르기에 들어갔다고 분석하며 향후 환율 추이에 촉각을곤두세우고 있습니다.",
+     "what": "원·달러 환율이 1340원대에서 등락하며 환율 변동성이 지속됨",
+     "why": "글로벌 위험회피 심리와 외환시장 수급 상황 등이 복합적으로 작용",
+     "impact": "환차익이나 환손실에 따라 기업의 영업이익이 크게 좌우되므로, 해외영업 시 정확한 환율 예측과 결제 통화 다변화 전략이 필수적입니다.",
+     "tags": [
+      "원달러환율",
+      "현대차",
+      "환위험"
+     ],
+     "sources": [
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMEVUWDFnb3NqMG1Mc1BzR1ZhZnlLa2NWRmdweWw5ek9uQUc5cWYwbTd4TkpoRHhnVXdHa1pLb1hvaDNHS3lOQ0drM0hLTnl6UjFwUw?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qQnlKRGY5Mm1IOXU2Wlk3ZTJLYzRmZ09waVdlMENiSWVjZjBGeWtTM3kxU05uYXBOS1g0MG9lSTFZZjNPSi1aaWh2TWEzeFl6VFRzaFF1Q3LSAVhBVV95cUxOakJ5SkRmOTJtSDl1NlpZN2UyS2M0ZmdPcGlXZTBDYkllY2YwRnlrUzN5MVNObmFwTktYNDBvZUkxWWYzT0otWmlodk1hM3hZelRUc2hRdUNy?oc=5"
+      },
+      {
+       "name": "대한경제",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XOWtmdktYZFYzX1lDdE9mcUV3SlZ3YTlJcF9BcERTSXczYXpVUGhITmhXcGhRREhzQzJrdG1EdjdkWUlGYkx2clE4WVg5TEc5aS1ZNzJNWEtTdFkxMG9qeU82UllRdzRWSDR2SE9qUFcxbzZn?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 변동성이 클 때 해외영업 담당자가 영업 이익을 방어하기 위해 활용할 수 있는 실무적 방법은 무엇인가요?",
+       "hint": "환헤지(Hedge) 상품 활용, 네고(Nego) 시점 조절, 혹은 결제 통화 다변화 등을 제시"
+      },
+      {
+       "q": "환율 상승이 수출 기업의 가격 경쟁력에 미치는 긍정적, 부정적 영향을 각각 설명해 보세요.",
+       "hint": "달러 환산 매출 증가 효과(긍정)와 원자재 수입 비용 증가 및 환차손 리스크(부정)를 균형 있게 답변"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "코트라 통상정보 활용한 관세 환급 및 수출 지원 성과",
+     "summary": "코트라의 '세계이슈톡톡' 등 통상정보 서비스를 활용해 중소·중견 수출 기업들이 미 관세 환급과 규제 대응에서 실제 성과를 거두고 있습니다. 모바일 기반의 신속한 정보 제공이 현장 수출 지원에 실질적인 도움이 되고 있습니다.",
+     "what": "코트라의 통상정보 및 모바일 알림 서비스를 통해 수출 기업들이 관세 환급 등 규제 대응에 성공함",
+     "why": "복잡한 해외 관세 및 무역 규제에 대해 신속하고 정확한 정보가 제공되었기 때문",
+     "impact": "해외영업 및 무역 실무자는 최신 통상 규제 정보를 실시간으로 파악하여 관세 비용을 절감하고 리스크를 예방할 수 있습니다.",
+     "tags": [
+      "KOTRA",
+      "관세환급",
+      "수출바우처"
+     ],
+     "sources": [
+      {
+       "name": "재외동포신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SeTMweG12Y25Jc19kVXphemxiVUpYcFFRVnJpNWppNEtlVnlsblVTTzhuMWxwdTQxUUVLeGdEc0thVl9samJQaV9DYmZMbGl6WkFlZGxkaDJBT3h0bnQ2akNxR2QxMHRwSjdScA?oc=5"
+      },
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qVDZvMy1EUGdXN2czZ2VaZ3FjTmQ5OVlSbjlGT205ZGwyalFBNkVqVHRxbndVbVJVbEI1Y2NrYzdSU1R4WnZDWTlOXzYwUFNXU0tQVDVlUFZQd3JxTW9qXw?oc=5"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MZTdCSnpJR3l2RlFBTl9xclZmcENpVUVqTmZVR05waFRMb0pETlVqLU5peDFVOERnOXFqTHJkZnBjX3NTY2NxYmp2VURaUk5FaVQ5cA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해외 영업 시 바이어의 국가별 관세 및 통상 규제 변화에 대응하기 위해 어떤 채널을 활용해야 할까요?",
+       "hint": "KOTRA나 무역협회 등 공신력 있는 기관의 통상 정보 서비스 적극 활용 강조"
+      },
+      {
+       "q": "관세 환급 제도를 수출 영업 전략에 어떻게 녹여낼 수 있을까요?",
+       "hint": "환급을 통해 절감한 비용을 바탕으로 바이어에게 가격 경쟁력 있는 견적을 제시하는 방안 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "물류업계, 수출바우처 운영방식 개선 및 일반정산 전환 목소리",
+     "summary": "물류업계와 중소벤처기업부는 수출바우처의 사후정산 방식을 일반정산 중심으로 개선해야 한다는 현장의 목소리를 수렴하고 있습니다. 수출 물류 기업들의 재정적 부담을 완화하기 위한 제도적 보완이 논의되고 있습니다.",
+     "what": "수출바우처 운영방식을 사후정산에서 일반정산 중심으로 개선해야 한다는 요구가 커짐",
+     "why": "기존 사후정산 방식이 중소 수출·물류 기업들에게 단기 유동성 부담을 주기 때문",
+     "impact": "물류비 정산 방식이 개선될 경우, 중소 수출입 기업들의 현금흐름이 개선되어 안정적인 SCM 운영이 가능해집니다.",
+     "tags": [
+      "수출바우처",
+      "중기부",
+      "물류업계"
+     ],
+     "sources": [
+      {
+       "name": "기호일보",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE42cUlkU1dDYUtCaHdLNzJ1ZlBOWUc0Nm1kNGhOenJYY2FFc0dNX0p2bDhMNENWOTdCNFUxdzNIaVlwZnF1VU8weG9pMklCWkxaZWI2RjNXOEhYVXAwWVJ3Z0YwZjdQVUU1d2otNk5vRQ?oc=5"
+      },
+      {
+       "name": "인천일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE14RjB1OExORDROUGR0UGUwaGpXV3hIdFRVV3ZNUHIwT3BkYUxXNk9PSUZwZXUzaWVRMGZsbUlnbmlleXhMY3VqRTVjTUNnMk9DTlJ0Tld4WThnbVhweUpTTEJrMVp3WjIxSmtjRnFXTlY?oc=5"
+      },
+      {
+       "name": "경기일보",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ueDBpd1preU45Z195ZVRxdU5rU3lBV1FieUpkVkQtd1owSWNyaXZDcmkxVEZMdnY4V2o4V2hpWG4tTGoxa2xEQl9hUmVCTUFJblowdzhER1JYc0k?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출바우처 등 정부 지원 사업의 정산 방식 변화가 중소기업의 SCM에 미치는 영향은 무엇인가요?",
+       "hint": "단기 유동성 확보와 물류 실행력 강화에 미치는 긍정적 영향 설명"
+      },
+      {
+       "q": "물류비 정산 과정에서 발생할 수 있는 현금흐름 문제를 해결하기 위해 영업 및 물류 담당자가 취해야 할 조치는?",
+       "hint": "정부 지원 사업의 정밀한 사전 검토 및 재무 부서와의 긴밀한 협업 강조"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-푸드 및 특수강 등 주력 품목 수출 회복세",
+     "summary": "특수강봉강 수출이 8월 저점을 딛고 북미향 중심으로 급증하고 있으며, K-라면 등 K-푸드 역시 일본 등 글로벌 시장에서 가파른 성장세를 보이고 있습니다. FTA 관세 보호막 등의 요인도 수출 확대를 뒷받침하고 있습니다.",
+     "what": "특수강 및 K-푸드 등 주요 품목의 수출 물량이 북미 및 일본 등지에서 증가함",
+     "why": "현지 수요 회복 및 FTA 체결에 따른 관세 혜택 등이 복합적으로 작용",
+     "impact": "해외영업 담당자는 특정 시장의 수요 반등 포인트를 포착하고, FTA 원산지 증명 등 제도를 활용한 마케팅을 강화해야 합니다.",
+     "tags": [
+      "K푸드",
+      "특수강봉강",
+      "한미FTA"
+     ],
+     "sources": [
+      {
+       "name": "스틸데일리",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZS0EyOW9pQzM0OERwZ2hab0Y1NnhDdDZHeDBlMjZaeGVQc01qZUtfZFhBcDVhSDJ4d05JMEx3R1JTTUdkVDlvSTdXcThnWUl6ekNWN2hLX2tzTGFWcVZyam5qV0p3NHFyZ3N2Sm5mbUlWYVpE0gF0QVVfeXFMT1lLQTI5b2lDMzQ4RHBnaFpvRjU2eEN0Nkd4MGUyNlp4ZVBzTWplS19kWEFwNWFIMnh3TkkwTHdHUlNNR2RUOW9JN1dxOGdZSXp6Q1Y3aEtfa3NMYVZxVnJqbmpXSnc0cXJnc3ZKbmZtSVZhWkQ?oc=5"
+      },
+      {
+       "name": "대한경제",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMVE95MEZwaVplUVJOZFlibktfakJQOU9vQmJLVTRGeUdUZkhhYU1IUWtSVlUxWGRDODVZbDIwc2RDb0ZMVkk3ZVVrUDRzZGF0MXRySFUwdXFVOFRjVjc1VjVFbXBwaVFJeE96UnY1bHNHRVl5?oc=5"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXhhRERrRFdORUpDelhwUlhsOWI2cDVkUVJDdnh0TnBrOFFKekVWcmN0cVoxdlRQU3RGWUMyNEhNejBwbEtObjk4NDZfeDlxZjY0SzRSY2x0Qms1dzQtTmgyOFhQbmFrcURVNnJuRjFrZ3lENHo3NlRJOTkyM0cxTlRvT24xZ9IBmgFBVV95cUxPNDNxbTAyOFlPX3NQb3JxREVzTm94UkpHT0lqbkhkSFFmdlJRSnlTd3d6S2xueEUtd1BzY09TcVZlNHN4Y3UwMDBoVUFNaFd6M0k3NUxQdGF1cHZJNGdtQ3A1Zi1zZlh1WWxwXzBmQm5veHFpTXYxaTRCWnZIbzQ4dUl4VTZMSzItcElyaVN2bG9ZeXI2TGgyY2tn?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "특정 국가로의 수출이 급증할 때, 현지 바이어와의 커뮤니케이션에서 가장 중점적으로 봐야 할 점은 무엇인가요?",
+       "hint": "현지 수급 상황 변화 파악 및 안정적인 리드타임(Lead Time) 관리 능력 강조"
+      },
+      {
+       "q": "FTA 관세 혜택을 활용하여 경쟁사 대비 가격 경쟁력을 확보한 경험이나 방안이 있나요?",
+       "hint": "원산지 결정기준 충족 및 원산지증명서(C/O) 발급 실무 지식 어필"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "물류업계, 수출바우처 운영방식 개선 필요…일반정산 중심으로 전환을",
+     "script": [
+      "최근 '물류업계, 수출바우처 운영방식 개선 필요…일반정산 중심으로 전환을' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "2일 KOBC컨테이너운임종합지수(KCCI), 4667달러로 전주대비 1달러(0.02%) 상승",
+     "script": [
+      "최근 '2일 KOBC컨테이너운임종합지수(KCCI), 4667달러로 전주대비 1달러(0.02%) 상승' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "사후정산 vs 일반정산 (수출바우처)",
+    "body": "사후정산은 기업이 먼저 비용을 지출한 뒤 사후에 증빙을 거쳐 보조금을 받는 방식이며, 일반정산은 바우처 발급 기관 등을 통해 절차가 진행되거나 유동성 부담을 줄여주는 방식으로 운영됩니다. 물류·수출 분야에서는 중소기업의 현금흐름(Cash Flow)에 큰 영향을 미치는 핵심 제도적 요소입니다.",
+    "tip": "면접에서 중소·중견 수출 기업의 애로사항을 물을 때, 사후정산 제도로 인한 '단기 유동성 압박'을 언급하면 실무적인 이해도를 높게 평가받을 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-02",
    "mode": "ai",
