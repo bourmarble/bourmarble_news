@@ -1,6 +1,194 @@
 {
- "updated": "2026-11-03 11:52",
+ "updated": "2026-11-04 10:11",
  "days": [
+  {
+   "date": "2026-11-04",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국·유럽 무역 규제와 환율 변동 속 K-수출 명암",
+     "summary": "EU 쿼터제와 미국 차량안보법 등 주요국의 무역 규제가 강화되는 가운데, 원·달러 환율이 1340원대에서 등락하며 지역 수출 기업들이 환율 역풍과 관세 장벽에 고통받고 있다. 반면 K-베이비뷰티와 특수강봉강 등 일부 품목은 북미와 유럽 시장에서 수출 증가세를 보이고 있다.",
+     "what": "주요 수출국인 미국과 EU의 규제(쿼터제, 차량안보법 등)가 강화되고 환율 변동성이 커지면서 수출 환경이 악화됨.",
+     "why": "보호무역주의 확산과 글로벌 정치 이벤트(미국 중간선거 등)로 인한 환율 불안정 때문.",
+     "impact": "해외영업 담당자는 단순 제품 판매를 넘어 현지 통상 규제 모니터링 및 관세 리스크 대응 역량이 필수적임.",
+     "tags": [
+      "KOTRA",
+      "유럽연합(EU)",
+      "미국"
+     ],
+     "sources": [
+      {
+       "name": "부산일보",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NlZBVG5JZlJhQTB5dTdiNG9SUEJaYld3bS1tWUdycUhQb2k3Q1pJWXpaVk13SUxGa0NtbWRyaG9GZDlVTmgtOFFxZnNQdzM2elZKSlpZYjEzVDkxVFBLMVhjdG1ReHNYcjVzamhYbWdyeWZ0?oc=5"
+      },
+      {
+       "name": "경상일보",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRDY3eG5YT0tYVGtGNmZ4ZmVhcE5zTUJkUlJxdVhhbm5FR0FnMndmWUxIaVVGNjhPaElobWFJZWJ5Sy1KVm5tTXY1U0FaUFFZVGFUM1BrS3NaNzFUUS1JWGpCMTlpd3pJdTRVag?oc=5"
+      },
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOMEVUWDFnb3NqMG1Mc1BzR1ZhZnlLa2NWRmdweWw5ek9uQUc5cWYwbTd4TkpoRHhnVXdHa1pLb1hvaDNHS3lOQ0drM0hLTnl6UjFwUw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 1340원대에서 등락할 때 해외영업 실적에 미치는 영향과 대응 방안은 무엇인가?",
+       "hint": "환차익/환차손 관리, 가격 경쟁력 변동 대비 헤지 전략 언급"
+      },
+      {
+       "q": "EU 쿼터제나 미국 차량안보법 같은 수입 규제에 직면했을 때 영업 담당자로서 취해야 할 조치는?",
+       "hint": "현지 법률 자문 활용, 쿼터 배정 물량 최적화, 우회 수출로나 규제 미적용 품목 다변화"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "컨테이너 운임 상승 및 글로벌 선사들의 공급 과잉 우려",
+     "summary": "상해 컨테이너 운임지수(SCFI)와 KCCI 등 주요 해운 운임이 소폭 상승세를 보이고 있으나, 초대형 컨테이너선 발주가 이어지면서 향후 공급 과잉과 치킨게임 우려가 커지고 있다. 물동량은 안정적 성장이 전망되나 선사 간 경쟁과 운임 변동성 대비가 요구된다.",
+     "what": "단기적인 운임 상승세에도 불구하고 대형 선사들의 지속적인 선박 발주로 공급 과잉 및 운임 폭락 가능성이 제기됨.",
+     "why": "글로벌 선사들의 선대 확장 경쟁과 치킨게임 양상 때문.",
+     "impact": "물류 및 SCM 담당자는 해상 운임 변동에 따른 운송 비용을 예측하고 선사 계약 전략을 유연하게 가져가야 함.",
+     "tags": [
+      "MSC",
+      "한국해운협회"
+     ],
+     "sources": [
+      {
+       "name": "현대해양",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wbmZybXd1SF9NSXFQbFlxTmkxNjlHeV9tcm55X1ZTbEVXc1RMN01jVDZCTHZIRElKTUNHTVZzVS1iSWpRT05hQkVkVWVtdlo1ZGl3ZVVLSDQ1WmN0QTBrYWE5UGZjanc?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5WjhEVGM4ZFlUVXdhQ0FVbDl4b0w5bThXSTZXYXpHRFloeWhSQkVmZEdfcnMybU1GajZiVTJvSU95RXZycHNzYklha2NoS1pqbENTYTdpd2dsQ0hOSE9rQ2JlRU0xTVVYX3o3RkE2OVRpQ0E?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmNy1yeGxRQlNUVzlXY2FyczU1cFhpcjM4YUlSN0FBaEVtQUpMZDI0SVNXVk9IYlVYMUJMUUlyX3gzZzhsWkNPcWhQN0JqR1RobUYySnVDQWJydTFfQUpPSmdrYjd0NXd1T1pzRGNkcy14Y00?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 일시적으로 상승하더라도 장기적으로 공급 과잉이 우려되는 상황에서 물류비 절감 방안은?",
+       "hint": "장기 운송 계약(SC) 체결, 복합 운송 활용, 선사 포트폴리오 다변화"
+      },
+      {
+       "q": "선사들의 치킨게임으로 운임 변동성이 클 때 SCM 담당자가 리스크를 관리하는 방법은?",
+       "hint": "안전재고 확보, 운임 예측 모델 활용, 물류 가시성(Visibility) 강화"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "코트라 통상정보와 FTA를 활용한 수출 지원 및 관세 환급 성과",
+     "summary": "KOTRA의 '세계이슈톡톡' 등 통상정보 서비스가 미국 관세 환급 등 수출 현장에서 실질적인 성과를 내고 있다. 또한 한미 FTA 등 자유무역협정이 트럼프 관세 등 보호무역 속에서 K푸드 등 국내 기업의 든든한 관세 보호막 역할을 하고 있다.",
+     "what": "정부와 유관기관의 통상 정보 제공 및 FTA 제도가 수출 기업의 관세 절감과 리스크 방어에 기여함.",
+     "why": "해외 각국의 복잡한 관세 및 통관 규제 속에서 중소·중견기업의 자체 대응력이 부족하기 때문.",
+     "impact": "해외영업 신입사원은 FTA 원산지 증명과 코트라 등의 지원 사업을 적극 활용해 가격 경쟁력을 확보해야 함.",
+     "tags": [
+      "KOTRA",
+      "전력거래소"
+     ],
+     "sources": [
+      {
+       "name": "재외동포신문",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5SeTMweG12Y25Jc19kVXphemxiVUpYcFFRVnJpNWppNEtlVnlsblVTTzhuMWxwdTQxUUVLeGdEc0thVl9samJQaV9DYmZMbGl6WkFlZGxkaDJBT3h0bnQ2akNxR2QxMHRwSjdScA?oc=5"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXhhRERrRFdORUpDelhwUlhsOWI2cDVkUVJDdnh0TnBrOFFKekVWcmN0cVoxdlRQU3RGWUMyNEhNejBwbEtObjk4NDZfeDlxZjY0SzRSY2x0Qms1dzQtTmgyOFhQbmFrcURVNnJuRjFrZ3lENHo3NlRJOTkyM0cxTlRvT24xZ9IBmgFBVV95cUxPNDNxbTAyOFlPX3NQb3JxREVzTm94UkpHT0lqbkhkSFFmdlJRSnlTd3d6S2xueEUtd1BzY09TcVZlNHN4Y3UwMDBoVUFNaFd6M0k3NUxQdGF1cHZJNGdtQ3A1Zi1zZlh1WWxwXzBmQm5veHFpTXYxaTRCWnZIbzQ4dUl4VTZMSzItcElyaVN2bG9ZeXI2TGgyY2tn?oc=5"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MZTdCSnpJR3l2RlFBTl9xclZmcENpVUVqTmZVR05waFRMb0pETlVqLU5peDFVOERnOXFqTHJkZnBjX3NTY2NxYmp2VURaUk5FaVQ5cA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수출 계약 시 FTA 관세 혜택을 극대화하기 위해 영업 사원이 알아야 할 핵심 포인트는 무엇인가?",
+       "hint": "원산지 결정기준 충족 여부 확인 및 원산지증명서(C/O) 발급 절차 숙지"
+      },
+      {
+       "q": "정부나 KOTRA의 수출 지원 제도를 실무 영업에 어떻게 연계할 수 있는가?",
+       "hint": "수출바우처 활용, 해외 전시회 지원, 실시간 통상 정보 구독을 통한 바이어 제안서 작성"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "친환경 규제와 선박 가치 판도 변화에 따른 해운·조선 시황",
+     "summary": "2027년부터 친환경 규제와 운항 경쟁력이 선박 가치를 좌우하는 판도 변화가 예상되며, 선대 증가에도 유효 선복이 부족할 수 있다는 전망이 나왔다. 선사들의 수익은 계약 조건과 탱커·LNG선 등 선종 포트폴리오에 따라 갈리고 있다.",
+     "what": "친환경 중심의 해운 시황 재편과 선종별 계약 조건에 따른 해운사 희비 엇갈림.",
+     "why": "국제 해사 규제 강화와 친환경 선박 수요 급증 때문.",
+     "impact": "물류·SCM 직무 지원자는 친환경 물류 트렌드와 선사들의 선대 운영 전략을 파악하여 장기 운송 파트너를 선정해야 함.",
+     "tags": [
+      "팬오션",
+      "한국해양진흥공사"
+     ],
+     "sources": [
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNckkyUXBDc0Q0MnZ6cHZtbzdYN2xuMGFodEtKTGZHdTZoOGRabXJYVE9YS0hRajI2SHZhTFZUWG54aFBiV01UNWdiOGxkY25LVklfZ3kxM1MxRzFUMG1HQlJ1a0J5WmVYbF9z0gFvQVVfeXFMUFl6d2Rxclh1OHNvMm1KQUliNHFoVHVXRDdtWkVqLWk3OW9zdGpDb2FISnVxTXdkdU5vVGREdGRrSzFQY1VCRkZLTjVwVnBTT3AtRnNDNGIzZVRJQjRyX19CTmJNU1F2VzctMFdNRjhz?oc=5"
+      },
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ud1BMSDdCbHoxWVpibmlHLUkxWlpLWHhJSzBGM0tDS1AzR2pvZVB2V3ZlYy10ZUNRT2RYMTI4QnJxQmw4WWZqelFVU0FTbEtVQlpzY1djWVNUR1h2cWFpZEpLRVk0ZUlBZ1hn?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Uc3lfTmVNczR3enRrRS1hRk5jbFZlN2FUS2tMaC1DaUE1RzJDckVFbDM0cmFlREFaYjZVWl9fMVdkVGt2QmNkVUd6WW5NMFpNWDZPSG45YTFoY2lvTDFhQTRIallDT3lubHNsazM4ZEE1eVk?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "친환경 규제가 강화되는 해운 시황에서 물류 파트너(선사)를 선정할 때 중요하게 봐야 할 요소는?",
+       "hint": "선사의 친환경 선박(LNG, 메탄올 추진 등) 확보 비율과 탄소 배출 저감 능력"
+      },
+      {
+       "q": "선종별 계약 조건에 따라 해운사 수익이 갈리는 이유와 화주 입장에서의 대응 전략은?",
+       "hint": "스팟(Spot) 계약과 장기(Long-term) 계약의 비율 조정을 통한 리스크 헷지"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "환율 상승과 보호무역주의 리스크 대응",
+     "script": [
+      "최근 원·달러 환율이 1340원대에서 등락하고 주요국들의 수입 규제가 강화되면서 수출 기업들이 환율 역풍과 무역 장벽에 직면해 있습니다.",
+      "이는 글로벌 보호무역주의 확산과 지정학적 리스크로 인한 외환시장 불안정에서 비롯된 것입니다.",
+      "해외영업 담당자로서 저는 환율 변동에 따른 가격 경쟁력 약화를 방어하기 위해 바이어와의 결제 통화 다변화 및 환변동보험 활용 방안을 선제적으로 검토하겠습니다.",
+      "나아가 현지 통상 규제를 모니터링하여 관세 리스크를 최소화하고 회사의 이익 방어에 기여하는 영업 인재가 되겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "해상 운임 변동성 대응과 물류비 절감 SCM 전략",
+     "script": [
+      "현재 해운 시장은 단기 운임의 소폭 상승과 함께 향후 공급 과잉 우려가 공존하며 변동성이 큰 상황입니다.",
+      "이는 글로벌 선사들의 지속적인 선박 발주와 치킨게임 양상, 그리고 국제 정세 변화에 기인합니다.",
+      "물류·SCM 담당자 지원자로서 저는 해상 운임 변동에 대응하기 위해 스팟 운임과 장기 운송 계약의 최적 비중을 도출하겠습니다.",
+      "또한 물류 가시성을 높여 공급망 병목 현상을 예방하고, 효율적인 재고 관리를 통해 회사의 물류 비용 절감에 기여하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "FTA 원산지증명서 (Certificate of Origin)",
+    "body": "FTA(자유무역협정) 체결국 간의 교역에서 해당 물품이 협정에서 정한 기준에 따라 특정 국가에서 생산·제조되었음을 증명하는 서류입니다. 이를 통해 수입국에서 관세 감면이나 무관세 혜택을 받을 수 있어 수출 기업의 가격 경쟁력을 높이는 핵심 수단입니다.",
+    "tip": "해외영업 직무 면접에서 '관세 장벽을 넘는 법'이나 '바이어에게 가격 메리트를 주는 방법'으로 원산지 관리의 중요성을 언급하면 실무 이해도가 높다는 평가를 받을 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-03",
    "mode": "ai",
