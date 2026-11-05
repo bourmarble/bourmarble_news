@@ -1,6 +1,206 @@
 {
- "updated": "2026-11-04 10:11",
+ "updated": "2026-11-05 10:27",
  "days": [
+  {
+   "date": "2026-11-05",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "중국 공세에 반토막 난 한국 전기차 수출 경쟁력",
+     "summary": "중국 전기차의 거센 공세로 한국의 전기차 수출 경쟁력이 2년 새 반토막 났으며, 2030년에는 수출액이 2조 원 이상 감소할 것이라는 우려가 제기되었습니다. 이에 따라 정부의 정책적 지원과 대응 전략 마련이 시급한 상황입니다.",
+     "what": "한국의 전기차 수출 점유율이 하락하고 중국에 추월당하며 2030년까지 약 2.2조 원 규모의 수출 잠식 우려가 발생함.",
+     "why": "글로벌 전기차 시장이 급성장하는 동안 중국 경쟁사가 가격 경쟁력과 물량 공세로 시장 점유율을 빠르게 확대했기 때문.",
+     "impact": "해외영업 직무 관점에서는 가격 및 품질 경쟁력 약화로 인한 바이어 이탈 우려가 커지므로, 고부가가치 차종 집중이나 신흥시장 개척 등 돌파구 마련이 필수적입니다.",
+     "tags": [
+      "전기차",
+      "중국",
+      "현대차",
+      "한경협"
+     ],
+     "sources": [
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Q1JNX3dZV3ZUajNKODQ5UmFwRVJGSE1mdDNGZmsyWEZnVjN2OFI5TTZnaDVXSkpDUFB6UnVsb2xpSTRVZDVRYVlkV01TZWNaSWhqRXhldE50azdfRmtGMjYwMktqaXVQbTZtb1pLZXJBaDBnLV93S3I4SGR6Tjg?oc=5"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hN1BQMElZamV4VEhUMUphOHdYRlA4bHJPMTdwR3o4RXE3T1dDYlR1OFR2S01PYy1UbWdrdHRBSE90YUt4TEYtQmc5R1RFVEc1cDB3TFQ5cFJvTEZXa1BWTFdiVjBFbHFBM3pMbDg1TGJHd9IBckFVX3lxTE9hN1BQMElZamV4VEhUMUphOHdYRlA4bHJPMTdwR3o4RXE3T1dDYlR1OFR2S01PYy1UbWdrdHRBSE90YUt4TEYtQmc5R1RFVEc1cDB3TFQ5cFJvTEZXa1BWTFdiVjBFbHFBM3pMbDg1TGJHdw?oc=5"
+      },
+      {
+       "name": "중앙일보",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53b25Vc2NyWGRDeTM5WE81TWt3M25Cd3pQcjY4VjVud25qZ0FjNXN3RWI4Um5FX0x4dGhVMnhiWlVtVFVCVXc0dEFtci1VcW1mdF9EVXpR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "중국 전기차의 공세로 수출 경쟁력이 약화되는 상황에서 해외영업 담당자로서 취할 수 있는 대응 방안은 무엇인가요?",
+       "hint": "가격 경쟁 대신 품질, 브랜드 차별화 및 틈새시장(글로벌 사우스 등) 공략을 언급합니다."
+      },
+      {
+       "q": "전기차 수출 감소 우려에 대응하기 위해 신입 사원으로서 기여할 수 있는 직무 역량은 무엇인가요?",
+       "hint": "철저한 현지 시장 동향 분석과 바이어 소통 능력을 강조합니다."
+      }
+     ],
+     "unverified": [
+      "2030",
+      "2.2"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "미국 대선 이후에도 유지되는 관세 기조와 철강 상계관세 확정",
+     "summary": "미국 의회 권력 변화에도 불구하고 보호무역 관세 기조가 유지될 것으로 전망되는 가운데, 현대제철과 동국제강에 대한 후판 상계관세가 각각 확정되었습니다. 대미 수출 기업들은 강화된 통상 압박에 대응해야 하는 과제를 안게 되었습니다.",
+     "what": "미국의 관세 기조 유지 전망 및 한국산 철강 제품(후판)에 대한 상계관세 부과 확정.",
+     "why": "미국의 자국 산업 보호 및 통상 압박 기조가 정권이나 의회 구성 변화와 무관하게 지속되고 있기 때문.",
+     "impact": "미국향 수출 비중이 높은 철강 및 제조업 해외영업 담당자는 관세 비용 증가에 따른 가격 경쟁력 저하를 방어하기 위한 바이어 협상 전략이 중요해졌습니다.",
+     "tags": [
+      "현대제철",
+      "동국제강",
+      "미국 상무부",
+      "KOTRA"
+     ],
+     "sources": [
+      {
+       "name": "한국신용신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8wanhaQjR0dkhuTmJGVl9SRXQ5WGREQ2NBREtlaWIwNHVMWUd4cy05TDFTSl9hMHU4dEh1X3FlZXhGcmMxQ0ZmWnQwa3h1N2FXSnE1V2FuX2psVkFNQ1h6VFVuLWktbWRLcDFN?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YanpwY3BtempuNXlRSmNmZml6Qk9yekFfY0doOVdQdkpBTFlWR1BFaHg2anUxYUJQV0tZNjVlTXVZYTlxaHVQUFZzZV95al9yazJnOEx6QVfSAVhBVV95cUxOWGp6cGNwbXpqbjV5UUpjZmZpekJPcnpBX2NHaDlXUHZKQUxZVkdQRWh4Nmp1MWFCUFdLWTY1ZU11WWE5cWh1UFBWc2VfeWpfcmsyZzhMekFX?oc=5"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iR0JweXkyZTVlV0k0czQ4T09aT19FdkgzVnZ1VU9oRXdyQkpqaTRSYXFiUlNWU3ZKdTFoMXJtRlRtN0VDVWMzaDc5dlloYURERmZzcHdVSGpPOWtNcURuQXZqdjYxQXhDN3c?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국의 관세 인상 및 상계관세 부과 같은 통상 리스크에 해외영업 직무에서 어떻게 대처해야 합니까?",
+       "hint": "현지 규제 모니터링 강화와 가격 협상력 제고 방안을 설명합니다."
+      },
+      {
+       "q": "보호무역주의 강화 국면에서 수출 다변화의 중요성을 설명해 보세요.",
+       "hint": "미국 편중 리스크를 줄이기 위해 글로벌 사우스 등 신흥시장 개척의 필요성을 답변합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "선사들의 특수 호황 속 북미 서안 운임 수입 두드러져",
+     "summary": "전쟁과 관세 등 글로벌 이슈 속에서 주요 선사들이 화종 불문하고 특수 호황을 누리고 있는 가운데, 북미 서안 항로의 거리당 운임 수입이 희망봉 경유 노선 등에 비해 압도적으로 높은 것으로 나타났습니다. 해운업계는 호황 속에서도 공급망 변동성에 노심초사하고 있습니다.",
+     "what": "북미 서안 항로를 중심으로 높은 거리당 운임 수입이 기록되었으며, 주요 선사들은 시황 호조를 보이고 있음.",
+     "why": "글로벌 물류 병목 현상과 특정 항로의 수요 집중, 지정학적 리스크에 따른 운송 경로 우회가 복합적으로 작용했기 때문.",
+     "impact": "물류 및 SCM 담당자는 항로별 운임 변동 추이를 면밀히 모니터링하여 최적의 해상 운송 루트를 선정하고 물류비를 절감해야 합니다.",
+     "tags": [
+      "해운업",
+      "MSC",
+      "팬오션",
+      "HMM"
+     ],
+     "sources": [
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90ZldBUFV3MHNVUzBDR3JFcUZrY0pTa0hpUUNBWkpleVdOOWotVWxJY1JYZDFsQVdyVWk0UDRiY3ZSVHc4TjF0ZFJGZzRBYUV0MDBYa1E2RnJ3RlU3SmxIVVQxaDZpcmdZUVdhY2d2VdIBb0FVX3lxTE90ZldBUFV3MHNVUzBDR3JFcUZrY0pTa0hpUUNBWkpleVdOOWotVWxJY1JYZDFsQVdyVWk0UDRiY3ZSVHc4TjF0ZFJGZzRBYUV0MDBYa1E2RnJ3RlU3SmxIVVQxaDZpcmdZUVdhY2d2VQ?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xLVAtMTJWOHdmZmw5NWF6SFRWTGdKSVVzQzN5aEtFNlZfV1g4dnBUZF9xVWZHYlZjWGt1NDVqdE1wV05za1RmOWhWYlZJYUltX1N0STlLTGVXQTQxcElSejJCZjEzcEJQSjhUeEhITEZPckk?oc=5"
+      },
+      {
+       "name": "현대해양",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wbmZybXd1SF9NSXFQbFlxTmkxNjlHeV9tcm55X1ZTbEVXc1RMN01jVDZCTHZIRElKTUNHTVZzVS1iSWpRT05hQkVkVWVtdlo1ZGl3ZVVLSDQ1WmN0QTBrYWE5UGZjanc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "운임 변동성이 큰 상황에서 SCM/물류 담당자로서 해상 운송 비용을 관리하는 전략은 무엇인가요?",
+       "hint": "장기 계약(SC 계약) 활용과 얼라이언스 선사와의 파트너십 구축을 언급합니다."
+      },
+      {
+       "q": "지정학적 리스크로 인한 운송 경로 변경이 수출입 일정에 미치는 영향과 대책을 설명해 보세요.",
+       "hint": "리드타임 증가에 대비한 안전재고(Safety Stock) 확보와 대체 항로 검토를 답변합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율 변동성과 EU·미국 규제로 비상 걸린 지역 수출 기업",
+     "summary": "수출 1조 달러 시대라는 거울 속에서 지역 중소·중견 수출 기업들은 1340원대 등락을 거듭하는 환율 역풍과 EU 쿼터제, 미국 차량안보법 등 강화된 규제로 고통받고 있습니다. 특히 울산 등 자동차 및 뷰티 업계는 대외 변수에 민감하게 반응하고 있습니다.",
+     "what": "환율 등락 및 선진국의 환경·안보 규제(EU 쿼터, 미국 차량안보법)로 인해 지역 수출 기업들의 경영 불확실성 증대.",
+     "why": "글로벌 경제 환경 변화와 보호무역주의 성향의 현지 법안 도입이 맞물렸기 때문.",
+     "impact": "해외영업 및 무역 실무자는 환헤지 전략을 이해하고, 바이어와 계약 시 규제 준수(Compliance) 요건을 철저히 검토해야 합니다.",
+     "tags": [
+      "울산시",
+      "현대글로비스",
+      "에이피알",
+      "LG생활건강"
+     ],
+     "sources": [
+      {
+       "name": "부산일보",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4NlZBVG5JZlJhQTB5dTdiNG9SUEJaYld3bS1tWUdycUhQb2k3Q1pJWXpaVk13SUxGa0NtbWRyaG9GZDlVTmgtOFFxZnNQdzM2elZKSlpZYjEzVDkxVFBLMVhjdG1ReHNYcjVzamhYbWdyeWZ0?oc=5"
+      },
+      {
+       "name": "경상일보",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPRDY3eG5YT0tYVGtGNmZ4ZmVhcE5zTUJkUlJxdVhhbm5FR0FnMndmWUxIaVVGNjhPaElobWFJZWJ5Sy1KVm5tTXY1U0FaUFFZVGFUM1BrS3NaNzFUUS1JWGpCMTlpd3pJdTRVag?oc=5"
+      },
+      {
+       "name": "Chosunbiz",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTUFMZVlkYlFFTWVFTlZLS3huYmtWYy1vOWJXTm9GZWhvOEpIdS1XUDN6ZUYzVHNDVWtVRFJsNkp5V0NKYkxMWWdUTWlEWHA2OE1Od0tpTGlaNnZ6SHdVMk91aGdEWjg5THJCUnQzS0I2Rk9XdHpXNmlfa3ZmZlVTa2N0V2lmNDF0MVBRV2dEdzhRdXPSAacBQVVfeXFMT3JIVWd6bFNoZVZUeWZKR2FSLWVseWVfMjZlWTkxeWVDd0VXZ2FqWnh6TVdRVmxpcWFRQnZpdzZpTzFfUWRhNzQxdXRZbUFJdGRxcUwxdHZwS2tXY3dmZU9Oc1lGS01HTXdNanFDRzBhWDZRa05mSnZVQUlQNUl0aWxrbkpxM2EzTUNkYUJ2d19QYmNmMWk4cldxMnI3SmVyOTE0RVV6REE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 변동성이 클 때 해외영업 계약 체결 시 환리스크를 줄이기 위한 방안은 무엇인가요?",
+       "hint": "환헤지(선물환 거래 등) 활용 및 결제 통화 다변화를 제시합니다."
+      },
+      {
+       "q": "해외 시장의 환경 및 안전 규제 강화(예: EU 쿼터, 차량안보법)에 대응하는 영업 전략을 말해 주세요.",
+       "hint": "현지 인증 취득 현황을 파악하고 컴플라이언스 전담 부서와 긴밀히 협력하는 태도를 강조합니다."
+      }
+     ],
+     "unverified": [
+      "1340"
+     ]
+    }
+   ],
+   "interview": [
+    {
+     "topic": "해외영업: 보호무역주의 및 환율 변동성 대응 방안",
+     "script": [
+      "최근 뉴스를 보면 미국의 관세 기조 유지와 1340원대의 환율 변동성, 그리고 각국의 수입 규제가 수출 기업들에게 큰 부담으로 작용하고 있습니다.",
+      "이는 정권 교체나 글로벌 공급망 재편 속에서 보호무역주의가 심화되고 환산 손익이 불안정해졌기 때문입니다.",
+      "따라서 해외영업 신입 사원으로서 저는 단순히 제품을 파는 것을 넘어, 환헤지 정책에 대한 이해를 바탕으로 가격 경쟁력을 방어하고 현지 규제(Compliance) 변화를 바이어와 신속하게 공유하겠습니다.",
+      "입사 후에도 거시경제 지표와 무역 통상을 꾸준히 모니터링하여 리스크를 최소화하는 영업 전문가로 성장하고 싶습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "물류: 해상 운임 변동과 지정학적 리스크 대응 SCM 전략",
+     "script": [
+      "기사에서 볼 수 있듯이 지정학적 갈등과 공급망 불안정 속에서 해운 운임의 변동성이 커지고 선사들의 운송 수입 구조도 요동치고 있습니다.",
+      "이는 글로벌 물류 병목 현상과 우회 노선 이용 등에 따른 추가 비용 발생이 주요 원인입니다.",
+      "물류 담당자로서 저는 항로별 운임 추이와 리드타임을 정확히 분석하여 최적의 운송 루트를 제안하고, 물류비 절감에 기여하겠습니다.",
+      "급변하는 글로벌 물류 환경 속에서 안정적인 재고 관리와 선사와의 유기적인 소통으로 공급망 안정성을 지키는 인재가 되겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "상계관세 (Countervailing Duties)",
+    "body": "수출국이 장려금이나 보조금을 지급하여 육성한 제품이 수입국의 산업에 피해를 줄 때, 수입국이 그 보조금만큼의 금액을 부과하여 공정한 경쟁을 유도하기 위해 매기는 관세입니다. 미국의 현대제철 후판 상계관세 부과 사례처럼 보호무역주의 기조에서 주요 무역 제도로 활용됩니다.",
+    "tip": "해외영업 직무 면접에서 '통상 리스크 대응' 관련 질문을 받았을 때, 단순 관세 인상뿐만 아니라 보조금 이슈로 인한 상계관세(CVD) 개념을 언급하면 전문성을 어필할 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-04",
    "mode": "ai",
