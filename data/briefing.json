@@ -1,6 +1,196 @@
 {
- "updated": "2026-11-05 10:27",
+ "updated": "2026-11-06 10:29",
  "days": [
+  {
+   "date": "2026-11-06",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국 민주당의 의회 장악에도 관세 기조 지속 전망",
+     "summary": "미국 의회 선거에서 민주당이 상·하원을 장악했음에도 불구하고, 한국 수출기업에 대한 고관세 및 투자 압박 기조는 유지될 것이라는 분석이 나오고 있습니다. 이에 따라 대미 수출 기업들의 셈법이 복잡해지고 있습니다.",
+     "what": "미국 정치 지형 변화(민주당 의회 장악)에도 불구하고 보호무역 및 관세 정책이 유지될 전망",
+     "why": "초당적 보호무역 기조와 자국 산업 보호 우선 정책 때문",
+     "impact": "해외영업 담당자는 미국 향 수출 시 관세 리스크를 반영한 가격 전략 및 현지 투자 압박 대응 전략을 수립해야 합니다.",
+     "tags": [
+      "KOTRA",
+      "무역협회"
+     ],
+     "sources": [
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YanpwY3BtempuNXlRSmNmZml6Qk9yekFfY0doOVdQdkpBTFlWR1BFaHg2anUxYUJQV0tZNjVlTXVZYTlxaHVQUFZzZV95al9yazJnOEx6QVfSAVhBVV95cUxOWGp6cGNwbXpqbjV5UUpjZmZpekJPcnpBX2NHaDlXUHZKQUxZVkdQRWh4Nmp1MWFCUFdLWTY1ZU11WWE5cWh1UFBWc2VfeWpfcmsyZzhMekFX?oc=5"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iR0JweXkyZTVlV0k0czQ4T09aT19FdkgzVnZ1VU9oRXdyQkpqaTRSYXFiUlNWU3ZKdTFoMXJtRlRtN0VDVWMzaDc5dlloYURERmZzcHdVSGpPOWtNcURuQXZqdjYxQXhDN3c?oc=5"
+      },
+      {
+       "name": "스마트비즈",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1FbGw5T2c1UV9ZeUtsejNtR2dMaVI1VmFkQndveUdFeW84dUJ0VG9IVG5GOXZ6YV80Y2psS2tjQTV2OUZVUDdDek9adW1WYlFJYlQ4VDhVa0RlZ0lxREtGQ3ZGODZpNTRnQ05XLQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국 의회의 정치적 변화에도 관세가 유지될 때, 해외영업 사로서 취할 수 있는 대응 방안은 무엇인가?",
+       "hint": "바이어와의 가격 협상력 제고, 현지 생산/투자를 통한 관세 회피 방안 등을 언급"
+      },
+      {
+       "q": "미국의 관세 압박 속에서 기회를 찾을 수 있는 국내 산업은 무엇이 있는가?",
+       "hint": "기사에서 언급된 조선, 반도체 등 초당적 협력이 기대되는 산업 중심 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "주요 선사 실적 호조 및 북미 서안 운임 강세 지속",
+     "summary": "전쟁과 관세 등 글로벌 이슈 속에서 주요 글로벌 선사들이 호실적을 기록하고 있으며, 북미 서안 노선은 거리당 운임 수입이 두드러지는 등 물류 시황 호조가 이어지고 있습니다. 머스크 등 주요 물류 기업들은 가이던스를 상향 조정했습니다.",
+     "what": "글로벌 선사들의 3분기 호실적 및 북미 서안 중심의 운임 수입 강세",
+     "why": "공급망 불안 요인(전쟁, 관세 등)과 물동량 증가에 따른 해상 운임 상승",
+     "impact": "수출입 물류를 담당하는 실무자는 급등하는 해상 운임에 대응하여 선사와의 장기 계약 및 운송 비용 최적화 전략을 세워야 합니다.",
+     "tags": [
+      "머스크",
+      "ONE",
+      "K-Line"
+     ],
+     "sources": [
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE90ZldBUFV3MHNVUzBDR3JFcUZrY0pTa0hpUUNBWkpleVdOOWotVWxJY1JYZDFsQVdyVWk0UDRiY3ZSVHc4TjF0ZFJGZzRBYUV0MDBYa1E2RnJ3RlU3SmxIVVQxaDZpcmdZUVdhY2d2VdIBb0FVX3lxTE90ZldBUFV3MHNVUzBDR3JFcUZrY0pTa0hpUUNBWkpleVdOOWotVWxJY1JYZDFsQVdyVWk0UDRiY3ZSVHc4TjF0ZFJGZzRBYUV0MDBYa1E2RnJ3RlU3SmxIVVQxaDZpcmdZUVdhY2d2VQ?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xLVAtMTJWOHdmZmw5NWF6SFRWTGdKSVVzQzN5aEtFNlZfV1g4dnBUZF9xVWZHYlZjWGt1NDVqdE1wV05za1RmOWhWYlZJYUltX1N0STlLTGVXQTQxcElSejJCZjEzcEJQSjhUeEhITEZPckk?oc=5"
+      },
+      {
+       "name": "IndexBox",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWZvVGFuMzV6bEdPVWZiVHdXX0xxYzBfdHVRT3hRRFZBTlBLd0lZWC1tMWl4QWNmQnRIdEgwTzhRNnJnQlhWWDdmMjVFb1I0V3I5eWFERC04MXZxQkZfdFBRMm4wdmMxYXNDSU1zZEp0bko2VGExM2F2NERheGpMa1lEbElGNnRUYkxSMW56b0FPdw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 강세를 보이는 상황에서 물류 비용을 절감하기 위한 실무적 대책은 무엇인가?",
+       "hint": "장기 운송 계약(SC) 체결, 대체 항로 검토, 컨테이너 적재 효율화 언급"
+      },
+      {
+       "q": "선사들의 호실적과 운임 상승이 화주(수출기업)의 해외영업 마진에 미치는 영향은?",
+       "hint": "물류비 증가로 인한 영업이익 압박과 FOB/CIF 조건별 판가 전가 전략 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티·중동 중심 K-수출 영토 확장과 전기차 경쟁 우려",
+     "summary": "부산 화장품 등 K-뷰티 제품의 수출이 가파른 성장을 보이고 오만 등 중동 지역으로의 수출도 증가하는 반면, 국내 전기차 수출 경쟁력은 중국에 추월당하며 우려가 커지고 있습니다.",
+     "what": "K-뷰티 및 중동 향 비석유 제품 수출의 성장과 전기차 수출 경쟁력 약화 대조",
+     "why": "글로벌 한류 및 중동 경제 다변화 수요 확대 vs 중국 전기차의 거센 공세",
+     "impact": "해외영업 신입은 품목별 시장 트렌드를 정확히 파악하여 유망 시장을 발굴하고, 경쟁 심화 품목은 차별화된 영업 소 소구점을 찾아야 합니다.",
+     "tags": [
+      "K-뷰티"
+     ],
+     "sources": [
+      {
+       "name": "데일리한국",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nUkVhTlh0NHh2RTFEdjhYcnR1eWxCaHlaYmdBWVNrVktobk4xSjdSUkx6VUNUOUQ4SzNodzNBcTZDaFVPcGs3anZ6M1BwTzBpTFBGZnNvRVp4UnhFcVEwM1FLaGRkQzRCMGVHRzJYWdIBc0FVX3lxTE5DdFBydURnN0V6MEFHbkNpN2ZzZTlDNVN5aEJ3UU9KNlpSb2huZDFMcFZjR0R1TG9kMVFIVUNqRG9hNk1qbWpoaXR2UlJydkJhM1VMS24zMUpMd2paV05leHZlYXJHdXZLQmhMY1lSbjR3Ujg?oc=5"
+      },
+      {
+       "name": "조선일보",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Q1JNX3dZV3ZUajNKODQ5UmFwRVJGSE1mdDNGZmsyWEZnVjN2OFI5TTZnaDVXSkpDUFB6UnVsb2xpSTRVZDVRYVlkV01TZWNaSWhqRXhldE50azdfRmtGMjYwMktqaXVQbTZtb1pLZXJBaDBnLV93S3I4SGR6Tjg?oc=5"
+      },
+      {
+       "name": "동아일보",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xOE9xOWhLNDFjSEZyRl9LODg3WFBHT1VaeEhPUFM1UWI1dUFlNGppQnBrUE9UanFEUVBOazJXbUJXTU95VFpIR1VBSmpvOWNVR3dJTE05RWVfb2JZb3pFU1ZuTWp1TS1aSGlDd0tpVWQ4Qk9vSEHSAWZBVV95cUxQdWdKeEthRHVmMDRBRDNmYzc5b0R2QTVLZ0R2MFFEbUZOeUh1MmxpOGlmMkttUXlfSy1XNXZobmg3UDJfLTdZVTNTc2ZrdDNDbkhCeXI0c2dJN1lfWl9oRVhzU3IwMXc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "경쟁이 치열해진 전기차 수출 시장에서 한국 기업이 취해야 할 해외영업 전략은 무엇인가?",
+       "hint": "품질 차별화, 신흥국 틈새시장 공략, 현지 파트너십 강화"
+      },
+      {
+       "q": "K-뷰티나 소비재의 급성장세를 지속하기 위해 영업 실무자가 해야 할 일은?",
+       "hint": "현지 유통망 다변화, 마케팅 협업, 바이어와의 밀착 소통"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "철강 후판 상계관세 부과 및 환율 변동성 확대",
+     "summary": "미 상무부가 현대제철과 동국제강의 후판에 대해 상계관세를 확정했으며, 원·달러 환율은 1300원대 중반에서 등락을 거듭하며 수출 기업들의 비용 관리에 변수로 작용하고 있습니다.",
+     "what": "미국의 철강 상계관세 부과 확정 및 환율 변동성 심화",
+     "why": "보호무역주의 강화 및 글로벌 외환시장 불확실성",
+     "impact": "해외영업 및 SCM 담당자는 관세 비용과 환율 변동에 따른 수출 마진 변동성을 모니터링하고 리스크 헤지 전략을 마련해야 합니다.",
+     "tags": [
+      "현대제철",
+      "동국제강",
+      "세아제강"
+     ],
+     "sources": [
+      {
+       "name": "조세일보",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Rd09rRmR1WmMySjVXWExVQllzNTZ4NFZvRmpnWV8zU2FqNEJ2OTFkMUxFMzUwMW5MR3lDT3ZpcVFvMWN6SzVmdE1lY241R2UxTDROel9Mb1VVUjFLX1hF?oc=5"
+      },
+      {
+       "name": "버핏연구소",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5SVEFkT3NKRXdzY3hkQ1hPZWgyNGhfd3NSTElFQjNvSUc1b2wtaWUydVBsUHJlLTkteC1zMEo0NmxrVjVyMnZMN1d2R1FJRzFUYnVFdjVTUEFla3NMNWR5X2VB?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdGZlYVRtRTA3QnpuS2JuQlpudy0wMnNyZ1dtOE80S3VSNUtEWkVFbEhnNHpLaVlTM3FHT01vWGRSYzlaQmNBRU5yNWpqR3l5S3dYT3U1VGdBaTdMQlMyczBRSFl1dllOTEdCNjJwa2E5N0Y3b1BMQWVUdk9OV1FvUQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 변동성이 클 때 해외영업 계약 체결 시 어떤 점을 주의해야 하는가?",
+       "hint": "환헤지 상품 활용, 결제 통화 다변화, 환율 변동 조항(Price Adjustment) 검토"
+      },
+      {
+       "q": "수입국의 상계관세 부과 조치에 대응하는 기업의 영업적 대책은?",
+       "hint": "덤핑 마진 방어를 위한 소명 자료 준비 및 원가 구조 최적화"
+      }
+     ],
+     "unverified": [
+      "1300"
+     ]
+    }
+   ],
+   "interview": [
+    {
+     "topic": "K-뷰티 훈풍 탄 부산 화장품···수출·브랜드 동반 성장",
+     "script": [
+      "최근 'K-뷰티 훈풍 탄 부산 화장품···수출·브랜드 동반 성장' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "3Q 주요 선사, 화종 불문...‘전쟁·관세’ 특수 함박웃음",
+     "script": [
+      "최근 '3Q 주요 선사, 화종 불문...‘전쟁·관세’ 특수 함박웃음' 소식에 관심을 갖고 있습니다.",
+      "관세·통상 정책은 수출 가격경쟁력과 시장 선택에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 HS Code와 FTA 적용 여부를 확인하고 바이어와 비용 분담을 협의해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "상계관세 (Countervailing Duties, CVD)",
+    "body": "수입국이 수출국의 정부로부터 장려금이나 보조금을 지원받아 가격 경쟁력이 높아진 상품이 자국 시장에 수입되어 국내 산업에 피해를 줄 때, 이를 상쇄하기 위해 부과하는 부가 관세입니다.",
+    "tip": "미국 등 주요 선진국이 한국 철강 및 제조 대기업에 종종 부과하는 무역 규제이므로, 해외영업 직무 지원 시 수입국의 통상 압박 이슈로 자주 등장한다는 점을 기억하세요."
+   }
+  },
   {
    "date": "2026-11-05",
    "mode": "ai",
