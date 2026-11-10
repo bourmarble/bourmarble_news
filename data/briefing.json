@@ -1,6 +1,234 @@
 {
- "updated": "2026-11-09 09:42",
+ "updated": "2026-11-10 12:26",
  "days": [
+  {
+   "date": "2026-11-10",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "3분기 역대급 수출 호황 이면의 대기업 쏠림",
+     "summary": "올해 3분기 수출액이 크게 늘었으나, 반도체 호황에 힘입어 상위 10개 기업의 무역 집중도가 60%를 돌파하며 역대 최고 수준을 기록했다. 수출 증가분의 대부분을 대기업이 차지하면서 무역 쏠림 현상이 심화됐다.",
+     "what": "3분기 수출이 전년 동기 대비 크게 증가했으나 상위 10대 기업에 수출 비중이 60.9%로 집중됨.",
+     "why": "반도체 품목의 수출 독주와 대기업 중심의 실적 개선이 맞물렸기 때문.",
+     "impact": "해외영업 신입 지원자는 특정 품목이나 대기업 중심의 구조 속에서 중소·중견기업의 수출 다변화 전략 및 시장 개척의 중요성을 이해해야 함.",
+     "tags": [
+      "반도체",
+      "수출",
+      "무역집중도"
+     ],
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90Q1NXeDJnY0tYcDNXX19yRFNQRHRXZTQ5Z0t2ZWJwSFpRRlpWZWh1TFBYTy0xVHY2UUNPTEc4RFFLRE9IbVVfb3FMX1ZaVUtGQXhKNUZCdEZUMUxf?oc=5"
+      },
+      {
+       "name": "한국세정신문",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1STC1UX1dlUDJCRFhQU1VjdjI3ejIycS14YS0zUVFBaUVmbnlzVkhMWDFJaVBVU2ZPa0VVaTh0QWp0Q00zOVltSTBNZDMzVlZxMVRpVHkyS0dGMTV2WmN6Ynh3dEw?oc=5"
+      },
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LaFRkX2NoaUlvYlZEb1lsUFVMbmE3U1diRVAzRVAxUFhZR05KcktFLVhrYVNLVENVXzZ5NXlONjNrMGpJaHUyZzRzS29teDRMVW56Tk5CZWxUUFU3WXJXMtIBeEFVX3lxTE9yWTVMbm9kd2JVOFRsdzBralR6OWVUSmVoU255OGNqVXBPUHgtQldRR05xVE02VTRZamMzdGRCemxXbXQxUjBMc0tDRzFSSlZtTFV1Z1djT1gzS3pzUjVoVEZJN0xOMHpHYjlfc2lURFJLR18yYzR5VA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "상위 대기업에 수출이 집중되는 상황에서 신입사원으로서 중소기업의 해외영업 경쟁력을 어떻게 높일 수 있겠습니까?",
+       "hint": "틈새시장 발굴, 제품 차별화, 바이어 밀착 관리 등 다변화 전략 제시"
+      },
+      {
+       "q": "반도체 등 특정 품목 호황이 전체 수출 지표를 견인하는 구조의 리스크는 무엇인가요?",
+       "hint": "품목 하락 시 국가 경제 및 기업 실적 전반에 미치는 타격 완화 방안 고민"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "미국 정치 지형 변화와 지속되는 통상 압박",
+     "summary": "미국 의회 변화 등 정치적 변수에도 불구하고 한국 기업을 향한 통상 압박은 계속될 전망이다. 이에 따라 관세, 투자, 입법 등 3대 변수에 대한 정밀한 대응이 요구되고 있다.",
+     "what": "미국 의회 변동과 상관없이 관세, 투자, 입법 측면의 통상 압박이 지속됨.",
+     "why": "미국의 보호무역주의 기조가 정권이나 의회 구성과 무렵없이 이어지고 있기 때문.",
+     "impact": "대미 수출 중심의 해외영업 담당자는 관세 비용 증가 및 현지 투자 요구에 선제적으로 대응해야 함.",
+     "tags": [
+      "대한상공회의소",
+      "미국",
+      "통상압박",
+      "관세"
+     ],
+     "sources": [
+      {
+       "name": "아시아투데이",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01VEt0WkRWYnBTT0d0dzJ0Z2t5WFAwMlpfM2JuOVN0NzJGMXdYQUNpTlpTaUxuQVd6cm5RVk1VeWR1bUFRRldnUXNsaEx3QVJWZFZiUXhzNktpZ1poV1JWOU40U3JMOEhKZGJHOUJ3?oc=5"
+      },
+      {
+       "name": "이코노미스트",
+       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pNHllQlRnQnVxRHdTZUtCSkV5SVhsby1rMWt3X1o0d1did3N0Vms3YmRENk4za09GQTZnOW9WbTdVMTdWdnV3azVkMVZ3V3BjeHBxaFpkQVJNem9LbTZwLWZ3?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FY2xhcXZoNTI0cnk0dkJCdnNKcm9qcXNra29KQkdkY29Bc2ZHNVpYQ3BPdlNqaWpxcG9HMFE2TFZTME5GMjE4d05tU0h4Q09pbnVGNzNTaFNEcHZZenY5eHY5M1U?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국의 관세 및 투자 압박이 거세질 때 해외영업 실무자로서 취할 수 있는 대응 방안은 무엇인가요?",
+       "hint": "현지 공급망 재검토, 원산지 규정 준수, 대관 업무 및 리스크 관리 강조"
+      },
+      {
+       "q": "통상 환경 변화가 바이어와의 가격 협상에 미치는 영향은 무엇입니까?",
+       "hint": "관세 인상분에 따른 비용 전가 및 수익성 방어 전략 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "해운 운임 변동성과 HMM 실적 변동성 우려",
+     "summary": "컨테이너운임종합지수(KCCI)가 소폭 상승했으나, 해운 호황은 빌린 시간에 불과하며 컨테이너선 하방 압력이 최고조에 달해 HMM 등 해운사의 실적 변동성이 높다는 분석이 나왔다.",
+     "what": "KCCI가 소폭 올랐으나 컨테이너선 시장에 하방 압력이 커지며 해운 실적 불확실성이 지속됨.",
+     "why": "공급 안정화 및 시황 변동에 따라 해운 운임의 지속 가능성에 의문이 제기되기 때문.",
+     "impact": "수출입 물류를 담당하는 해외영업 및 물류 부서는 해운 운임 변동에 따른 운송 비용 관리 전략을 수립해야 함.",
+     "tags": [
+      "HMM",
+      "KOBC",
+      "컨테이너운임지수",
+      "해운"
+     ],
+     "sources": [
+      {
+       "name": "넘버스",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZ2d1U1ZkOGZmSjNDODBjcFRjWndqbXJOU3dJZUxtemRKYUtlSm5jc09hTnd5OHY0aWtYWjNEc1RtUndkRkw2bzZyMFphR250SkEtQkhfU012eU9EMVZFSktvYXdScUtSd200?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUC04QkRjT1FvVG1jOXQ5V3RoUDFOQnhiOWc3RDNoNlRhTXlfUUZreWh0U0pEN1VEZ2lBMHhkNUp6VWlMdDZPWGdGVkc2RHE2Z0VfM0RFcVJONS11Y3BtTXNBSDN3eExvWlNKUmpQVVZGWEU?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운 운임의 변동성이 높을 때 수출 기업의 물류비 절감 방안은 무엇이 있습니까?",
+       "hint": "장기 운송 계약(SC) 활용, 대체 항로 검토 등"
+      },
+      {
+       "q": "운임 하락과 상승 국면에서 물류 담당자가 바이어와 조율해야 할 부분은 무엇인가요?",
+       "hint": "운임 변동에 따른 부대비용 및 납기 준수 협의"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "인천항-상하이항 스마트·친환경 물류 협력 강화",
+     "summary": "인천항만공사가 중국 상하이에서 제7회 인천항 상하이 포럼을 개최하고 한·중 간 스마트 및 친환경 물류 협력을 확대하기로 했다.",
+     "what": "인천항만공사가 상하이 포럼을 열어 항만 간 스마트·친환경 물류 협력을 강화함.",
+     "why": "글로벌 물류 환경 변화에 대응하고 한·중 물류 효율성을 높이기 위함.",
+     "impact": "중국과의 교역을 담당하는 물류 및 영업 담당자는 친환경 물류 트렌드와 항만 협력에 따른 통관·물류 효율성을 활용할 수 있음.",
+     "tags": [
+      "인천항만공사",
+      "상하이항",
+      "스마트물류",
+      "친환경"
+     ],
+     "sources": [
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE94Mm5WeTVxZXVuSGJSRkRnd1pfdEpXUTdTOXExazZHdzl4VkwxQVZhMzY5ZVcxZUZiVFFvQU0zSnBUSlk0UUhlSUZnRnJfTmw2OGlyazFuNnR2Y1dkbE1yZFNKdDBIcjlaaG1V?oc=5"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPM3p3UlpCWkV1OVgteXFNOU1hVVdGNkQ2M3ZnbWJVeEl4eDZCQzRleExSWml1NldTYmxHV0piR1owR3JQLVBpSjFsRldwcnZPaTZuaVQ2R1hYVUFRR0xHU9IBYEFVX3lxTFBPM3p3UlpCWkV1OVgteXFNOU1hVVdGNkQ2M3ZnbWJVeEl4eDZCQzRleExSWml1NldTYmxHV0piR1owR3JQLVBpSjFsRldwcnZPaTZuaVQ2R1hYVUFRR0xHUw?oc=5"
+      },
+      {
+       "name": "기호일보",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1WXzlQZjFpMUlVSFFuU29EYTJVS1R6UEpJSG01NnZzOGtZb0lza194cGNnUTdMMWg3WG1BeEp3MlZPZENIMEJqMk40b2Q0Sm1xZTQ4Njc3NnFfWlQ2Yzllb0FpSjM5NDkzYzZmWmplQQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "항만 간 스마트·친환경 물류 협력이 강화되는 것이 실제 수출입 실무에 어떤 이점을 주나요?",
+       "hint": "하역 시간 단축, 탄소 배출 규제 대응 등"
+      },
+      {
+       "q": "중국 항만과의 협력 사업에서 물류 신입사원이 주목해야 할 트렌드는 무엇입니까?",
+       "hint": "디지털 물류 시스템과 친환경 공급망 관리"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "수출업체 달러 매도 물량과 환율 변동성",
+     "summary": "1,500원대를 넘나들던 환율이 1,300원대로 내려앉은 가운데, 국내 수출업체들이 쏟아낸 대규모 달러 매도 물량이 환율 하락에 영향을 미쳤다.",
+     "what": "수출업체들의 달러 매도 물량 출회 등으로 환율이 1,300원대로 하락함.",
+     "why": "수출 호황으로 벌어들인 대금이 외환시장에 공급되었기 때문.",
+     "impact": "환율 하락은 원화 강세를 유발해 수출 기업의 가격 경쟁력에 타격을 줄 수 있으므로 환헤지 전략이 중요해짐.",
+     "tags": [
+      "환율",
+      "외환시장",
+      "수출업체"
+     ],
+     "sources": [
+      {
+       "name": "CBC뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFdDFJZGU3MXpqMmYzWFpxd3JmdXliTmRmbFdQem9BdWlxdUVkZDl3cmJmWE1ycHhyY3BTZ3lkaXJKY1VTdUdiblNtSHJ1TUJPQzF5VjFRQkdlNHRTanZ4enRFTTFRWGpS?oc=5"
+      },
+      {
+       "name": "데일리25",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE95NENpT05lQ0dIb1N6YWZfbzN1UzZrMVdOSWJSS0dzM1R5OU9qdHJVOHZuZDZENUhHZ202Znd4eFQ3MklSaDYwYlpCMTJXR3FtMUNZY2k2WkpTM05iSG1YNmZsLTZDSlRjNUtFZg?oc=5"
+      },
+      {
+       "name": "자본시장뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xMExNSk1kanh5b3N0VHU5NFdkVjVhS2NOQllxc01Wdk0zYXBHWGJsX2hBQ1hLOFc5OVcxZEtwa3J1YkZ3NVl6Q0VmU1pMZGVHYjhKaHRhVTJzeThMaU5SYjljN2laV0E?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 하락(원화 강세)할 때 해외영업 담당자가 바이어와의 가격 협상에서 겪는 어려움은 무엇인가요?",
+       "hint": "달러 환산 매출 감소 및 마진 방어를 위한 대책"
+      },
+      {
+       "q": "환율 변동 위험을 줄이기 위해 영업 부서와 재무 부서가 협력할 수 있는 방법은?",
+       "hint": "환헤지 상품 활용 및 계약 조건 조정"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "대기업 중심의 수출 쏠림 현상과 중소·중견기업 해외영업 전략",
+     "script": [
+      "최근 기사에 따르면 3분기 수출 호황에도 불구하고 상위 10개 기업에 무역 집중도가 60%를 초과하며 쏠림 현상이 심화되었습니다.",
+      "이는 반도체 등 일부 주력 품목과 대기업 주도로 성장이 이루어졌기 때문입니다.",
+      "해외영업 신입 지원자로서 저는 이러한 구조적 한계를 극복하기 위해 차별화된 틈새시장 개척과 신흥국 수출 다변화가 필수적이라고 생각합니다.",
+      "따라서 입사 후 철저한 현지 시장 분석과 바이어 맞춤형 제안을 통해 당사의 신규 판로 개척에 기여하고 싶습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "해운 운임 변동성 확대에 따른 물류비 관리 방안",
+     "script": [
+      "최근 해운 시장은 컨테이너선 하방 압력과 운임 변동성으로 인해 실적 불확실성이 커지고 있습니다.",
+      "이는 해운업계의 시황 변화와 글로벌 공급망의 수급 불균형에서 비롯된 문제입니다.",
+      "물류 및 해외영업 담당자로서 저는 운임 변동 리스크를 최소화하기 위해 장기 운송 계약 검토와 대체 항로 파악이 중요하다고 봅니다.",
+      "입사 후에는 유관 부서 및 포워더와 긴밀히 소통하여 최적의 운송 경로를 확보하고 물류비를 효율적으로 관리하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "KCCI (KOBC 컨테이너운임종합지수)",
+    "body": "한국해양진흥공사(KOBC)가 발표하는 컨테이너운임지수로, 국내 해운 시장의 수출입 항로별 운임 상황을 종합적으로 나타내는 지표입니다. 해상 운송 비용의 변동을 파악하여 수출입 기업의 물류비 예측과 예산 수립에 중요한 기준으로 활용됩니다.",
+    "tip": "해외영업 및 물류 직무 면접에서 KCCI나 SCFI 같은 운임 지수를 언급하며 물류비 변동 대응 전략을 답변하면 실무 이해도를 높게필 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-09",
    "mode": "ai",
