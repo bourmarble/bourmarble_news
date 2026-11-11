@@ -1,6 +1,211 @@
 {
- "updated": "2026-11-10 12:26",
+ "updated": "2026-11-11 10:14",
  "days": [
+  {
+   "date": "2026-11-11",
+   "mode": "rule",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "중일 경색에도 무역확대…中, 올해 대일 수입 26%·수출 10% ↑",
+     "summary": "중일 경색에도 무역확대…中, 올해 대일 수입 26%·수출 10% ↑",
+     "what": "중일 경색에도 무역확대…中, 올해 대일 수입 26%·수출 10% ↑",
+     "why": "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+     "impact": "담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+     "questions": [
+      {
+       "q": "최근 수출 통계에서 눈에 띈 점과 그 이유는?",
+       "hint": "품목·지역별 증감과 원인을 근거와 함께 설명"
+      },
+      {
+       "q": "수출이 좋은데 담당 품목은 부진하다면?",
+       "hint": "품목별 수요·단가 차이를 확인하고 원인 분석"
+      }
+     ],
+     "unverified": [],
+     "tags": [],
+     "sources": [
+      {
+       "name": "연합뉴스 한민족센터",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUkFjZ1Rvb0RZZnJXdTNNZTRtelZTdUJ2OTd1TFNKSkdmRWRjRGFXMkpFQ2dNbTBQZWtrTXlsd1R1SGxQN1ItSy1QYTRWU3RUNHFRU2VJNm1uZlFsOFJnNTVOVnZUVGxJR0pRa1c0RkdNNHhp?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "경기도의회 오민용 의원, “무역위기 대응 예산, 실제 관세 피해 기업에 먼저 가야”",
+     "summary": "경기도의회 오민용 의원, “무역위기 대응 예산, 실제 관세 피해 기업에 먼저 가야”",
+     "what": "경기도의회 오민용 의원, “무역위기 대응 예산, 실제 관세 피해 기업에 먼저 가야”",
+     "why": "관세·통상 정책은 수출 가격경쟁력과 시장 선택에 영향을 줍니다.",
+     "impact": "HS Code와 FTA 적용 여부를 확인하고 바이어와 비용 분담을 협의해야 합니다.",
+     "questions": [
+      {
+       "q": "관세가 오르면 수출 가격은 어떻게 대응하나요?",
+       "hint": "HS Code·FTA 확인, 비용 분담 협의, 시장 다변화"
+      },
+      {
+       "q": "관세 이슈를 어떻게 모니터링하나요?",
+       "hint": "관세청·무역협회·KOTRA 등 신뢰 출처 언급"
+      }
+     ],
+     "unverified": [],
+     "tags": [
+      "관세·통상"
+     ],
+     "sources": [
+      {
+       "name": "엔디엔뉴스",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZXpXenVTeVJCUHZmTDZITW1aSnZ1Yl92Z3k2T0xmWEJrYTdCeG1HV1NFTEsxb2N4WjlWbVQ0VU9wVGhiY0pjQ0tqWVJuamMtTDZteTRtTXBzcDdObHlfdklydjNNaV9hY2R2WUdlMlVjd9IBckFVX3lxTE1DZXpXenVTeVJCUHZmTDZITW1aSnZ1Yl92Z3k2T0xmWEJrYTdCeG1HV1NFTEsxb2N4WjlWbVQ0VU9wVGhiY0pjQ0tqWVJuamMtTDZteTRtTXBzcDdObHlfdklydjNNaV9hY2R2WUdlMlVjdw?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "수출 1조 달러 임박…코트라, 전국 순회 설명회 개최",
+     "summary": "수출 1조 달러 임박…코트라, 전국 순회 설명회 개최",
+     "what": "수출 1조 달러 임박…코트라, 전국 순회 설명회 개최",
+     "why": "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+     "impact": "담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+     "questions": [
+      {
+       "q": "최근 수출 통계에서 눈에 띈 점과 그 이유는?",
+       "hint": "품목·지역별 증감과 원인을 근거와 함께 설명"
+      },
+      {
+       "q": "수출이 좋은데 담당 품목은 부진하다면?",
+       "hint": "품목별 수요·단가 차이를 확인하고 원인 분석"
+      }
+     ],
+     "unverified": [],
+     "tags": [],
+     "sources": [
+      {
+       "name": "아시아경제",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wd3k1VTByX2puajZ2elprZEFtQXZhSGRqUjZudVJtTTBKOE9tdEpGQV9XaWx4N3ZWbVJVVmwzVDllZjMtSGthb2ViaWVpNWNsTldQWXVkejRZQmRaQmVOTQ?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "[N2포커스] 머스크 실적 전망 상향에도 컨테이너 해상운임 '주춤'",
+     "summary": "[N2포커스] 머스크 실적 전망 상향에도 컨테이너 해상운임 '주춤'",
+     "what": "[N2포커스] 머스크 실적 전망 상향에도 컨테이너 해상운임 '주춤'",
+     "why": "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+     "impact": "운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+     "questions": [
+      {
+       "q": "운임이 오르내릴 때 영업에는 어떤 영향이 있나요?",
+       "hint": "Incoterms에 따른 운임 부담 주체와 원가·납기 영향 설명"
+      },
+      {
+       "q": "운임 정보는 어디서 확인하나요?",
+       "hint": "SCFI·KCCI·포워더 견적을 함께 확인한다고 답변"
+      }
+     ],
+     "unverified": [],
+     "tags": [
+      "머스크",
+      "컨테이너 해운"
+     ],
+     "sources": [
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYSWZ4RHNNY25zajZoWk9sUjlNWnlYM3YzVV9RZzgySHBUd3g4TDFGZkpIMkQwUWdSNVJGQzZOaEpnR2RCNlJ1U3BLWS1XVTVMY1ZxQ0lPUDExbmdzeWc?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "해운 호황은 '빌린 시간'…컨테이너선 하방압력 최고, HMM 실적변동성 '여전히 높다'",
+     "summary": "해운 호황은 '빌린 시간'…컨테이너선 하방압력 최고, HMM 실적변동성 '여전히 높다'",
+     "what": "해운 호황은 '빌린 시간'…컨테이너선 하방압력 최고, HMM 실적변동성 '여전히 높다'",
+     "why": "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+     "impact": "운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+     "questions": [
+      {
+       "q": "운임이 오르내릴 때 영업에는 어떤 영향이 있나요?",
+       "hint": "Incoterms에 따른 운임 부담 주체와 원가·납기 영향 설명"
+      },
+      {
+       "q": "운임 정보는 어디서 확인하나요?",
+       "hint": "SCFI·KCCI·포워더 견적을 함께 확인한다고 답변"
+      }
+     ],
+     "unverified": [],
+     "tags": [
+      "HMM",
+      "컨테이너 해운"
+     ],
+     "sources": [
+      {
+       "name": "넘버스",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tZ2d1U1ZkOGZmSjNDODBjcFRjWndqbXJOU3dJZUxtemRKYUtlSm5jc09hTnd5OHY0aWtYWjNEc1RtUndkRkw2bzZyMFphR250SkEtQkhfU012eU9EMVZFSktvYXdScUtSd200?oc=5"
+      }
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "9일 KOBC컨테이너운임종합지수(KCCI), 4668달러로 전주대비 1달러(0.02%) 상승",
+     "summary": "9일 KOBC컨테이너운임종합지수(KCCI), 4668달러로 전주대비 1달러(0.02%) 상승",
+     "what": "9일 KOBC컨테이너운임종합지수(KCCI), 4668달러로 전주대비 1달러(0.02%) 상승",
+     "why": "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+     "impact": "운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+     "questions": [
+      {
+       "q": "운임이 오르내릴 때 영업에는 어떤 영향이 있나요?",
+       "hint": "Incoterms에 따른 운임 부담 주체와 원가·납기 영향 설명"
+      },
+      {
+       "q": "운임 정보는 어디서 확인하나요?",
+       "hint": "SCFI·KCCI·포워더 견적을 함께 확인한다고 답변"
+      }
+     ],
+     "unverified": [],
+     "tags": [
+      "컨테이너 해운"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVUC04QkRjT1FvVG1jOXQ5V3RoUDFOQnhiOWc3RDNoNlRhTXlfUUZreWh0U0pEN1VEZ2lBMHhkNUp6VWlMdDZPWGdGVkc2RHE2Z0VfM0RFcVJONS11Y3BtTXNBSDN3eExvWlNKUmpQVVZGWEU?oc=5"
+      }
+     ]
+    }
+   ],
+   "interview": [
+    {
+     "topic": "중일 경색에도 무역확대…中, 올해 대일 수입 26%·수출 10% ↑",
+     "script": [
+      "최근 '중일 경색에도 무역확대…中, 올해 대일 수입 26%·수출 10% ↑' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "[N2포커스] 머스크 실적 전망 상향에도 컨테이너 해상운임 '주춤'",
+     "script": [
+      "최근 '[N2포커스] 머스크 실적 전망 상향에도 컨테이너 해상운임 '주춤'' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "Incoterms (FOB·CIF)",
+    "body": "운임·보험료와 위험 부담이 매도인과 매수인 사이 어디서 넘어가는지 정하는 규칙입니다. FOB는 선적 시점에 위험이 넘어가고 운임은 매수인이 부담하며, CIF는 매도인이 목적항까지 운임과 보험료를 부담합니다.",
+    "tip": "운임 변동 이야기에 FOB·CIF에 따른 부담 주체 차이를 덧붙이세요."
+   }
+  },
   {
    "date": "2026-11-10",
    "mode": "ai",

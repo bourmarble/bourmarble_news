@@ -1,6 +1,88 @@
 {
- "updated": "2026-11-10 12:22",
+ "updated": "2026-11-11 10:10",
  "items": [
+  {
+   "id": "133a2a4b78",
+   "date": "2026-11-11",
+   "title": "[N2포커스] 머스크 실적 전망 상향에도 컨테이너 해상운임 '주춤'",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYSWZ4RHNNY25zajZoWk9sUjlNWnlYM3YzVV9RZzgySHBUd3g4TDFGZkpIMkQwUWdSNVJGQzZOaEpnR2RCNlJ1U3BLWS1XVTVMY1ZxQ0lPUDExbmdzeWc?oc=5",
+   "source": "뉴스투데이",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "머스크",
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "87ea637244",
+   "date": "2026-11-11",
+   "title": "중일 경색에도 무역확대…中, 올해 대일 수입 26%·수출 10% ↑",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tUkFjZ1Rvb0RZZnJXdTNNZTRtelZTdUJ2OTd1TFNKSkdmRWRjRGFXMkpFQ2dNbTBQZWtrTXlsd1R1SGxQN1ItSy1QYTRWU3RUNHFRU2VJNm1uZlFsOFJnNTVOVnZUVGxJR0pRa1c0RkdNNHhp?oc=5",
+   "source": "연합뉴스 한민족센터",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "de5b09ad08",
+   "date": "2026-11-11",
+   "title": "경기도의회 오민용 의원, “무역위기 대응 예산, 실제 관세 피해 기업에 먼저 가야”",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DZXpXenVTeVJCUHZmTDZITW1aSnZ1Yl92Z3k2T0xmWEJrYTdCeG1HV1NFTEsxb2N4WjlWbVQ0VU9wVGhiY0pjQ0tqWVJuamMtTDZteTRtTXBzcDdObHlfdklydjNNaV9hY2R2WUdlMlVjd9IBckFVX3lxTE1DZXpXenVTeVJCUHZmTDZITW1aSnZ1Yl92Z3k2T0xmWEJrYTdCeG1HV1NFTEsxb2N4WjlWbVQ0VU9wVGhiY0pjQ0tqWVJuamMtTDZteTRtTXBzcDdObHlfdklydjNNaV9hY2R2WUdlMlVjdw?oc=5",
+   "source": "엔디엔뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "8e07003246",
+   "date": "2026-11-11",
+   "title": "수출 1조 달러 임박…코트라, 전국 순회 설명회 개최",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wd3k1VTByX2puajZ2elprZEFtQXZhSGRqUjZudVJtTTBKOE9tdEpGQV9XaWx4N3ZWbVJVVmwzVDllZjMtSGthb2ViaWVpNWNsTldQWXVkejRZQmRaQmVOTQ?oc=5",
+   "source": "아시아경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "cc2aceebad",
+   "date": "2026-11-11",
+   "title": "코트라, 전국 12개 지역서 수출 설명회…600개사 지원",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRV2U3UDlxUjJSXzNpd1k0Y3VsXzBaMHJCMVpJT05SZmpDZURCTmNPSk50VmxBVFg2aFI0SHVfUlNJR1d2cHNJSzRyWmlwWlJvOXdjb25STlpaMDNNSldfSFUyV0ZzaVl1TV9oUHZB?oc=5",
+   "source": "중소기업신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "d10f8fe2f2",
+   "date": "2026-11-11",
+   "title": "코트라, 전국 12곳 찾아가 지역기업 600개사 수출 돕는다",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SNVpheU1Qa3FEQWlyNGoxeFpCd2pvd21rWWdXRWFsZHk4R2tIa3RJLThYLTU1R1FRYnBMUllVelJjQWlDZHQwSm04eUVPVFBWaXk0Mkp3?oc=5",
+   "source": "헤럴드경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "77d03f3fa4",
+   "date": "2026-11-11",
+   "title": "경기도의회 임창휘 의원, “경기도 수출 지원, 단순 위탁 넘어 ‘도 자체 역량 내재화’와 ‘민·관·공 협력 생태계’ 구축해야”",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NOWNiUG52czZNVGc4ZE9fZjlmc2lDc1BxSzFzVF9SYVlIRGdKMjNNRnRGak8wbE9sSVdvSnduVDJhYTEwMEQ0cWZUUTExRkdRVjZFM2E0RVVJMEdjSnRTOVppaE5qUl80dF9mN0FkQnZld9IBckFVX3lxTE1NOWNiUG52czZNVGc4ZE9fZjlmc2lDc1BxSzFzVF9SYVlIRGdKMjNNRnRGak8wbE9sSVdvSnduVDJhYTEwMEQ0cWZUUTExRkdRVjZFM2E0RVVJMEdjSnRTOVppaE5qUl80dF9mN0FkQnZldw?oc=5",
+   "source": "엔디엔뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
   {
    "id": "6db6f5b668",
    "date": "2026-11-10",
@@ -530,6 +612,216 @@
    "tags": []
   },
   {
+   "id": "b4f6d019b6",
+   "date": "2026-11-10",
+   "title": "2027년 전세계 컨테이너 스팟운임 30% 급락 전망",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9NekY5c25EbEhQTUcyUUdVQmx2LUdPeFJmc3FjbFJ2NVNveEoxNndJMDF2R3ZjREdmOEZzXzVnSUJDUnRjRXB4RkVkWWNwX0N1TnV3SGhoN2VhMTdFWm9pZTh2V3gyTHI0M1BpeFhDQdIBc0FVX3lxTE5zVk5xanoxbUZtTTQ3NU5tTmtqQmZGcnFTTjRvTXUzcV8yT3k0aU1VdG1paV9DNzJLcHhvU2hXUE5JaHlyNkpHRWQ3dm04S1RmN1J3S2RjOXJ2Ukw5ZU1QRFdGMGN1SWhBbEROZTBXLURib2M?oc=5",
+   "source": "해운의소리",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "a81a2be189",
+   "date": "2026-11-10",
+   "title": "한화證 “현대글로비스, 해운·해외물류 호조에 실적 성장 전망… 목표가 31만원 유지”",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGl4X3ZWVDJPZ2JNbDM1YjlWb1BkaU1SdXVXelRzOVZ0NnRydXQ0Nkh5bGhQUE9QQlRib0s1eC1LbGU5RDZ6WFZGTVNVT3BkdFVXUTBlcm43Z09aZHlWOTRrcVBraURrUFJLR3FoU0lNWmt1SHF0akh1M0ZlSjVNMWp6d1RqUUV2REROUjFYOVJVbGRvOS01aFdjdjTSAZwBQVVfeXFMUFBpeF92VlQyT2diTWwzNWI5Vm9QZGlNUnV1V3pUczlWdDZ0cnV0NDZIeWxoUFBPUEJUYm9LNXgtS2xlOUQ2elhWRk1TVU9wZHRVV1EwZXJuN2dPWmR5Vjk0a3FQa2lEa1BSS0dxaFNJTVprdUhxdGpIdTNGZUo1TTFqendUalFFdkRETlIxWDlSVWxkbzktNWhXY3Y0?oc=5",
+   "source": "Chosunbiz",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "현대글로비스"
+   ]
+  },
+  {
+   "id": "309a28364a",
+   "date": "2026-11-10",
+   "title": "콜로세움, 물류 자동화 플랫폼 볼트로 CES 2027 공급망·물류 부문 혁신상 수상",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRT05UTFM1T2FtOVZnNTBpd2Jvc1g3MXh0aC1lZTJtd2pzZEFPZU9kX2hNY0t6aHFNYURsQncyRTFlc0kyNlV0MmJDazkwc1lwenY0ajh1MFJ3ang3am93?oc=5",
+   "source": "헬로티",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "167a4e0dde",
+   "date": "2026-11-10",
+   "title": "콜로세움, ‘콜로세움 볼트’로 CES 2027 혁신상 수상…피지컬 AI 물류 자동화 검증",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBiYnh6UUJzaWhmbURkSmJ2d3VGbXk0MmxGQ0tpN0RvckVvSXY0dDJNMEpRRjJhTVNkNmJjOUdzNGJjTGc3MXc?oc=5",
+   "source": "beSUCCESS",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "509db19d17",
+   "date": "2026-11-10",
+   "title": "인천항만공사, 상하이서 ‘제7회 인천항 포럼’ 개최… AI·스마트 물류 협력 모색",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2VmRWOTk5aGhzT1hVeUFzUTBBbjB1bThxX3NCTVI3a3BlZFVQYlNSdWFzNTNpc1BycTRZRjZwUkdRN2tQUE1wV0xRQ3p3ZlhidVZjOVFYQnZ4UkdhNXQ0c2c1WQ?oc=5",
+   "source": "우리일보",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만"
+   ]
+  },
+  {
+   "id": "0ac72383be",
+   "date": "2026-11-10",
+   "title": "인천항만공사, 상하이 포럼 개최…한·중 물류 협력 논의",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LTzJrR2RqSjh5cXJJbTFqVlZBVTg2dGhwNnkyU285QjFMWEhNUHg5dnBCUkRkRXoxSFNvSllKR0J0TldZMVlQVlNsRWs5amttSWVBb1J2b21VRmhDSVVnUFVQQlRLdHFYbERiRUNzY9IBb0FVX3lxTE9LTzJrR2RqSjh5cXJJbTFqVlZBVTg2dGhwNnkyU285QjFMWEhNUHg5dnBCUkRkRXoxSFNvSllKR0J0TldZMVlQVlNsRWs5amttSWVBb1J2b21VRmhDSVVnUFVQQlRLdHFYbERiRUNzYw?oc=5",
+   "source": "한스경제",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만"
+   ]
+  },
+  {
+   "id": "3b2d9352b7",
+   "date": "2026-11-10",
+   "title": "인천항만공사, '인천항 상하이 포럼' 개최…스마트항만·AI·친환경 해운 논의",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBjX2ZjWDBKSjdqVEFPaEZzNUVsdjhwZDlBWnpuN0N5aWRhVnFWOEIwX0JYYW9nYzl0VnJRZkZHZmVGcTBUR3RGeVcxM2VkT2lhVTh4YUpJMDZkelRBOGk0dGRxdy1LczF2R3c?oc=5",
+   "source": "컨슈머타임스",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "항만"
+   ]
+  },
+  {
+   "id": "cf0184282c",
+   "date": "2026-11-10",
+   "title": "韓수출 쏠림 심화 …'톱10' 기업이 60% 차지",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8weHRvYzBQQl9CVExNOF9sYUhIemxqaUVpVW9fczVTM0R5UFFrOUFpVGVpeUdCUm9XVTRneU1CVl9HMXdJa3loVkg2UFk0NlBvaFE?oc=5",
+   "source": "매일경제 마켓",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ef5ad058f7",
+   "date": "2026-11-10",
+   "title": "3분기 수출액 60%, 10개 기업이 벌어…무역집중도 역대 최대",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOcUstS0MtT3BYTHFyZmpPRXR2R1cxQUJ6TFhDOWJjY0huVkQyTzFRcWlxOE1ZVVlSSUEtY09YaFJwekxVNXJhUzRuUDlGRVk5c2RhRTdYSFhILVFlQm40LVFDZXdNZFg0Y19PcVFEdmtwQQ?oc=5",
+   "source": "한겨레",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "1f5a152623",
+   "date": "2026-11-10",
+   "title": "대기업만 수출 호황?…상위 10대 기업 무역집중도 60% 돌파",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55UXNKY3VncWpuQ2ljaFNES242aHY5SmRYZHNQanI3X1k3aWExVWZYZzJzRmNwa0VCbnlBTjhCQ1NRdG5ST0s3WmhQRFR4b1UyMzhLUVJyb29Ic2l1Y25F?oc=5",
+   "source": "조세일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "14162c3949",
+   "date": "2026-11-10",
+   "title": "반도체에 기댄 韓수출…10대 기업 `의존도` 역대 첫 60% 돌파",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdnBoRGJpeFEtRW9nYTZFbmw3eEM2MDA2NE9feWVwTndlM1M4eE11NlpmZkdwd2pQZ0pIVzNEWEVCa0tmXzVFM0lSdV9nRzFNZS1MT0dURUV4M3VoZm54NnpkNnV0WjJQc1NsUFBwQU1OREloZVNuTE9KeWY5SGJWTnJkRlo4QVFacGJLcmh3?oc=5",
+   "source": "국제신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "fbe59ca65e",
+   "date": "2026-11-10",
+   "title": "3분기 수출 72.3% 늘어…상위 10개 기업이 60.9% 차지",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOTmtaSnZodWJOU3dXdzQyaFlhOHhMelhEeDc1RDlNQmVUaGRtWTFrMVUxM0pIMU43Q1gtU1lDX01uMVZfX21jNlBrOFV4UXdUcEVPSVhmMWU?oc=5",
+   "source": "포커스타임즈",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "036566b56c",
+   "date": "2026-11-10",
+   "title": "증시 반등에 원/달러 환율 이틀째 하락…1330원대 재진입 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLUExNc0JiNm1US1VQQktPWVcxeHhoNERDUk1EUTh2b3gxcm1UNXNsWVVZOFRTbUc5eFAzTkhYNFZSSlJSLW5YbUxISjVsSlJtcTlINmxtY05WVHJsV2QzejBPMUNwbFg1ajkwcWE4cm3SAXBBVV95cUxQS1BMTXNCYjZtVEtVUEJLT1lXMXh4aDREQ1JNRFE4dm94MXJtVDVzbFlVWThUU21HOXhQM05IWDRWUkpSUi1uWG1MSEo1bEpSbXE5SDZsbWNOVlRybFdkM3owTzFDcGxYNWo5MHFhOHJt?oc=5",
+   "source": "머니투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "b26ff162b5",
+   "date": "2026-11-10",
+   "title": "원달러 환율 1347.1원 마감…국제유가 4~5%대 급락",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEcV9mX3hDZmN1RWI4aG1PMEFnSG5zckhIVzh5TTVSVE15MHJXQ09yUGRtOTdIRG1tS2xhazBIVzRhdmJDQlphaEd1M18yUmo4SlZ6c2MwbHZCRHVkVnRqYkFyQjRZeVgwSVE?oc=5",
+   "source": "중기이코노미",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "21961f9575",
+   "date": "2026-11-10",
+   "title": "[환율 전망] 젠슨황이고 뭐고 반도체는 계속 간다",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yLS1CaW02Yno5aUd2X0lKdXNjWGRMUVFPTlBGZUVVMC1GbENaSWt2dFc1aUEzQ2QtR1hxSTVyd09jU3BRamtEUzJSUE1sSGIwR0FPR3F1MHpsOEl2X3lHTg?oc=5",
+   "source": "KB Think",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체",
+    "외환"
+   ]
+  },
+  {
+   "id": "32cb714af1",
+   "date": "2026-11-10",
+   "title": "원/달러 환율 9.6원 내린 1,337.5원 마감 : 금융",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IR09YOWFDc0I1VzlwR2FvYWtVWE1PNXV1ZktGcU5CTmtoeE56eDhjNVlZdmpZdGhqWHdjTXRKdTdVSmFILWJuNUtINA?oc=5",
+   "source": "재경일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "5276f290dc",
+   "date": "2026-11-10",
+   "title": "코트라, 홍콩 K뷰티·독일 반도체 시장 공략…한국 기업 수출 지원 확대",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ITURMRzRiLWlySVZNNVJVS3Y3S3VCZUlWc3RmVVJMQ1N0cnJzcnB6NkV5YTU5eDBBd2Vfd3pNbjhmRldmYzBGdzZMREI0bVlMQkNzNW80OE5vOGUyNXRRMWQ0UTZLRFhmRTRJVFRLbFptZw?oc=5",
+   "source": "웹이코노미",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
    "id": "9a69437a65",
    "date": "2026-11-09",
    "title": "해운운임 드디어 떨어졌다…연말 성수기 물류부담 완화",
@@ -957,6 +1249,31 @@
    ],
    "tags": [
     "관세·통상"
+   ]
+  },
+  {
+   "id": "a18e58d7c8",
+   "date": "2026-11-09",
+   "title": "예상 깬 해운업 호황, 항로 정상화 땐 선종별 명암 갈린다",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xZTFZUFNxZEZwek5veDlVaUhaYWJlVGxsOXBjeExZOG0wZUtUY2JrU2RFdFp0WTZWZWhheWNpZE9Tc1FrRWZMNWV3aWZ3OHdaQ1J1dU8wTU9takFLQUlvRlJmUkpvSENyNHNF?oc=5",
+   "source": "한국신용신문",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "d8ac307ae2",
+   "date": "2026-11-09",
+   "title": "반도체가 달러 벌어도 외국인 자금 이탈… 환율 다시 출렁",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sNXNqVmpjSXByai1MS1RJanhvOUpiVjQ4ZEcwb1Z1R2JSTE1YejlJUVBaUGpTWmpGRlZlWTN0aUxPay1GWjEzRW5KVV9kd1lHRVhj?oc=5",
+   "source": "서울신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체",
+    "외환"
    ]
   },
   {
