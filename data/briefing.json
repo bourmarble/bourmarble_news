@@ -1,6 +1,190 @@
 {
- "updated": "2026-11-12 11:14",
+ "updated": "2026-11-13 10:46",
  "days": [
+  {
+   "date": "2026-11-13",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "log",
+     "title": "하팍로이드·HMM 호실적 속 2027년 컨테이너선 공급 과잉 우려",
+     "summary": "하팍로이드는 운송량 감소에도 운임 상승으로 3분기 영업이익이 크게 늘었고, HMM 역시 해운시장 호조로 3분기 영업이익 1조원을 돌파했습니다. 그러나 2027년에는 컨테이너선 공급이 크게 늘어나면서 요금이 급락할 것이라는 전망이 제기되고 있습니다.",
+     "what": "해운사들이 3분기 호실적을 기록했으나, 향후 선박 공급 증가로 인한 운임 하락 전망이 나왔습니다.",
+     "why": "운송량 변화와 운임 상승세가 단기적으로 이익을 견인했으나, 장기적으로는 선박 공급 확대가 예상되기 때문입니다.",
+     "impact": "물류 담당자는 향후 운임 하락 시기를 고려한 장기 운송 계약 전략을 수립해야 합니다.",
+     "tags": [
+      "하팍로이드",
+      "HMM",
+      "해운"
+     ],
+     "sources": [
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkSzc5VTRRa01Xb1h2VFZ4am5jVTBfNEpNdEJORGdraEowaml3R0I5WXpjcDROUWVGbktudEVlRU1jMXAxWllnVy1JWFBXemhKakhxNUFwMUo5cWZHQWhmVVJTY3pJRk1WUkFF?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xMmlxUW40a1lwbmYyc1RSY1BqVkdCcUNFRC1yTWg2MEYyWGhMZm9na3FrVUh6cW5Hdm1GVGhJQkVONW5OWkVDNzVMRVRxelFxZWwxX290LTY3THN1NFJyMUJwVEhQOTlVd2dyV0dBTjQwLXM?oc=5"
+      },
+      {
+       "name": "IDNFinancials",
+       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQMWh0UzlpSDJoc2FSVzFTVUlQc0RDRTdYQi1iaHVrSE5mdFQwYUNha2RaUXhoRmdJNXphNVhmNE9OcUF0cndzRllkRTBlWjE4UG1pWkhsLUtfblNya1FsUDE5bjZSWnAta3ZJYUt1NHNzeFVxMjdHRmNqbFFTUTFCT3JILXk2NlNQbEZEWDExZU9OeXh0VU5LWjJpRG9OWmJoYmZuX01CUzU1Zk40UTJLeGR5SVNOM1dhUzNBWUR2WW1tRjRJNnVIY09NU2RCc05fYzY2djF0YUlGV3k0Z0sxQWttRVcxSTA5UkNtZVVwMmdzUnYwODB6dnpXR3ExZFVBMnI4Zkx5eVNFWG9XazdR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운사들의 단기 호실적에도 불구하고 장기 운임 하락이 예상될 때 물류 전략은?",
+       "hint": "장기 계약(SC)과 현물 시장(Spot)의 비중을 유연하게 조절하는 방안 제시"
+      },
+      {
+       "q": "컨테이너선 공급 증가가 수출 기업의 물류비에 미치는 영향은 무엇인가요?",
+       "hint": "장기적으로 물류비 부담이 완화될 수 있으나 시황 변동성 모니터링 필요성 강조"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율·유가 하락 속 반도체 견인 10월 수출물량·금액 역대 최대",
+     "summary": "원·달러 환율과 국제유가 하락으로 10월 수입물가는 내림세로 돌아섰으나, 반도체 가격 상승과 수출 호조로 수출물량과 금액은 역대 최대 수준으로 급증했습니다. 이에 따라 소득교역조건도 크게 개선되었습니다.",
+     "what": "환율과 유가 하락에도 불구하고 반도체 중심의 수출 물량과 금액이 사상 최대치를 기록했습니다.",
+     "why": "글로벌 반도체 가격 상승과 AI 인프라 수요 등 품목 경쟁력이 수출 급증을 이끌었습니다.",
+     "impact": "해외영업 담당자는 환율 하락에 따른 채산성 변화를 점검하고 주력 품목의 수출 확대를 추진해야 합니다.",
+     "tags": [
+      "반도체",
+      "수출물가",
+      "수입물가"
+     ],
+     "sources": [
+      {
+       "name": "한겨레",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSTBtZlJvMjZJd1ZGeG84M1R1WktIZ3RvTlhiZW5XUzdCU0VtbkY3VDVGVFVYdnlycHFHVW15OTZkZkZiOXNZQ2hDOTVNMFpYS19rWHNBcllWZ1hYVF9mRWpIRU85LUkwS1RrbTBPSWp0QQ?oc=5"
+      },
+      {
+       "name": "KBS 뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE53R1oxQl9VWlZrQlRGVFNXUmFYTVJiUTZqOVlWdHd0cW5GSUJMYkJiYnY3aEc5cVBXR0JlVGhmRjE2cUQwZUlHdzRpY09Za0QyMDYwQzdvQUxDbkE1UXBoUzBPWDFBdw?oc=5"
+      },
+      {
+       "name": "뉴데일리",
+       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Q0xzLWRZQ0VpZnR4V0lhQ0tnNThJMnZKNzBreW5tbGNFOFliVWk4ZnRCSUF5QjVMMi1FcHpGbFZ2LWktSGZzTFc4cHFBeWNndUZyV053NGlQZW9lTW1TdFJEcVNPWlVqQjVKNVg1Z3l0alljZGhZZk05UdIBgAFBVV95cUxOWFhwUkpKNFNuZFJkbzA0Tk93OTM0VTdZNVdRQzRhVzBEOEZlZEpzNlNGSy05YU9HTFRUQUM4bFhNSGRhYkV6X2Q1aHFqbFVQVF9QM1h4NTFTNlB6UUozSzFPZzZkSWJTMTVZQXFnZzRUaUdIeDNORGUyUFh5QlN3Qw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 하락하는 상황에서 수출 물량이 급증한 원인은 무엇으로 분석하나요?",
+       "hint": "반도체 등 특정 품목의 글로벌 수요 및 가격 상승 요인 설명"
+      },
+      {
+       "q": "환율 하락이 수출 기업의 수익성에 미치는 부정적 영향을 어떻게 방어할 수 있나요?",
+       "hint": "환헤지 전략 및 고부가가치 품목 전환의 중요성 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K라면 글로벌 인기 속 국내외 공장 증설 경쟁 가속화",
+     "summary": "K라면 수출이 20억 달러 돌파를 눈앞에 둔 가운데, 삼양, 농심, 오뚜기 등 주요 식품 기업들이 국내외 공장 증설 경쟁에 나서고 있습니다.",
+     "what": "K라면의 수출 호조에 발맞춰 주요 식품 기업들이 생산 능력을 확대하고 있습니다.",
+     "why": "해외 수요 급증에 대응하여 안정적인 공급망을 구축하고 글로벌 시장 점유율을 높이기 위함입니다.",
+     "impact": "해외영업 및 SCM 담당자는 해외 현지 생산지와 국내 수출 물량 간의 최적의 생산·배송 네트워크를 구축해야 합니다.",
+     "tags": [
+      "삼양식품",
+      "농심",
+      "오뚜기",
+      "K라면"
+     ],
+     "sources": [
+      {
+       "name": "현대경제",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuT19QWGhqWTBEeExxTmtSWGxhUmNrU056WkFGa1RsSUYzaVAtQUx2a3RtRzdoMHF2bTViVEJmQzBJQTE5ekpfSGJ0eW15ejZDQmwtbVhoSzc0QzgwR0ljQWVIRTdGWXRlTUhn?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해외 공장 증설과 국내 생산 후 수출 방식의 장단점은 무엇인가요?",
+       "hint": "물류비 및 관세 절감 대 브랜드 본토 생산의 신뢰도 측면 비교"
+      },
+      {
+       "q": "K푸드 수출을 확대하기 위해 해외영업 담당자로서 취해야 할 현지화 전략은?",
+       "hint": "현지 입맛 맞춤형 제품 개발 및 유통망 다변화 제안"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 하락세 속 대외 통상 및 환율 변동성 주시",
+     "summary": "원·달러 환율이 중동 지정학적 리스크와 미 연준의 정책 기대감 등에 따라 등락을 거듭하고 있습니다. 이에 따라 환시의 시선은 1조 달러 수출 지표와 대미 통상 전략 등으로 향하고 있습니다.",
+     "what": "환율 변동성이 지속되는 가운데 수출입 기업들은 환율 추이와 통상 환경 변화에 촉각을 세우고 있습니다.",
+     "why": "환율은 수출 가격 경쟁력과 수입 원가에 직결되는 핵심 변수이기 때문입니다.",
+     "impact": "해외영업 직무 지원자는 환율 변동에 따른 가격 전략 수립 능력을 갖춰야 합니다.",
+     "tags": [
+      "환율",
+      "코트라",
+      "대미통상"
+     ],
+     "sources": [
+      {
+       "name": "자본시장뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ubGt5VTlKZjcwYjQwcWlzNjAzekdRV2c2MTJEOW42N3BJZm91SGNyQ01SM1VVdS1FZndWaUpNQWtEZnhvRXIwc2VlRHpWM3JkLUNvODRNU1lHMnBUX0NqYWdQWUhBTlk?oc=5"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oUGc0NHVvT1B1a1ZzUEpPN0FLRUNzZVltdXQwZGs3X2owUlFFZ1daZDliRnlDTUowam5FUHNjSENhSXZnbEpKb1VJS2JLOGh2aUhXdnNoTFV2QTMzUkE?oc=5"
+      },
+      {
+       "name": "마켓인",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DT21PcXlEMHhRaS0wSlFmN3pXRFVNRXFiVWNyNVJTbVpkQnRWQ3pyYWdjQXpvcl96OXhnODRSRDE1bkZqSWtBRlQ3SWFKYTdBUHd5UV8tNm12dlpXMXYtZUZ3dkR6YXpzeERHTlB4aUZ2ZGs?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 하락 국면에서 해외 바이어와의 가격 협상 시 대응 방안은 무엇인가요?",
+       "hint": "비가격 경쟁력 강조 및 환율 연동 조항 검토 등"
+      },
+      {
+       "q": "대미 통상 환경 변화에 대응하여 수출 기업이 준비해야 할 전략은?",
+       "hint": "고용 창출 등 지역 사회 기여 및 규제 변화 모니터링"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "환율 하락과 수출 증대 동향에 따른 해외영업 대응",
+     "script": [
+      "최근 기사에 따르면 원·달러 환율이 하락했음에도 반도체 등 주력 품목의 수요 덕분에 수출 물량은 역대 최대를 기록했습니다.",
+      "이는 환율이라는 가격 변수 외에도 제품의 본원적 경쟁력과 글로벌 수요가 수출을 견인할 수 있음을 보여줍니다.",
+      "해외영업 직무 지원자로서 저는 환율 변동에 일희일비하기보다는 고부가가치 품목 발굴과 품질 경쟁력을 바탕으로 바이어를 설득해야 한다고 생각합니다.",
+      "입사 후에도 환율 리스크를 상시 모니터링하고 철저한 환헤지 및 가격 협상력을 발휘하여 수익성을 방어하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "해운 운임 변동성과 컨테이너선 공급 과잉 리스크 대응",
+     "script": [
+      "최근 해운사들이 양호한 3분기 실적을 거두었으나, 2027년에는 컨테이너선 공급이 크게 늘어나 운임이 하락할 것이라는 전망이 나오고 있습니다.",
+      "이처럼 해운 시장은 선박 공급과 시황에 따라 운임 변동성이 매우 큰 특성을 가지고 있습니다.",
+      "물류 및 SCM 직무를 수행할 때 이러한 시황 전망을 미리 파악하고 장기 운송 계약과 스폿 계약의 비중을 유연하게 조절하는 것이 중요합니다.",
+      "저는 입사 후 운임 변동 리스크를 선제적으로 관리하여 물류비를 절감하고 안정적인 공급망을 유지하는 데 기여하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "소득교역조건 (Income Terms of Trade)",
+    "body": "한 나라의 수출 총액으로 수입할 수 있는 전체 상품의 양을 나타내는 무역지표로, 수출물가지수와 수출물량지수를 곱한 뒤 수입물가지수로 나눈 값입니다. 이 지수가 상승했다는 것은 수출로 벌어들인 총수입액으로 더 많은 양의 상품을 들여올 수 있음을 의미하여 국가의 실질적인 무역 소득이 개선되었음을 뜻합니다.",
+    "tip": "해외영업 면접에서 거시경제 지표를 활용해 '우리나라의 무역 실적이 단순히 물량만 늘어난 것이 아니라 실질적인 구매력과 교역 조건까지 개선되었다'는 점을 논리적으로 설명할 때 유용한 개념입니다."
+   }
+  },
   {
    "date": "2026-11-12",
    "mode": "ai",
