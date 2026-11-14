@@ -1,6 +1,185 @@
 {
- "updated": "2026-11-13 10:46",
+ "updated": "2026-11-14 10:26",
  "days": [
+  {
+   "date": "2026-11-14",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "한국, 중국 수입시장 6개월 연속 1위 및 수출 1조 달러 눈앞",
+     "summary": "한국이 중국 수입시장에서 6개월 연속 1위를 기록하며 사상 첫 '수출 1조 달러' 달성을 목전에 두고 있습니다. 반도체 수출 호조가 이러한 성장을 견인한 것으로 나타났습니다.",
+     "what": "한국의 중국 수입시장 1위 유지 및 수출 1조 달러 달성 임박",
+     "why": "반도체 등 주요 품목의 수출 급증과 대중국 교역 유지",
+     "impact": "해외영업 직무 지원자는 주력 품목의 대중국 및 글로벌 수출 전략과 성과를 영업 실적과 연계하여 어필할 수 있습니다.",
+     "tags": [
+      "삼성전자",
+      "SK하이닉스",
+      "반도체"
+     ],
+     "sources": [
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUUdHU0xtYTNmdE9zN0ZseU5yWGljQkVVcHQxXzYwQm9UWVlZdkJBX3JQMEdQUDZKUkhuamJsUmpYamwxbDJ4LTZ0b0VwMFUyQ1V0Q3MxUEE4c0xzam9PTVp3QWs?oc=5"
+      },
+      {
+       "name": "BBS불교방송",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45Wjd4WVNUZWRVUlZ5T2l3RXBndUh1aUdjbzR6N0ZTLUV4S1lNbHoxaGsxWXRNSVBnbzV2dmF5bVUtcjZEeHdFUS12OVlfNlpaX2tqZkF1bXpnMVVBLWFHY0J1WWI2VW5lSHo4?oc=5"
+      },
+      {
+       "name": "대전일보",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CSW5DWllKMDNDcXZVMDRhQnRDMnRuNDZkV3ZYRGlqejhMZVZPemV5TVZ5RXVMajlNXzBaV2JlWWR1VG9yX2ZVOVJEcXZTelh4bmZsbExXYldtWXlGbVVaMC02M0ZUazhnZldpNUl2TUFoaFnSAXNBVV95cUxOQkluQ1pZSjAzQ3F2VTA0YUJ0QzJ0bjQ2ZFd2WERpano4TGVWT3pleU1WeUV1TGo5TV8wWldiZVlkdVRvcl9mVTlSRHF2U3pYeG5mbGxMV2JXbVl5Rm1VWjAtNjNGVGs4Z2ZXaTVJdk1BaGhZ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "중국 수입시장 1위 유지가 우리 수출 기업에 주는 실질적 영업 기회는 무엇인가요?",
+       "hint": "현지 바이어와의 신뢰 구축 및 주력 품목(반도체 등)의 수요 대응력을 강조."
+      },
+      {
+       "q": "수출 1조 달러 달성 국면에서 영업 담당자로서 가장 경계해야 할 리스크는 무엇인가요?",
+       "hint": "특정 국가 및 품목 의존도에 따른 리스크와 다변화 전략 언급."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "10월 수출물량 역대 최대 증가 및 수입물가 하락",
+     "summary": "10월 환율과 유가가 하락하면서 수입물가는 내림세로 돌아섰으나, 반도체 가격 상승 등의 영향으로 수출물량은 역대 최대폭으로 증가했습니다. 무역지수 역시 반도체 수출 호조에 힘입어 크게 올랐습니다.",
+     "what": "환율·유가 하락 속 수입물가 하락 및 수출물량·수출물가지수 상승",
+     "why": "범용 D램 및 AI 인프라 수요 확대에 따른 반도체 수출 급증",
+     "impact": "원가 절감 요인(수입물가 하락)과 물량 확대(수출 물량 증가)를 동시에 분석하여 마진율 관리 전략을 세우는 해외영업 역량이 중요해졌습니다.",
+     "tags": [
+      "반도체"
+     ],
+     "sources": [
+      {
+       "name": "한겨레",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9tSTBtZlJvMjZJd1ZGeG84M1R1WktIZ3RvTlhiZW5XUzdCU0VtbkY3VDVGVFVYdnlycHFHVW15OTZkZkZiOXNZQ2hDOTVNMFpYS19rWHNBcllWZ1hYVF9mRWpIRU85LUkwS1RrbTBPSWp0QQ?oc=5"
+      },
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wS1BxQXd4VUx6ci1laEZGWUZWWGVTYUF3T1duNWhZM0xqdUhPYWlTLTdtd0VqdmlnSEdYeExMRUxTQi1NVEhmYUpYUlJmQzZiQUZFUmpjUFcwR21RME1jSkl1NTQ?oc=5"
+      },
+      {
+       "name": "포인트데일리",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oVGlKQ0JjYVRybXF2U3ZKbFlFY3Z4bVl2VE9mSTAwdFRtU1MyeGNsSXh1QTAwUUxiR3RFaWlLSWJld3VZOUJ1bkxiT1laWFptMUQ3eWVpNnhSYmFDaks1ZFlwV3daeUpyM25KRDBIUXbSAXRBVV95cUxOc0JjWlRkcDZFdnE4eXgtYy02eGkySDRTSzFYR093Q3Z3Y1dKOGZad3IzMWwyWVpkcV9FbmhzNldNemFqQWJVVGQzempxVlJaQmVySENaYXJGcmJnUS1QYlZKUFNuRFNHNmUya20zdjlwYlFIeQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "수입물가가 하락하고 수출 물량이 늘어났을 때, 해외영업사원이 가격 협상에서 취할 수 있는 전략은 무엇인가요?",
+       "hint": "원가 절감분을 바탕으로 한 가격 경쟁력 확보 또는 마진 방어 논리 설명."
+      },
+      {
+       "q": "환율 하락세가 수출 기업의 채산성에 미치는 부정적 영향을 어떻게 방어할 수 있나요?",
+       "hint": "환헤지 전략이나 비가격 경쟁력 강화 방안 제시."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "글로벌 해운운임 2주 연속 하락 및 해운사 실적 엇갈림",
+     "summary": "글로벌 해운운임이 2주 연속 하락세를 보인 가운데, 일부 대형 해운사는 운송량이 줄었음에도 높은 운임 덕에 3분기 호실적을 거뒀습니다. 항로별로는 미주와 유럽은 내리고 지중해와 중동은 상승하는 혼조세를 보였습니다.",
+     "what": "글로벌 해운운임 2주 연속 하락 및 항로별 혼조세 지속",
+     "why": "계절적 요인 및 항로별 수급 변동",
+     "impact": "물류비 변동에 직접 영향을 받는 수출입 기업의 운송비 예산 편성과 선적 스케줄 조율에 중요한 지표가 됩니다.",
+     "tags": [
+      "하팍로이드"
+     ],
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUwyQ1BDM3daYjZNZmU3ak1rY3Bxb25Ja2hYRlhVQU9ac2x1S2tvd3VSRVJDa3gzTm1ZUFNQZEpxdXVjOVFmVnFoZElUeUVMekE2ZWlIb0NOb0F1ZEoxdGpncjlzS1YtMXl3aHVZc1JISGJkX3JBeVBid3JuNk5FVA?oc=5"
+      },
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkSzc5VTRRa01Xb1h2VFZ4am5jVTBfNEpNdEJORGdraEowaml3R0I5WXpjcDROUWVGbktudEVlRU1jMXAxWllnVy1JWFBXemhKakhxNUFwMUo5cWZHQWhmVVJTY3pJRk1WUkFF?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9KMlBlQjJQLTlHb0lXZFRIVTJCeVBVbUk1a0Q1Wi1GQUFLUXZROHlRN1dUUV9VYnd3aGRvZ0l2ZlVzdWN4VzJrUWI5ZlVXY1ZpVGtNQUdzQllMb3lMZzJaNEJtZW4?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운 운임이 하락세로 돌아섰을 때 물류비 절감을 위해 SCM 관점에서 어떤 조치를 취해야 할까요?",
+       "hint": "장기 계약(SC)과 스팟(Spot) 계약의 비중 조절 및 선사 협상력 활용."
+      },
+      {
+       "q": "미주·유럽 항로와 중동 항로의 운임 움직임이 다를 때 해외영업과 물류 부서가 협력해야 할 부분은 무엇인가요?",
+       "hint": "지역별 운송 리드타임과 물류비용을 고려한 납기 및 가격 정책 수립."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K푸드 수출 호조… 삼양·농심·오뚜기 공장 증설 경쟁",
+     "summary": "K라면 등 K푸드 수출이 20억 달러 돌파를 눈앞에 두고 있으며, 주요 식품 기업들이 국내외 공장 증설 경쟁에 나서고 있습니다. 해외 수요 급증에 발맞춘 글로벌 생산 거점 다변화가 진행 중입니다.",
+     "what": "K푸드 수출 급증 및 주요 식품 기업들의 국내외 공장 증설",
+     "why": "글로벌 시장에서의 K컬처 및 K푸드 인기 지속에 따른 수요 증가",
+     "impact": "해외영업 담당자는 해외 현지 바이어의 수요에 맞춰 안정적인 공급망을 확보하고 생산 거점별 물류 효율성을 고려해야 합니다.",
+     "tags": [
+      "삼양",
+      "농심",
+      "오뚜기"
+     ],
+     "sources": [
+      {
+       "name": "현대경제",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuT19QWGhqWTBEeExxTmtSWGxhUmNrU056WkFGa1RsSUYzaVAtQUx2a3RtRzdoMHF2bTViVEJmQzBJQTE5ekpfSGJ0eW15ejZDQmwtbVhoSzc0QzgwR0ljQWVIRTdGWXRlTUhn?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "식품 수출 확대에 따라 해외 생산 공장을 증설할 때, SCM 관점에서 가장 고려해야 할 요소는 무엇인가요?",
+       "hint": "현지 원료 수급 안정성, 물류 인프라, 그리고 현지 규제 대응."
+      },
+      {
+       "q": "K푸드 해외 영업 시 현지 바이어와의 커뮤니케이션에서 가장 강조해야 할 차별점은 무엇일까요?",
+       "hint": "안정적인 품질 유지와 신속한 현지 트렌드 반영."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "반도체 수출 호조와 환율 하락 복합 상황에서의 해외영업 대응",
+     "script": [
+      "최근 기사에 따르면 반도체 수출 호조로 수출 물량이 역대 최대폭으로 증가한 반면, 환율과 유가는 하락하여 수입물가가 내렸습니다.",
+      "이는 글로벌 IT 수요 회복과 AI 인프라 투자 확대가 주도한 것으로 분석됩니다.",
+      "해외영업 신입 지원자로서 저는 이러한 환율 하락 리스크 속에서도 압도적인 제품 경쟁력과 물량 확대를 통해 매출을 방어하는 영업 전략이 필요하다고 생각합니다.",
+      "따라서 입사 후 단순 마진 계산을 넘어, 환헤지 부서와의 협업 및 바이어와의 전략적 가격 협상을 통해 수익성을 지켜내겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "해운 운임 하락기에서의 물류비 절감 및 SCM 운영",
+     "script": [
+      "최근 글로벌 해운운임이 2주 연속 하락세를 보이며 항로별 혼조세를 나타내고 있습니다.",
+      "이는 전통적인 계절적 요인과 항로별 선복량 수급 불균형에서 비롯된 것으로 보입니다.",
+      "물류·SCM 직무 지원자로서 저는 이러한 운임 변동기를 활용해 운송 비용을 최적화하고 공급망 효율성을 높여야 한다고 생각합니다.",
+      "입사 후 스팟 계약과 장기 계약의 비중을 유연하게 조절하여 물류비를 절감하고, 안정적인 납기를 보장하는 SCM 프로세스를 구축하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "수출입물가지수와 교역조건",
+    "body": "수출입물가지수는 수출입 상품의 가격 변동을 나타내는 지표이며, 교역조건지수는 한 단위의 수출 대금으로 몇 단위의 수입을 할 수 있는지 보여줍니다. 소득교역조건지수는 수출 총액으로 수입할 수 있는 전체 양을 뜻하며, 이 지표들이 개선되면 실질적인 무역 이익이 커집니다.",
+    "tip": "면접에서 환율이나 원자재 가격 변동이 기업의 채산성에 미치는 영향을 설명할 때, 단순히 매출액뿐만 아니라 '교역조건'과 '수출물량'의 상관관계를 함께 언급하면 전문성을 어필할 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-13",
    "mode": "ai",
