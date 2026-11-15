@@ -1,6 +1,197 @@
 {
- "updated": "2026-11-14 10:26",
+ "updated": "2026-11-15 09:59",
  "days": [
+  {
+   "date": "2026-11-15",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "한국 수출 1조 달러 시대 눈앞…반도체 견인 속 중·미 시장 점유율 확대",
+     "summary": "한국이 반도체 수출 호조에 힘입어 중국 수입시장 6개월 연속 1위, 미국 시장 6위를 기록하며 사상 첫 연간 수출 1조 달러 달성을 눈앞에 두고 있습니다. 주요 교역국 내 점유율 상승과 수출 품목 성장이 전체 무역 규모 확대를 이끌고 있습니다.",
+     "what": "한국의 연간 수출액이 사상 최초로 1조 달러 돌파를 앞두고 있으며 중국과 미국 등 주요 시장에서 점유율 순위가 상승함.",
+     "why": "반도체 품목 중심의 수출 물량 증가 및 가격 반등이 전체 교역 실적을 강하게 견인했기 때문임.",
+     "impact": "해외영업 담당자는 주력 시장 내 반도체 등 핵심 품목 호조를 기회로 삼되 특정 품목·국가 편중에 따른 변동성에 대비해 거래선 다변화를 모색해야 함.",
+     "tags": [
+      "반도체",
+      "삼성전자",
+      "SK하이닉스"
+     ],
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90aF9iR3lvVjBiQjRPa2tMMEREV3FpNjJZZGJJOEFuN2ItR3ZaNHVhQXhjTWRiNGtIYzVwajV1UXg0VTRDUWhZYXdMSlI2alhrcjI4Yk0xTzJ2ODdtVzhpMWIwbnJrMWIyck1J0gFwQVVfeXFMT0ZqbEIyOGxTdjI5SHN3ck9zU1A4aWJUaENqSmZNTklDMlNOVDZWWU1ONlI5dGhCNUZqUElpT19pLXp2Tl9VeUtmQlFOQ2p6VTdISWNIV1Ztd1dLcnpZSVV3RlViNkcyS3pPdWx4NkNoTQ?oc=5"
+      },
+      {
+       "name": "서울경제TV",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBUUUdHU0xtYTNmdE9zN0ZseU5yWGljQkVVcHQxXzYwQm9UWVlZdkJBX3JQMEdQUDZKUkhuamJsUmpYamwxbDJ4LTZ0b0VwMFUyQ1V0Q3MxUEE4c0xzam9PTVp3QWs?oc=5"
+      },
+      {
+       "name": "https://www.ppss.kr/",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13dWRnMmdzOWJBYWdla0VxamF4RGczd1NsRlFCUG4tcFVMUVIzLVlpNkVBYkZucUN1RXl2ZHR6UTNBbUgyUnlDVG55YktYTzV2TC1RWmJSbzVDOUZYQUNqdkdwUXk?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "한국 수출 1조 달러 달성 이면에 반도체 편중 우려가 나오는데, 담당 제품의 해외 판로를 어떻게 넓히겠습니까?",
+       "hint": "주력 시장 의존도를 줄이고 신흥 시장 발굴 및 제품 포트폴리오 다각화 전략을 제시합니다."
+      },
+      {
+       "q": "중국과 미국 시장에서 한국산 제품의 입지가 달라질 때 해외영업 사원으로서 어떤 시장 대응 전략을 취하겠습니까?",
+       "hint": "미국과 중국의 규제 및 수요 특성을 분석하여 현지 맞춤형 프로모션과 파트너십을 추진하겠다고 답합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "대미 무역흑자 확대와 보호무역주의 확산 속 통상 압박 우려",
+     "summary": "한국의 대미 무역흑자 급증과 수출 1조 달러 달성 국면 속에서 보호무역주의 강화에 따른 통상 압박이 우려되고 있습니다. 주요국의 관세 조치와 통상 규제가 우리 수출 기업의 불확실성을 키우고 있습니다.",
+     "what": "대미 흑자 규모 확대 및 글로벌 무역 규모 증가와 맞물려 상대국의 관세 부과 및 무역 규제 강화 움직임이 나타남.",
+     "why": "미국 등 주요 교역국의 보호무역 기조와 자국 산업 보호를 위한 통상 견제 조치가 가시화되고 있기 때문임.",
+     "impact": "해외영업 담당자는 관세율 변동과 통상 규제 정책을 상시 모니터링하고 인코텀즈 계약 조건 및 원산지 관리를 철저히 점검해야 함.",
+     "tags": [
+      "관세",
+      "통상압박",
+      "보호무역"
+     ],
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WY3R6a1dCaVY4VHVuZW1pM19yVzN2NUo4Vi04S1dHUDgwclgxT2NUWmE5STEzbmsyTzFVSW1XYllIVDdaRkdzOU9GT0VpU2FYUUc1cDRlUTZkcUhDVXJIc3ZtVVJ5Y3MtaElB0gFwQVVfeXFMT3VyZEs4ZTJRN2dJczlud3I5V2pBeFpXZi14M2treEJHemF0SHFwdnU5bFVhUFhsaTBZZWdZZUo2WWRodlFoOWJHNnh5S3RzVkozakt6UUpmNVJuLUN3bkJQSmFzbDMtZ3BSVUtfUndhZA?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQbWdIZ0M5Y0xwTGdQRE9xa2FPc2tOSnNaOU5PZi1ucVl0WjJ5N1BBMDhFVVl3S0h5ck9DdGR2NXNBakVoT0lDLTRPTmJXX0owR0NGVmt5X0EwczN3S1k4?oc=5"
+      },
+      {
+       "name": "대구MBC",
+       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBkcWhzb3BMeUp1dVpMS05lU1Y2WkhocUJJTEZoLVFaekVqdmhoY1cyQjZCR1FkckV4dndlc0JMZS1ld3NHb1N4MGtkcEQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "목표 시장의 수입 규제나 추가 관세 부과 리스크가 커질 때 바이어와의 가격 협상을 어떻게 진행하겠습니까?",
+       "hint": "관세 부담에 대한 분담 구조를 협의하고 제품 부가가치 제고를 통해 가격 저항을 낮추는 방안을 언급합니다."
+      },
+      {
+       "q": "보호무역주의 기조가 장기화될 경우 현지 영업 채널을 어떻게 보호·확장하겠습니까?",
+       "hint": "현지 파트너십 강화 및 생산 기지 다변화 등 통상 리스크를 분산하는 솔루션을 제시합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "미국·유럽 수요 둔화로 글로벌 해운운임 하락세 전환",
+     "summary": "드류리 컨테이너 운임지표가 3주 연속 하락하는 등 글로벌 해운운임이 고점을 지나 하락세를 보이고 있습니다. 유럽과 미국행 물동량 수요 부진이 운임 조정의 주요 배경으로 분석됩니다.",
+     "what": "글로벌 컨테이너 해운운임 지표가 2~3주 연속 하락하며 운임 상승세가 꺾임.",
+     "why": "주요 소비지인 미국과 유럽향 수입 수요가 둔화하면서 물동량 수급 균형이 조정되고 있기 때문임.",
+     "impact": "물류·SCM 담당자는 운임 하락 추세를 반영해 선사 및 포워더와의 운임 재협상을 추진하고 선복 확보 계획을 유연화할 수 있음.",
+     "tags": [
+      "에버그린",
+      "드류리",
+      "해운운임"
+     ],
+     "sources": [
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbUwyQ1BDM3daYjZNZmU3ak1rY3Bxb25Ja2hYRlhVQU9ac2x1S2tvd3VSRVJDa3gzTm1ZUFNQZEpxdXVjOVFmVnFoZElUeUVMekE2ZWlIb0NOb0F1ZEoxdGpncjlzS1YtMXl3aHVZc1JISGJkX3JBeVBid3JuNk5FVA?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81Y3BjV25yeHVNbDBRYW13ZUctdGpXdTZoU2V3SzZYbUFZUE1ud1dwZ3VReEhNWWlQa1VDS0NJVFEzNG5CYnZyWXBJSkVQOFBBS3lZeFRPaTZGS3VvQVhOTFdJZm1mcDZvREZiYkRNZEdNRm8?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMVB0RlZjdlN3TjNSQkJMRURnVmNXTjZ2YjdYMnhCOEVYcHdaYXB3cnVYTVA5NnZHX3lkenhFVGR1Q3NyaFAwQkpweVFpcXJndHlOT3E2X2FqaWxlRFRoeUdydEd1NEp5QU9pRFVmMVRMZHM?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해운운임이 급등락하는 시기에 선사·포워더와의 계약을 장기계약과 스팟계약 중 어떻게 배분하겠습니까?",
+       "hint": "운임 하락 국면에서는 장기계약 비중을 유연하게 조정하고 스팟 운임을 전략적으로 혼합하는 방식을 제시합니다."
+      },
+      {
+       "q": "유럽·미국향 수요 둔화 시 운송 리드타임 관리와 안전재고 전략을 어떻게 조정하겠습니까?",
+       "hint": "물동량 흐름에 맞춰 선복 예약 주기를 최적화하고 공급망 정체를 완화하는 재고 운영안을 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율 변동성 확대와 수출입 물가 영향에 따른 수익성 관리 과제",
+     "summary": "1,330원대 환율 변동과 국제유가 변동으로 수입물가가 하락한 반면 반도체 강세 등으로 수출물가는 반등했습니다. 환율 변동 압력과 구조적 취약성에 대응한 면밀한 가격 전략이 요구됩니다.",
+     "what": "원/달러 환율의 등락과 함께 수출물가는 반등하고 수입물가는 하락하는 엇갈린 물가 흐름이 나타남.",
+     "why": "환율 등락, 유가 하락, 글로벌 반도체 단가 반등 등 대외 가격 변수들이 복합적으로 작용했기 때문임.",
+     "impact": "해외영업 담당자는 결제 통화별 환율 리스크를 헤지하고 수출 원가 변동에 맞춘 탄력적인 견적 기준을 수립해야 함.",
+     "tags": [
+      "환율",
+      "수출물가",
+      "반도체"
+     ],
+     "sources": [
+      {
+       "name": "KB Think",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1aExRQjlKOUU0QUlLeGE0LXlyald4c1c4WEcxOEJFcS1EMEVjdEo5X1MxR01rYkxnTGxLUzc2SlBpTWp3TndRQ0tzelRHc29KUFB5YlBsb3VqaWNYeUNrWDB4alJpMGh3X1pKSk5VUU90dw?oc=5"
+      },
+      {
+       "name": "충남일보",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85bzlWdDM1WXdCWWVTSHBXZDBpMnZPTnJWZDE0Mm96LVI4cEk3c3kxcmdaMjI3SXBsRkM3UjJFN1RJOTJ5eDJxTTIxM3JiTU9MRGg2elQtTmRHUi01dGFvUjY0V2xBTGdOUEg3Y1VHbE05ejQ?oc=5"
+      },
+      {
+       "name": "리드경제",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtMmRlZjRFX054WkYyNW9sTXhITnh2ejJEVnFEQng3d3RKQV93NWMzbUFITUZKbXA0dTk2ODVSLUQ1VkltRlhzTkRjSExQVERTV0hHVHZmSzBTNWdlSUdNd1RtUS1jenBQM3otMHA2MTc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 급격히 등락할 때 해외 바이어와의 견적 유효기간(Validity) 및 결제 통화 전략을 어떻게 세우겠습니까?",
+       "hint": "견적 유효기간을 단축하거나 환변동 보험, 통화 다변화 및 환율 연동 조항을 활용하는 방안을 제시합니다."
+      },
+      {
+       "q": "수입 원자재 가격 하락과 완제품 수출 단가 상승이 동시에 나타날 때 영업 마진을 어떻게 극대화하겠습니까?",
+       "hint": "원가 절감분을 바탕으로 가격 경쟁력을 확보하거나 고마진 제품 위주로 믹스를 개선하겠다고 설명합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이",
+     "script": [
+      "최근 '이번주 수출 1조달러 시대 열린다…수출 5위·무역흑자 2위 - 머니투데이' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "글로벌 해운운임, 고점 꺾였나…2주 연속 하락",
+     "script": [
+      "최근 '글로벌 해운운임, 고점 꺾였나…2주 연속 하락' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "인코텀즈 조건(Incoterms)과 통상·물류 리스크",
+    "body": "인코텀즈는 국제상업회의소(ICC)가 제정한 무역 정형거래조건으로, 매도인(수출자)과 매수인(수입자) 간의 운임 부담, 위험 이전 시점, 수출입 통관 및 관세 납부 의무를 규정합니다. 예컨대 FOB 조건에서는 본선 적재 시 위험이 매수인에게 넘어가며 해상운임은 매수인이 부담하는 반면, CIF나 DDP 조건에서는 매도인의 운임 부담 및 통관 책임 범위가 넓어집니다. 따라서 해운운임 변동이나 관세 인상과 같은 통상 리스크 발생 시 어떤 조건을 채택했느냐가 영업 이익과 직결됩니다.",
+    "tip": "면접에서 운임 급변이나 통상 규제 대응 질문을 받을 때, 단순히 '협상하겠다'고 하기보다 FOB·CIF·DAP 등 계약 조건별 위험 및 비용 분담을 근거로 제시하면 실무 이해도를 강하게 어필할 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-14",
    "mode": "ai",
