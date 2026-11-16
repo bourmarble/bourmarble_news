@@ -1,6 +1,223 @@
 {
- "updated": "2026-11-15 09:59",
+ "updated": "2026-11-16 09:56",
  "days": [
+  {
+   "date": "2026-11-16",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "달러·원 환율 1,330원대 공방과 통화 변동성 확대",
+     "summary": "달러·원 환율이 미국 긴축 경계와 반도체 수출 네고 물량 간의 줄다리기 속에 1,330원대에서 등락을 거듭하고 있습니다. 외국인 자금 이탈과 글로벌 외환 시장 변수 속에서 환율 향방에 대한 경계감이 커지고 있습니다.",
+     "what": "달러·원 환율이 1,330원 안팎에서 상승과 하락 압력을 동시에 받으며 줄다리기를 이어가고 있습니다.",
+     "why": "미국의 긴축 기조 경계감과 강달러 압력이 존재하는 가운데, 국내 반도체 관련 수출업체의 달러 네고(환전) 물량이 유입되며 상단을 제한하고 있기 때문입니다.",
+     "impact": "수출 결제 통화 기준 가격 경쟁력 및 정산 시 환차손익에 직접적인 영향을 미치므로, 수출 단가 산출과 결제 시점 환헤지 전략 수립이 중요해집니다.",
+     "tags": [
+      "환율",
+      "외환",
+      "반도체"
+     ],
+     "sources": [
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnLWtvWTg2djNMYmFyclZOci11ZnM2blU0RnV5UFlfb3dORkNYTDBNTEYwREtKNm5WSF9BS2xDU0Z2ZTBRdjhDRjcwSXJlVVY5VXRZSWxnR2RTQQ?oc=5"
+      },
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1RQVFqTUdyR2lyWVNkWmxBeGdFcVRTTWFxRTNEY1M2QUhxTDI3ZzFEeUJ0Y1R5Qzk3Y1BuSTNza19EaGdoQ3FlZG90Ry1PMkM1ZWgwQw?oc=5"
+      },
+      {
+       "name": "서울파이낸스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jcHlPdXl3VXFjclg2ZlVlbF9LRkxWblNERDBaMWk3NGlGMkVDVFl5SjFmTkRORWlJb1dib3JReEw3NEJLNEFFMjdWY3d1YUlzQTlQd0VYVTBBV1FvZmNWdDJmYXdVd195MXc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 1,330원대에서 높은 변동성을 보일 때 해외영업 담당자로서 계약 체결 시 어떤 조치를 취하겠습니까?",
+       "hint": "통화 조건 분산, 환변동 보험 활용, 계약서 내 결제 시점 환율 연동 조항 검토 등을 제시합니다."
+      },
+      {
+       "q": "수출 대금 결제 시 '네고(Nego)' 타이밍을 잡는 본인만의 기준이나 접근법은 무엇입니까?",
+       "hint": "시장 예측에 의존하기보다 사내 환리스크 관리 가이드라인을 준수하고 분할 결제를 통해 리스크를 분산한다는 점을 강조합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "수출 1조 달러 시대 진입과 통상 압박 우려",
+     "summary": "한국 수출이 1조 달러 달성을 앞두고 수출 5위와 대규모 무역흑자를 기록하고 있습니다. 반면 글로벌 보호무역주의 심화와 대미 무역흑자 누적에 따른 추가 통상 압박 우려도 함께 커지고 있습니다.",
+     "what": "수출 1조 달러 및 무역흑자 확대라는 외형적 성과와 함께 보호무역주의 및 통상 압박이라는 과제가 부각되고 있습니다.",
+     "why": "대미 무역흑자 급증과 주요국의 자국 우선주의 통상 정책이 맞물려 상대국의 견제와 무역 규제 조짐이 나타나고 있기 때문입니다.",
+     "impact": "특정 국가 및 주력 품목 의존도가 높은 수출 기업은 수입 규제나 관세 장벽에 직면할 수 있어 신시장 다변화와 비관세 장벽 대응이 시급합니다.",
+     "tags": [
+      "통상압박",
+      "무역흑자",
+      "보호무역"
+     ],
+     "sources": [
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90aF9iR3lvVjBiQjRPa2tMMEREV3FpNjJZZGJJOEFuN2ItR3ZaNHVhQXhjTWRiNGtIYzVwajV1UXg0VTRDUWhZYXdMSlI2alhrcjI4Yk0xTzJ2ODdtVzhpMWIwbnJrMWIyck1J0gFwQVVfeXFMT0ZqbEIyOGxTdjI5SHN3ck9zU1A4aWJUaENqSmZNTklDMlNOVDZWWU1ONlI5dGhCNUZqUElpT19pLXp2Tl9VeUtmQlFOQ2p6VTdISWNIV1Ztd1dLcnpZSVV3RlViNkcyS3pPdWx4NkNoTQ?oc=5"
+      },
+      {
+       "name": "머니투데이",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WY3R6a1dCaVY4VHVuZW1pM19yVzN2NUo4Vi04S1dHUDgwclgxT2NUWmE5STEzbmsyTzFVSW1XYllIVDdaRkdzOU9GT0VpU2FYUUc1cDRlUTZkcUhDVXJIc3ZtVVJ5Y3MtaElB0gFwQVVfeXFMT3VyZEs4ZTJRN2dJczlud3I5V2pBeFpXZi14M2treEJHemF0SHFwdnU5bFVhUFhsaTBZZWdZZUo2WWRodlFoOWJHNnh5S3RzVkozakt6UUpmNVJuLUN3bkJQSmFzbDMtZ3BSVUtfUndhZA?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBQbWdIZ0M5Y0xwTGdQRE9xa2FPc2tOSnNaOU5PZi1ucVl0WjJ5N1BBMDhFVVl3S0h5ck9DdGR2NXNBakVoT0lDLTRPTmJXX0owR0NGVmt5X0EwczN3S1k4?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "주요 수출국의 통상 압박 및 관세 부과 리스크에 대해 영업 실무 차원에서 어떻게 대응할 수 있습니까?",
+       "hint": "원산지 규정 충족 여부 사전 점검, 현지 규제 모니터링, 대체 수출 시장 발굴 계획을 답변으로 구성합니다."
+      },
+      {
+       "q": "한국의 무역흑자 확대가 오히려 수입국 바이어와의 관계에서 불리하게 작용할 때 어떻게 협상하시겠습니까?",
+       "hint": "단순 제품 공급을 넘어 현지 맞춤형 기술 지원이나 상생 파트너십 가치를 부각해 협상 논리를 강화합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "KOTRA·조달협회 협력 통한 해외 조달시장 공략",
+     "summary": "KOTRA와 정부조달수출진흥협회가 국내 중소·중견기업의 해외 조달시장 진출 지원을 위해 업무협약을 체결했습니다. 국제입찰 지원을 강화해 해외 조달시장의 높은 진입장벽을 낮추겠다는 목표입니다.",
+     "what": "국내 공공조달 유관기관들이 손잡고 중소·중견기업의 해외 공공입찰 시장 진입을 체계적으로 지원하기로 했습니다.",
+     "why": "해외 조달시장은 규모가 크지만 까다로운 입찰 규격, 자격 검증 등으로 중소기업 단독 진입이 어렵기 때문입니다.",
+     "impact": "민간 B2B뿐만 아니라 글로벌 정부 조달이라는 대형 B2G 수출 창구를 확보함으로써 판로를 다각화할 기회가 열립니다.",
+     "tags": [
+      "KOTRA",
+      "정부조달수출진흥협회",
+      "해외조달",
+      "B2G"
+     ],
+     "sources": [
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB6UGs4RG9QV1oyMjBydExvdmZ1WFUtS2hHeXJDbTRabEVJeC16UTA0OVloVW5IT2VPd2h0SV81ZzU4RGxHNHpaaVFraFI2YWRCUWVsMFh1T0wwNnpzTmNSUNIBYEFVX3lxTFB6UGs4RG9QV1oyMjBydExvdmZ1WFUtS2hHeXJDbTRabEVJeC16UTA0OVloVW5IT2VPd2h0SV81ZzU4RGxHNHpaaVFraFI2YWRCUWVsMFh1T0wwNnpzTmNSUA?oc=5"
+      },
+      {
+       "name": "데일리안",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE10M3Atelh3OFB4cnE1VVFSLXd6NTdudUJEUjRpNFJVU0xwNFExYW5nMkhyV2pjRll5ekJQa3VjWWdkMlNnc2hsZG1XRG5ibTRjRmdZ?oc=5"
+      },
+      {
+       "name": "컨슈머타임스",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1IRjN5TFNtMDZJOF9MbHBJWDREaUdZemotSnJTejNSU3I2OURwcm1CeEFEbHBnSXhRWm04VnV1Zks3WjFzMnNQcjNCMjgtNDdMSjZEelg3R2VqRXBFNjRnSlN2UWc5TEhWa0E?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "일반 B2B 민간 바이어 영업과 해외 정부 조달(B2G) 영업의 가장 큰 차이점은 무엇이라고 생각합니까?",
+       "hint": "엄격한 입찰 서류 요건 준수, 국가별 공공조달 법률 이해, 계약 이행 보증 및 신용도의 중요성을 비교 설명합니다."
+      },
+      {
+       "q": "공공기관의 해외 진출 지원사업을 실제 영업 성과로 연결하기 위해 신입사원으로서 어떤 역할을 수행하겠습니까?",
+       "hint": "공고 모니터링, 필수 제출 서류 분석, 현지 파트너사 발굴 및 기관 네트워크 활용을 구체적으로 언급합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "원유수송선(VLCC) 운임 급락과 해상 운임 변동",
+     "summary": "원유수송선(VLCC) 시장에서 운임 프리미엄이 빠르게 축소되며 지난주 운임이 40% 이상 급락했습니다. 해운 시장 내 선종별 수급 불균형과 운임 급변동 현상이 나타나고 있습니다.",
+     "what": "원유수송선(VLCC) 운임이 단기간에 42.4% 하락하며 프리미엄이 제거되고 있습니다.",
+     "why": "해상 운송 수요 둔화 또는 가용 선복 공급 변화로 인해 기존에 붙었던 운임 프리미엄이 급격히 빠졌기 때문입니다.",
+     "impact": "화주와 물류 실무자는 해상 운임 변동성에 맞춰 스팟(Spot) 계약과 장기(Long-term) 계약의 비중을 유연하게 조정해야 합니다.",
+     "tags": [
+      "해상운송",
+      "VLCC",
+      "운임"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nMEFhZmZpcjNnazNDTy1kVVZyYmpfelVMV0I0M3ljWUhLcHI2WTl3OUFnMjZ3cGY1YVZSQVZJUjlfTWhrcUhhTHZTblZRbndkNVVmdnFyZlBJd1E5cE8tazktekZ0Mk5hb0hPWGVfalhVVlU?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임이 급격히 하락하는 시기에 물류 담당자는 포워더 및 선사와 운임 협상을 어떻게 진행해야 합니까?",
+       "hint": "고정 장기 계약 단가를 재협상하거나 스팟 운임 비중을 늘려 운송비 절감을 유도하는 전략을 설명합니다."
+      },
+      {
+       "q": "특정 선종의 운임 폭락이 전체 물류 시장과 컨테이너 수송에 미칠 수 있는 파급효과는 무엇입니까?",
+       "hint": "유가 및 에너지 공급망 안정화에 따른 선박 벙커유 비용 변화, 전반적인 해운 경기 심리 위축 가능성을 연결합니다."
+      }
+     ],
+     "unverified": [
+      "40"
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "삼영물류, 중소기업 공동물류를 통한 SCM 역량 강화",
+     "summary": "삼영물류가 공동물류 모델을 통해 중소기업의 SCM 역량을 강화한 공로로 한국SCM산업대상을 수상했습니다. 중소 화주들의 물류 효율을 높이는 협력적 SCM 모델이 주목받고 있습니다.",
+     "what": "물류 전문기업이 공동물류 시스템을 구축하여 중소 화주 기업들의 공급망 경쟁력을 끌어올렸습니다.",
+     "why": "단독 물류 인프라 구축이 어려운 중소기업의 물동량을 통합하여 규모의 경제를 실현하고 물류비를 절감하기 위함입니다.",
+     "impact": "수출입 중소기업은 물류 거점 및 배송망을 공유함으로써 보관·운송 비용을 낮추고 SCM 운영 가시성을 확보할 수 있습니다.",
+     "tags": [
+      "삼영물류",
+      "공동물류",
+      "SCM",
+      "물류인프라"
+     ],
+     "sources": [
+      {
+       "name": "코스인코리아닷컴",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hc2JNTjB3OUFUUW9hb3ZnQ19Wa0pJOUgyU2N3QkEyWmlqZ1h3eUVuR3c5TGFlajZTbHdRekdWa1VaWTRSNVVsVXl2UEZocHJTQV9HSE5EUGswX3Ztak41a2xqaw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "독자 물류망 구축 대신 공동물류 방식을 채택할 때 얻을 수 있는 장단점은 무엇입니까?",
+       "hint": "비용 절감과 배송 효율 향상이라는 장점과 고객사별 맞춤형 대응 및 정보 보안 관리의 난점을 균형 있게 설명합니다."
+      },
+      {
+       "q": "글로벌 공급망(SCM) 구축 시 중소 화주가 직면하는 가장 큰 병목은 무엇이며 이를 어떻게 극복할 수 있습니까?",
+       "hint": "물동량 부족에 따른 운임 협상력 열세를 전문 물류기업과의 협업 및 3자 물류(3PL) 파트너십으로 극복한다고 답변합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
+     "script": [
+      "최근 '환율·채권, 美 긴축 경계…환율 1330원대 줄다리기' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "RCL, 9200TEU급 컨테이너선 2척 2억1300만달러에 발주...3분기 순이익 41.7% 증가한 97.1백만달러",
+     "script": [
+      "최근 'RCL, 9200TEU급 컨테이너선 2척 2억1300만달러에 발주...3분기 순이익 41.7% 증가한 97.1백만달러' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "공동물류 (Joint Logistics)",
+    "body": "공동물류는 물류 시설, 수송 수단, 보관 설비 등을 여러 화주나 물류기업이 함께 구축하거나 공유하여 운영하는 물류 합리화 방식입니다. 개별 화주가 단독으로 물류망을 운영할 때 발생하는 공차 운행, 창고 유휴 공간, 물동량 부족으로 인한 운임 협상력 저하 문제를 개선할 수 있습니다. 수송 효율을 높이고 단위당 물류비를 낮추며 환경 부담을 줄이는 효과가 있어 SCM 효율화의 핵심 전략으로 활용됩니다.",
+    "tip": "면접에서 물류비 절감 및 ESG SCM 전략을 질문받았을 때, 단독 최적화의 한계를 지적하고 거점 및 배송망을 공유하는 '공동물류'를 실현 가능한 대안으로 제시하면 깊이 있는 직무 역량을 보여줄 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-15",
    "mode": "ai",
