@@ -1,6 +1,225 @@
 {
- "updated": "2026-11-16 09:56",
+ "updated": "2026-11-17 12:38",
  "days": [
+  {
+   "date": "2026-11-17",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국 긴축 경계 및 증시 변동성 속 환율 1330원대 등락",
+     "summary": "미국 긴축 경계와 반도체주 변동, 외국인 수급 영향 등으로 원·달러 환율이 1320~1360원 및 1330원대에서 등락을 보이고 있습니다. 수출 기업은 환율 변동성 관리에 주목해야 하는 상황입니다.",
+     "what": "원·달러 환율이 미국 긴축 경계감, 외국인 자금 흐름, 반도체주 흐름 등에 영향을 받으며 1330원대 줄다리기를 이어가고 있음.",
+     "why": "미국의 통화 긴축 경계, 글로벌 반도체 증시 급락, 외국인 자금 이탈 및 수급 요인 복합 작용.",
+     "impact": "해외영업 담당자에게 환율 변동은 결제 통화 기준 수출 마진, 결제 대금 회수 시기, 환헤지 전략 및 단가 산정에 직접적인 영향을 미침.",
+     "tags": [
+      "외환",
+      "환율",
+      "수출영업"
+     ],
+     "sources": [
+      {
+       "name": "한국경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBnLWtvWTg2djNMYmFyclZOci11ZnM2blU0RnV5UFlfb3dORkNYTDBNTEYwREtKNm5WSF9BS2xDU0Z2ZTBRdjhDRjcwSXJlVVY5VXRZSWxnR2RTQQ?oc=5"
+      },
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92a0MyWFZlREppQVRzUFR2VDRPdWhGQmdXRFVjeWdWVl93djIxVUM2Q0tOSU12WEdoTVN1VGpPUFRSZWJfYm5wY0d2a0t1Q2syeUlpRXJZNVBGZWZs?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQk85TGkwc3NKdnlOVlh0ZDV1TFFtU2ZZSWF6R1VRUUNyczJfSzdLN3hraEo5ODJpY3VfQ0JuT1AxSVpDS1NOUW0wS2RzYWwtRk5kNW9vWGh3RjZDZTVWOHFZdHFkNE16b2JvZjdvaVUwdnVLYW1UWllIaV9iTlJpbQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 1330원대 변동성을 보일 때 해외영업 담당자로서 계약 단가와 마진을 어떻게 방어하겠습니까?",
+       "hint": "환변동 리스크를 고려한 결제 조건 설정, 환차손 방지를 위한 환헤지 도구 활용 및 결제 통화 다변화 전략 제시."
+      },
+      {
+       "q": "고환율 기조가 장기화될 경우 원자재 수입과 완제품 수출을 병행하는 기업 관점에서 어떤 영향이 있습니까?",
+       "hint": "수출 단가 경쟁력 확보라는 긍정적 측면과 수입 원자재 비용 상승이라는 부정적 측면을 동시에 고려한 손익 분석."
+      }
+     ],
+     "unverified": [
+      "1320",
+      "1360"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "미·중 600억달러 규모 관세 인하 협상 재가동",
+     "summary": "미국과 중국이 600억달러 규모의 관세 인하 협상을 재가동하며 글로벌 무역 환경에 변화가 예상됩니다. 이에 따라 글로벌 통상 질서와 주요 수출국들의 공급망 재편 논의가 다시 시험대에 올랐습니다.",
+     "what": "미·중 양국이 600억달러 규모의 관세 인하 협상을 다시 추진 중임.",
+     "why": "무역 긴장 완화 및 양국 경제적 이해관계 조정을 위한 통상 협상 재개.",
+     "impact": "글로벌 밸류체인 내 한국 수출 기업의 대미·대중 수출 품목 경쟁력과 현지 납품 단가에 간접적 영향 발생 가능.",
+     "tags": [
+      "통상",
+      "미국",
+      "중국",
+      "관세"
+     ],
+     "sources": [
+      {
+       "name": "지이코노미",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zaXVyaTAzYU0zYmRyZm44SDZaU0lhMmVFZndtVTktdk9INVBMTG1JRmRUUW9Jbmlka1ZjVldXQ2NPbXI2dTNrUjl1X0pyR0FCOFZqbTd3aHBhS3NCNnRsYjl0Z2Y?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미·중 통상 갈등이나 관세 협상 변화가 담당 제품의 해외영업 전략에 미칠 영향을 어떻게 모니터링하겠습니까?",
+       "hint": "원산지 규정 준수 여부, 바이어의 공급망 다변화 요구, 관세 인하 품목에 따른 가격 경쟁력 변동 파악."
+      },
+      {
+       "q": "주요 교역국의 보호무역 조치나 관세 협상에 대응하기 위해 신입 영업사원이 지원할 수 있는 업무는 무엇입니까?",
+       "hint": "HS 코드별 관세율 변동 실시간 트래킹, 바이어 대상 통상 이슈 업데이트 공유 및 대체 판로 발굴 지원."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "바이오협회·KOTRA, ‘BIO USA 2027’ 한국관 참가 지원",
+     "summary": "한국바이오협회와 KOTRA가 ‘BIO USA 2027’ 한국관에 참가할 기업을 모집하며 최대 70%를 지원합니다. 공공 기관 협력을 통한 바이오 분야 기업의 해외 판로 개척이 추진되고 있습니다.",
+     "what": "BIO USA 2027 전시회 한국관 참가 기업 모집 및 정부 지원(최대 70%) 제공.",
+     "why": "국내 바이오 기업의 해외 진출 활성화 및 글로벌 네트워크 구축 지원.",
+     "impact": "해외영업 신입 관점에서 해외 전시회를 통한 신규 바이어 발굴 및 글로벌 시장 파트너십 구축 기회 확보.",
+     "tags": [
+      "바이오",
+      "KOTRA",
+      "한국바이오협회",
+      "해외전시회"
+     ],
+     "sources": [
+      {
+       "name": "약업신문",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1qbWRDRS1zeWpUanJvb3RaSHNZSlA4NnF4VHFKSFVPZ2VNSnhjTWpKeHFwMTU4aFpBUktoMTFSNlY0SFJvSDBFSWN3SE9yenZGTlBxd1ZnbDdpVzI0Sm83TlI0QnhHdw?oc=5"
+      },
+      {
+       "name": "MEDI:GATE NEWS",
+       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zVlJ3UEtOa2RlRmFEWGN1enVwclBiN2UwR1FmY0JsdWhkT1c4eU5jM0t0Mmh5YlltV0hGMDZSSGotWDVCRGFrXzlhQnl3enZvampnTE1MVQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "대형 해외 전시회 참가 전후로 해외영업 담당자가 반드시 챙겨야 할 핵심 실무는 무엇입니까?",
+       "hint": "사전 바이어 미팅 어레인지, 현장 상담 일지 작성 및 행사 종료 후 빠른 Follow-up 이메일 발송과 견적 대응."
+      },
+      {
+       "q": "정부나 유관기관의 해외 진출 지원사업을 활용해 신규 시장을 개척할 방안을 말해보세요.",
+       "hint": "부스 임차료 등 초기 비용 절감 효과를 극대화하고 공공 기관의 현지 네트워크를 통한 사전 바이어 매칭 활용."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "원유수송선 운임 급락 및 선사들의 컨테이너선 발주",
+     "summary": "원유수송선(VLCC) 운임 프리미엄이 빠르게 빠지며 지난주 운임이 42.4% 하락했습니다. 한편 선사 RCL은 순이익 증가 속에 9200TEU급 컨테이너선 2척을 신규 발주했습니다.",
+     "what": "VLCC 운임이 42.4% 하락하며 프리미엄이 축소된 반면, RCL은 신규 컨테이너선을 발주함.",
+     "why": "해상 운송 품목별 수급 불균형 완화 및 선사들의 실적 개선에 따른 선대 확충 전략.",
+     "impact": "해상 운임 지수의 변동은 원자재 및 완제품 수출입 물류비 산정에 직접적인 영향을 미치며 선복 확보 전략 수정 필요.",
+     "tags": [
+      "해운",
+      "VLCC",
+      "컨테이너선",
+      "운임"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9nMEFhZmZpcjNnazNDTy1kVVZyYmpfelVMV0I0M3ljWUhLcHI2WTl3OUFnMjZ3cGY1YVZSQVZJUjlfTWhrcUhhTHZTblZRbndkNVVmdnFyZlBJd1E5cE8tazktekZ0Mk5hb0hPWGVfalhVVlU?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhSTlPSjhtQzM1VWExUjROOG5WbkFrOGVWaXJUN1FoQ014T0dZNE1CMzg1cEdVWWtEVDFCN3BubVQ2aTdMTmtMVmxrU0pmX3NyRktENG5BYmpqMS10MUpmTnN5N05XUFAwM3p6ajhGVGJLNlk?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임 변동성이 커질 때 화주(수출기업) 관점에서 물류비를 안정화할 방안은 무엇입니까?",
+       "hint": "단기 스팟 운임과 장기 계약 운임의 비중 조절, 포워더 다변화 및 선적 스케줄 유연화."
+      },
+      {
+       "q": "선사들이 컨테이너선을 신규 발주하는 것은 향후 글로벌 수출입 물류 시장에 어떤 시사점을 줍니까?",
+       "hint": "중장기적 선복 공급 증가로 인한 운임 안정화 가능성과 공급 과잉 리스크 분석."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "삼영물류, 중소기업 공동물류 SCM 역량 강화로 산업대상 수상",
+     "summary": "삼영물류가 공동물류를 통해 중소기업의 SCM 역량을 강화한 공로로 제25회 한국SCM산업대상을 수상했습니다. 화주 간 협력을 통한 물류 효율화 모델의 중요성이 부각되고 있습니다.",
+     "what": "삼영물류가 공동물류 기반의 중소기업 SCM 지원 성과로 한국SCM산업대상 수상.",
+     "why": "개별 기업 단위 물류의 비효율을 줄이고 공동화를 통해 물류 운영 최적화 달성.",
+     "impact": "물류·SCM 담당자에게 보관·운송 비용 절감 및 배송 네트워크 공유를 통한 공급망 효율 개선의 벤치마킹 사례 제공.",
+     "tags": [
+      "삼영물류",
+      "공동물류",
+      "SCM"
+     ],
+     "sources": [
+      {
+       "name": "코스인코리아닷컴",
+       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9hc2JNTjB3OUFUUW9hb3ZnQ19Wa0pJOUgyU2N3QkEyWmlqZ1h3eUVuR3c5TGFlajZTbHdRekdWa1VaWTRSNVVsVXl2UEZocHJTQV9HSE5EUGswX3Ztak41a2xqaw?oc=5"
+      },
+      {
+       "name": "프라임경제",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnR00yR1dxeEZFT3ZQYW9VWmFYVWwxRktHVllpdzlCWWJzTFgxT3JFNlR4dVR5V1E4S2Z6bWpycjQzdXBwQktfN3dkcHExTFVBYXk5a1lWNFBveGJkaEM4Y0Zib2RyeGhzTFJuNEZUcXZmOUFKOHdiMA?oc=5"
+      },
+      {
+       "name": "인천일보",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YYmxwT3lhenkwamZvNEZaeS1xYnloWlVBTFZWVTFDM203dm5yOXI0YXdaMzFCWTBYcXp5TGktQ2JDSVl2RThOS1NMT3pVRkxLUEI2b21USmc0bmdWeEdQVHoxemFLMVdGVlh3RG5ZUm0?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "중소 수출입 화주들이 물류비를 절감하기 위해 공동물류 시스템을 도입할 때의 장단점은 무엇입니까?",
+       "hint": "비용 분담 및 규모의 경제 효과(장점)와 배송 일정 조율 및 화물 관리 보안 이슈(단점) 균형 있게 답변."
+      },
+      {
+       "q": "SCM 최적화가 기업의 해외 수출 경쟁력 강화에 어떻게 기여한다고 생각합니까?",
+       "hint": "리드타임 단축, 물류비 절감을 통한 최종 납품 단가 경쟁력 확보 및 재고 관리 안정화 강조."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "환율·채권, 美 긴축 경계…환율 1330원대 줄다리기",
+     "script": [
+      "최근 '환율·채권, 美 긴축 경계…환율 1330원대 줄다리기' 소식에 관심을 갖고 있습니다.",
+      "환율 변동은 수출 대금의 원화 환산액과 수출 마진에 영향을 줍니다.",
+      "해외영업 관점에서 보면 견적 환율 기준, 결제 통화, 환율 변동 조항을 바이어와 미리 점검해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "[카드] 삼영물류, 제25회 한국SCM산업대상 수상",
+     "script": [
+      "최근 '[카드] 삼영물류, 제25회 한국SCM산업대상 수상' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "공동물류 (Joint Logistics)",
+    "body": "공동물류는 물류 시설, 수송 장비, 배송망 등을 단일 기업이 독자적으로 운영하지 않고, 복수의 기업이 공동으로 구축하거나 전문 물류 기업의 인프라를 함께 활용하는 방식입니다. 이를 통해 보관 공간의 가동률을 높이고 수송 차량의 적재율을 극대화하여 물류비 절감과 배송 효율 향상을 이끌어냅니다.",
+    "tip": "면접에서 물류비 절감 방안이나 중소 수출기업의 공급망 경쟁력 강화 전략 질문을 받았을 때 화주 간 공동 수송·보관 모델을 구체적 대안으로 제시하면 좋은 평가를 받습니다."
+   }
+  },
   {
    "date": "2026-11-16",
    "mode": "ai",

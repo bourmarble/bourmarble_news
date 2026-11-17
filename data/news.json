@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-16 09:54",
+ "updated": "2026-11-17 12:38",
  "items": [
+  {
+   "id": "6e8362983a",
+   "date": "2026-11-17",
+   "title": "[카드] 삼영물류, 제25회 한국SCM산업대상 수상",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnR00yR1dxeEZFT3ZQYW9VWmFYVWwxRktHVllpdzlCWWJzTFgxT3JFNlR4dVR5V1E4S2Z6bWpycjQzdXBwQktfN3dkcHExTFVBYXk5a1lWNFBveGJkaEM4Y0Zib2RyeGhzTFJuNEZUcXZmOUFKOHdiMA?oc=5",
+   "source": "프라임경제",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "f21bb4dedc",
+   "date": "2026-11-17",
+   "title": "콜로세움, 중국 아이샹과 한중 SCM 협력 확대",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtYTdETmZBTExSNHU2c1hwVUhwSWpOVTQ1MUpCbTE5N1F0OGE2bzU3ZVBETmNlNllRUUZRQ2otd1dlRGhHSnFRUTdpYVZFQm94TXRtTXd5ZlBzWldlTXpQa2VmMFo?oc=5",
+   "source": "베타뉴스",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
   {
    "id": "9bc1edb0f9",
    "date": "2026-11-16",
@@ -165,6 +187,41 @@
     "sales"
    ],
    "tags": []
+  },
+  {
+   "id": "6ec5f8dc47",
+   "date": "2026-11-16",
+   "title": "'삼영물류' 제25회 한국SCM산업대상 수상",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YYmxwT3lhenkwamZvNEZaeS1xYnloWlVBTFZWVTFDM203dm5yOXI0YXdaMzFCWTBYcXp5TGktQ2JDSVl2RThOS1NMT3pVRkxLUEI2b21USmc0bmdWeEdQVHoxemFLMVdGVlh3RG5ZUm0?oc=5",
+   "source": "인천일보",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "46b01afaa2",
+   "date": "2026-11-16",
+   "title": "바이오협회·KOTRA, 바이오 USA 2027 한국관 참가 기업 모집…선정 기업에 최대 70% 지원",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1zVlJ3UEtOa2RlRmFEWGN1enVwclBiN2UwR1FmY0JsdWhkT1c4eU5jM0t0Mmh5YlltV0hGMDZSSGotWDVCRGFrXzlhQnl3enZvampnTE1MVQ?oc=5",
+   "source": "MEDI:GATE NEWS",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "4dc566905f",
+   "date": "2026-11-16",
+   "title": "[인물포커스] 김태형 한국무역통상진흥협회(KOTIPA) 신임 회장, “현장형 국제통상 노하우로 우리 기업 해외 진출 견인”(New KOTIPA Chairman Kim Tae-hyung: “Driving Korean Companies’ Global Expansion with Field-Proven International Trade Expertise”)",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85TVBWaUlnNW94UUlyeThITDVJelRyNE5OQ0JBRHpmei0xM0RuXzlRcG42cENOQWpHdEZIWHV6WmxGOGtUTy11djd2alczdlN6LXpIRUZ5X1k4VkxiTmZJNy01Z2dFdFRDYUt1VFFyNW8wQQ?oc=5",
+   "source": "글로벌휴먼타임즈",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
   },
   {
    "id": "eec8d2f62a",
