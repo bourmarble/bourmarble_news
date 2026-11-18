@@ -1,6 +1,214 @@
 {
- "updated": "2026-11-17 12:38",
+ "updated": "2026-11-18 11:53",
  "days": [
+  {
+   "date": "2026-11-18",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "log",
+     "title": "컨테이너 운임 하락세 및 선사 감편",
+     "summary": "미주와 유럽 노선의 약세로 컨테이너 운임이 하락세를 보이며 선사들이 감편을 확대하고 있습니다.",
+     "what": "미주·유럽 노선 중심의 해상 컨테이너 운임 하락 및 선사들의 감편 조치",
+     "why": "해상 물류 시장의 불확실성이 커지고 지역별 수요 약세가 반영된 결과",
+     "impact": "물류비 변동성 축소로 운송 비용 절감 기회가 생기지만, 선사 감편으로 인한 선복량 부족 리스크에 대비해야 합니다.",
+     "tags": [
+      "HMM",
+      "팬오션",
+      "CMA CGM"
+     ],
+     "sources": [
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9NWldKaTJHX0ZlLVZkUVcwbXZHTXZBVnhCbGo3dXhKS28tRXQzRDAzeFZPdk9qalRUY0lCdjZJczg2bllJTThzeWpNTi1IYVcxVnNTZkpJbEwzQVhmRUFLQU1pZWl1R2dBeVMw?oc=5"
+      },
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tY29YV3EzUHdhMi1KTTI4b1ZLdjB2c2NfcVg5TGgwc2pFNlNvbVRVTTNxeENxM2t0eHNVejNGUWNkNHFldkhBXzdHcXRfS21zNEk3YUxqcERHb0NXNXM0YTUzOGVGTW1EVlc1ZnUweGdSY1hhTFpV0gF3QVVfeXFMTm1jb1hXcTNQd2EyLUpNMjhvVkt2MHZzY19xWDlMaDBzakU2U29tVFVNM3F4Q3Eza3R4c1V6M0ZRY2Q0cWV2SEFfN0dxdF9LbXM0STdhTGpwREdvQ1c1czRhNTM4ZUZNbURWVzVmdTB4Z1JjWGFMWlU?oc=5"
+      },
+      {
+       "name": "한국해운신문",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55OEVscmxxYnBoUW5zUkU3Wk16VnhMY0Vkc1l6NUNvRnhMQ0ZCendTSHJLLWJ5bzRpX2hLUFlaQUJnWnVhdHJxTnIzdlowUUNvTW5BVVBfci04NGFTSjgwaXhTZmpyUUJmemUyUGtqd0FIbGc?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임 하락과 선사 감편이 공존할 때 물류 담당자로서의 대응 방안은 무엇인가?",
+       "hint": "단기 운임 하락에 안주하지 말고, 장기 계약과 선복 확보 전략을 병행함을 어필"
+      },
+      {
+       "q": "운임 하락이 회사의 수출 물류비에 미치는 긍정적/부정적 영향은?",
+       "hint": "운송 원가 절감 효과와 서비스 안정성(스페이스 부족) 간의 트레이드오프 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "한국 수출 1조 달러 클럽 가입 및 반도체 견인",
+     "summary": "반도체의 견인 속에 한국이 세계 4번째로 '수출 1조 달러 클럽' 진입을 앞두고 있습니다.",
+     "what": "반도체 수출 호조에 힘입은 국가 수출 규모의 기록적 성장",
+     "why": "주력 품목인 반도체 수요 회복 및 수출액 증가",
+     "impact": "국가 브랜드 및 주력 품목의 글로벌 인지도 상승으로 해외영업 시 바이어 협상력 강화",
+     "tags": [
+      "반도체"
+     ],
+     "sources": [
+      {
+       "name": "법률방송뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ZRXFWWkstYkkwZmVBc2tXdTZpbHRuYUlwUDlFNnRQdjNxWDQ1Nlc1WHdhOW03VWFaUEtVVEszc2RTQlN6TkQ1OE1lVWhrcUJEZ180aW5zclJkMXlXbnc1S25BaWI?oc=5"
+      },
+      {
+       "name": "뉴스로드",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBneGNEcU1JYTczbE5sM3Vjd3B4bXdfam5XN3I4M2JkVTlWOER2M2ROeDZqSlNLeFVrQUxnQWZwUHBQM19JSm1mZm1XSEF6dzd4MzdtQ3hTQmZTTDNIS3p5akN1c3MtZFc0bWlrRUZGMNIBb0FVX3lxTFBneGNEcU1JYTczbE5sM3Vjd3B4bXdfam5XN3I4M2JkVTlWOER2M2ROeDZqSlNLeFVrQUxnQWZwUHBQM19JSm1mZm1XSEF6dzd4MzdtQ3hTQmZTTDNIS3p5akN1c3MtZFc0bWlrRUZGMA?oc=5"
+      },
+      {
+       "name": "울산매일 - 울산최초, 최고의 조간신문",
+       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GVS1OemdDdld2ZEs3bHpyekpkODRXX2w1aUxYa0VvNl9kV0F6VTY3QURRQkM2Zl84QXVKV0Y5VmM0Vl9zbS1vRzJjbHhjT2U0SkVCbVJEd1g0WjNhcXFnc3M5NjQybWw4eWthWnZR0gFuQVVfeXFMTUZVLU56Z0N2V3ZkSzdsenJ6SmQ4NFdfbDVpTFhrRW82X2RXQXpVNjdBRFFCQzZmXzhBdUpXRjlWYzRWX3NtLW9HMmNseGNPZTRKRUJtUkR3WDRaM2FxcWdzczk2NDJtbDh5a2FadlE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "반도체 중심의 수출 호조세 속에서 신입 해외영업사원이 집중해야 할 시장 개척 전략은?",
+       "hint": "주력 품목의 경쟁력을 바탕으로 신흥 시장이나 인접 수요처로의 다변화 강조"
+      },
+      {
+       "q": "특정 품목 의존도가 높을 때 발생할 수 있는 리스크와 해외영업적 대책은?",
+       "hint": "포트폴리오 다변화 및 비메모리·기타 유망 품목 발굴 필요성 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "원·달러 환율 1330원대 등락과 수출 네고 물량",
+     "summary": "달러 강세 압력에도 불구하고 수출 기업들의 네고 물량이 유입되며 원·달러 환율이 1330원대에서 등락을 보이고 있습니다.",
+     "what": "강달러 기조 속 수출 기업의 달러 매도(네고) 물량으로 인한 환율 하방 압력",
+     "why": "수출 대금 유입에 따른 달러 공급 증가",
+     "impact": "환율 변동성에 따른 수출 채산성 분석 및 대금 결제 조건 유리한 고지 선점 필요",
+     "tags": [],
+     "sources": [
+      {
+       "name": "뉴스핌",
+       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hWHJiRzllalhXal9tWHJscTZzalQ5Ul93elBsZmIwdDk5a3lTWjNiWFowRnlpYjN3Y1E1OEw2MEVlN3R1X1hMRl95ZjBzXzh2ZS1FZFEwOTl6OWY1?oc=5"
+      },
+      {
+       "name": "뉴스투데이",
+       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EUjRUbVN0RlFDdW56ZWhtX2hfZWVVNnJZNnFzU09LX3diS01HWWh6YS0xbUUyVm9pMVJ4SHVjOEl3MVJfbnM1YkZfLU5jcUZnYkI2ckxEV1YyejlKc2c?oc=5"
+      },
+      {
+       "name": "뉴스1",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oblZGS2hyZENBdGRWRU1TWERUNGFkOUVIRllhZnNJeFdWdEJ0UndwSDFaVzN2Mi1lVkZoN2l5V29tRHBQcjFDZ3FhbTNIUkxmRHBfWV8tSkhrcHM?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율 변동성이 클 때 해외영업 계약 체결 시 환리스크를 관리하는 방법은?",
+       "hint": "환헤지 전략이나 결제 통화 다변화 등 실무적 대안 제시"
+      },
+      {
+       "q": "수출 네고 물량이 환율에 미치는 영향과 영업 관점의 시사점은?",
+       "hint": "수출 대금 회수 시기와 환율 추이를 연계한 전략적 접근 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "중고차 수출 원산지증명 간소화 및 FTA 활용",
+     "summary": "수출 중고차의 원산지증명이 간소화되면서 FTA 특혜관세를 적용받을 수 있는 길이 열렸습니다.",
+     "what": "수출 중고차 품목의 원산지증명 절차 간소화 및 FTA 특혜관세 적용 확대",
+     "why": "제도 개선을 통한 수출 기업의 행정 부담 완화 및 가격 경쟁력 제고",
+     "impact": "중고차 및 관련 부품 수출 기업의 바이어 발급 서류 간소화 및 가격 메리트 확보",
+     "tags": [
+      "FTA"
+     ],
+     "sources": [
+      {
+       "name": "뉴시스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE84Y3NCUTRiWkw2QU9HV0hVUU1rQXVKeEpveHVHWlJQbG5CTGpBcnZnYWNsY0pYQkVwanpOdFVEV2g5UlNxWHpkcVI5dFBQVTBLSUtRblZETWt1VTM3d0Nab9IBeEFVX3lxTE1pUGxOZGN4cjh3RlFfR1J4TUpvZFE4OFF4a1M1bVcxZVl4aHFGTGlybm42c0pkcVljbkhBejNRR1dadnF0RTlMUzlEbnJZb25sdWwtN09nMDNnbDRxa1N4SjJrMjVsckNpTWFXd1RGQVRDb0MweWpYaQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "원산지증명 간소화가 중고차 해외영업에 주는 구체적인 혜택은?",
+       "hint": "서류 작업 시간 단축 및 관세 절감으로 인한 가격 경쟁력 강화"
+      },
+      {
+       "q": "FTA 특혜관세 활용 시 해외영업 담당자가 주의해야 할 원산지 관리 포인트는?",
+       "hint": "정확한 원산지 결정기준 충족 여부와 사후 검증 대비 필요성 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "콜로세움, 중국 아이샹과 한중 SCM 협력 확대",
+     "summary": "물류 스타트업 콜로세움이 중국 아이샹과 손잡고 한중 간 SCM 협력을 확대하기로 했습니다.",
+     "what": "국내 물류 플랫폼과 중국 기업 간의 한중 SCM 및 물류 네트워크 협력 강화",
+     "why": "크로스보더 이커머스 및 물류 수요 증가에 대응하기 위한 파트너십 구축",
+     "impact": "대중국 수출입 물류 효율성이 높아지고, 신속한 풀필먼트 서비스 활용 가능",
+     "tags": [
+      "콜로세움",
+      "아이샹"
+     ],
+     "sources": [
+      {
+       "name": "베타뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBtYTdETmZBTExSNHU2c1hwVUhwSWpOVTQ1MUpCbTE5N1F0OGE2bzU3ZVBETmNlNllRUUZRQ2otd1dlRGhHSnFRUTdpYVZFQm94TXRtTXd5ZlBzWldlTXpQa2VmMFo?oc=5"
+      },
+      {
+       "name": "한스경제",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CLXF2RV9JNmNWaGxNdkVFNk90VE0xQ0p0TU55cWdhWExiSS1id1pFLWV0TkQzcVpLRndEM1B0TDVGdjlQZUNYSDZlSHd3NmhvaFAzOUFRZ0lDVjlKUXgyRHhrMkhmNnFTYXA5N1JJONIBb0FVX3lxTE9CLXF2RV9JNmNWaGxNdkVFNk90VE0xQ0p0TU55cWdhWExiSS1id1pFLWV0TkQzcVpLRndEM1B0TDVGdjlQZUNYSDZlSHd3NmhvaFAzOUFRZ0lDVjlKUXgyRHhrMkhmNnFTYXA5N1JJOA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "한중 SCM 협력 확대가 크로스보더 물류에 미치는 영향은?",
+       "hint": "배송 리드타임 단축 및 풀필먼트 서비스 고도화 기여 설명"
+      },
+      {
+       "q": "글로벌 SCM 파트너십 구축 시 물류 담당자가 고려해야 할 핵심 요소는?",
+       "hint": "현지 물류망 연계성, IT 시스템 호환성, 리스크 관리 능력 강조"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "세계 4번째 '수출 1조 달러 클럽'에 오른다... 반도체가 견인",
+     "script": [
+      "최근 '세계 4번째 '수출 1조 달러 클럽'에 오른다... 반도체가 견인' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "KOBC/ 컨테이너 운임 2주 연속 하락…미주·유럽 약세에 선사들 감편 확대*",
+     "script": [
+      "최근 'KOBC/ 컨테이너 운임 2주 연속 하락…미주·유럽 약세에 선사들 감편 확대*' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "네고 (Negotiation / 네고물량)",
+    "body": "무역 실무에서 '네고'는 주로 수출업체가 매입은행에 선적서류를 제시하고 수출대금을 추심·환전하는 행위(화환어음 매입)를 뜻합니다. 뉴스에서 언급된 '수출 네고 물량'은 수출 기업들이 벌어들인 달러를 국내 시장에 내다 팔고 원화로 바꾼 달러 공급 물량을 의미하며, 이는 환율 상승을 방어하는 요인으로 작용합니다.",
+    "tip": "해외영업 면접에서 '네고 물량이 환율에 미치는 영향'을 물어보면, 수출 대금 유입에 따른 달러 공급 증가가 환율 하방 압력으로 작용하는 메커니즘을 이해하고 있음을 보여주세요."
+   }
+  },
   {
    "date": "2026-11-17",
    "mode": "ai",
