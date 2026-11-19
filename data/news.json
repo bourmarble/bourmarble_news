@@ -1,6 +1,167 @@
 {
- "updated": "2026-11-18 11:49",
+ "updated": "2026-11-19 11:27",
  "items": [
+  {
+   "id": "084c97c315",
+   "date": "2026-11-19",
+   "title": "북중무역 1∼10월 3조원 돌파…2017년 이후 최대",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBieU01dGxmUmJzQk5IbFpzMTFvdmNJSkVKbUM1WFdNNEpxUEQ3NFJCMXFyc2tUWG5iU3p0cnMzUGtuOXFxbzV4RlhKdnFyeUVoM0lrdE9DenpsNFFJUnRPVdIBYEFVX3lxTFBieU01dGxmUmJzQk5IbFpzMTFvdmNJSkVKbUM1WFdNNEpxUEQ3NFJCMXFyc2tUWG5iU3p0cnMzUGtuOXFxbzV4RlhKdnFyeUVoM0lrdE9DenpsNFFJUnRPVQ?oc=5",
+   "source": "연합뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "00afafb1fa",
+   "date": "2026-11-19",
+   "title": "[지금 일본은] 철강 수출 2900만톤 하회 전망…야마토공업 수익성 1위",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MYVNuTm92NUxsUUZxNElSeUFOX2xyQXJXYlpPWWJIMlNZS1FYTm5qYlBRUFRSc2RxTE1PY0NhSThiSHJqS1o4VmZSM2k5SFBRUzN5dDVONm5KWEQ4bmVMV3JZdVVXWElTRXNCUQ?oc=5",
+   "source": "페로타임즈",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "258528a0f0",
+   "date": "2026-11-19",
+   "title": "[K-뷰티 3대 수출시장 분석③ 일본] 스킨케어 성장세 지속…입술화장품·마스크팩은 감소",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uYVl6WDFqWHhya2NsSXloUTRVSG9VQ0JqV1prUFNnSW5zNVlqdTVkcXp1Smd6UUxGQUFLNmpwajNpZU1BLTdIemVsNlZ1U05PNlNqMlBDVjRnaDhsTDc3WTZXNThMa29aOGc?oc=5",
+   "source": "뷰티경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "9fa5dfdb23",
+   "date": "2026-11-19",
+   "title": "국산 포도 수출 첫 1억 달러 돌파…무역수지도 첫 흑자 : 정책.지표",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FVE5MX0cxRU4tTm5xWnFzZmswdkxqWTFEWkpyY3pnY2g3ZnpZazRsV2pQT3V0RW9HSkZoQkFhOEs3THJRbEhzUFkwQQ?oc=5",
+   "source": "재경일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "448ce00132",
+   "date": "2026-11-19",
+   "title": "[모닝 리포트] 달러/원 환율 1330원대 중반 등락 전망…수출 네고가 강달러 압력 완화",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9JU2xVc1VOR1NDVVJSM2pnTER0anhKRjIwRHBjTlo0NW1lQm5LUmR1aDZpeGtkZkdGdUtFbUNVWEZDTkk2QkNGaWtDZEtydW1IOThxRVBvb0NVMERn?oc=5",
+   "source": "뉴스핌",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "e1909113cc",
+   "date": "2026-11-19",
+   "title": "수출대금 환전·국제유가 하락 여파…달러·원 환율 1320원대로 하락",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5vQTU5RWRfOHpoNHJ6c3Iwa1F0SnhOSE5fUTE2SW83cFFZN252Rng3SWstMF9hVDlSay1DbkFhSDhLYUJ0bi0yeUdjYWNDdHFUX2p4RGxLaTBJNTg?oc=5",
+   "source": "뉴스1",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "e18fec4227",
+   "date": "2026-11-19",
+   "title": "美 연준 긴축 우려에 강달러…환율 상승 폭은 제한될 듯[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMUZuODRQSEJNOHNKRWVjN19OWUN4ZFB4NV9oVTBFT0Z5UXNJMWU4c1J1azJKZUtiamYxRFlxT2dycWNpZkViaU9raWNZWF91OUtpSWFuSHhmY0JVOS1PN2RuX2t4VTdndEZnRVhfbU1ETnpQeU00NEZ2Q01JbEFvNw?oc=5",
+   "source": "이데일리",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "e40bb74aee",
+   "date": "2026-11-19",
+   "title": "美 관세 지속·EU 환경규제 본격화…코트라, 수출기업 실무 전략 지원",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92czM4SXlGMEg5RWduTnRBRzF3ZW1ZM0VJUjB1OXF1dWxWMnJYdXBZbGRMZGRtYmxIaVdpeGxwMDZXUUxIcVZsTkJ3c0txc1Jzd0hVUW1rVFNJd1lMTktHUkJB?oc=5",
+   "source": "아시아경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "a2f760d562",
+   "date": "2026-11-19",
+   "title": "美 중간선거 이후에도 관세 기조 유지…“세관 집행 강화 대비해야”",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE13MGFPTXI0LUpZSmxfSDdxeE04enF0cFBpVWtfM1RGV2JBbGhERGxJNlBqSzlaUWZpdzlJRUVKZjdwZ2JoeXItTzNZNDhSdw?oc=5",
+   "source": "전자신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "fdc415da1d",
+   "date": "2026-11-19",
+   "title": "KOTRA, '미국·EU 통상 환경 변화 대응 실무전략 설명회' 개최",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBTaFpKRUd0UTd5a21WMG4tUWF0dVFhaF92RDhSVC1tdTEyeDVqQ3pHcmlKbUFaQWJKb0FuWjdDekRGdTFpY2JHcW01cjJSSHdvblRNWQ?oc=5",
+   "source": "데일리안",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "c5bf602220",
+   "date": "2026-11-19",
+   "title": "코트라, 美 중간선거 이후 ‘미·EU 통상 대응’ 설명회",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DczBmRWhkUEJyUXRyTnJsSC1oUW9RcHY2Mk03RmFxdXlMQ0lRU3k4eG00QVJsWjVHMDJFMGpITDdSTTF3bEJ6WmtHMENRWnNIbFHSAVNBVV95cUxNTnpaMVY3VFkxRG1KM0wtTXdKczVDUmxwSjdHY3dKUWtNdnpiUUF0d2tMLXFRUVloNUVlUFJKX1AzX05mUzYtd2hiWnNWSHJmSl9jQQ?oc=5",
+   "source": "서울경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "99ce41e400",
+   "date": "2026-11-19",
+   "title": "코트라, 미 중간선거 이후 통상환경 대응 실무전략 설명회 개최",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1pZG1QRTNQaXhRTEtfUmVsUU14S1J5REZoQUU5cnhrM0RlRk1Rc25LT2stYXVqbkQ1Zi1CaVhMZGRUV29hSm8yMEE3d1JaUFkzQndmRk44NnNtdFpHRnNtckNQWU9FY0VYLXVITA?oc=5",
+   "source": "투데이에너지",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "51ce29ef79",
+   "date": "2026-11-19",
+   "title": "KOTRA, 미·EU 통상 대응 설명회 열고 수출기업 지원 강화",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRkIyanlkMXVPZENqZ0dvSnkwREt2aGRBV3VBdVFIcS11UmlSMFJVbEJZMjBULVNOeHZ1UEQ4MWdOSExXUmZSa1VtdmZMRzRKNDlBczdkUXlTWVQ3RjJwbzV3aTV4MzVSVjVxNGcwbE04Sms5R1JJLTNPSjlZX2RIa2JhSFpWc1RCaHNrVi1CMGlESWct?oc=5",
+   "source": "Traders Union",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
   {
    "id": "c8d0a3b658",
    "date": "2026-11-18",
@@ -199,6 +360,355 @@
    "title": "[기고]산업수도 울산, 또 다른 수출 이야기",
    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80NjFNdU03NFZJMTVFNjNycXBnR1RrTGpTbEtyQU5oR002MTBXd1daRXBaU1l1OGNDdVpLNlNtU1pSR3pGaEl6TjB1bFpOYW5laE83Z3gxREV3UC1xOTlFRUVSRTZFbmFBeHJnNg?oc=5",
    "source": "경상일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "4811e295e3",
+   "date": "2026-11-18",
+   "title": "3분기 운송업종, 커버리지 합산 영업이익 전분기대비 3배 이상 성장...해운, 운임 레버리지 환율하락 영향 압도",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NX2NxSUc2Qzh5UjFtV2FWbmxZU0UwdnVja0ZmeDE0Y3htYnJwSkNxWmpqSi1ULXZRVkkzYXBFUTczcGpCeXh3d3BfOXNWbWw1dTA5RGhDSFlUelFjeUJhdHpvSXI5OXJlQmhoQTdGeG5zekk?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "sales",
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운",
+    "외환"
+   ]
+  },
+  {
+   "id": "76219fcf34",
+   "date": "2026-11-18",
+   "title": "글로벌 대형 정기선사 3분기 수익성 대폭 개선",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rZF81eFFRcG13N0N1Ni1oaVVTRWZtR0EzbGR4dTMtNmRTZG5DcmthbWNyVmxHUE83aG1VYURxRllCWmxVUjE5N0ROM0ItNXlkUXpBMG5CSHJuMDVjcWp5dTNUVWJRRHRjQmhvNEt2Z0pOQ2_SAXNBVV95cUxPa2RfNXhRUXBtdzdDdTYtaGlVU0VmbUdBM2xkeHUzLTZkU2RuQ3JrYW1jclZsR1BPN2htVWFEcUZZQlpsVVIxOTdETjNCLTV5ZFF6QTBuQkhybjA1Y3FqeXUzVFViUUR0Y0JobzRLdmdKTkNv?oc=5",
+   "source": "해운의소리",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "7305a5cbdb",
+   "date": "2026-11-18",
+   "title": "“컨선사, 4분기 이후 수익 악화 우려”",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Kczk1TlVtdnhjV21LZkZ4alhOQXZObGloazhrVzdEUHc2S0JQcUc4bUF6emZVaEVnVUlDeUZlWTA3VFAyT1dPRnFTU19YZW1oZjNFc1JlRHZodHNVb2ZiSnQtT241a2I2aGFWaF85cml4RVk?oc=5",
+   "source": "한국해운신문",
+   "cats": [
+    "log"
+   ],
+   "tags": []
+  },
+  {
+   "id": "32164d4977",
+   "date": "2026-11-18",
+   "title": "Baltic Exchange/ 글로벌 컨테이너 운임 약세 지속…태평양·유럽항로 동반 하락",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1BeEUwZjFBS1dVZFN4S1l6SmstZ3R3MHkzYklaZzZzdDVsZlN6eE55Wm03bXkxU2Rvd3FhUmY2X2NoV2UxT1dQTzNkOE5ZNEdPb3VyVTlBZHdlTDJPSGJVVmhEbTMwZVFYV1M0?oc=5",
+   "source": "해사신문",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "70ac9c88ab",
+   "date": "2026-11-18",
+   "title": "일본, 6개월 연속 무역적자…유가 상승·엔저 영향",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9TbjMzNEg0bjNMWFoyOXhrMkxkQmZNcXcySU5pa0RnNC16VlducWN1eC1pUmhoQkZ6a1Z0TmNYREVocFlCYVk0aEF2R1l6VGR2eWJoXzJfS25na1g3WWx5d1hVQ0kxaXFWQThaQVd5bjZGbkh1YVJiZNIBeEFVX3lxTE9TbjMzNEg0bjNMWFoyOXhrMkxkQmZNcXcySU5pa0RnNC16VlducWN1eC1pUmhoQkZ6a1Z0TmNYREVocFlCYVk0aEF2R1l6VGR2eWJoXzJfS25na1g3WWx5d1hVQ0kxaXFWQThaQVd5bjZGbkh1YVJiZA?oc=5",
+   "source": "뉴시스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "01aff9a5c0",
+   "date": "2026-11-18",
+   "title": "수출은 사상 최대인데 경제는 역성장…일본 경제의 두 얼굴",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sOW5NVjhBQ0M5am1FemMwNjdKRU9TbU1OaGJjenRJVWd2QXg1bnlnel81NktPYklhWUxOWTlVRlVfOWtVczJHQUpyV3dPOXlrVEk3bXVsYmlpWmRjdkt0SS1Zdkx6VjZIaUE?oc=5",
+   "source": "프레스맨",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "51170495c2",
+   "date": "2026-11-18",
+   "title": "[심층-아프리카 블록] 아프리카, 대중 무역적자 1,000억 달러 돌파…중국 경제 의존 심화 우려",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DZHNXLWFzQlZXT1lFSEw4RWtPb3ZBdS1ONEczYjFNQVJYUW1MZ3JXamxEX1JhQ1RyQUNFRGphdFNzaWhxR1ZyQ29tNlpDZUkzZFdLN29TdFlDMXdSWDRmNlZBYkRNVFRT?oc=5",
+   "source": "국제통상신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "e327a3f03f",
+   "date": "2026-11-18",
+   "title": "日 무역적자 6개월째 지속…원유가격 상승으로 지난달 수입액↑",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ca2JYNDF4MzdQd0l6MUQxMjZqUFJsUk1wbWUtZTdaTW9GNWNnY2d3Z2dVa0NPRno1SkR0dHRrSHNQMVIwSkxVdFpGMDk2LUk3Y0JQUXVGOVR6ZmJuR1pCbtIBYEFVX3lxTE1Ca2JYNDF4MzdQd0l6MUQxMjZqUFJsUk1wbWUtZTdaTW9GNWNnY2d3Z2dVa0NPRno1SkR0dHRrSHNQMVIwSkxVdFpGMDk2LUk3Y0JQUXVGOVR6ZmJuR1pCbg?oc=5",
+   "source": "연합뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "a1e5b773cc",
+   "date": "2026-11-18",
+   "title": "전국 반도체 수출 3분의 1 아산·천안서",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSUpvcHpxckFSQm9zQUpkanAtNG82VmZNSVFDSjBjdzAzWXh6OXBQbEpwNjBtZGptcndVaGppdkoxSHRrSExEU1RNWDBrM3JEZm5CUGdBdC15UFRDQVJzTjVjUjB4c2FBSHF0OUtrQdIBc0FVX3lxTE1ZeThuTDRQOGRnWmNUN0dpV3NSTHFLTWRhN043aDQxbXBFRzdSaFhpaDBuWFppLUw1WlFpZUdsNW4yMGljSHFGczhkLUphb2NHT25CcGROcUh2Qm5wVXhaWWloVW1OYV9seXRQSlBOTTIwMXc?oc=5",
+   "source": "대전일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "1b1c9fa37d",
+   "date": "2026-11-18",
+   "title": "[K-뷰티 3대 수출시장 분석② 중국] 스킨케어·마스크팩 성장 지속…어린이용 화장품 142% 급증",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XRGpMMGQ0OWVYWFB6U3RNbEdIeW9SZF9TSlBjTTktY2ROZ2c0eTE2N3pEelhrMDU5MmU1NXo2cjhvRHFtUFFHTHl1QVgtUlNxVndObVplOEUyMnM2ekttTlJHMTcxZXVucnc?oc=5",
+   "source": "뷰티경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ae44506c78",
+   "date": "2026-11-18",
+   "title": "[외환+] 원·달러 환율, 4거래일 만에 장중 1320원대···1333.0원 마감",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12ZXJ6VldPeDd2MmlDTzVJWGlXRWlKaW10ZGRkVkIyT3kyLU9JS3c0aWlqMjFsZm9oSTZ3XzVzVi16RnRRbXNNbURVRUpBbGNIYnM3Q0pnaERway15UmdTc3lfZVlaQ3Uzd2c?oc=5",
+   "source": "서울파이낸스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "71723c33e3",
+   "date": "2026-11-18",
+   "title": "엔비디아發 훈풍에 코스피 반등...원·달러 환율, 5.2원 하락 마감",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5XaS1IRTJqRi00aDg0U3JjVHpTV3ZfdktxQ0JkaVdCYnlOQmx1dHIxMjhNN1NzbGFKMDhUNTYyeVVLazlDSFB2RjVhWDQ5eEI1WXFoZzFydXg4OGozdzZqN2MxdUw?oc=5",
+   "source": "베타뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "9ce2e9947d",
+   "date": "2026-11-18",
+   "title": "원·달러 환율, 5.2원 내린 1333.0원 마감",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDMVlMcUZ5aXp6Ym9MLVRRT1B3YW00TERFS1ZoNDNCQnVuZlh2YTNLNnlJN21fcVJfMVZWRG9ESHdaaGhPcWs2cUVNelJvOWwxTmFxWUdXNVE4d1lHYkVSYVVvQmJhZmhHNDNzeUVfTDNMWHhoYVl4QtIBeEFVX3lxTFBDMVlMcUZ5aXp6Ym9MLVRRT1B3YW00TERFS1ZoNDNCQnVuZlh2YTNLNnlJN21fcVJfMVZWRG9ESHdaaGhPcWs2cUVNelJvOWwxTmFxWUdXNVE4d1lHYkVSYVVvQmJhZmhHNDNzeUVfTDNMWHhoYVl4Qg?oc=5",
+   "source": "뉴시스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "d04e15e3ac",
+   "date": "2026-11-18",
+   "title": "엔비디아 호실적에 위험선호 회복…원·달러 환율 5.2원 하락 [김혜란의 FX]",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9odHpkMXRmcEx6VTRZdGJjLUFPOURNWFRSWkZOS0RkaWxvLXhHenJKekN0T3lmellxT3NDMmpBZ2tvdVVNUWtHQVRMNEFUcHZWdnfSAVNBVV95cUxNdmhHMkRIMnk4eDBPQkJYZzREMm5GMGFmTFphanpUbG0xNTEwbDh1NFczeFExcnJBTENaN0xtOVAtanNENXA0cUZTUXZ0emZCNmhKSQ?oc=5",
+   "source": "서울경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "cf93d79f17",
+   "date": "2026-11-18",
+   "title": "[외환] 외국인 달러선물 팔자…환율 5.2원 내린 1333.0원",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9Zb3A2eVlHdmRubl90aHUyWFBzQzJvN3VvVWlnallld3lfUjcxVUV4eXRuemdLYVpCZHU5N0xHM1pSWjBjaFF2bjRjX0NwZ1I5SlNxYUpWeTVMUFFzQUotVVRWR0F0RTg?oc=5",
+   "source": "자본시장뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "ea278c1d2b",
+   "date": "2026-11-18",
+   "title": "달러·원 장중 1320원대…외인 증시 매도 '축소'·수출 기업 네고(종합)",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzU25LYk83Yzl6T013MjlfLWJnWHN3aV9kY040c2I5U2VDNzViNXk1aWh3R1lLcGRSVldPYWswbVU2YU5mNkNwdVFHeEwtc2FaU0Fud0tIVkotRW8?oc=5",
+   "source": "뉴스1",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "f2dbad4cd1",
+   "date": "2026-11-18",
+   "title": "외국인 13조 팔아치웠는데…환율은 되레 하락",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRGh0UzdZYUhOVG1lMDNBa0ZHTkw5eUtueEl4MDhYTVJXLURPQWJfOTh0UGVKLUppbVlPTUtkcXdlaUoxbk9HMzEzS2E4SE5ZQXZSbUgza1hBVThJaEI1dmdaUmZodXhQTHNXVUlRSmdnZ01ZYlVRVnRRMWcwdGlTRg?oc=5",
+   "source": "이데일리",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "b5f980eddd",
+   "date": "2026-11-18",
+   "title": "달러 6거래일 만에 약세…환율, 네고 물량에 1330원대 초반",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VNklyTy1TSUdlNHl2V0VpcVZlZmRvSFlpVkJWaUw0VkY4UkcwcnFqZUFIRWhZOV94cXlieW9Ga0ZWcXBpNmhtSjBVd1M2U2R3aFBaUXlkRTbSAVhBVV95cUxNVTZJck8tU0lHZTR5dldFaXFWZWZkb0hZaVZCVmlMNFZGOFJHMHJxamVBSEVoWTlfeHF5YnlvRmtGVnFwaTZobUowVXdTNlNkd2hQWlF5ZEU2?oc=5",
+   "source": "아주경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "63732f3621",
+   "date": "2026-11-18",
+   "title": "창원상의, 미국 중간선거 이후 통상환경 변화 대응 설명회",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1CRTBnZWd0d1lIOHVnZ3c2OGxOeDFFNE9IQndGTGFiemMxTDBPWlZSN3dKZFpzS2pzYVp2U0hJMFc5QQ?oc=5",
+   "source": "브레이크뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "c250b9a07a",
+   "date": "2026-11-18",
+   "title": "창원상공회의소, 미국 중간선거 이후 통상환경 변화 대응 설명회 개최",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zVExFRzFGX3RGRHFxSGNQZFh4ZlhiVzFtZzNVcVk1M0VBbjRQRFJIZ1dIR0ZVRXpJMlR5N3VRWGZMQ041UE40QjBsX2lJX1FIMklNa2ZOZHZSbngtcnlBME1DUVVLR2hq?oc=5",
+   "source": "더쎈뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "36e70fc36f",
+   "date": "2026-11-18",
+   "title": "한국무역협회, ‘스타트업 수출기업 대상 FTA 활용 촉진 설명회’ 개최",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uQlJiTVhTaGVRVlNZemhxR2tIYllXYnFDQW1sUkVHb2JUM3p3dGpoSmU1LVhlTWpwWDcyUUFhUWFJR21MTHZNbmd2Z2U3TGJNUGJoeXROcldHa0FhTkhJRmRqQjVhLXJneGFB?oc=5",
+   "source": "CNB뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "21fe675c7b",
+   "date": "2026-11-18",
+   "title": "중고차도 FTA 관세혜택…차대번호 하나로 ‘한국산’ 입증",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HT2pSQUlxUS00TG01cTZFdTVXdHQzYW1DeG1naWhqQmx1OVU5N2dNTDVhN3ltS1phZENYeEZoWXJQemNfd29XdVZRSWlhd0tlMUVMVV9vTklQcWg2TDJTc0N6eDZienVtUGhVdHEtV0ZoeGRx?oc=5",
+   "source": "대한경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "관세·통상"
+   ]
+  },
+  {
+   "id": "84f82bfa4b",
+   "date": "2026-11-18",
+   "title": "차대번호로 원산지증명…韓 중고차 UAE 수출 길 넓어진다 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUcjNBSUxpTTYzMVJRRm85Z1RFVE5HOTd2SWhRYTgtaC1DYk5yaDc4S0ZTV0xVOU5iZGVuUDJYS0ZsMEdYR1pTc1lzdTVaVXM1eVdReVdPdTQwTzBET1V5bTBEbHhGNWkzTTlDM1g3QlLSAXBBVV95cUxQVHIzQUlMaU02MzFSUUZvOWdURVRORzk3dkloUWE4LWgtQ2JOcmg3OEtGU1dMVTlOYmRlblAyWEtGbDBHWEdaU3NZc3U1WlVzNXlXUXlXT3U0ME8wRE9VeW0wRGx4RjVpM005QzNYN0JS?oc=5",
+   "source": "머니투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "732ec4f3af",
+   "date": "2026-11-18",
+   "title": "강원랜드, 코트라(KOTRA)와 손잡고 강원기업 해외시장 진출 지원 나서",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBiYTkyN3JEdzBZRFhnOUZHenlPWklrUVVFdllnYk9EclktYnV0Q2N6YVRWM1hDeG5DcmtBeUp1YXVGZmNONkc0OVd5Mk15cDBRbHhXWnZwSHZVT01hRU1SQmV3TG5oWTV5d0ZLVnBR?oc=5",
+   "source": "전국매일신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "8e654b64c0",
+   "date": "2026-11-18",
+   "title": "강원기업 수출길·청년 취업 지원…강원랜드·코트라 공동 행사",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5URmMzOGYtRlI0bkJfS1h3eGl0VW53VnBfMXlyazI1NTdZQ3dxSEEtVWZOb3BXcXZFX0RpbHV3aW1vSzJGN3JNZWRKRm1DZnRqWlNhR0p6T0pieng1bWpzYjV6MEk?oc=5",
+   "source": "서울경제TV",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "beca60b11e",
+   "date": "2026-11-18",
+   "title": "수출 1조달러 눈앞…코트라, 강원 청년·창업기업 해외진출 지원",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1Ib1lNX1BDcDhnSjVENzc4MWt3NV9DRFJpTUN6SnZ0VkdQcTVDM3FRNWZQOEpZUm9qS21VaUpHempJUWdDTmRCcWI5akxOdFAzaFY4RTBJQQ?oc=5",
+   "source": "헤럴드경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "62b60fde36",
+   "date": "2026-11-18",
+   "title": "코트라, K-방산부터 지역·청년창업까지… 수출 성장동력 발굴",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nckhLRUdmUUIxR3Zpa2NUeUQ4VVpOa3JRaU1kT0pYdjNDOVBoTjJ0eWRackw4VGxlaUo2VTA1OFJQMjU1MWlzcy1nZ3kzSjM5ZTJtajY2NTVvODZWX3IzcVdMTnI1UEVYeTl1WTBB?oc=5",
+   "source": "S저널",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "429c2e6adb",
+   "date": "2026-11-18",
+   "title": "KOTRA, '미래 수출 동력 청년·지역·창업기업 상생 콘서트' 개최",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZlB2NUhOeHNqeDBRaWhXYjllZE9mX3ZRbXRGRkt4bWdKQ3JHUHlaa0FnY0prbFdTMW5oYXZJME9JdkpUaWNieEhSbktrcE1pZ0dwd1hRanV5c0RuOW1tUGtOeGs5eVRSQjh2ME42SWJkX2dpTlByUWNtdEhwczZ4RFNYRnBjclBQUDBxY2VtRS1Ud0p3bnZWZkNSUDZ2NVNJeVZJWk5ybmNiYzRqOHlDRVdfRXVETTNwZHczWkNGb3JlWWxzWklxcWRodHQ5SzFGaVVxeTdmQU5SNDZ0SFVjYk9tTWhmeU9WYzVqSEln?oc=5",
+   "source": "데일리안",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "5bf7dc65f2",
+   "date": "2026-11-18",
+   "title": "코트라, 청년·지역기업을 수출 주역으로...",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FalFvTHY0M0lObktjQTAzR0FOMVNteTNyZ3FiY0JrS3JGUWdPazNTVVJ1c2RXR3ZpUlJLc0toSE8yeUJIcmlzOUFqWW93U3Zfd09VNm1VZFJvSzlMcDk5YlpKNGR1TVg3ZE5n0gFuQVVfeXFMTTIzMzJac2dmcWlreUFqV1FPWHpUMzlSWXJIVnMtS1F3VWsydFVXbXd6bnVJM3ZmNGs5RWJrczNpZWtSUFdmcDlnNndvV08zeG1BSHBuWVhUZFdXeXh5ekt2QUNJelZSTVo0QlhvclE?oc=5",
+   "source": "산업저널",
    "cats": [
     "sales"
    ],
@@ -667,6 +1177,30 @@
    "source": "일간대한뉴스",
    "cats": [
     "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "0402173d4a",
+   "date": "2026-11-17",
+   "title": "CJ대한통운, AI 물류혁신 기술 브랜드 'TESIV' 전격 공개",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtTjgwS09EbUlTcFAyLUNtQzNlakpzb0VuYkZGVnVkcVVwVUxaV0JueXVlaFA3R0xjeGR0SUZkWS1iMjZZaHNpMTcxcDFDRU5wNkwtMlpna0owUWdaNGd3?oc=5",
+   "source": "헬로티",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "CJ대한통운"
+   ]
+  },
+  {
+   "id": "9eb3a6ca74",
+   "date": "2026-11-17",
+   "title": "K브랜드 中 진출 돕는다…콜로세움, 아이샹과 물류 협력",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSUZtajFUUnpLdnZaZ094V0VJTnFsNnFZVDFDRHRRNWRYUUVydjRXSFBMT0pURjYtajBvS2Z2LVNNNDJnVkVsWm1IalY4b3g0WjNmdkUta2d2SDZEeFd0SjhVNTRPQmlXalB3NG5kX2hfYS1Vb0duVWEwVjVMcXVqZg?oc=5",
+   "source": "이데일리",
+   "cats": [
+    "log"
    ],
    "tags": []
   },
