@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-22 10:10",
+ "updated": "2026-11-23 10:32",
  "days": [
+  {
+   "date": "2026-11-23",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "한국 수출 1조 달러 돌파, 그러나 반도체 의존도 심화",
+     "summary": "한국이 수출 1조 달러를 돌파하며 세계 4위 수출국으로 전망되나, 반도체를 제외하면 순위가 하락해 산업별 성장 격차가 지적된다. 기초화장품, 소비재 등 비반도체 품목의 다변화와 해외 진출 필요성이 커지고 있다.",
+     "what": "수출 1조 달러 돌파 및 세계 4위 전망 보도와 함께 반도체 의존도가 지나치게 높다는 지적이 제기됨.",
+     "why": "반도체 실적에 전체 수출 지표가 크게 좌우되면서, 타 제조업 및 비반도체 품목의 상대적 부진과 성장 격차가 드러났기 때문.",
+     "impact": "해외영업 직무에서는 반도체 외 소비재, 화장품 등 신시장 개척 및 품목 다변화 전략을 수립해야 하는 부담과 기회가 동시에 존재함.",
+     "tags": [
+      "한국",
+      "삼양식품",
+      "실리콘투",
+      "현대로템"
+     ],
+     "sources": [
+      {
+       "name": "nbn 시사경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pazVRMndZWENlNTB6UUNfdmxVaWFhUy1hSjBhcVRiaG04eHVBTnI3UjVDMVotR3dpWWxFRlAxRkJmRTJRd3NNR19QWVNGdkk2QzBISXpOakxrRndsYlhIM20wb0cyRHdtWmc?oc=5"
+      },
+      {
+       "name": "연합뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hNWZkZmdfOXc1UnY2UEpQUkRONl9xUmhneWFVZi0tRXZCQ1pGQmZ0MWFJbHNuX3l0M1dZUk5ZTHozeWc4LVRzclBuY2Z6c19Tc3BrTUNnUlZIUFRJUnNodg?oc=5"
+      },
+      {
+       "name": "핀포인트뉴스",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lQzBSNmtrc0Y5T19YV19iTWVwbGFCZ2tVY0lpdGlxQk1SenZUUURvS1JwaW5GUWNlVlhyRXA0YW94YmszTTdBQ3NsVTByVkVEeDRkcEp5ZThRbmFBckYyVHdGV1FGdmR3UndxZzhyUGxnZ2fSAXdBVV95cUxOU012QlJqdWVQcWtReU5XUWsxVngxUUN0Z29KcDdCbFpwMlBVWmlQM0pqallmeHlWdXd6X19UUG1MVTk3ZHg0ckFwMnhNY1hoR1RheEVOV0oxR3NrRVpFR3RJNXdiYnFUbHROQlF0Z0c0U3M5WVZxZw?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "반도체 편중이 심한 상황에서 비반도체 품목의 해외 영업 전략은 무엇이어야 합니까?",
+       "hint": "신시장(중동, 동유럽 등) 발굴 및 K-뷰티·소비재 등 차별화된 품목 마케팅 강조"
+      },
+      {
+       "q": "수출 1조 달러 달성에도 체감 경기가 다를 때, 해외영업 담당자로서 취해야 할 자세는?",
+       "hint": "환율 및 품목별 리스크 분산, 바이어와의 장기 신뢰 구축 언급"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티 및 소비재 글로벌 확장 가속화 (쇼피·KOTRA 협력)",
+     "summary": "기초화장품 수출이 호조를 보이는 가운데, 미·중 양강 구도를 넘어 중동과 동유럽 등으로 시장이 다변화되고 있다. 쇼피코리아와 KOTRA는 K-소비재 기업의 해외 진출을 지원하기 위해 MOU를 체결하는 등 플랫폼 협력이 활발하다.",
+     "what": "K-뷰티 및 소비재 수출 확대를 위해 쇼피코리아와 KOTRA가 업무협약을 맺고 상담회를 진행함.",
+     "why": "글로벌 이커머스 플랫폼을 활용해 중소기업의 해외 판로를 넓히고 미주·유럽 외 신흥시장 진출을 촉진하기 위함.",
+     "impact": "해외영업 담당자는 글로벌 이커머스 채널 활용법을 익히고, KOTRA 등 공공기관 지원 사업을 연계한 수출 전략을 구상해야 함.",
+     "tags": [
+      "쇼피코리아",
+      "KOTRA",
+      "SK증권"
+     ],
+     "sources": [
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1V3hpNzNmdmppTmJrNVNuZzlqSm5qVGM0U0h0NEczX2tsQUNTTmFscTNyUkxkU0E2cThDY2N5TXRxektXeHZfX2h1QURyb1hrRkI0ZllNZHBvRGpmVklXeWNKZWY5cXVqdmc?oc=5"
+      },
+      {
+       "name": "SBS Biz",
+       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5reEhYUnE1QzJoVlhodjBaMl9kcVRHV3ZzeC1IMVhVTmdBWTZQU0p2eGlobm5FSDN0VGhSRGNFRVlrcmpNZTlueFg5RTlVbHdYaHhZ0gFYQVVfeXFMUFh0MERQbkFldHZzTmRNTXFiVmticWQ1MDF1eU1ONTlWZE1LQ08wOFV4WU44cnd5OGlHdjYwdS1rMm1CbW1Wc18zUzJ4N3lEYWlKdWFLSUstcQ?oc=5"
+      },
+      {
+       "name": "벤처타임즈",
+       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jOU5nNkFiUDNNdFVtUEh0c0ltNjRuQ1NNcks3dTlrX0JBa3ZORVNjNHJXQ2VjemxLRV82TlE5czAzcGxkVF82MW1zTFJFZmRreE5fbjROSEUwNGEwME1RRVVNT1pXUQ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "이커머스 플랫폼(쇼피 등)을 활용한 해외영업의 장점과 한계는 무엇인가요?",
+       "hint": "초기 진입 비용 절감 및 바이어 직접 접근 가능 vs 물류비 및 현지화 마케팅의 한계"
+      },
+      {
+       "q": "미·중 중심의 K-뷰티 수출을 신흥국으로 확장할 때 영업적 접근 방법은?",
+       "hint": "현지 플랫폼 특성 분석 및 타겟층 맞춤형 기초화장품 마케팅 소구"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율 변동성 확대(1,340~1,350원대 위협)에 따른 수출입 영향",
+     "summary": "달러·원 환율이 1,340원대 안팎에서 등락을 거듭하며 연말 1,380원 전망까지 나오는 등 변동성이 커지고 있다. 美 긴축 기조와 외국인 자금 이탈 우려가 환율 상승 압력으로 작용하고 있다.",
+     "what": "미국 물가 지표 및 긴축 우려로 달러·원 환율이 상승 압력을 받으며 1,350원대 돌파 가능성이 제기됨.",
+     "why": "미국 경제 지표 발표와 외국인 역송금 수요, 글로벌 긴축 변수가 복합적으로 작용했기 때문.",
+     "impact": "고환율은 달러 결제 시 수출 기업의 채산성에 영향을 주며, 환리스크 관리 능력이 해외영업 및 재무 관리의 핵심 역량으로 대두됨.",
+     "tags": [
+      "KB Think",
+      "이데일리",
+      "파이낸셜뉴스"
+     ],
+     "sources": [
+      {
+       "name": "KB Think",
+       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fazd5Z1dQaWNDYjltUDZEdl9aM2pfR2Nsb2dEZDVVenJvbFAyMU45TUQ1STZqTjNaV29iQkVFXzd3RXpEaEVQcXBtZnBYaklpQ3pmWVMwVURHUk1DM3o1NmE4b045OF9zTmdlbUhuRDRTQQ?oc=5"
+      },
+      {
+       "name": "파이낸셜뉴스",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WN1pIRWpiNlNNbkJmVGpqM0FiUUQxNUkwMFJwckNPR3YyVnhUWEI4NmV4QTQwYW1fdkQzWVJQVHhGSGJwTDk0cmF6OHlDOW1LV2xSTk1OTVNZQQ?oc=5"
+      },
+      {
+       "name": "블루밍비트",
+       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLRVZSMld5Q2NLV1FKZFhhYVRrb3hIZjVzTzgyZzJNVXZVZlZGWUFIZjZFZ3Q3OVUtS3BsQ29ETXh3TTRWb0VrTHJBOXJkejZJ?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "고환율이 지속될 때 해외영업 실적(매출·마진)에 미치는 긍정적/부정적 영향을 설명해보세요.",
+       "hint": "달러 매출 환전 시 원화 환산액 증가 vs 수입 원자재 비용 동반 상승 가능성"
+      },
+      {
+       "q": "환율 변동성이 클 때 해외영업 담당자로서 바이어와의 가격 협상 전략은?",
+       "hint": "환율 변동 폭을 고려한 파격적 할인 지양 및 장기 계약 시 환헤지 방안 논의"
+      }
+     ],
+     "unverified": [
+      "1,350"
+     ]
+    },
+    {
+     "cat": "log",
+     "title": "해상운임 혼조세 및 선사 실적 호조 (CMA CGM 등)",
+     "summary": "CMA CGM 등 주요 글로벌 선사가 3분기 해상운임 상승으로 매출과 수익성이 크게 개선되었다. 반면 드류리 지수 등 컨테이너 운임은 노선별로 북미향은 약세, 지중해 및 아시아 일부 항로는 강세를 보이는 혼조세를 나타냈다.",
+     "what": "글로벌 선사들의 호실적이 발표된 가운데, 컨테이너 운임은 노선에 따라 하락과 상승이 엇갈리고 있음.",
+     "why": "팬데믹 이후 노선별 수급 불균형과 항만 적체, 계절적 수요 변화에 따라 운임 등락이 다르게 나타나기 때문.",
+     "impact": "해외영업 및 물류 담당자는 수출 목적지별 운임 변동(지중해 상승, 미주 하락 등)을 모니터링하여 물류비를 최적화해야 함.",
+     "tags": [
+      "CMA CGM",
+      "Offen Group",
+      "삼성SDS",
+      "Baltic Exchange"
+     ],
+     "sources": [
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93bm92eV8tYk1oLVZYUDZ6ODZvNU1nMER2ZV9pY2YteXlNajNQNFpmcm9NWXRuRnduQndkcDhwbTY5YnI4akZLN1V3c0ZOR0JoX05wMXI1WVV0Y0RPTmExNm8zVGFZU01oTHhr?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSDZ0dDI4dEFfQkVZbmRIal9FV0hWOGhDeGZDNEZBOXdkUy1UQXhTWlZKQlhDckQycjE0S0o2cjdFalJpT2cxS1ZJaUt1d21KQ0FQUlN2R2NMUVJ6cmFwb0RWTlVHSE94S2pncW41dXUtVVU?oc=5"
+      },
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVlliWWotUHJ0NkhsQ081UXNFZG5OUGFOdm5sa3N3aFpSdHFlM1V1MlJHbjlTVjZudFRGbVUyRUp4LVlOUE0xMlZFd1MyVUZEdElsTFpETERyeWFmVm55MGNqRnJDZm80SGtV?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "운임이 항로별로 엇갈릴 때 SCM 관점에서 어떻게 대응해야 합니까?",
+       "hint": "선사와의 장기용선 계약 및 대체 항로 발굴을 통한 물류비 절감"
+      },
+      {
+       "q": "해운 운임 상승이 수출 기업의 가격 경쟁력에 미치는 영향은?",
+       "hint": "C&F 조건 시 물류비 부담 증가로 인한 영업이익 감소 우려 설명"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "반도체 편중 수출 구조 속에서 비반도체 품목(예: K-뷰티·소비재)의 해외영업 전략",
+     "script": [
+      "한국 수출이 1조 달러를 돌파했으나 반도체 의존도가 지나치게 높아 다변화가 시급하다는 지적이 나오고 있습니다.",
+      "이는 반도체 사이클에 따른 실적 변동성을 줄이기 위해 K-뷰티나 소비재 같은 비반도체 품목의 신시장 개척이 필수적임을 의미합니다.",
+      "해외영업 신입으로서 저는 미주·유럽뿐만 아니라 중동·동유럽 등 신흥국 바이어의 수요를 발굴하고 현지 이커머스 플랫폼 연계 전략을 배우고 싶습니다.",
+      "따라서 철저한 현지 시장 분석과 KOTRA 등 공공 지원 사업을 활용해 품목 다변화에 기여하는 영업인이 되겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    },
+    {
+     "topic": "해상운임 변동성(미주 하락, 지중해 상승 등)에 대응하는 물류·SCM 관리 방안",
+     "script": [
+      "최근 글로벌 해상운임이 노선별로 미주향은 약세를 보이고 지중해 등 일부 항로는 급등하는 혼조세를 보이고 있습니다.",
+      "이는 글로벌 물류 수급의 불균형과 선사들의 노선 재배치 등이 복합적으로 작용했기 때문입니다.",
+      "해외영업 및 물류 직무 지원자로서 저는 수출입 항로별 운임 지수를 상시 모니터링하여 물류비 리스크를 선제적으로 관리해야 한다고 생각합니다.",
+      "이를 위해 주요 선사와의 파트너십 강화 및 탄력적인 운송 경로 설계를 통해 최적의 SCM 효율성을 달성하겠습니다."
+     ],
+     "followups": [
+      "",
+      ""
+     ]
+    }
+   ],
+   "concept": {
+    "title": "SCFI와 KCCI",
+    "body": "SCFI는 상하이거래소가 발표하는 중국 출발 컨테이너 운임 지수이고, KCCI는 한국해양진흥공사가 발표하는 한국 출발 운임 지수입니다. 둘의 방향과 항로별 차이를 같이 보면 시황 흐름을 읽을 수 있습니다.",
+    "tip": "면접에서 지수 이름과 방향을 함께 말하면 시황을 챙긴다는 인상을 줍니다."
+   }
+  },
   {
    "date": "2026-11-22",
    "mode": "ai",

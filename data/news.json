@@ -1,6 +1,204 @@
 {
- "updated": "2026-11-22 10:07",
+ "updated": "2026-11-23 10:29",
  "items": [
+  {
+   "id": "917e354f23",
+   "date": "2026-11-23",
+   "title": "CMA CGM, 3분기 매출 31% 급증…해상운임 상승에 수익성 크게 개선",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93bm92eV8tYk1oLVZYUDZ6ODZvNU1nMER2ZV9pY2YteXlNajNQNFpmcm9NWXRuRnduQndkcDhwbTY5YnI4akZLN1V3c0ZOR0JoX05wMXI1WVV0Y0RPTmExNm8zVGFZU01oTHhr?oc=5",
+   "source": "해사신문",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "30213747e0",
+   "date": "2026-11-23",
+   "title": "독일 Offen Group, 하파그로이드 장기용선 기반 컨테이너선 최대 6척 발주",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hSDZ0dDI4dEFfQkVZbmRIal9FV0hWOGhDeGZDNEZBOXdkUy1UQXhTWlZKQlhDckQycjE0S0o2cjdFalJpT2cxS1ZJaUt1d21KQ0FQUlN2R2NMUVJ6cmFwb0RWTlVHSE94S2pncW41dXUtVVU?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "d8c872b281",
+   "date": "2026-11-23",
+   "title": "수출 1조 달러 첫 돌파…한국 수출은 반도체에 얼마나 기댔나?",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9pazVRMndZWENlNTB6UUNfdmxVaWFhUy1hSjBhcVRiaG04eHVBTnI3UjVDMVotR3dpWWxFRlAxRkJmRTJRd3NNR19QWVNGdkk2QzBISXpOakxrRndsYlhIM20wb0cyRHdtWmc?oc=5",
+   "source": "nbn 시사경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "57ca32f6e9",
+   "date": "2026-11-23",
+   "title": "K-뷰티 수출 빅데이터 리포트①: 기초화장품 5.9억달러 돌파…미·중 양강 속 중동·동유럽 부상",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1V3hpNzNmdmppTmJrNVNuZzlqSm5qVGM0U0h0NEczX2tsQUNTTmFscTNyUkxkU0E2cThDY2N5TXRxektXeHZfX2h1QURyb1hrRkI0ZllNZHBvRGpmVklXeWNKZWY5cXVqdmc?oc=5",
+   "source": "뷰티경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "e16ef6c477",
+   "date": "2026-11-23",
+   "title": "[외환] 수출의 무게…주가 급락에도 1,340원 아래로",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Fazd5Z1dQaWNDYjltUDZEdl9aM2pfR2Nsb2dEZDVVenJvbFAyMU45TUQ1STZqTjNaV29iQkVFXzd3RXpEaEVQcXBtZnBYaklpQ3pmWVMwVURHUk1DM3o1NmE4b045OF9zTmdlbUhuRDRTQQ?oc=5",
+   "source": "KB Think",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "b3914eea3c",
+   "date": "2026-11-23",
+   "title": "[이번주 환율] 강달러에도 1330원대 지킨 환율…1320원대 안착할까",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NY1d6amtKTV9DUURHRS0zam5CUFg3N01iNUNERlk3cHBCdG1PX09NLVhMMzdFdUpUVmZtXzRDaDVPVlp0d3VFUlNSZ2VJLVI5aGpjbjJfYzJaUGJ3VUQ0VVdwYUpqRTctYmx6X0dkeUNVZw?oc=5",
+   "source": "오피니언뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "a6fff1bbdc",
+   "date": "2026-11-23",
+   "title": "K뷰티 내년 수출 27% 성장 전망…미국·유럽 확장과 환율이 변수",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5reEhYUnE1QzJoVlhodjBaMl9kcVRHV3ZzeC1IMVhVTmdBWTZQU0p2eGlobm5FSDN0VGhSRGNFRVlrcmpNZTlueFg5RTlVbHdYaHhZ0gFYQVVfeXFMUFh0MERQbkFldHZzTmRNTXFiVmticWQ1MDF1eU1ONTlWZE1LQ08wOFV4WU44cnd5OGlHdjYwdS1rMm1CbW1Wc18zUzJ4N3lEYWlKdWFLSUstcQ?oc=5",
+   "source": "SBS Biz",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "c467d096db",
+   "date": "2026-11-23",
+   "title": "과도한 약세 해소, 반도체 수출 '쌍끌이'…원화 반등폭 키웠다",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSG5PZjd1QUhqQ2ZZSnZSNFpORWttOTNwcjdmNFhFdVVjRUMxSTlSZXFRUlhuUjhmeGpsNVpfN2JnLXZ5SzctMktreWZEYVQzNE95b1MwaEZnb0JfaThiTXVsWDBXSGZHdUNzUVJETEgyZ1dPOVh2M19FMUhaMk95Rg?oc=5",
+   "source": "이데일리",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "5d3cb90bfc",
+   "date": "2026-11-23",
+   "title": "화장품 수출 27.5% 성장 전망…SK증권 “미국·유럽 진출이 관건” : 경제",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9Xc0xDVDI0R1pTNm1fVzV5WDBWYVZxTS1nV21rdlBrUEJYSG52ejVYTWQtdjNuci1mOThyclltaTZoclBLeXVyRkRiRQ?oc=5",
+   "source": "재경일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "b6d8739421",
+   "date": "2026-11-23",
+   "title": "달러·원 환율 1341원대로 상승…외국인 자금 이탈 우려",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42N1JxVkFPeFhtUDZfVnJ0MF82ME5FWUotLWtKXzk1SnlZM3J1djJGa0Z3a2NJZG04aHIyVFlzeWZJQU5IMWp0aWxBZjhNQzZ5UmtnQmtaVEpHTU0?oc=5",
+   "source": "뉴스1",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "2797a5e2f7",
+   "date": "2026-11-23",
+   "title": "기술주 리스크오프에 상승 압력⋯\"1350원 돌파 시도 가능성\" [환율전망]",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kOG9HRzYxWjhNS1pBTXdwS09SN2ZwSjdlcFlaNVpEbkNhN2F0SlNOZHBtTjJxSHVKNzNDZFpoSDVOOWNfMjM2bTdIRG9TTlRpcU1MRw?oc=5",
+   "source": "이투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "5fdad89636",
+   "date": "2026-11-23",
+   "title": "[주간환율전망] 야간 1346원까지 뛰었다…美 물가 지표에 달렸다",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqejI1U3hKVGhRaW94Q3lDeks2OHg0REJzUjJCRWdybWJmTEpTMDBoZjRHQmlPb1g2WDhfX2lqMy1kVUEtTlRpSEtDbHFNNHhDalEzNU5zeXVIbjFObXFsdG5ua2l4SkE?oc=5",
+   "source": "자본시장뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "81c2bac83a",
+   "date": "2026-11-23",
+   "title": "美 기술주 폭락에 원화도 직격탄…환율 1350원 위협[외환브리핑]",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUlCOHQzWnBLTGpTSzd6RFBGT2txYVhIeHBja1QydkxmaTVsQ19VblduVTRxSFdKTTV6OWxGa2dpUkh2N2hRWWY0N2dxM0MyY0p6dEs4aVBBa3haWlB4VGRCMm1yNkVxX3BWbk51MzNYRE1feWpFZ0R0TG94STdOeA?oc=5",
+   "source": "이데일리",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "6cab71cdfb",
+   "date": "2026-11-23",
+   "title": "환율 10% 하락하면 생활비 연 16만5000원 절감…저소득층 효과 커",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3WU8wbWNYNkFONjJkWjJSbVNuY1JjcUdrbzhWV3hMRUNIemYxUlUzM1BOaGtoTjJ1U0FIZHNMX0g3b1hxM3RkdVV4U19qcXVtNlQ0Q2FxYUhRaFQzVEltV1FILWI2d3ls?oc=5",
+   "source": "데일리팝",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "b6264c0085",
+   "date": "2026-11-23",
+   "title": "쇼피코리아, KOTRA와 K-프리미엄 소비재 기업 해외 진출 지원 MOU 체결",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jOU5nNkFiUDNNdFVtUEh0c0ltNjRuQ1NNcks3dTlrX0JBa3ZORVNjNHJXQ2VjemxLRV82TlE5czAzcGxkVF82MW1zTFJFZmRreE5fbjROSEUwNGEwME1RRVVNT1pXUQ?oc=5",
+   "source": "벤처타임즈",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "2842f30bf4",
+   "date": "2026-11-23",
+   "title": "쇼피코리아, KOTRA와 K-소비재 해외 진출 MOU…상담 100건 이상",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1U0dvb3lsako2V0pxS09YS01VVGI2SFRUTTctNHRwSERUZzRIM0k3WEY2dFpsNnAtbFJPOXNGVTVlbm9NbWJnd3ZnYTg3dnRrazFoWkhfX0NQTTlJbUJHUHY2bUs?oc=5",
+   "source": "위런치",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
   {
    "id": "e9a5f49d54",
    "date": "2026-11-22",
@@ -111,6 +309,328 @@
    "title": "GS리테일, 베트남서 26억원 수출상담 성과",
    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5OZnhKdmxnZGpURkVHZ05CUURoejBSZnppSFJrV0ExYjVJbktCdWdya2o5Ull2ZjVrLW1OUmtibHJZRlBhVXRKTnRBQ2lWbUY2YndGb1RBYmFNVV9TNFk3YWh5RE1XRTlOaXA5emFkMmhOOHfSAXdBVV95cUxPblhIeFF5d0RUZ2Y1S19VT2d3bXRmTnFGVWt3cENwU2xyY0dacW5BQmVBc255UU5uT215bmhhYTVvWVltMnQ2Y1pvUmVvNEZzb3pxc0U3ZHUyRG1GYjBsR1lObUd4M3UzSXk5S09kV2lycE1uN3ZhTQ?oc=5",
    "source": "스트레이트뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "affc19d171",
+   "date": "2026-11-22",
+   "title": "드류리 발표, 컨테이너 운임 종합지수 4주 연속 하락...북미향 약세 지속",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ENUdYQmx0ZFdiNzVpT3pSR3NLWDJXSmxuelc4bE9JVzh2QVlLR3lfM2RLOUtxLWZIRmF0OUdacHhBR0l2cHZBUWZuX2JiZUNBaXcxaXBVdUxyb0FBMXozb0tCSjEtQ1NoYW1fVVhRQjNTbWc?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "b588286831",
+   "date": "2026-11-22",
+   "title": "드류리 발표, 아시아역내 운임 소폭 상승...부산ㆍ가오슝향은 하락",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiRml0emd4b1lhYkc0MVY4ZmJZQ3FxQmt1Ukx3LWYzMjBZbW9LdjF4TkJNUmhONW5CMTQtRFMwdGdKV2VuQXYtWDhmd0k0VDJqQWY4UjR3cE02NlN4cHRYdXlyS18zdVo2VzRIWTNGVFk4bWM?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "da51d8306f",
+   "date": "2026-11-22",
+   "title": "CCFI(중국발 컨운임지수)11/19",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnZThtYWV2TnRqUXc3dmh3eTE4RVNBbDdOdUdjYUx0cDNjVi1tY3NIc1lBMWlqQlM0aHY2SEthMXhQSW1EVGNHQzdVSXBnMXlWSDhnUlRiTDVaWFg1aXlWMVVEbGJRMl9fR29fUGhIUjJwSGs?oc=5",
+   "source": "쉬핑뉴스넷",
+   "cats": [
+    "log"
+   ],
+   "tags": [
+    "컨테이너 해운"
+   ]
+  },
+  {
+   "id": "a548a0d711",
+   "date": "2026-11-22",
+   "title": "중국산 테슬라·BYD 밀려드는데 수출은 ‘뚝’…대중 자동차 적자 6조원",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yTExhSFFLVXIyR2ZkY2FSSkxWcHpnOGo4OU5tSnhDZjAzaGtSMm1uajBncHhucnJYMENLbG5EWGNfT1p5cHFOT1NtSV9jLWNiYm1qUHdfSm5yTnI2Q3pOc053?oc=5",
+   "source": "한겨레",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "자동차"
+   ]
+  },
+  {
+   "id": "45c9706377",
+   "date": "2026-11-22",
+   "title": "수출 1조달러 한국... 반도체 의존도 최고 수준",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xVTQ2VlZ4RTR2anp6ZEM1S1JuLXFfSVpzRmc5T0tENFdGSzlISlk3Qm1ZZ1JraU9fVmVnZzRCM19wSHE4SDZ6WVFjaFpBMThHZlFxdXhuWmpfQzFyVE1reWZ0M0FNdFdMZ0xSMkJ6MlhIU1nSAXNBVV95cUxOcVU0NlZWeEU0dmp6emRDNUtSbi1xX0lac0ZnOU9LRDRXRks5SEpZN0JtWWdSa2lPX1ZlZ2c0QjNfcEhxOEg2ellRY2haQTE4R2ZRcXV4blpqX0MxclRNa3lmdDNBTXRXTGdMUjJCejJYSFNZ?oc=5",
+   "source": "여성신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "c79c512575",
+   "date": "2026-11-22",
+   "title": "韓만 반도체 대박인 줄 알았더니”…中도 수출 108% 폭증",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9vNVZSak40WnRqNHE1c081WWwxNEF1V09DYzFtRFVoWjluTGNSR2hXa1o3ME5KS3NENUd5c0JiUUc4MmpZU2VJX3dxTzFBQzl0MVE?oc=5",
+   "source": "매일경제 마켓",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "b651047650",
+   "date": "2026-11-22",
+   "title": "수출 1조弗에도 반도체 빼면 세계 8위…제조업 연말 경기 먹구름",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zNnlsUEpoUktWVmVZTmktQzdUQjE1SDJwLUtjVEgxUVNrSzhTdldoVHZWVmpwTnR4b3lFWTB6MjN6Z3RucGNlMUE0NlEyamhUNGdaS0JnMnhfUdIBWEFVX3lxTE5rWGFGTlRHSE1Pbzhra01oYloyOGNtM2JfbXBfVDN3NDBYZjRJa3ozdkV0N0ZHM01fRXZ2S3FHZzV0Sm11b0ctNkpaMVNyT1dwUDlkdXRjY18?oc=5",
+   "source": "아주경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "a235e4188d",
+   "date": "2026-11-22",
+   "title": "'수출 1조달러' 세계 4위 오른 한국…반도체 없으면 멕시코·이탈리아에도 밀려",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JN3pMTmJUT0psdnF6S0JIa0RtakViSlM1a2JPWnBRb0hWS3o5SXlYTm1sZDI5ekRJZVltMklzWGg0ZDdZOXpEbGlueE9fN1ZHMDZTel9hZk9sb0lYeFk2enkyeXJUTXdRa19oektkbkplQQ?oc=5",
+   "source": "프라임경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "1bd39acb5c",
+   "date": "2026-11-22",
+   "title": "’수출 1조 달러’ 한국 세계 4위 전망…반도체 빼면 8위",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zYnpJRzFYajAzbmxuQURVYksxTzltbkt4Z2VEMEF4dE5Qd1VyMjhNb0dmM2FqZzBIdkh3dnJQQkhQYXNXV0hGYzNWYUVHWENNVmx3Q0xlZGVRNHcwR3ZmYk9KUFpIdGM?oc=5",
+   "source": "연합뉴스TV",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "e06f808cff",
+   "date": "2026-11-22",
+   "title": "한국 수출 1조달러 돌파·세계 4위 전망…반도체 빼면 8위",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9VTVRwUW9OUlFNSmRlbGdoOThDNGMwRmlsczc2VjBsdXQ5c3VXWERNdEZNaTdhMW9DalJCM3kwZURZV19BVzV5TEhuQmNSZ1A4akpPYVd2MTFEVzM1emY3S0dSamZPbWk3YUJuT2ROaw?oc=5",
+   "source": "진일보 | 전남일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "31d772002a",
+   "date": "2026-11-22",
+   "title": "수출 1조 달러 세계 4위지만…반도체 빼면 8위로 추락",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5LSUdEajVFV2p4bEpKMkJscExDZDFMWU01aFlFMmd6N1otYklpYWhDRXhHS0Y3UVpUZVpvZm1wZW5feVo1dU5pMkk5M3JTT3FzSmYzSGxPTHdtdEtldFF4TkRn?oc=5",
+   "source": "미주중앙일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "ec93903dcd",
+   "date": "2026-11-22",
+   "title": "수출 1조달러 돌파에도 반도체 비중 43%...산업별 성장 격차",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRjc4NGpfU2VIU19lOFFsczlKdFNGY2R4NzdkSVdjRnVfMzd6MXpLUkZrb0JCa0R2NHZLOUVNVmxDRzFGZ2dwZEFYNTUxZzFrQndvWDBpRHBtWjJxbjl6UDdVQW1OWkdYb3JzNdIBcEFVX3lxTFAzLUhfZUVrRFhTX25BQWMwRTdyemVrY0pUaVBHd2d3MUFDTGRUel81NkM0TF9RakJLQXVnQlFfQnJFcWlNaENrbnF5ancxQ1A4bjVpUWdMNEFURlhuOXZaVlVyN3czR25PdU56b3p0ZE0?oc=5",
+   "source": "글로벌경제신문",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "8a6e676c03",
+   "date": "2026-11-22",
+   "title": "수출 1조 달러 돌파한 韓, 세계 4위 눈앞…반도체 제외 시 8위",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9EVHh0ZUJJUEtyQTh4Q3RnRVphVS1FQ3duZjcyMXNpcDdrb0N0V09FenQxOTRHX0UyeGZUY21hY3hiMHNwTTNrNkxVVlhObUtKSzMyY2l4ZmY0X1RYMFdma3puQThWZ3pZcXVrQ2tGMzJQdw?oc=5",
+   "source": "중앙이코노미뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "1fb4ca2ca8",
+   "date": "2026-11-22",
+   "title": "원·달러 환율, 연말 1380원 전망…외국인 주식 매도·美 긴축 변수",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLRVZSMld5Q2NLV1FKZFhhYVRrb3hIZjVzTzgyZzJNVXZVZlZGWUFIZjZFZ3Q3OVUtS3BsQ29ETXh3TTRWb0VrTHJBOXJkejZJ?oc=5",
+   "source": "블루밍비트",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "04244534f5",
+   "date": "2026-11-22",
+   "title": "일본산 가격 경쟁에 환율 대응까지…엔저에 시험대 오른 수출 中企",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZZTBUcnNrYnlDNTR2SGpLcDZhdk8yazNnYjlUclFseDhTazdzb281NU0xRWFfQWJ5bU10bzQtQkZZaV84czRYODZHZmNyX3N6S0N5dTVDTnY2UEVvamNuaVpEXzU?oc=5",
+   "source": "매일일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "6f05ecb9a0",
+   "date": "2026-11-22",
+   "title": "[대구 車부품 빅3 실적 분석] 환율·비용 폭탄에 3분기 ‘순손실’",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01M2s3UlV2VDZxX1VMNHoxa0NfSE5iNmlWdHN0bl9fd0RMVVJOd2lvdW5sWkh5ZWhsRGRSY3RtQUVqSklUdk53Ml9tdjk4aFRwbFZHdFpxZ1BCcWU2R3hCOFc5ZGpNbjRQaVZV?oc=5",
+   "source": "영남일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "15cbd0d8ae",
+   "date": "2026-11-22",
+   "title": "[주간환율전망] 뉴욕발 AI 쇼크에 1340원 돌파···긴축 경계 속 방향성 탐색",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zSVEzR3RTRmhHWUNkZkhTRU1SQzBTXy10dUIxVGFLa1QzU2czTV9ZaGo3TlF1ZlFqZXBSQkVxcVoxbmM4aU9fU2E3OTFDcVozdWtuOHJTU0c5ZksxcGhCdlB0dmRUb3U5elE?oc=5",
+   "source": "서울파이낸스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "f8ebac09f7",
+   "date": "2026-11-22",
+   "title": "11월 수출 발표 D-1, 반도체 1~10일 4배 뒤 코스피 한 주 −8%… 폭락 주 다음 수출 발표일 5번, 코스피는 5일 뒤 모두 올랐다 (삼성전자·하이닉스 주가)",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbXFPalNpMTdjNWpxUm1KYUVLYnV5eXhJeERkUjJHQk5Mby1VTzlPOU1ucFB6blJrRDRQT0FYa3JfMC1ia25QdU55N3FiMHd4TFA1ZzQ0eWE2dlg4MFhLQU1lZkI4YlhlN2JlVmlNRm5kMVd3cnhoNjZldF9rV05QcU5SMkhoUmk4cEZPV1g3X2NsTThw?oc=5",
+   "source": "네이버 프리미엄콘텐츠",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "반도체"
+   ]
+  },
+  {
+   "id": "6da9de3860",
+   "date": "2026-11-22",
+   "title": "\"원화 강세, 수출기업엔 부담…내수기업·저소득층엔 호재\"",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1laHNYV0RkQkVjbVJGNkJQeXFLREYwTHI0dFp4NURmVjZVZ0I0eTI4VTYyZ0paX1ZGN3JXSUxJUXoyNE5TWHpzcDRDSXFsNUlzeWhMbWFMZFbSAVhBVV95cUxNZWhzWFdEZEJFY21SRjZCUHlxS0RGMExyNHRaeDVEZlY2VWdCNHkyOFU2MmdKWl9WRjdyV0lMSVF6MjROU1h6c3A0Q0lxbDVJc3loTG1hTGRW?oc=5",
+   "source": "미디어펜",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "e2e83e3920",
+   "date": "2026-11-22",
+   "title": "최대 위협은 중국… 기업 5곳 중 1곳 “이미 따라잡혔다” [심층기획-수출 1조달러 시대]",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iclVFakJ4NWZtZ0hIT3BaSlhHTnoxZGNEMVktU3ZBbFBGNm9wQ3BaZXRDN0lVNTF3ajJ6WjFqRklVMVJFQjJkS1Z2eXZtc1lMbHpyUNIBVEFVX3lxTE5iclVFakJ4NWZtZ0hIT3BaSlhHTnoxZGNEMVktU3ZBbFBGNm9wQ3BaZXRDN0lVNTF3ajJ6WjFqRklVMVJFQjJkS1Z2eXZtc1lMbHpyUA?oc=5",
+   "source": "세계일보",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "654fd92324",
+   "date": "2026-11-22",
+   "title": "코트라, 수출 1조달러 속 지역 투자유치 가속화",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1CR0NfdF9JS29RY3dqbE5JU2xVSUxjeUp2RGk4WUJTTEctTmxxUUFObGJ0b2ZTdVJlaUtCWG5ZY3pFUXB3YjdfMm1wb296MmR0bFRXRF9DT3JEQzBROE4zQUY1LTk5eTBrTmMyR2hn?oc=5",
+   "source": "S저널",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "da3a687a08",
+   "date": "2026-11-22",
+   "title": "GS리테일 '해외시장개척단' 성과... 베트남서 중소협력사 수출 지원 - 머니투데이",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wR0sxWkdCSTVPbm5SWnJwZFFYRU1WQWtJWHo5TVNLeFNtVkFaN2xESnVlWVlYVWV6WDBseVEydWpSc0l5cEJUUTNsZTRKbGc1N2JOc3p5WVZPNmRQZnZXQUdjUm10NGNYdlU5TUVLQdIBb0FVX3lxTE8wR0sxWkdCSTVPbm5SWnJwZFFYRU1WQWtJWHo5TVNLeFNtVkFaN2xESnVlWVlYVWV6WDBseVEydWpSc0l5cEJUUTNsZTRKbGc1N2JOc3p5WVZPNmRQZnZXQUdjUm10NGNYdlU5TUVLQQ?oc=5",
+   "source": "머니투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "f54213b95b",
+   "date": "2026-11-22",
+   "title": "GS리테일, 중소 협력사 해외 진출 지원…베트남서 196만달러 수출상담",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tMEpXOWlIaFV1YUh0bUdrdXdiY3lWTkh5aWZBbm9JQWY4NV91X0dOYllWVUN3Y3AxdDBsTzQweEU1UlNrZ1Z2YnZFNEZVTkxYR0prWVd6SVBwbFJPZnM3TnoxY9IBbEFVX3lxTE03NVlVOHM5Xy1DYWxPNDFyZWtBcnB5dDl6cHZrdnpnaEdvZ2FwLWlnQ05mWWhyU0NjTUxvX3FJWFpEOUZFdHB3aU5Sd1FGTEw1MVpRbTRrYVBXN25iWFZqUUFRY1JPYmxvMHFwNA?oc=5",
+   "source": "소셜밸류",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "ad808fc6ce",
+   "date": "2026-11-22",
+   "title": "GS리테일 ‘해외시장개척단’, 수출상담 196만 달러 성과",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ia2tMekU0M1JnUk5YZ2FudjdmNExON2FyTllzR09VWTRhc1dUMWx3dnlEaXhpNnF2MkpvRnZPbDFqTkNHVVJweDNLV1V0ZU4yVFBya3U3ZTI1dw?oc=5",
+   "source": "브릿지경제",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "15dae537f9",
+   "date": "2026-11-22",
+   "title": "GS리테일, 베트남서 26억원 규모 수출상담…중소 협력사 해외 진출 지원",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82SFZsVkl5QXJGSU80TU83RTNHLWV1UU9rVHEwaTNhb3hQbDlHQjlRS1JQSFFObTN6UGg4d0prc3ZYazlObS04Wk96c3BMY0hKX3FuZDhnYnFCRG9SY0pyUkRSNG5MbXZxeEZTdg?oc=5",
+   "source": "메디컬투데이",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "09c6bca7c2",
+   "date": "2026-11-22",
+   "title": "베트남 바이어 사로잡은 GS샵 협력사들… 수출 상담 약 200만달러 달성",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NRi1sX1FXR3lNOTlkdnR3VGhVejl1a0FwRVZ2bEJaTW8xdGlZMTRnRGdTMHN1RGMxZGJXanFsLVBmXzB6RXg0cVdaWUNoX0ljRWJkMGNBTUNDYURpaHpBR2hsa0hTOU1JcmJrbUgtNlJQWG9W?oc=5",
+   "source": "파이낸셜포스트",
    "cats": [
     "sales"
    ],
@@ -310,6 +830,30 @@
    "title": "울산 소비재 기업 10곳, 중국 내륙시장 공략…현지 바이어 30곳과 수출상담",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NNm9Fclh4aWZCOU1CQXd6NE9tcUVSLVdoakI3TGZYSG9COUs2QWlrRmJNdktjeThLTVN3TWYweVd1UTYxdEo4ZWRxWGVSUjVkZmZYWW56RlQ5NDZFOHZ3NmRBZldxZw?oc=5",
    "source": "잉크뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": []
+  },
+  {
+   "id": "aaa9a5f53f",
+   "date": "2026-11-21",
+   "title": "두 달 새 환율 200원 급락…‘원화 강세 수혜주 공식’ 달라졌다",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PS0pud0VZanlwdHp0YkRRXzRCc01mVUh6QjhRb2hxMkNHT0lBWTg0b2lJY3l6dTdFQzlKRjl1X2NOSDF4UlVLa3R6RV94RlM4SnBBc2ZTZDZGR1N4WWtwYUV5QQ?oc=5",
+   "source": "쿠키뉴스",
+   "cats": [
+    "sales"
+   ],
+   "tags": [
+    "외환"
+   ]
+  },
+  {
+   "id": "fd4c63d787",
+   "date": "2026-11-21",
+   "title": "울산시, '수출 다변화'...화장품·식품 등 소비재 '중국 공략'",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15SUhiZXZZU3AybWIyZ0lFMmw3bHlvbEFyb2ZwZjNpeDZqWDFaUzBBOVFlQ081a1p4clpseFVOSlAtY3NyWXVwMXZvdHFFVkpaaktMS3AzMjlzTjZ6U0JPQmlDYzRUd3FFZW9R?oc=5",
+   "source": "시정일보",
    "cats": [
     "sales"
    ],
