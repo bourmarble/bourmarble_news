@@ -1,6 +1,194 @@
 {
- "updated": "2026-11-25 13:06",
+ "updated": "2026-11-26 12:32",
  "days": [
+  {
+   "date": "2026-11-26",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국 대미 관세 15% 상한 유지 및 25% 인상 압박",
+     "summary": "미국 USTR이 한국에 대한 과잉생산 관세 15% 상한을 유지했으나, 반도체와 자동차 등을 겨냥해 25% 인상 가능성을 열어두어 통상 불확실성이 지속되고 있습니다.",
+     "what": "미국이 무역법 301조 등에 기반하여 한국산 제품에 과잉생산 관세 15% 상한을 유지하면서도, 추가로 25%까지 인상할 수 있는 압박 카드를 꺼내 들었습니다.",
+     "why": "한국의 대미 무역흑자가 사상 최대를 기록하고 호남 반도체 클러스터 등 주요 산업의 수출이 증가하자, 미국이 자국 산업 보호 및 견제를 위해 통상 압박 수단을 활용하고 있습니다.",
+     "impact": "해외영업 담당자는 미국 향 수출 시 관세 변동 리스크를 반영한 가격 전략 및 바이어와의 계약 조건 조율 능력이 필수가 되었습니다.",
+     "tags": [
+      "USTR",
+      "반도체",
+      "자동차"
+     ],
+     "sources": [
+      {
+       "name": "팩트인뉴스",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzUnhQZUl0ZVBKWHdMS3ZhSEZ6WVNMN0g4Q1c4Z1BCNVZxYW9oTGJvXzlLdTkwOHRuZUctMUFvSXdCazZsRG9uMmZvQjlyY3JLOTRuUEM4Q0tOTDRYeTE0OTlJSEljdkJvdEN3MEVyR2_SAXRBVV95cUxPZm5CNGVfb2RhT3dySVJhYzVGWmRlTXJ3VmlDVEJHMHc2UUlvV3E4RlVmZDI0TFRUaUxVcVFqcTVROEYwRGpNYnJpeEJmX3NpdWw3dXZzTzZrQmhoekl3TUhZbXRuWUhTR2Q3ZjdvY2ZKLTNmcA?oc=5"
+      },
+      {
+       "name": "뉴스21 통신",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHLWMyT1M5N3ZBVmdPUS1wcElVc2hLQVRxSzZtckloaTZqak9MRXd2a2V6TmZkeXpfVFFoanhnZ21pTUlodWt3MDhIOU1xMndUQkRXcndn?oc=5"
+      },
+      {
+       "name": "헤럴드경제",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Cc0xjdmR1RE14TVlVeVZBdzZJUjJSZ0ZFbE9iWFo3SFNITWd6b2JGT1owTGY5Yzg2SHh4cVZKTmwtT2dzcUU0Yk9MX0xRNWlpdHRRQnlR?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국의 과잉생산 관세 압박이 심화될 때 해외영업 실무자로서 취할 수 있는 대응 방안은 무엇인가요?",
+       "hint": "관세 비용 분담 방안, 원산지 증명 및 FTA 활용을 통한 비용 절감, 현지 바이어와의 협상 전략을 언급합니다."
+      },
+      {
+       "q": "15% 상한이 유지되었음에도 25% 인상 가능성이 제기되는 상황에서 대미 수출 리스크를 어떻게 관리해야 할까요?",
+       "hint": "시나리오별 가격 정책 수립과 비관세 장벽(디지털 규제 등) 모니터링의 중요성을 강조합니다."
+      }
+     ],
+     "unverified": [
+      "301"
+     ]
+    },
+    {
+     "cat": "sales",
+     "title": "제주 화장품 수출 증가세 및 K-뷰티 판로 다변화",
+     "summary": "제주 화장품의 올해 수출액이 577만 달러를 기록하는 등 증가세를 보이며 해외 판로 개척이 이어지고 있습니다. 아울러 K-뷰티 아이메이크업 수출은 미국과 일본에 쏠려 있으나 카자흐스탄 등 신흥국도 부상하고 있습니다.",
+     "what": "제주 화장품의 수출이 호조를 보이고 있으며, K-뷰티 전반에서 북미·일본 중심의 편중을 벗어나 카자흐스탄 같은 신흥 시장으로 판로가 확대되고 있습니다.",
+     "why": "'메이드 인 제주' 등의 차별화된 브랜드 스토리와 품질 경쟁력이 글로벌 시장에서 통하고 있으며, 수출 다변화 필요성에 따라 신흥국 진출이 활발해졌기 때문입니다.",
+     "impact": "해외영업 신입은 전통 주력 시장뿐만 아니라 신흥국 시장의 트렌드 분석과 바이어 발굴 역량을 키워야 합니다.",
+     "tags": [
+      "K-뷰티",
+      "제주화장품"
+     ],
+     "sources": [
+      {
+       "name": "미디어제주",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qdUxXb19FWk1fVGNjaW9NaEd5OWZXaWRjaWdBUDRzNzZaT19peFNycWR2NEh6N0NrX3NpVWtIdlBpQzNxeGNZUW1PQlU4NGF1cXNvaXRzVTRDWTdTb0Qzb1d5RTZjdldyWFhRc285V2bSAXBBVV95cUxNanVMV29fRVpNX1RjY2lvTWhHeTlmV2lkY2lnQVA0czc2Wk9faXhTcnFkdjRIejdDa19zaVVrSHZQaUMzcXhjWVFtT0JVODRhdXFzb2l0c1U0Q1k3U29EM29XeUU2Y3ZXclhYUXNvOVdm?oc=5"
+      },
+      {
+       "name": "BBS불교방송",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56MlV1bm5lQ0NCVVZjaTRFUWM5MjljckFZZUI4ZFRONG9hcGZIcGJhaXMyaWdqQUJ5LXpyTlFWckpXQ19CMzREeWZIT3ZiblBCcnpUUVNhU1RPeWNRTm13VWhhQlJ0Y0FVbkV3?oc=5"
+      },
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mdmhWOUVCNV96clYtd2NhMWFpUENGeWlWU2Q0N1ZzUU9ETk80S1VYRVBNMUhfTFVKTDYyN1ZSeHZNbHRxVEdfVHpTMVl3MTlfRHFmeWxvaXc2S0oybW9CYy14X1FpTURxWUE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "기존 주력 시장(미·일) 외에 카자흐스탄 같은 신흥국으로 수출 판로를 넓힐 때 해외영업으로서 가장 먼저 해야 할 일은 무엇인가요?",
+       "hint": "현지 규제, 소비자 선호도 조사 및 신뢰할 수 있는 로컬 디스트리뷰터 발굴을 제시합니다."
+      },
+      {
+       "q": "'메이드 인 제주'와 같은 지역 특화 브랜드를 해외 시장에 어필할 때 차별화 전략은 무엇이 있을까요?",
+       "hint": "친환경, 청정 이미지 등 고유의 스토리텔링과 현지 맞춤형 마케팅을 연결하여 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "현대글로비스, 폐배터리 자원순환 물류망 구축 추진",
+     "summary": "현대글로비스가 폐차업계와 손잡고 사용 후 배터리와 알루미늄 등 자원 재활용을 위한 공급망 및 물류망 구축을 확대하고 있습니다.",
+     "what": "현대글로비스가 폐차업계와 협력하여 폐배터리 자원순환을 위한 물류 네트워크를 구축하고 관련 사업을 확장하고 있습니다.",
+     "why": "친환경 트렌드와 전기차 보급 확대에 따라 폐배터리 재활용 시장이 커지고 있으며, 이에 선제적으로 안전하고 효율적인 물류 체계를 선점하기 위함입니다.",
+     "impact": "물류 직무 지원자는 친환경 물류(Reverse Logistics)와 배터리 등 위험물/특수 화물의 운송·보관 프로세스 이해도를 높여야 합니다.",
+     "tags": [
+      "현대글로비스",
+      "폐배터리",
+      "자원순환"
+     ],
+     "sources": [
+      {
+       "name": "물류신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yR1Rnc1NUc2xjOExpclhpblUwVzlyLWxiR0g1TnRpMFIxbWVqS2xyNDlmaEd2cHU1WERnV1FMenFGZzNubjlSUThtYTUzdXNYbWhPYUVRTWVEbUNUNXdGT3I2TF9XeWo2Wks0?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUzZuTFI0Mjl1OVJMR0stRXRnT1pOQzRyTWZCYnFWc2NBcFNwQmNkN0YzdG12eUlLRXFkd3J5cDNGSVJOQW10dEZrWE16SFF3ZElDQ0U5T1h6VFhDRnp5cHlVdkxGNkVIQlF0VFBqY1pndG50SUpxOUNDOWhlV3hBaQ?oc=5"
+      },
+      {
+       "name": "더트래커",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QZUd5T29ncjRwN2wzbFJxQXFFdXM3Yy1vekhqX2QtdFlzYVFsdTVCeUhxWUNKd3dOU3BFaTduNkVIX3p2YlBSaGZGR2RXR0V0akFwamxBVVA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "폐배터리 물류는 일반 화물과 어떤 점이 다르며, 물류 담당자로서 어떤 점을 가장 주의해야 하나요?",
+       "hint": "위험물 취급 기준, 역물류(Reverse Logistics) 프로세스, 안전한 보관 및 운송 규정 준수를 언급합니다."
+      },
+      {
+       "q": "현대글로비스가 추진하는 자원순환 물류망 구축이 회사의 미래 경쟁력에 어떻게 기여할까요?",
+       "hint": "친환경 ESG 경영 부합 및 미래 신사업 공급망 선점 효과를 설명합니다."
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "2027~2028년 해운 시장: 공급과잉 및 컨테이너선 운임 하락 우려",
+     "summary": "해운업계가 현재의 호황 속에서도 과거의 무너졌던 기억을 바탕으로 2027~2028년 해운 공급과잉과 컨테이너선 운임 하락 압력을 우려하고 있습니다.",
+     "what": "해운 시장에서 벌크선과 유조선은 선방하는 반면, 컨테이너선은 향후 공급과잉으로 인해 운임 하락 압력을 받을 것으로 전망됩니다.",
+     "why": "선박 공급 증가세가 물동량 증가를 앞지르거나 시황 변동성이 커질 것으로 예상되기 때문입니다.",
+     "impact": "물류·해외영업 담당자는 해상 운임 변동에 선제적으로 대응하여 운송 계약 및 물류비를 최적화해야 합니다.",
+     "tags": [
+      "해운",
+      "컨테이너선",
+      "해사신문"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02NS1QLWhJZDFxWEM2QVJ4MFR2T0I3dTBvbkdMZEwxVW5uOE1ZLTQwLW4telpTY0o1Ym0tbXpQOXlzM0VnQmRBYlhvMXFNTTlLWldocWZHdWhrUk14QThvMnpjQ25rNkpxTGVxWHliV2k1MlU?oc=5"
+      },
+      {
+       "name": "해사신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5henoxVTU5SUhwZDBza1RoLWNLT3BUOHY1WlJhcmxGWXhnWWZNdk1pWEd2ZWw0Q1dCYnFxeHdoTWxMam1pNFBGM29TeE5GeDJOdW1keFlpRFV5Rm1EWndWeFFwd1c1ekV0R29v?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "컨테이너선 운임 하락 압력이 예상되는 상황에서 수출 기업의 물류 담당자로서취해야 할 운송 계약 전략은 무엇인가요?",
+       "hint": "장기 계약(SC)과 단기 계약(Spot)의 비중 조절, 선사와의 파트너십 강화를 통한 리스크 분산을 말합니다."
+      },
+      {
+       "q": "해운 공급과잉 이슈가 발생했을 때 해외영업과 물류 부서 간에는 어떤 협업이 필요할까요?",
+       "hint": "변동되는 물류비를 판가나 견적에 신속히 반영하고, 선적 스케줄을 조율하는 긴밀한 소통을 강조합니다."
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "제주 화장품 수출 증가세, 해외 판로 개척도 이어가",
+     "script": [
+      "최근 '제주 화장품 수출 증가세, 해외 판로 개척도 이어가' 소식에 관심을 갖고 있습니다.",
+      "수출 통계는 품목·지역별 수요 흐름을 보여줍니다.",
+      "해외영업 관점에서 보면 담당 품목과 시장의 증감률을 따로 확인해 영업 기회를 찾아야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "\"해운 공급과잉, 호황 속에서 2028년을 걱정하는 이유\"...해운업계, 비슷한 호황 끝에 무너진 기억 있다",
+     "script": [
+      "최근 '\"해운 공급과잉, 호황 속에서 2028년을 걱정하는 이유\"...해운업계, 비슷한 호황 끝에 무너진 기억 있다' 소식에 관심을 갖고 있습니다.",
+      "공급망 변화는 비용과 납기에 영향을 줍니다.",
+      "물류·해운 관점에서 보면 담당 업무에서 어떤 비용·납기 변수가 생기는지 확인해야 합니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "역물류 (Reverse Logistics)",
+    "body": "제품이 소비자나 최종 목적지로부터 공급업자나 제조업체의 원위치로 이동하는 물류 과정입니다. 반품, 리콜, 그리고 최근 이슈가 되는 폐배터리나 폐가전의 재활용 및 회수를 위한 물류를 모두 포함합니다.",
+    "tip": "면접에서 친환경 물류나 ESG 관련 공급망 질문을 받을 때, 전통적인 정방향 물류(Forward Logistics)와 대비되는 개념으로 '역물류'의 중요성과 관리 포인트(회수 비용, 안전성)를 함께 언급하면 좋은 평가를 받을 수 있습니다."
+   }
+  },
   {
    "date": "2026-11-25",
    "mode": "rule",
