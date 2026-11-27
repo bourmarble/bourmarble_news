@@ -1,6 +1,233 @@
 {
- "updated": "2026-11-26 12:32",
+ "updated": "2026-11-27 12:38",
  "days": [
+  {
+   "date": "2026-11-27",
+   "mode": "ai",
+   "issues": [
+    {
+     "cat": "sales",
+     "title": "미국 통상 압박과 관세 불확실성 증대",
+     "summary": "미국 중간선거 이후에도 트럼프 관세 재추진 및 과잉생산 관세 압박 등으로 수출 불확실성이 커지고 있습니다. 재계는 반도체·자동차 등의 투자 리스크에 대응해 정부의 세액공제 유지와 민관 공조를 촉구하고 있습니다.",
+     "what": "미국의 관세 재추진 및 과잉생산 관세 압박(최대 25% 가능성 제기 등)과 이에 따른 국내 기업들의 대응 요구.",
+     "why": "미국 통상 정책의 변화와 중간선거 이후의 정치적 불확실성이 맞물려 수출 기업들의 비용 부담과 투자 리스크가 커졌기 때문.",
+     "impact": "해외영업 담당자는 북미향 수출 시 관세 변동성(15~25%)에 따른 가격 경쟁력 저하를 방어하고, 현지 바이어와의 계약 조건 및 정부 지원책을 연계해 리스크를 관리해야 합니다.",
+     "tags": [
+      "반도체",
+      "자동차",
+      "미국 통상",
+      "철강"
+     ],
+     "sources": [
+      {
+       "name": "해양통신",
+       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1c3BqckthYnVQNmI5S3JfVEZfNzltbnpQeG5nX1A3OWJoN3NqajUyMjJlN3hweWpqLVZCUlcwTVc4amJ5Z29Md0dTWHE4NmkzQzdGY3ZoMms2M2doXzAxSQ?oc=5"
+      },
+      {
+       "name": "뉴시안",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fNlBKajRhUlBtNTdaS0dGRDRJcHl5THpBVWdMYVZVSDVPd3VtbXdkby1Yb0hPT0cxZF8taGdVdHVvNGowTXJGMmZ4RjA1RC11TF9PZ1lzWnlvckxVNFVfNk8zZl9XOE5iRWt0VQ?oc=5"
+      },
+      {
+       "name": "뉴스21 통신",
+       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHLWMyT1M5N3ZBVmdPUS1wcElVc2hLQVRxSzZtckloaTZqak9MRXd2a2V6TmZkeXpfVFFoanhnZ21pTUlodWt3MDhIOU1xMndUQkRXcndn?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "미국의 추가 관세 인상 가능성에 대비해 해외영업 담당자로서 어떤 가격 전략을 세우겠습니까?",
+       "hint": "관세 인상분을 바이어와 어떻게 분담할지, 혹은 인센티브나 원가 절감 방안을 어떻게 제안할지 논리적으로 답변"
+      },
+      {
+       "q": "통상 리스크가 클 때 본사와 현지 영업망 간의 협력 포인트는 무엇인가요?",
+       "hint": "정부 정책 변화 모니터링 공유와 바이어와의 신속한 소통을 통한 계약 안정성 확보 강조"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "해상 운임 하향 안정화 및 공급과잉 우려",
+     "summary": "미국 중간 선거 이후 해상 운임이 하향 안정화세를 보이며 VLCC 운임이 하락했습니다. 장기적으로는 해운 시장의 공급과잉과 과거 호황기 이후의 부진을 우려하는 목소리가 나옵니다.",
+     "what": "해상 운임의 하향 안정화 및 선박 공급과잉에 따른 미래 불확실성 대두.",
+     "why": "시황 변동과 선복량 공급 증가가 겹치면서 운임 지표들이 조정을 받고 있기 때문.",
+     "impact": "물류 및 SCM 담당자는 하락한 운임을 활용해 운송비를 절감할 수 있으나, 향후 공급과잉에 따른 선박 수급 불안정에 대비해 장기 운송 계약(SC) 등을 점검해야 합니다.",
+     "tags": [
+      "해상운임",
+      "VLCC",
+      "해운업"
+     ],
+     "sources": [
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Vd21BdV81Z2dfbnlhR3VFLXpILWpERlBQaU1WSGE3T3F6OGJMazlNQU5mVkxwSEprdnp2VGRQSnhHLTdvWGQzNERrUDRIMFZsV3RGYzZIWnNNOVVpdmRlc1dWSGExN1k1NGNPYWJUcWlkS2s?oc=5"
+      },
+      {
+       "name": "쉬핑뉴스넷",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02NS1QLWhJZDFxWEM2QVJ4MFR2T0I3dTBvbkdMZEwxVW5uOE1ZLTQwLW4telpTY0o1Ym0tbXpQOXlzM0VnQmRBYlhvMXFNTTlLWldocWZHdWhrUk14QThvMnpjQ25rNkpxTGVxWHliV2k1MlU?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "해상 운임 하락 시기 물류비를 최적화하기 위한 SCM 전략은 무엇인가요?",
+       "hint": "현물(Spot) 계약과 장기(SC) 계약의 비중 조절 및 운송 경로 다변화 언급"
+      },
+      {
+       "q": "향후 해운 공급과잉이 발생했을 때 물류 리스크를 어떻게 관리하겠습니까?",
+       "hint": "선사와의 파트너십 강화와 대체 운송수단 검토 프로세스 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "K-뷰티 수출 호조 속 시장 다변화 과제",
+     "summary": "제주 화장품 및 K-뷰티 수출이 글로벌 박람회 등을 통해 큰 폭으로 증가했습니다. 그러나 페이스파우더와 아이메이크업 등 특정 품목과 국가(일본·미국 등)로의 편중이 심화되어 시장 다변화가 숙제로 지적됩니다.",
+     "what": "K-뷰티 수출의 전반적인 증가와 함께 특정 국가 편중 현상 및 신흥 시장(카자흐스탄 등) 부상.",
+     "why": "글로벌 뷰티 박람회를 통한 판로 개척이 성과를 냈으나, 주력 시장 의존도가 높아 리스크 분산이 필요하기 때문.",
+     "impact": "해외영업 신입은 기존 주력 시장의 매출 유지뿐만 아니라, 신흥국(중앙아시아 등) 바이어 발굴과 현지 맞춤형 마케팅으로 포트폴리오를 다변화해야 합니다.",
+     "tags": [
+      "K-뷰티",
+      "제주 화장품",
+      "수출 다변화"
+     ],
+     "sources": [
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE42aENod1NSOHhUVGVraWpQWmtvMVEwYUR1YXRfeTJiZVBCa0pibDVlaGg2bHFzT1ZRMktkVG11Y1Z2YnRjbS1wTE9rTjVqQ3JERHBVaEVhUXpWMGN4d0pOZWNfM2U5UG1vNVE?oc=5"
+      },
+      {
+       "name": "시사저널",
+       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GR01EbERySllhanFQenhmUFJvX2JHSGZ6WU0xRUFZOW82SHNWTzZYODZqRnBWRkRtd1hEekpLN3NuZlBIREM4YjVOZjRQRWRVenJxMUdBaFU1bllZUVg0aEpObXdYZkw3MUlNUURnWdIBc0FVX3lxTE5mSndHdzZFTmU5UTdHZVFJXzRKVktNTVBTY0J6Ti1Kd2FYZmpjbW1YTHlKX21mM1diRGpaZVhfR0ZjbUdXX2Vfb0F2bzFxb1JjcHhJZjloZWc3TG0yWHEwc0twekZwc25IX0xLYkpsY1JTSmc?oc=5"
+      },
+      {
+       "name": "뷰티경제",
+       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9mdmhWOUVCNV96clYtd2NhMWFpUENGeWlWU2Q0N1ZzUU9ETk80S1VYRVBNMUhfTFVKTDYyN1ZSeHZNbHRxVEdfVHpTMVl3MTlfRHFmeWxvaXc2S0oybW9CYy14X1FpTURxWUE?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "특정 국가 편중이 심한 수출 품목의 리스크를 줄이기 위해 어떤 시장 개척 전략을 쓸 것인가요?",
+       "hint": "신흥 시장 데이터 분석 및 현지 온·오프라인 유통망 진입 전략 제시"
+      },
+      {
+       "q": "해외 뷰티 박람회 참가 후속 조치로 바이어 관리 프로세스를 어떻게 가져가겠습니까?",
+       "hint": "가상 미팅, 샘플링 피드백 속도전, 맞춤형 제안서 발송 등 실행력 강조"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "log",
+     "title": "현대글로비스, 폐배터리 및 자원순환 물류망 구축",
+     "summary": "현대글로비스가 폐차업계와 손잡고 폐배터리 및 알루미늄 등 자원순환을 위한 공급망과 물류망 구축에 나섰습니다. 친환경 물류 인프라를 선점하려는 행보가 가속화되고 있습니다.",
+     "what": "현대글로비스의 폐차 자원 재활용 및 사용 후 배터리 공급망·물류망 구축 사업 확대.",
+     "why": "전기차 보급 확대에 따른 폐배터리 재활용 시장의 성장과 친환경 공급망(SCM) 구축의 필요성 때문.",
+     "impact": "물류·SCM 직무 지원자는 친환경 역물류(Reverse Logistics) 프로세스의 특성을 이해하고, 배터리 안전 운송 및 자원 회수 효율화 방안을 고민해야 합니다.",
+     "tags": [
+      "현대글로비스",
+      "폐배터리",
+      "자원순환",
+      "역물류"
+     ],
+     "sources": [
+      {
+       "name": "물류신문",
+       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yR1Rnc1NUc2xjOExpclhpblUwVzlyLWxiR0g1TnRpMFIxbWVqS2xyNDlmaEd2cHU1WERnV1FMenFGZzNubjlSUThtYTUzdXNYbWhPYUVRTWVEbUNUNXdGT3I2TF9XeWo2Wks0?oc=5"
+      },
+      {
+       "name": "이데일리",
+       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUzZuTFI0Mjl1OVJMR0stRXRnT1pOQzRyTWZCYnFWc2NBcFNwQmNkN0YzdG12eUlLRXFkd3J5cDNGSVJOQW10dEZrWE16SFF3ZElDQ0U5T1h6VFhDRnp5cHlVdkxGNkVIQlF0VFBqY1pndG50SUpxOUNDOWhlV3hBaQ?oc=5"
+      },
+      {
+       "name": "더트래커",
+       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QZUd5T29ncjRwN2wzbFJxQXFFdXM3Yy1vekhqX2QtdFlzYVFsdTVCeUhxWUNKd3dOU3BFaTduNkVIX3p2YlBSaGZGR2RXR0V0akFwamxBVVA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "폐배터리 같은 친환경 물류(역물류)에서 일반 물류와 가장 큰 차이점은 무엇이라 생각합니까?",
+       "hint": "회수 물류의 비정형성, 위험물 안전 관리, 규제 준수의 중요성 언급"
+      },
+      {
+       "q": "글로벌 완성차 및 물류 기업들이 배터리 자원순환 공급망에 집중하는 이유는 무엇인가요?",
+       "hint": "ESG 경영 실천과 핵심 광물 자원 안보 및 신사업 동력 확보 관점 설명"
+      }
+     ],
+     "unverified": []
+    },
+    {
+     "cat": "sales",
+     "title": "환율 변동성 확대와 수출 1조 달러 시대의 명암",
+     "summary": "달러·원 환율이 등락을 거듭하는 가운데 반도체 주도로 한국의 수출이 1조 달러 시대를 맞이했습니다. 그러나 높은 수출 의존도와 환율·통상 환경 변화가 경제 전반의 부담으로 작용하고 있습니다.",
+     "what": "환율 상승 압박과 수출 1조 달러 달성 속에서 무역 의존도 및 환리스크 관리의 중요성 대두.",
+     "why": "달러 강세와 결제 수요, 배당 역송금 등 복합적 요인으로 환율 변동성이 커지고 대외 의존도가 높기 때문.",
+     "impact": "해외영업 담당자는 환율 변동에 따른 마진율 변화를 예의주시하고, 환헤지 전략 및 가격 협상력을 조율해야 합니다.",
+     "tags": [
+      "환율",
+      "수출 1조 달러",
+      "무역흑자"
+     ],
+     "sources": [
+      {
+       "name": "https://www.2news.co.kr/",
+       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82MkJ6Q29Rd0gtTlVHSjhBWlVnd3lldi1YYnRLcHdqa2xMc1c2R2N3YTVsRW1lb0JPSEs0WHd0UWhoR0QtQzZMZ2RIcUtzbkhSWURhYVBhWFVoWjRMOFdWQ0p3QVdYN2x3?oc=5"
+      },
+      {
+       "name": "아주경제",
+       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JV2FaRXZyT25WLXNOTGc2d2l0eDF2WDFfMFFqNkt5YUVMOTVfdjB2VmFBQWdWd0JtUFJ2VVdDR0xWVUJGT08wd2FFOFV0TWk0NllqZXZFeU5Fd9IBWEFVX3lxTE9KTVJwc1lENXZudk8xclBmYjZ1dTQxcGRwRTBFaE9LVzMyWGNuUUplWFI2aWFuRnNsVzRGVjBwOWxFTUVtZFM5SzVuR09wb0FCSjEyak1WZkg?oc=5"
+      },
+      {
+       "name": "이투데이",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBOLVd6V0JNSjV5VUc1ajcxOEFqQ2gtNmlleW9oZEx2eUxkWTF0bHE2akE1NjVHT2hVVm8tZF80SXNRT1pGQXhtRWxTNjZjYUxReHVmVA?oc=5"
+      }
+     ],
+     "questions": [
+      {
+       "q": "환율이 급등락할 때 해외영업 담당자로서 계약 마진을 지키기 위해 취할 수 있는 조치는?",
+       "hint": "환헤지 계약 활용, 결제 통화 다변화, 단가 조정 조항(Escalation Clause) 활용"
+      },
+      {
+       "q": "수출 주도형 경제 구조에서 무역 의존도가 높을 때 기업이 겪는 대외 리스크는 무엇인가요?",
+       "hint": "글로벌 경기 침체나 환율 충격 시 실적이 급격히 악화될 수 있는 취약성 지적"
+      }
+     ],
+     "unverified": []
+    }
+   ],
+   "interview": [
+    {
+     "topic": "트럼프 관세 재추진…선제 선적·운임 변동성 커진다",
+     "script": [
+      "최근 '트럼프 관세 재추진…선제 선적·운임 변동성 커진다' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "해외영업 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    },
+    {
+     "topic": "'미국 중간 선거 이후의 해상 운임' 동향에 촉각 ...VLCC: $55만/day까지 하락, 하향 안정화 전망",
+     "script": [
+      "최근 ''미국 중간 선거 이후의 해상 운임' 동향에 촉각 ...VLCC: $55만/day까지 하락, 하향 안정화 전망' 소식에 관심을 갖고 있습니다.",
+      "운임은 선복 공급과 물동량, 지정학 변수에 따라 달라집니다.",
+      "물류·해운 관점에서 보면 운임 부담 주체(Incoterms)에 따라 원가와 납기 협상이 달라집니다.",
+      "그래서 관련 지표와 뉴스를 꾸준히 확인하고 업무에 반영하는 습관을 들이고 있습니다."
+     ],
+     "followups": [
+      "이 이슈가 우리 회사에 미칠 영향은? → 원인, 영향 대상, 대응 방안 순서로 답변",
+      "관련 정보는 어디서 확인하나요? → 신뢰할 출처와 지표 이름을 들어 설명"
+     ]
+    }
+   ],
+   "concept": {
+    "title": "역물류 (Reverse Logistics)",
+    "body": "소비자로부터 판매자 혹은 생산자 방향으로 제품이나 자재가 이동하는 물류 활동을 뜻합니다. 반품, 리콜, 수리뿐만 아니라 최근에는 폐배터리나 폐가전 등 자원 재활용과 환경 보호를 위한 회수 물류(Green Logistics)의 개념으로 그 중요성이 급격히 커지고 있습니다.",
+    "tip": "면접에서 친환경 물류나 ESG 관련 질문을 받았을 때 '정방향 공급망'과 대비되는 '역물류의 특성(비정형성, 회수 비용, 안전 규제)'을 언급하면 전문성을필력하기 좋습니다."
+   }
+  },
   {
    "date": "2026-11-26",
    "mode": "ai",
